@@ -1,0 +1,36 @@
+{
+    "id": 373,
+    "origin_website": "Nature",
+    "title": "A highly-sensitive graphene-based immunoassay procedure for the detection of human lipocalin-2",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques",
+        "Biochemistry",
+        "Nanoscience And Technology"
+    ],
+    "protocol": [
+        "Put 100 \u03bcL of 1% (w/v) KOH into the wells of a 96-well MTP.",
+        "Incubate the KOH-treated MTP for 5 min at 37\u00b0C.",
+        "Wash the MTP with 300 \u03bcL of UPW five times.",
+        "Mix 1 mg of GNPs with 1 mL of 0.25% (v/v) APTES and disperse in an ultrasonic bath for 1 h.",
+        "Incubate the KOH-treated MTP with 100 \u03bcL of GNPs in 0.25% APTES for 1 h at room temperature.",
+        "Wash the GNPs-functionalized wells extensively with UPW as described in step 1.",
+        "Mix 990 \u03bcL of anti-LCN2 capture antibody (2 \u00b5g/mL) with 10 \u03bcL of EDC (4 mg/mL).",
+        "Incubate the mixture for 15 min at 37\u00b0C.",
+        "Put 100 \u00b5L of EDC-activated anti-LCN2 antibody into the GNPs-functionalized wells.",
+        "Incubate the wells for 1 h at 37\u00b0C.",
+        "Wash the wells with 400 \u03bcL of PBST five times.",
+        "Block antibody-bound wells with 400 \u03bcL of 1% \\(w/v) BSA for 30 min at 37\u00b0C.",
+        "Wash the blocked wells extensively with PBST.",
+        "Add 100 \u00b5L of varying LCN2 concentrations (0.6-5120 pg/mL) to different BSA-blocked wells.",
+        "Incubate the wells containing LCN2 for 1 h at 37\u00b0C and wash extensively with PBST.",
+        "Add 100 \u03bcL of biotinylated anti-LCN2 antibody to each well containing captured LCN2.",
+        "Incubate the wells for 1 h at 37\u00b0C and wash extensively with PBS.",
+        "Add 100 \u00b5L of SA-HRP conjugate to the wells treated with biotinylated anti-LCN2 antibody.",
+        "Incubate the wells for 20 min at 37\u00b0C and wash extensively with PBST.",
+        "Add 100 \u03bcL of TMB-H2O2 mixture to the wells of MTP and incubate at RT for 20 min to develop color.",
+        "Stop the enzyme-substrate reaction by adding 50 \u00b5L of 2 N H2SO4 to each well.",
+        "Measure the absorbance at a primary wavelength of 450 nm and secondary wavelength of 540 nm in the Tecan MTP reader.",
+        "Determine the absorbance after 5 minutes of stopping the enzyme substrate reaction."
+    ]
+}

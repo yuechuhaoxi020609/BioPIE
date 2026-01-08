@@ -1,0 +1,42 @@
+{
+    "id": 597,
+    "origin_website": "Nature",
+    "title": "Direct coupling of Ras to preformed maleimide-functionalized lipid membranes",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Prepare a maleimide lipid-containing phospholipid mix in chloroform.",
+        "Dry the lipids to a thin film under nitrogen or argon gas.",
+        "Remove residual chloroform by drying under vacuum for about 1 hour.",
+        "Hydrate dried films with degassed buffer to a total lipid concentration of 2\u201310 mg/ml.",
+        "Raise suspension into solution by freezing and thawing cycles.",
+        "Form unilamellar vesicles by passing the suspension through a high pressure extruder with a 100 nm diameter pore filter at least ten times.",
+        "Mix approximately 1 Ras with 4 maleimide-lipids (~0.07 \u00b5moles Ras: 0.25 \u00b5moles maleimide-lipid).",
+        "Incubate the mixture under argon at room temperature for two hours.",
+        "Continue incubation at 4\u00b0C overnight.",
+        "Add 5 mM \u00df-mercaptoethanol to terminate reactions and quench excess maleimide-lipid.",
+        "Incubate the reaction at room temperature for at least 10 minutes.",
+        "Separate unmodified Ras proteins from Ras-coupled lipid vesicles by size-exclusion chromatography using an XK-16 column (GE Healthcare) containing about 30 ml of Sepharose CL-4B resin equilibrated in gel filtration buffer.",
+        "Determine the lipid concentration after Ras-conjugation using TR-DHPE absorbance at Abs590.",
+        "Measure the absorbance (Abs590) of both \u2018stock\u2019 maleimide-functionalized vesicles before and after Ras-conjugation to find the \u201cdilution factor\u201d of the vesicles.",
+        "Perform a Bradford assay on both \u2018stock\u2019 maleimide-functionalized vesicles (no Ras proteins present) and Ras-coupled vesicles.",
+        "Calculate the contribution of lipids to the Bradford reagent signal using the dilution factor from the TR-DHPE absorbance at 590 nm.",
+        "Determine the signal corresponding to Ras by subtracting the lipid signal from the total signal in Ras-coupled vesicles.",
+        "Prepare solutions of equal Ras concentration by volume for SDS-PAGE gel analysis.",
+        "Compare the prepared Ras solutions to Ras protein standards on the SDS-PAGE gel.",
+        "Soak wells of a glass-bottomed 96-well plate with 6 M NaOH to clean the surface.",
+        "Incubate the wells for 2 hours.",
+        "Wash the wells with 10 ml distilled/deionized H\u2082O using a pipette and aspirator.",
+        "Bring the volume in each well to approximately 100 \u00b5l by filling to maximum capacity (400 \u00b5l) and removing an appropriate volume.",
+        "Add 50 \u00b5l of maleimide-functionalized vesicles diluted with an equal volume of 250 mM TRIS-HCl pH 7.4, 1 M NaCl to each well.",
+        "Incubate the wells for 10 minutes.",
+        "Wash each well with at least 5 ml of 25 mM TRIS-HCl pH 7.4, 100 mM NaCl.",
+        "Incubate wells for 10 minutes in 0.1% (w/v) BSA in 25 mM TRIS-HCl pH 7.4, 100 mM NaCl.",
+        "Inspect supported bilayer quality by microscopy and fluorescence recovery after photobleaching \\(FRAP).",
+        "Bring the volume in each well to 50 \u03bcl.",
+        "Add 100 \u03bcl of Ras at about 8 mg/ml in 25 mM TRIS-HCl pH 7.4, 100 mM NaCl to each well.",
+        "Incubate the wells at room temperature for at least 20 minutes.",
+        "Incubate the plate overnight in the refrigerator with the plate covered."
+    ]
+}

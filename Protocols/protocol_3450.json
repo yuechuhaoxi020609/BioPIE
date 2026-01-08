@@ -1,0 +1,39 @@
+{
+    "id": 823,
+    "origin_website": "Nature",
+    "title": "The Non-Instrument Based Preparation of Tissue Samples Destined for Imaging Mass Spectrometry \\(IMS) Analysis",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Prepare nitrocellulose slides by cutting ITO slides according to size of sublimator.",
+        "Coat cut ITO slides with a layer of liquid nitrocellulose (40 mg/ml in 100% acetone).",
+        "Section the desired tissue at 12 \u00b5m and thaw or float mount onto the surface of the nitrocellulose.",
+        "Wash the whole slide sequentially with 75% ethanol, 95% ethanol, Carnoy\u2019s fluid, 95% ethanol, de-ionised water, and 95% ethanol. Each wash is for 30 seconds except for Carnoy\u2019s fluid which is for 2 minutes.",
+        "Place the slide into a small plastic beaker containing 20 mmol Tris-HCl (pH 8.8).",
+        "Cook the slide in a pressure cooker (70 kPa internal pressure at >100\u00b0C) for 15 min.",
+        "Remove the slide and allow it to dry and cool at room temperature.",
+        "Pipette 10 \u00b5l of Trypsin (1 mg/ml in water) onto the center of the tissue section.",
+        "Use surface tension to 'drag' the trypsin solution droplet across the entire tissue section, being careful not to scratch the tissue.",
+        "Place the slide in a fan-forced oven at 25\u00b0C with a dust filter over the top to protect from keratin contamination and allow it to dry.",
+        "Place sample slide in custom vapour chamber as previously described by O\u2019Rourke et al.",
+        "Evenly pipette 650 \u00b5l of a 50:50 mix of 50 mmol ammonium bicarbonate/100% acetonitrile onto the center paper tab of the chamber.",
+        "Seal the chamber with para-film and leave at 37\u00b0C overnight.",
+        "Disassemble the chamber, remove and weigh the slide.",
+        "Mount the slide onto the cooling finger of the sublimation apparatus.",
+        "Place 300 mg of appropriate matrix evenly into the bottom petri dish of the sublimator.",
+        "Assemble the chamber.",
+        "Evacuate the chamber to ~25 mtorr.",
+        "Pack the cooling finger with ice and allow it to settle for 5 minutes.",
+        "Place the sublimator into an oil bath at an appropriate temperature.",
+        "Allow sublimation until a coverage of 0.2 mg/cm\u00b2 is achieved.",
+        "Disassemble the chamber quickly and remove the slide to prevent condensation forming.",
+        "Allow the sample to return to room temperature.",
+        "Mount the sample into the vapor chamber again.",
+        "Evenly pipette 650 \u00b5L of 50:50 100% ACN: 0.1% TFA onto the paper tab, ensuring proper alignment with the slide.",
+        "Leave the setup at 37\u00b0C for 1 hour.",
+        "Disassemble the chamber and remove the slide.",
+        "The sample is now ready for analysis in the mass spectrometer."
+    ]
+}

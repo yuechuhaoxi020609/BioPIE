@@ -1,0 +1,28 @@
+{
+    "id": 760,
+    "origin_website": "Nature",
+    "title": "Cell adhesion assay to determine the interaction between NGL-3 with LAR cell adhesion molecules",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Prepare L cells at 50% confluency in 6-well plates.",
+        "Transfect a group of L cells with 1 \u03bcg of NGL-3 and 0.5 \u03bcg of EGFP using the lipofectamine method.",
+        "Transfect another group of L cells with 1 \u03bcg of LAR and 0.5 \u03bcg of DsRed.",
+        "Wash L cells twice with PBS after transfection.",
+        "Treat L cells with trypsin to detach them from the plate.",
+        "Add 2 ml of DMEM containing 10% fetal bovine serum to inactivate trypsin.",
+        "Spin down the L cells at 1,000 rpm for 5 min.",
+        "Resuspend the cell pellet in 1 ml of serum-free DMEM to disperse cells.",
+        "Incubate 500 \u03bcl of the cell suspension in a microtube for 1 hour at room temperature.",
+        "Mix 500 \u03bcl of NGL-3-expressing cells with 500 \u03bcl of LAR-expressing cells and incubate for 30 minutes at room temperature.",
+        "Transfer 100 \u03bcl of the cell mixture to a well containing 400 \u03bcl of serum-free DMEM on a culture slide.",
+        "Capture Z-stacked images by confocal microscopy using a 20x objective lens.",
+        "Count the number of cell aggregates from a single Z-stacked frame. Cell aggregates are defined as groups of four or more clustered cells that contain at least one red and green cell."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 11258,
+    "origin_website": "Jove",
+    "title": "GENPLAT: an Automated Platform for Biomass Enzyme Discovery and Cocktail Optimization",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Produce proteins in Pichia pastoris by cloning genes into vectors pPICZ or pPICZ\u03b1 and transforming them into P. pastoris.",
+        "Grow cells in 300-ml batches in baffled 500-ml flasks with methanol induction every 24 hours.",
+        "Concentrate and desalt the culture filtrates by tangential flow filtration.",
+        "Store enzymes in small aliquots in 20% glycerol at -80\u00b0C.",
+        "Input the number of enzymes, their proportions, and type of experimental design into Design-Expert software.",
+        "Calculate enzyme amounts to achieve a total loading of 15 mg/g glucan.",
+        "Generate Excel worksheets specifying source labware, source wells, destination labware, destination wells, and transfer volumes for dispensing water and enzymes.",
+        "Import the generated Excel worksheets into Biomek FXP software using the transfer-from-file function.",
+        "Suspend biomass slurry in 50 mM sodium citrate, pH 4.8, containing tetracycline and cycloheximide at 5 \u03bcg/ml each.",
+        "Robotically pipette 200 \u03bcl of the slurry into each well of a 96-well deep-well reaction plate using Span-8 1000-\u03bcl pipet tips with the last 0.5 cm cut off.",
+        "Mix the slurry once at 100 \u03bcl/sec and then aspirate the same volume from the paddle reservoir and dispense into the plates.",
+        "Dispense enzymes into the same plate using the program entered into the Beckman FX.",
+        "Seal the plates with pierceable capmats.",
+        "Invert and tap the plates several times to overcome surface tension.",
+        "Place the plates at 50\u00b0C for 48 hr in the hybridization incubator rotating at 10 rpm.",
+        "Centrifuge the reaction plates for 3 min at 1250 x g in a swinging bucket centrifuge.",
+        "Transfer 100 \u03bcl of the supernatant into regular 96-well plates using the AP96 pod of the Biomek FX.",
+        "Incubate the plates at 90-95\u00b0C for 10 min to inactivate the enzymes, and then centrifuge at 1250 x g for 30 sec.",
+        "Transfer 12 \u03bcl of the supernatants into regular 96-well plates for Glc measurements.",
+        "Add 192 \u03bcl of glucose oxidase/peroxidase (GOPOD) reagent to each well.",
+        "Incubate the plates at 50\u00b0C for 20 min and read absorbances at 510 nm in a microplate reader using blank reaction mixture with no enzyme.",
+        "Transfer 4 \u03bcl of supernatant into 384-well plates for Xyl measurements.",
+        "Add assay reagents to each well.",
+        "Read the plates at 340 nm using blank reaction mixture with no enzyme.",
+        "Convert absorbance values to their % Glc and Xyl yields based on known content.",
+        "Import these percentages as responses into Design-Expert software.",
+        "Check statistical parameters to ensure criteria for a robust model are fulfilled.",
+        "Confirm the best model prediction experimentally."
+    ]
+}

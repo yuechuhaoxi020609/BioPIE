@@ -1,0 +1,40 @@
+{
+    "id": 516,
+    "origin_website": "Nature",
+    "title": "Preparation of aggregate-free \u03b1 -synuclein  for _in vitro_ aggregation study",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Express \u03b1-Syn in E.Coli BL21 (D3 strain) and purify according to established protocol.",
+        "Lyophilize the purified protein and store at -20\u00b0C until further use.",
+        "Suspend 10 mg of solid lyophilized protein in 500 \u00b5l of 20 mM Gly-NaOH buffer, pH 7.4, containing 0.01% sodium azide.",
+        "Add a few \u00b5l of 2M NaOH solution to the suspension to achieve a clear \u03b1-Syn solution with a pH greater than 9.5.",
+        "Gradually reduce the pH of the resulting solution to 7.4 by adding a few \u00b5l of 2N HCl and confirm the final pH using a micro pH meter.",
+        "Centrifuge the solution at 13000 xg for 30 minutes at 4\u00b0C.",
+        "Remove the supernatant and transfer 250 \u00b5l into a pre-washed 10 kDa mini dialysis unit.",
+        "Dialyze against 20 mM Gly-NaOH buffer, pH 7.4, containing 0.01% sodium azide for 10 hours at 4\u00b0C to remove salt and fragmented proteins/peptides.",
+        "Remove the solution after 10 hours of dialysis and transfer into a 100 kDa cut-off filter.",
+        "Wash the cut-off filter three times with buffer by centrifuging at 6000 x g for 10 minutes.",
+        "Centrifuge the solution at 10000 x g for 30 minutes at 4\u00b0C to isolate low molecular weight \u03b1-Syn.",
+        "Transfer the flow-through containing LMW \u03b1-Syn to a low binding tube.",
+        "Place the tubes into an Echo Thermo model RT11 rotating mixer (Torrey Pines Scientific, USA).",
+        "Incubate the tubes in a 37\u00b0C incubator.",
+        "Rotate the tube containing \u03b1-Syn solution at 50 rpm to initiate aggregation.",
+        "Remove aliquots of sample from the tubes at regular time intervals for analysis.",
+        "Monitor aggregation kinetics with ThT fluorescence measurement at regular intervals (4-6 h).",
+        "Dilute 3.3 \u03bcl of 300 \u03bcM protein solution to 200 \u03bcl to achieve a final concentration of 5 \u03bcM \u03b1-Syn.",
+        "Add 2 \u03bcl of 1 mM ThT prepared in 20 mM Tris HCl buffer (pH 8) to the diluted \u03b1-Syn solution.",
+        "Measure ThT fluorescence by exciting at 450 nm.",
+        "Acquire emission spectra in the range of 465 nm to 500 nm with a slit width of 5 nm.",
+        "Plot fluorescence intensity at 480 nm against incubation time (hours).",
+        "Dilute 7.5 \u00b5l of 300 \u03bcM incubated protein solution to 150 \u00b5l in 20 mM Gly-NaOH, pH 7.4 with 0.01% sodium azide.",
+        "Place the diluted solution into a 0.1 cm path-length quartz cell.",
+        "Acquire CD spectra using a JASCO-810 instrument at 25\u00b0C.",
+        "Record spectra over the wavelength range of 200-260 nm.",
+        "Process raw data by smoothing and subtracting buffer spectra according to manufacturer\u2019s instructions."
+    ]
+}

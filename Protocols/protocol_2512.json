@@ -1,0 +1,30 @@
+{
+    "id": 804,
+    "origin_website": "Nature",
+    "title": "Isolation of exosomal RNA from cell culture supernatant using the System Biosciences Exoquick Seramir tissue culture kit",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Harvest cell culture medium from 80% confluent cells grown in serum-free medium.",
+        "Spin media at 500-1,000 x g for 10 min (optional).",
+        "Centrifuge medium at 2000 x g for 10 min and filter using a 0.22 \u00b5m PES Steriflip membrane.",
+        "Freeze pre-cleared medium at -80\u00b0C until needed.",
+        "Thaw 4 mL of cell culture supernatant on ice.",
+        "Add 0.8 mL of Exoquick-TC to the supernatant and mix by inversion 3 times.",
+        "Incubate mixture at 4\u00b0C overnight.",
+        "Centrifuge at 16,000 x g for 2 min, remove supernatant, and keep exosome pellet.",
+        "Add 350 \u00b5L Lysis buffer to the exosome pellet, vortex for 15 s, and incubate at room temperature for 5 min.",
+        "Add 200 \u00b5L of 100% ethanol to the lysed sample and vortex for 10 s.",
+        "Transfer 600 \u00b5L to spin column and centrifuge at 16,000 x g for 1 min.",
+        "Discard flow-through.",
+        "Add 400 \u00b5L of wash buffer to the column and centrifuge at 16,000 x g for 1 min, then discard flow-through.",
+        "Repeat step with additional 400 \u00b5L of wash buffer.",
+        "Centrifuge column at 16,000 x g for 2 min to dry the column.",
+        "Transfer spin column to a new collection tube and add 14 \u00b5L or 30 \u00b5L RNase-free water directly to the membrane.",
+        "Centrifuge at 400 x g for 2 min.",
+        "Centrifuge at 16,000 x g for 1 min."
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 47,
+    "origin_website": "Nature",
+    "title": "Dlgh1 knockdown in primary OT-1 T lymphocytes",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Genetics",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Keep everything RNAase free including gloves, tubes, reagents and use barrier tips.",
+        "Wash a purified population of T cells once in unsupplemented RPMI 1640 media.",
+        "Resuspend the washed cells at a concentration of 4 X 10^6 /ml in unsupplemented media.",
+        "Aliquot 500 \u03bcl of the cell suspension into each well of a 24 well plate (2 X 10^6 cells/well).",
+        "Combine 84 \u03bcl of Buffer EC-R, 6.5 \u03bcl of enhancer R, and 9.7 \u03bcl of a 20 \u03bcM solution of double-stranded annealed Dlgh1 siRNA per sample.",
+        "Vortex the combined reagents and allow to sit at room temperature for 5 minutes.",
+        "Add 11 \u03bcl of Qiagen Transmessenger transfection Reagent/sample.",
+        "Vortex again and allow to sit at room temperature for 15 minutes.",
+        "Prepare a similar solution using control siRNA oligo (purchased from Qiagen against the target sequence AAT TCT CCG AAC GTG TCA CGT).",
+        "Add 400 \u03bcl of incomplete RPMI 1640 media supplemented with 200U/ml of IL-2 to the combined reagents per sample.",
+        "Add 500 \u03bcl of this mixture (siRNA, Transmessenger reagents and media) to your cells in a dropwise fashion.",
+        "Gently swirl and place back in incubator for 3-4 hours.",
+        "Spin cells out of transfection media.",
+        "Resuspend cells at 2 X 10^6 /ml in complete media supplemented with 200 U/ml of IL-2 for splenic culture.",
+        "Assay these cells 48-52 hours post-transfection."
+    ]
+}

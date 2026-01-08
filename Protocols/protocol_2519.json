@@ -1,0 +1,35 @@
+{
+    "id": 104,
+    "origin_website": "Nature",
+    "title": "A Multiple Survival Screening algorithm \\(MSS) for identifying high-quality cancer prognostic markers",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Generate a survival gene pool in this step by performing a genome-wide single gene survival analysis.",
+        "Use several training datasets to obtain multiple survival gene pools for robustness.",
+        "Merge these gene pools for further steps.",
+        "Generate cancer hallmark related Gene Ontology (GO)-term-defined gene sets from the survival genes using GO analysis tools such as DAVID Bioinformatics Resources.",
+        "Ensure each GO-term-defined gene set contains approximately 50~100 genes.",
+        "Discard a GO-term-defined gene set if it includes less than 45 genes.",
+        "Combine genes to achieve a size between 50 and 100 genes from multiple small GO-term-defined gene sets, if necessary.",
+        "For large GO-term-defined gene sets with more than 100 genes, rank the genes and select the top 60-80 genes for further analysis.",
+        "Generate 1 million distinct random gene sets from each selected GO-term-defined gene set.",
+        "Ensure each random gene set contains 30 genes.",
+        "Generate 36 random datasets using the training dataset.",
+        "Maintain the same ratio of \"good\" and \"bad\" tumors in each RDS as in the original training set.",
+        "Include at least 60 samples for each RDS.",
+        "Perform survival screenings of the random gene sets on the random datasets.",
+        "Set parameters in the MSS algorithm to select predictive RGSs with a survival p-value less than 0.05 in more than 90% of the RDSs.",
+        "Consider adjusting parameters if p-values are less than 0.01 and RDS passing rate is between 75% and 95%.",
+        "Select several thousand random gene sets using adjusted parameters.",
+        "Identify the top 30 most frequent genes as a potential gene signature from the selected RGSs.",
+        "Discard the experiment if more than 30% of the 1 million RGSs have p-values less than 0.05 in more than 35 RDSs.",
+        "Discard the experiment if only a few hundred RGSs have p-values less than 0.05 in less than 80% of the RDSs.",
+        "Consider running more RGSs (4 or 8 million) to obtain sufficient selected RGSs based on datasets and GO-term-defined gene sets.",
+        "Obtain a potential gene signature containing the top-ranked 30 most frequent genes from the selected RGSs.",
+        "Assess the reproducibility and stability of the potential gene signature by examining common genes between two top-ranked 30 genes derived from two distinct 1 million RGSs on the same RDS set.",
+        "Evaluate the performance of the selected gene signatures in independent testing datasets, ensuring they have survival p-values less than 0.05 if the MSS protocol is followed."
+    ]
+}

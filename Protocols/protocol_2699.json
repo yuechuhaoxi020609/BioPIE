@@ -1,0 +1,35 @@
+{
+    "id": 41,
+    "origin_website": "Nature",
+    "title": "Directed yeast two hybrid screening for MEKK1 interaction partners",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Biological Techniques",
+        "Genetics",
+        "Molecular Biology",
+        "Computational Biology And Bioinformatics",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Inoculate 10 ml of YPAD medium with a single Y190 colony and incubate overnight at 30\u00b0C.",
+        "Culture 55 ml of fresh YPAD to an OD600 of 0.3 overnight.",
+        "Incubate cells by shaking at 200 RPM and 30\u00b0C until they reach an OD600 of 0.7.",
+        "Harvest cells at 2000 RPM for 5 min at room temperature.",
+        "Aspirate the media, wash cells in sterile water, and spin at 2000 RPM at 25\u00b0C for 5 min.",
+        "Aspirate water and resuspend cells in 1 ml of 0.1 M LiAc; transfer suspension to a fresh microfuge tube.",
+        "Pellet cells at 6000 RPM for 15 s and aspirate the supernatant.",
+        "Resuspend the pellet in 500 \u03bcl of 100 mM LiAc.",
+        "Boil a 1 ml sample of ssDNA (2.0 mg/ml) and chill on ice.",
+        "Mix yeast cell suspension and transfer 50 \u03bcl samples into fresh tubes for interactions to be tested.",
+        "Pellet cells at 6000 RPM and aspirate supernatant.",
+        "Add the following gently over the cell pellet: 240 \u03bcl of PEG 3350 (50% w/v), 36 \u03bcl of 1.0 M LiAc, 25 \u03bcg of ssDNA (2.0 mg/ml), and 50 \u03bcl sterile water containing plasmid DNA for the interaction screen (0.1 \u2013 2.0 \u03bcg).",
+        "Vortex mixture until cell pellet is completely mixed into suspension.",
+        "Incubate the suspension at 30\u00b0C for 30 min.",
+        "Transform yeast by heat shock at 42\u00b0C for 15 min, mix carefully and pellet cells at 6000 RPM for 15 s.",
+        "Resuspend yeast cells in 200 \u03bcl of sterile water for plating.",
+        "Plate yeast onto SC minus plates (-LEU, -TRP) and grow at 30\u00b0C for 3 \u2013 5 days.",
+        "Streak single colonies onto SC minus plates (-LEU, -HIS, -TRP) supplemented with 50 mM 3AT and 20 \u03bcg/ml X-gal.",
+        "Grow yeast for 3 \u2013 5 days and score for growth and color change."
+    ]
+}

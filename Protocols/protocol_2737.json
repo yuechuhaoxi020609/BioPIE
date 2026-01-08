@@ -1,0 +1,19 @@
+{
+    "id": 473,
+    "origin_website": "Nature",
+    "title": "<em>Candida albicans</em> infection",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Make a frozen stock of subcultures of _Candida albicans_ at -80\u00b0C in Sabroud Dextrose Broth containing 15% glycerol.",
+        "Plate cultures on Sabouraud dextrose agar plates and grow at 37\u00b0C for 24 hours.",
+        "Pick a colony from a plate and grow in 5 ml of Sabouraud Dextrose Broth in a 14 ml conical tube at 37\u00b0C for 24 hours in a shaker.",
+        "Centrifuge the cells (1000 rpm for 5 minutes).",
+        "Wash the pellet twice with 5 ml of sterile PBS and resuspend in PBS.",
+        "Count the cell number using a hemocytometer.",
+        "Adjust to the desired concentration.",
+        "Inject 2-5 \u00d7 10^5 colony-forming units of _C. albicans_ dissolved in 200 \u03bcl of sterile PBS from tail vein to induce disseminated candidiasis."
+    ]
+}

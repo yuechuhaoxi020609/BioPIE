@@ -1,0 +1,31 @@
+{
+    "id": 364,
+    "origin_website": "Nature",
+    "title": "A novel enzyme-linked immunosorbent assay procedure in one hour by pressure incubation",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Activate polystyrene surface by coating with FNAB.",
+        "Expose coated wells to UV light for 15 minutes at a wavelength of 365 nm.",
+        "Design pressure incubator from a 5-L pressure cooker.",
+        "Remove pressure regulator from the lid of the pressure cooker.",
+        "Insert one end of a 1-meter pressure tube through the vent pipe of the pressure cooker.",
+        "Connect the other end of the tube to a three-way connector.",
+        "Connect one outlay of the connector to a pressure gauge via a rubber tube and further to an argon cylinder.",
+        "Use the third outlay for releasing excess pressure and after each ELISA step.",
+        "Carry out all PELISA steps inside the pressure incubator.",
+        "Add capture molecule \\(anti-human IgG) to the activated and untreated wells of a polystyrene microtiter plate.",
+        "Apply a pressure of 1.5 \u00d7 10^5 Pa using a gas cylinder inside the pressure incubator.",
+        "Maintain this pressure for 10 minutes to immobilize the capture molecule in the wells.",
+        "Release the pressure slowly after the immobilization period.",
+        "Wash the plate with washing buffer.",
+        "Block the plate by applying a pressure of 1.5 \u00d7 10^5 Pa for 10 minutes.",
+        "Release the pressure and wash the plate again with washing buffer.",
+        "Add the analyte to the wells and incubate under a pressure of 2 \u00d7 10^5 Pa for 20 minutes inside the pressure incubator.",
+        "Incubate secondary antibody-conjugate in the wells by applying a pressure of 2 \u00d7 10^5 Pa for 20 minutes inside the pressure incubator.",
+        "Add 100 \u00b5l of substrate-dye buffer at room temperature outside the pressure cooker to develop color.",
+        "Stop the color development by adding 20 \u00b5l of 5% sulfuric acid.",
+        "Record the absorbance at 490 nm."
+    ]
+}

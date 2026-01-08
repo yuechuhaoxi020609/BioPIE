@@ -1,0 +1,28 @@
+{
+    "id": 279,
+    "origin_website": "Nature",
+    "title": "Tumorsphere Passage for Breast Cancer Stem Cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "In serum-free and phenol red-free DMEM, add 20 ng/ml EGF, 20 ng/ml bFGF, and 1X B27 supplement for sphere media preparation.",
+        "Alternatively, add 1% FBS (v/v) into phenol red-free DMEM without EGF, bFGF, or B27 supplement.",
+        "Aspirate media from flask containing cancer cells, wash twice in 1X PBS, and trypsinize cells.",
+        "Centrifuge cells at 300 x g at room temperature (15-25\u00b0C) for 10 minutes.",
+        "Decant supernatant and resuspend cells carefully in sphere media prepared from Step 1.",
+        "Use 40 \u03bcm cell strainer cap filter to obtain single-cell suspension.",
+        "Isolate cellular subsets of interest via FACS or MACS if necessary.",
+        "Determine cell viability via 0.4% Trypan Blue dye exclusion.",
+        "Seed cell suspension at 1 cell per well in ultra low-attachment 96-well plate.",
+        "Incubate ultra low-attachment 96-well plates under standard conditions at 37\u00b0C and 5% CO2.",
+        "Assess wells daily for sphere formation using microscope (with fluorescent capability if necessary).",
+        "Allow plates to incubate for 10 days or more.",
+        "Dissociate spheres mechanically using a P1000 pipette or chemically using pre-warmed trypsin-EDTA.",
+        "Centrifuge at 300 x g for 10 minutes at room temperature (15\u00b0C-25\u00b0C).",
+        "Prepare cells in sphere media created in Step 1.",
+        "Seed 1 cell per well into a new ultra low-attachment 96-well plate.",
+        "Assess sphere-forming efficiency in secondary, tertiary, and quaternary passages using the formula from Step 6."
+    ]
+}

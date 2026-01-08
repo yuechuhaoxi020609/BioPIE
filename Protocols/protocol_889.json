@@ -1,0 +1,39 @@
+{
+    "id": 648,
+    "origin_website": "Nature",
+    "title": "eSGA: _E. coli_ Synthetic Genetic Array analysis",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Amplify the CmR cassette from plasmid pKD33 using forward and reverse primers.",
+        "Purify the amplified linear DNA using a Qiagen purification kit.",
+        "Design the linear DNA cassette to replace the target gene with the CmR marker.",
+        "Generate the cassette by PCR using homologous primers to the 3' end of the CmR cassette and sequences flanking the target gene.",
+        "Use the generated linear cassette as template for all subsequent PCRs.",
+        "Grow Hfr Cavalli strain carrying \u03bb Red cassette in 50 ml LB medium with ampicillin at 32\u00b0C to an OD600 of ~0.4 to 0.6.",
+        "Mix two microliter of the amplified PCR product of CmR cassette with 50 \u03bcl of the competent cells.",
+        "Electroporate the mixture in an ice-cold 0.2 cm cuvette at 2.5KV with 25 \u03bcF and 200 ohms.",
+        "Add immediately 1 ml SOC medium to allow entry of the linear CmR cassette.",
+        "Incubate the cells at 32\u00b0C for at least 1 hr with shaking at 220 rpm.",
+        "Spread about 100 \u03bcl of the electroporated cell mixture onto an agar LB plate containing 12.5 \u03bcg/ml of chloramphenicol.",
+        "Incubate the spread plates at 32\u00b0C overnight.",
+        "Pick positive clones and confirm the recombinants.",
+        "Isolate genomic DNA from two random recombinant clones.",
+        "Amplify the DNA with two sets of knock out confirmation primers.",
+        "Run the amplified PCR products on a 1% agarose gel electrophoresis to confirm the correct product size of the amplicon.",
+        "Store two randomly selected recombinant clones for each query deletion mutant in cryovials containing 1.5 ml LB medium supplemented with 12.5 \u03bcg/ml chloramphenicol and 15% glycerol.",
+        "Grow frozen glycerol stock cultures of query deletion mutants overnight at 32\u00b0C in rich LB liquid media supplemented with 34 \u03bcg/ml chloramphenicol.",
+        "Pin the overnight culture of the query deletion mutant onto a LB plate supplemented with 34 \u03bcg/ml chloramphenicol using four 96-well long pins at a density of 384.",
+        "Thaw frozen glycerol stock cultures from an ordered array of recipient deletion mutants marked with KanR and pin them onto a LB plate supplemented with 50 \u03bcg/ml kanamycin at a density of 384.",
+        "Carry out conjugation by pinning the overnight query and recipient deletion mutant cultures at a 384 density using 384-well solid pins.",
+        "Subject conjugants to first round of selection onto a LB plate supplemented with chloramphenicol and kanamycin antibiotics.",
+        "Combine two 384 colony density conjugation plates in duplicate onto a double drug plate to create 1,536 colony density plates.",
+        "Pin colonies from the first double drug selection plate onto a second double drug selection plate.",
+        "Incubate plates for 24 hours at 32\u00b0C after each step of the selection process.",
+        "Photograph colonies from the second double drug plate using a Canon Powershot A640 digital camera.",
+        "Save captured images as jpeg files.",
+        "Quantitatively assay growth phenotype of the double mutants using an in-house automated image processing system."
+    ]
+}

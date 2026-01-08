@@ -1,0 +1,18 @@
+{
+    "id": 598,
+    "origin_website": "Nature",
+    "title": "Cell Culture Supernatant Collection",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Plate cells at a concentration of 1 million cells/mL on Day 1.",
+        "Switch to serum-free or EV-cleared media 24 hours after plating.",
+        "Collect supernatant after 24 hours for hESCs or after 48 hours for NRVMs and KMBCs.",
+        "Centrifuge the collected supernatant at 500 x g for 10 minutes.",
+        "Transfer the supernatant to a fresh tube.",
+        "Centrifuge the transferred supernatant at 2,000 x g for 10 minutes.",
+        "Store cell-free supernatant at -80\u00b0C."
+    ]
+}

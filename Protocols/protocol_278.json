@@ -1,0 +1,32 @@
+{
+    "id": 270,
+    "origin_website": "Nature",
+    "title": "Conditional ablation of stat3/socs3 discloses the dual role for reactive astrocytes after spinal cord injury",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Anesthetize adult female mice via intraperitoneal injection with ketamine (100 mg/kg) and xylazine (10 mg/kg).",
+        "Perform laminectomy at the 10th thoracic spinal vertebrae (T10).",
+        "Expose the dorsal surface of the dura matter.",
+        "Induce spinal cord injury using a commercially available SCI device (IH impactor) by applying a force-defined impact of 60 kdyn with a stainless steel-tipped impounder.",
+        "Close muscles and incision in layers.",
+        "Place animals in a temperature-controlled chamber until thermoregulation is reestablished.",
+        "Perform manual bladder expression twice a day until reflex bladder emptying is reestablished.",
+        "Anesthetize animals.",
+        "Transcardially perfuse with 4% paraformaldehyde in 0.1 M PBS.",
+        "Remove the spinal cords.",
+        "Embed spinal cords in OCT compound.",
+        "Sagitally section tissue at 20 um on a cryostat.",
+        "Stain tissue sections with primary antibodies to GFAP, cleaved caspase-3, CD11b, BrdU, Nestin, GFP, phosphorylated form of Stat3, GSTp, serotonin, GAP43, E-cadherin, and Hu29.",
+        "Nuclear counterstain with Hoechst 33342.",
+        "Obtain images by fluorescence microscopy or confocal microscopy.",
+        "Prepare primary astrocytes from 2-d old Wt and conditional knock out mice as described.",
+        "Culture cells in DMEM with 10% FBS for several passages.",
+        "Trypsinize cells and plate them at confluence on poly-L-lysine coated coverslips.",
+        "Treat cells with 10 mg/ml mitomycin C for 2 h to inhibit proliferation.",
+        "Introduce a cell-free area by scratching the monolayer with a yellow pipette tip.",
+        "Evaluate cell migration into the cell-free area after 24 h and 48 h.",
+        "Count the number of migrating astrocytes in ten non-overlapping fields."
+    ]
+}

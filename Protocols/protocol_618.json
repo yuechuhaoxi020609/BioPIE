@@ -1,0 +1,43 @@
+{
+    "id": 3032,
+    "origin_website": "Cell",
+    "title": "Live imaging of Arabidopsis shoot primordia via a confocal laser scanning microscope",
+    "subjectAreas": [
+        "Microscopy",
+        "Plant Sciences",
+        "Model Organisms",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Cut off the root and excess hypocotyl with the needle of an insulin syringe for observing vegetative meristem.",
+        "Remove flowers and larger primordia from the base of the peduncles with tweezers for observing inflorescence meristem.",
+        "Pierce a hole vertically in the dissection dish using an insulin syringe.",
+        "Enlarge the hole slightly to accommodate the apex.",
+        "Insert the apex vertically into the hole via tweezers.",
+        "Press petioles of cotyledons or remaining peduncles to insert the apex deeply into the dissection dish.",
+        "Minimize the space between the apex stem and agarose to hold the apex firmly.",
+        "Remove undesired organs and primordia from the base with the syringe needle under a stereomicroscope.",
+        "Set the airflow speed in the laminar-flow hood to the lowest level for dissection if required.",
+        "Stain cell contours using chemical dyes to facilitate visualization.",
+        "Dilute the dye stock 20 times in a 200 \u03bcL Eppendorf tube.",
+        "Submerge the dissected apex top down into the dye solution.",
+        "Ensure that the top of the dissected apex is completely submerged.",
+        "Stain for 6 minutes if using FM4-64 or 8 minutes if using PI.",
+        "Remove any residual water with filter paper before placing the apex in the dye.",
+        "Discard diluted dye when its color changes.",
+        "Perform live imaging via confocal microscopy.",
+        "Prepare imaging dish with apex: Insert the stained apex vertically into the imaging dish.",
+        "Fill the imaging dish with sterile deionized water to submerge the apex completely.",
+        "Leave the apex in the imaging dish to stand for a few minutes before image acquisition.",
+        "Raise the microscope stage to dip the lens into the water, avoiding crushing samples or generating air bubbles.",
+        "Choose parameters to acquire images.",
+        "Use software to construct 3D images.",
+        "Proceed to further analysis.",
+        "Retrieve the dissected apex from the imaging dish.",
+        "Remove water from the retrieved apex.",
+        "Gently insert the apex into 1/2-strength MS media for culturing.",
+        "Culture under appropriate conditions.",
+        "Repeat staining and imaging after required culture time (e.g., 24 hours).",
+        "Dissect to remove older primordia before reimaging if necessary."
+    ]
+}

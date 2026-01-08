@@ -1,0 +1,35 @@
+{
+    "id": 618,
+    "origin_website": "Nature",
+    "title": "Metaphase preparation from murine bone marrow",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Warm 0.06M potassium chloride in a 37\u00b0C water bath.",
+        "Inject 250 \u03bcL of 200 \u03bcg/mL colcemid into the peritoneum of mice and arrest cell cycle for 30 minutes.",
+        "Flush bone marrow cells with 30 mL pre-warmed 0.06M potassium chloride into a 50 mL tube through a 40 \u03bcm cell strainer.",
+        "Rock sample tubes gently in a 37\u00b0C incubator for 20 min.",
+        "Make fixative solution (methanol : glacial acetic acid = 3:1) during hypotonic incubation.",
+        "Add 2 mL Fixative into samples and mix gently.",
+        "Centrifuge at 1500 rpm for 7 min and discard supernatant.",
+        "Resuspend cells thoroughly with 0.5 mL 0.06M potassium chloride.",
+        "Add few drops of fixative to cells and mix well.",
+        "Keep adding and mixing fixative drops into cells until reaching 3 mL.",
+        "Add fixative up to 20 mL in total, mix by inversion, and incubate at room temperature for 10 min.",
+        "Run the sample mixture through a 40 \u03bcm cell strainer.",
+        "Centrifuge at 1500 rpm for 7 min and discard supernatant.",
+        "Resuspend pellets in 20 mL fixative and incubate at room temperature for 10 min.",
+        "Centrifuge at 1500 rpm for 7 min and discard supernatant.",
+        "Repeat step of resuspending pellets in 20 mL fixative, incubating for 10 min, and centrifuging for 7 min.",
+        "Resuspend cell pellets in 2 mL fixative and store at -20\u00b0C for long-term storage.",
+        "Use the flame method or other methods to spread and stain chromosomes on slides.",
+        "Drop 30 \u03bcL of fixed cells onto pre-cleaned and wet slides tilted at a 45-degree angle.",
+        "Put slides in burner flame for 2 seconds to allow chromosomes to spread out.",
+        "Let slides dry completely.",
+        "Dilute 20x Giemsa stain with water to prepare a 1x Giemsa solution.",
+        "Stain chromosome-spread slides with 1x Giemsa solution for 5 minutes.",
+        "Wash off the Giemsa solution and let slides dry.",
+        "Check chromosome quality under a microscope."
+    ]
+}

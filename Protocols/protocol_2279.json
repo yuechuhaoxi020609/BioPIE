@@ -1,0 +1,37 @@
+{
+    "id": 82,
+    "origin_website": "Nature",
+    "title": "Multiplexed, Direct miRNA Quantification from Cell Lysates without RNA Isolation",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Retrieve mature miRNA sequence(s) of interest from miRBase.",
+        "Design RT primer to form a stable stem-loop structure at reverse transcription temperature (dG < -1.5).",
+        "Use mFold software to predict conformation and free energy values of the RT primer under qPCR conditions (dG > -0.5).",
+        "Ensure the last 6 nucleotides at the 3' end of the RT primer are the reverse complement of the last 6 nucleotides of the miRNA.",
+        "Design a pair of qPCR primers where the reverse primer extends beyond one nucleotide from the 6 nucleotides used for reverse transcription priming and anneals to the stem-loop region of the RT primer.",
+        "Ensure the forward primer extends such that it is at most head-to-head with the reverse primer (PCR gap = 0 nt).",
+        "Include a 5' GC rich sequence in the forward primer for efficient amplification.",
+        "Observe wells using a microscope to ensure cells are evenly seeded within and between wells.",
+        "Prepare the lysis buffer as specified in Table 1.",
+        "Aspirate cell culture media from wells and wash cells gently once with 100 \u03bcl of phosphate-buffered saline (PBS).",
+        "Remove PBS as completely as possible before lysis.",
+        "Add 40 \u03bcl of lysis buffer to cells.",
+        "Gently triturate the cells, minimizing bubble formation.",
+        "Transfer the lysate from the cell culture wells to a 96-well PCR plate or PCR tubes as appropriate.",
+        "Centrifuge briefly to collect the lysate to the bottom of the wells/tubes.",
+        "Incubate the lysate for 37\u00b0C for 30 min, followed by 70\u00b0C for 10 min to deactivate the DNase.",
+        "Prepare the RT master mix as specified in Table 2.",
+        "Aliquot RT master mix into DNase-treated samples.",
+        "Vortex samples and centrifuge briefly to collect them at the bottom of the wells/tubes.",
+        "Carry out the RT reaction at 42\u00b0C for 30 min.",
+        "Heat the reaction mixture to 70\u00b0C for 5 min to inactivate the RT enzyme.",
+        "Dilute cDNA product to 10% vol/vol with nuclease-free water.",
+        "Aliquot cDNA products into PCR reaction vessels.",
+        "Prepare the qPCR master mix as specified in Table 3.",
+        "Perform qPCR with appropriate thermal cycling parameters on a qPCR-enabled thermal cycler.",
+        "Analyze qPCR results with software compatible with the data generated."
+    ]
+}

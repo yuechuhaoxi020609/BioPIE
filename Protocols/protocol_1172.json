@@ -1,0 +1,40 @@
+{
+    "id": 1445,
+    "origin_website": "Nature",
+    "title": "<p>Primary mouse hepatocyte isolation</p>",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Setup perfusion station by placing metal platform within glass chamber.",
+        "Run tubing through perfusion machine and clamp end of tubing with a large binder clip.",
+        "Attach butterfly needle to each port.",
+        "Place unclamped end of tubing in perfusion buffer and turn on perfusion machine.",
+        "Let buffer flow until coming out of each needle, then clamp each butterfly needle tubing.",
+        "Pause perfusion machine until ready to use.",
+        "Take anesthetized animal via IP injection of Avertin and place supine on metal platform.",
+        "Tape all limbs down.",
+        "Remove abdominal skin while preserving muscle and peritoneum.",
+        "Open peritoneum and abdominal cavity for full visualization of liver and abdominal organs.",
+        "Push stomach and intestines to the right side of animal.",
+        "Identify inferior vena cava (IVC) and portal vein (PV).",
+        "Cannulate IVC with butterfly needle ensuring bevel of needle is facing up.",
+        "Use hemostat to secure needle within IVC and tape tubing down to metal platform.",
+        "Unclamp butterfly needle tubing.",
+        "Turn on perfusion machine.",
+        "Immediately identify and cut the PV.",
+        "Pass at least 100 mL of perfusion buffer through a single mouse.",
+        "Add collagenase to the collagenase buffer and mix well while the perfusion is running.",
+        "Switch the tubing to the collagenase buffer and resume perfusion until the entire volume of collagenase buffer has been used.",
+        "Remove the liver by cutting along the vasculature and connective tissue, avoiding the liver parenchyma.",
+        "Place the liver in a petri dish with 10 mL of perfusion buffer.",
+        "Agitate the liver to dissociate the hepatocytes.",
+        "Transfer the dissociated cell suspension to a 70 micron mesh filter over a 50 mL Falcon tube using a serological pipette.",
+        "Complete the volume in the Falcon tube with perfusion buffer to dilute the collagenase.",
+        "Centrifuge the sample at a minimum speed of 800 rpm for 5 minutes.",
+        "Discard the supernatant and resuspend the pellet in washing media, then centrifuge again at 800 rpm for 5 minutes.",
+        "Discard the supernatant once more, resuspending the cells in 10 mL (or 5 mL if the cell pellet is small) of plating media.",
+        "Suspended in plating media, the hepatocytes will remain viable until plated.",
+        "Plate cells on a collagen-coated surface."
+    ]
+}

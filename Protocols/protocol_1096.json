@@ -1,0 +1,42 @@
+{
+    "id": 3416,
+    "origin_website": "Cell",
+    "title": "Protocol for altering connexin hemichannel function in primary chicken lens fiber cells using high-titer retroviral RCAS(A) infection",
+    "subjectAreas": [
+        "Cell Biology",
+        "Cell-Based Assays"
+    ],
+    "protocol": [
+        "Add 10 \u03bcL of RCAS(A) virus (\u223c1\u201310 \u00d7 10^6 CFU/mL) concentrate containing vehicle, Cx50 WT, or Cx50 H156N to cultured primary chicken lens cells on 12-well plates or 60-mm dishes.",
+        "Replace with fresh complete medium of primary lens cells on the second day before subsequent experiments.",
+        "Treat primary lens fiber cells with forskolin at a concentration of 1 \u03bcM for 2 hours in a 60 mm dish containing a 40 mm cell culture slide.",
+        "Collect the culture medium from the treated cells into another tube for later use.",
+        "Do not include figures or links; therefore, the instrument setup details are excluded.",
+        "Check the airtightness of the FCS2/FCS3 system.",
+        "Clean the FCS2/FCS3 system with 70% alcohol for 0.5 hours.",
+        "Wash the FCS2/FCS3 system with ddH2O three times, each time for 10 minutes.",
+        "Preheat 125 mL of FFSS loading buffer in a constant temperature water bath at 37\u00b0C.",
+        "Assemble the FCS2/FCS3 system.",
+        "Clamp the liquid outflow rubber tube and the balance air rubber tube.",
+        "Rinse the FCS2/FCS3 system with RM to remove air bubbles at high flow rate.",
+        "Adjust the flow rate by loosening the clamped rubber tubes to 14 mL/min.",
+        "Unscrew the cell booster chamber clockwise, removing it from the FCS2/FCS3 system.",
+        "Place a 60 mm dish containing cells onto an FCS2/FCS3 40 mm cell culture slide and insert it into the cell booster chamber.",
+        "Tighten the cell booster chamber securely.",
+        "Connect the rubber tubes at both ends to the cell booster chamber.",
+        "Loosen the clamped rubber tubes to operate the system normally.",
+        "Tap the upper end of the cell force chamber gently to expel air bubbles.",
+        "Load cells with FFSS for 30 minutes.",
+        "Incubate primary lens fiber cells with GSH in a cell culture incubator at 37\u00b0C and 5% CO2 using 200 \u03bcL of 1 mM GSH for 10 minutes.",
+        "Wash cells three times with RM at room temperature, 5 minutes each time.",
+        "Add previously collected and preserved cell culture medium (37\u00b0C) to the cells.",
+        "Treat lens primary fiber cells with 50 \u03bcM H2O2 for 4 hours, adding it to the side of the cell culture dish and gently mixing.",
+        "Wash cells three times with DPBS at room temperature, 5 minutes each time.",
+        "Detect cell apoptosis and necrosis using Dead Cell Apoptosis Kit on day 24, timing 1 hour.",
+        "Wash cells twice with cold BioLegend\u2019s Cell Staining Buffer.",
+        "Prepare FITC-Annexin V and PI mixed solution, 230 \u03bcL per lens primary fiber cell sample (200 \u03bcL Annexin V Binding Buffer, 10 \u03bcL Annexin V, 20 \u03bcL PI).",
+        "Add 230 \u03bcL of FITC-Annexin V and PI mixed solution to the cells and incubate for 20 minutes at room temperature in the dark.",
+        "Wash cells three times with cold DPBS, 5 minutes each time.",
+        "Capture at least five microphotographs of fluorescence fields by a fluorescence microscope (Keyence BZ-X710) with a FITC and rhodamine filter."
+    ]
+}

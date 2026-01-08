@@ -1,0 +1,36 @@
+{
+    "id": 1227,
+    "origin_website": "Nature",
+    "title": "<p>Ampule-sealed Acidolysis for Monosaccharide Composition Analysis of Serum or Plasma Samples</p>",
+    "subjectAreas": [
+        "Chemical Biology"
+    ],
+    "protocol": [
+        "Collect leftover serum samples after their clinical tests at the hospital.",
+        "Divide each serum sample into three aliquots in 1.5 mL EP tubes and store at -80\u00b0C.",
+        "Thaw serum samples on ice.",
+        "Transfer 10 \u03bcL of serum sample into a 2 mL ampoule.",
+        "Add 10 \u03bcL Rha (1 mg/mL) to the ampoule.",
+        "Add 1 mL TFA (2M) to each ampoule.",
+        "Conduct acidolysis in an oil bath for 6 hours.",
+        "Transfer the samples to 1.5 mL centrifuge tubes and dry them in a centrifugal concentrator.",
+        "Add 200 \u03bcL of chromatographic methanol to the samples, vortex thoroughly, and concentrate and dry the mixture three times to obtain cleaner hydrolyzed samples.",
+        "Add 40 \u03bcL NaOH (0.3M) and 60 \u03bcL PMP (0.5M) into each sample.",
+        "Vortex for 5 seconds and centrifuge for another 10 seconds.",
+        "Conduct PMP derivatization reaction at 70\u00b0C in a water bath for 90 minutes.",
+        "Neutralize the reaction mixture with hydrochloric acid.",
+        "Add 500 \u03bcL CHCl3 into each sample tube.",
+        "Vortex each sample tube for 5 s.",
+        "Centrifuge samples for 10 min at 13,000 g/min.",
+        "Transfer the supernatant to HPLC vials.",
+        "Dilute stock solutions of Man, GlcN, GalN, GlcUA, Glc, Gal, Xyl, Fuc, Rha to 1.0 mg/mL.",
+        "Mix diluted monosaccharide standards and dilute further by a factor of two.",
+        "Add 40 \u03bcL 0.3 M NaOH into each standard mixture to adjust pH to 12-13.",
+        "Tune the LC system according to manufacturers\u2019 recommendations or laboratory SOP.",
+        "Set up the HPLC system to separate PMP-labeled monosaccharides as described under EQUIPMENT SETUP.",
+        "Follow extraction conditions in Steps 9-10 to avoid high background caused by leftover PMP.",
+        "Ensure the LC-MS system is functioning properly and DAD wavelength is set at 254 nm.",
+        "Check pH value of Step 7; ensure it is between 11 and 13 for efficient PMP-derivatization.",
+        "Calculate monosaccharide contents based on the regression equation of the monosaccharide standards."
+    ]
+}

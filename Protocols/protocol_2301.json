@@ -1,0 +1,23 @@
+{
+    "id": 309,
+    "origin_website": "Nature",
+    "title": "Anti-Nogo-A treatment enhances corticospinal tract sprouting and functional recovery after unilateral cervical lesion in adult primates",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Chemical Biology",
+        "Drug Discovery",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Habituate the monkey to the primate chair.",
+        "Train the monkey on various motor tasks daily to assess manual dexterity.",
+        "Establish pre-lesion behavioral scores over 2 months.",
+        "Perform a cervical hemi-section at C7.",
+        "Place an osmotic pump to deliver the antibody for 4 weeks.",
+        "Test the motor performance daily after the lesion to establish post-lesion behavioral scores.",
+        "Inject BDA at multiple sites in the contralesional motor cortex.",
+        "Survive the animal for 60-70 days.",
+        "Sacrifice the animal.",
+        "Prepare sections (50 microns thick) of the brain and spinal cord for histochemistry."
+    ]
+}

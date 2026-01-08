@@ -1,0 +1,39 @@
+{
+    "id": 3510,
+    "origin_website": "Cell",
+    "title": "A sandwiched ventricular explant assay to model mouse coronary angiogenesis ex vivo",
+    "subjectAreas": [
+        "Cell Differentiation",
+        "Cell Culture",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Collect E12.5 left ventricles under a dissection microscope from BmxCreER;R26fsGFP mouse embryos.",
+        "Isolate hearts using autoclaved scissors and forceps and collect in cold DPBS.",
+        "Check the hearts\u2019 GFP expression under a fluorescent microscope to confirm BmxCreER;R26fsGDP labeling of endocardial cells.",
+        "Dissect out the left ventricle from the heart using fine forceps.",
+        "Hold the heart on the bottom of a 60mm Petri dish with one forceps and dissect the left ventricle with another forceps.",
+        "Place the left ventricles in cold DPBS on ice for no longer than 2 hours.",
+        "Make the Matrigel media freshly on ice.",
+        "Add 150 \u03bcL of Matrigel media per well to a 4-well dish using a precooled (4\u00b0C) pipette.",
+        "Incubate the Matrigel media-coated 4-well dish in a 37\u00b0C 5% CO2 cell culture incubator for 25-30 minutes to allow polymerization.",
+        "Optimize the incubation time for good ventricular explant culture.",
+        "Pipette 1 to 3 left ventricles in DPBS using a 3 mL transfer pipette.",
+        "Place the left ventricles in one well of a Matrigel media coated 4-well dish with the cutting side facing down.",
+        "Gently remove excess DPBS from the wells using a 20 \u03bcL pipette.",
+        "Add 150 \u03bcL of Matrigel media to each well and incubate for 30 minutes at 37\u00b0C in a 5% CO2 cell culture incubator.",
+        "Add 200 \u03bcL of ventricular explant culture Basal Media supplemented with 2 ng/mL TGFb2 per well.",
+        "Culture the left ventricles in a 37\u00b0C 5% CO2 cell culture incubator for one day, which is considered day 0.",
+        "On day 1 and day 2, carefully remove the whole conditional media 1 using a 100 \u03bcL pipette.",
+        "Replace with fresh conditional media 1 for two days.",
+        "Alternatives:",
+        "Add 200 \u03bcL of ventricular explant culture Basal Media supplemented with 10 ng/mL TGFb2 per well.",
+        "Culture the left ventricles in a 37\u00b0C 5% CO2 cell culture incubator for one day, which is considered day 0.",
+        "On day 1 and day 2, carefully remove the whole conditional media 2 using a 100 \u03bcL pipette.",
+        "Replace with fresh Basal Media for two days.",
+        "On the day 3, switch to ventricular explant culture Basal Media supplemented with 10 ng/mL VEGF120 (Conditional media 7).",
+        "Carefully change the culture media every other day.",
+        "Change to fresh conditional media 7 on the day 5 and day 7 for another 6 days.",
+        "Take images of cultured left ventricles under the fluorescent microscope on day 3, 6, and 9."
+    ]
+}

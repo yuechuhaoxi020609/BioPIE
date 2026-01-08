@@ -1,0 +1,37 @@
+{
+    "id": 10185,
+    "origin_website": "Jove",
+    "title": "Molecular Spring Constant Analysis by Biomembrane Force Probe Spectroscopy",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Start the experiment in the software for BFP control and parameter setting.",
+        "Observe repetitive probe bead-target bead/cell touches in the software for BFP Monitor.",
+        "Tune impingement force and contact time to achieve an adhesion frequency \u2264 20% within the first 50 touches.",
+        "Save data, in the form of Force vs. Time, to a user-directed folder at the end of each pair.",
+        "Collect raw data of bond events using the BFP acquisition platform.",
+        "Open the BFP data analysis software and select corresponding raw data file by double clicking on them.",
+        "Run the program and switch between events using up and down buttons.",
+        "Screen out invalid events using outlier exclusion criteria.",
+        "Select exporting data type as Force vs. Time format and click on Export Plots Data button.",
+        "Convert the force vs. time curve to a force vs. displacement curve.",
+        "Export the data segment corresponding to the Retract stage to a spreadsheet.",
+        "Plot the Force vs. Time Curve using spreadsheet software.",
+        "Convert time values to total displacement values by multiplying with piezo movement velocity (4,000 nm/s).",
+        "Zero the first data point by subtracting the smallest displacement value from each acquired displacement value.",
+        "Plot the Force vs. Displacement curve as shown in Figure 2B.",
+        "Fit a regression line to each data group in the Force vs. Displacement curve for compressive and tensile phases.",
+        "Express the reciprocal of the total spring constant (ktot) as the sum of the spring constant inverses of RBC, molecular bond, and target cell during the compressive phase.",
+        "Exclude the molecular bond contribution (kmol) when calculating ktot during the compressive phase.",
+        "Use equation 3 to calculate kRBC with acquired k1 and predetermined kRBC value.",
+        "Calculate kcell from equation 3 using the acquired k1 and predetermined kRBC value.",
+        "Express the reciprocal of the total spring constant as the sum of RBC, molecular bond, and target cell during the tensile phase.",
+        "Include adhesion formation between ligand-receptor pair in calculations for the tensile phase.",
+        "Use equation 4 to calculate ktot (k2) during the tensile phase.",
+        "Derive kmol by subtracting 1/k1 from 1/k2.",
+        "Fit a regression line to the compressive phase data to obtain k1.",
+        "Fit a regression line to the tensile phase data to obtain k2.",
+        "Derive kmol by subtracting 1/k1 from 1/k2."
+    ]
+}

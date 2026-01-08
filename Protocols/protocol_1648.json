@@ -1,0 +1,33 @@
+{
+    "id": 11022,
+    "origin_website": "Jove",
+    "title": "Wideband Optical Detector of Ultrasound for Medical Imaging Applications",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Mix agar powder (1.3% by weight) with distilled water in a glass beaker.",
+        "Heat the solution close to boiling temperature and dissolve the agar powder until clear and free of air bubbles.",
+        "Pour the hot solution into a plastic mold, such as a syringe with its tip cut out.",
+        "Sprinkle a small amount of microscopic spheres on the agar solution.",
+        "Wait until the solution fully solidifies.",
+        "Take the solid agar phantom out of the mold by pushing the plunger.",
+        "View the phantom under a stereoscopic microscope and cut a small piece containing a single microscopic sphere.",
+        "Repeat step 1.1.1 and add to the agar solution the solid agar piece with the single microscopic sphere.",
+        "After solidification, cut the agar phantom under the microscope such that the microscopic sphere is located close to the phantom's surface.",
+        "Use two v-groove fiber holders to hold the fiber tightly on both sides of the \u03c0-FBG.",
+        "Connect the holder to a three-dimensional (XYZ) translation computer-operated stage.",
+        "Ensure that the fiber is submerged to enable the propagation of ultrasound.",
+        "Find the approximate location of the sensing \u03c0-FBG element by illuminating different parts of the fiber with the high-power nanosecond-pulse laser beam.",
+        "Place the agar-embedded microscopic sphere directly underneath the \u03c0-FBG.",
+        "Perform a 2D scan of the \u03c0-FBG in the plane parallel to the ground using the translation stage.",
+        "Adjust illumination to deliver maximum power to the microscopic sphere.",
+        "Perform a 3D scan of the \u03c0-FBG and record the signal for each position using the translation stage.",
+        "Obtain the spatially dependent frequency response of the ultrasound detector by performing Fourier transform on the recorded time-domain ultrasound signal.",
+        "Use two v-groove fiber holders to hold the fiber tightly on both sides of the \u03c0-FBG.",
+        "Submerge the \u03c0-FBG in a water tank.",
+        "Place a dark plate or graphite rod sturdily to face the \u03c0-FBG and illuminate it with the high-power nanosecond-pulse laser beam.",
+        "Turn on a water pump inside the water tank to create rapid variations in environmental conditions.",
+        "Turn the water pump off."
+    ]
+}

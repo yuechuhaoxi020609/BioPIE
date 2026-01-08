@@ -1,0 +1,32 @@
+{
+    "id": 135,
+    "origin_website": "Nature",
+    "title": "The Matrigel Cytokine Assay",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Wash cancer cells once in sterile ice cold PBS.",
+        "Count cells and adjust concentration to 4x10^6 cells/ml.",
+        "Anesthetize mice with hypno/dormicum intraperitoneally or subcutaneously.",
+        "Mix on ice 1125 \u00b5l Matrigel + 125 \u00b5l tumor cells (i.e., a 10X dilution).",
+        "Inject subcutaneously 250 \u00b5l of the ice-cold tumor cell/Matrigel solution using a 1 ml syringe with a 0.6 mm x 25 mm needle.",
+        "Sacrifice mice.",
+        "Dissect carefully each Matrigel plug and transfer into a 50 ml tube containing 1 ml RPMI1640 supplemented with DNase at 0.3 mg/ml and collagenase IV at 1 mg/ml.",
+        "Cut the Matrigel plug into small pieces using sterile scissors.",
+        "Place sample on ice.",
+        "Clean dissection equipment and scissors between each mouse.",
+        "Transfer samples to a water bath for 30 minutes at 37\u00b0C.",
+        "After 30 minutes, place the samples on ice and keep them on ice as much as possible.",
+        "Mesh the Matrigel samples through a stainless-steel sieve onto the lid of a 5cm Petri dish.",
+        "Transfer the solution with a pipette to a 1.5ml Eppendorf tube.",
+        "Clean and burn mesh using 70% ethanol between each Matrigel sample.",
+        "Centrifuge the tubes for 7 minutes at 300g.",
+        "Remove the supernatant with a pipette and transfer to a clean 1.5ml Eppendorf tube.",
+        "Prepare the cell-pellet for flow analysis.",
+        "Filter the supernatant through a 0.45\u00b5m filter.",
+        "Aliquot the samples in 1.5ml Eppendorf tubes (e.g., 50\u03bcl per tube).",
+        "Freeze immediately at -70\u00b0C or below and keep samples frozen until analysis with ELISA or luminex technology."
+    ]
+}

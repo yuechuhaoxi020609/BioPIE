@@ -1,0 +1,40 @@
+{
+    "id": 10639,
+    "origin_website": "Jove",
+    "title": "A Method for Growing Bio-memristors from Slime Mold",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Load a 3D printer with High-Impact Polystyrene (HIPS) by setting the print bed temperature to 85 \u00b0C and the extruder to 230 \u00b0C.",
+        "Loosen the idler arm, insert the filament, and push down until it starts to extrude out of the hot end.",
+        "Retighten the filament idler arm and remove the extruded material.",
+        "Import the 3D receptacle STL model file into a 3D printing slicing software by navigating to the file tab and selecting the import/open options.",
+        "Select high quality print settings in the slicing software while ensuring that the correct material profile is selected.",
+        "Set the software to print each object one at a time if printing several receptacles in one run.",
+        "Wait until the print bed temperature is below 50 \u00b0C before removing the printed parts.",
+        "Gently clear the electrode socket of any imperfections with a thin wire brush to prevent obstructions when fitting the chamber with an electrode.",
+        "Replace the HIPS filament for a cleaning filament and run plenty of the material through the print head.",
+        "Load an electrically conductive polylactic acid (PLA) filament with a volume resistivity of 0.75 \u03a9-cm or less into the printer.",
+        "Set the print bed temperature to 60 \u00b0C and the extruder temperature to 230 \u00b0C.",
+        "Extrude several centimeters of filament through the print head when temperatures are reached to remove particulates from previous sessions.",
+        "Using a 3D printing slicing software, load the electrode STL file.",
+        "Specify layer height = 0.16 mm, shell thickness = 1.7 mm, bottom/top thickness = 0.74 mm, and fill density = 100% in print settings.",
+        "Set the printer to print one electrode at a time if printing multiple electrodes.",
+        "Leave printed electrodes on the print bed until they cool to room temperature.",
+        "Slot an electrode into each of the two chambers.",
+        "Cut a 10 mm piece of Polyvinyl chloride (PVC) tubing with a 4 mm inner diameter and 6 mm outer diameter using a sharp scalpel, ensuring both ends are straight and clean.",
+        "Gently ease each end of the PVC tubing over the rim of the two electrodes.",
+        "Put 2 g of non-nutrient microbiological agar powder into a 250 mL glass bottle.",
+        "Add 100 mL of deionized water and mix well.",
+        "Autoclave the bottle for 12 - 15 min at 121 \u00b0C or place in a boiling water bath for 15 - 20 min.",
+        "Melt the agar using a water bath or microwave.",
+        "Fill a 2 mL pipette with molten agar.",
+        "Hover the nib of the pipette approximately 5 mm above the internal base of each receptacle's chamber and slowly fill the wells up to the bottom of the connecting tube hole.",
+        "Place a lid on each of the chambers immediately after filling the wells.",
+        "Set the receptacle aside until the agar has set and reached room temperature.",
+        "Place an oat flake in each of the two chambers.",
+        "Remove one 2 mL blob of pseudopods from a starved (approximately 12 h) culture of plasmodium.",
+        "Place the protoplasm in one of the two chambers containing an oat flake."
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 1222,
+    "origin_website": "Nature",
+    "title": "<p>PCR Instrument-assisted Acidolysis for Monosaccharide Composition Analysis of Serum Glycans</p>",
+    "subjectAreas": [
+        "Chemical Biology"
+    ],
+    "protocol": [
+        "Collect leftover serum samples after their clinical tests at the hospital.",
+        "Divide each serum sample into three aliquots in 1.5 mL EP tubes and store at -80\u00b0C.",
+        "Thaw serum samples on ice.",
+        "Transfer 5 \u03bcL of serum sample into a PCR microtube.",
+        "Add 5 \u03bcL Rha (1 mg/mL) and 10 \u03bcL HCl (6M) to each PCR microtube.",
+        "Vortex the mixture for 5 seconds and centrifuge for another 10 seconds.",
+        "Run acidolysis program on a PCR instrument for 10 minutes.",
+        "Add 20 \u03bcL NaOH (3M) and 20 \u03bcL PMP (0.5M) to each sample microtube.",
+        "Vortex the mixture for 5 seconds and centrifuge for another 10 seconds.",
+        "Run the derivatization program on a PCR instrument for 50 minutes.",
+        "Add 20 \u03bcL HAc-NH4Ac buffer to each sample tube.",
+        "Vortex for 5 s and centrifuge for another 10 s.",
+        "Add 100 \u03bcL CHCl3 into each sample tube, and shake upside down for 10 times.",
+        "Centrifuge for 10 s and remove the lower layer.",
+        "Repeat the addition of 100 \u03bcL CHCl3, shaking, and centrifugation twice.",
+        "Centrifuge for 15 min at 13,000 g/min and transfer supernatant to HPLC vials.",
+        "Dilute the stock solution of GalN, GlcA, Xyl, and Fuc to 1.25 mg/mL.",
+        "Mix the 10 monosaccharide standards together and dilute twice.",
+        "Adjust the pH of each standard mixture with 20 \u03bcL 0.2 M NaOH to reach 12-13.",
+        "Add 20 \u03bcL 0.5 M PMP for monoscharide labeling as described in Steps 8 to 11.",
+        "Assure that the LC is working appropriately according to the manufacturers\u2019 recommendations or the standard operating procedure (SOP) of the respective laboratory.",
+        "Set up the HPLC system to separate PMP-labeled monosaccharides as described under EQUIPMENT SETUP."
+    ]
+}

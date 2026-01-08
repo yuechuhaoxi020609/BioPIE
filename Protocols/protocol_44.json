@@ -1,0 +1,31 @@
+{
+    "id": 96,
+    "origin_website": "Nature",
+    "title": "Artificial Sputum Medium",
+    "subjectAreas": [
+        "Biotechnology",
+        "Microbiology",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Take 800 ml of distilled water in a beaker and place it on a magnetic stirring plate.",
+        "Use a magnetic stirrer to dissolve the ingredients completely.",
+        "Add mucin to the mixture with constant stirring.",
+        "Add DNA to the mixture with constant stirring.",
+        "Add DTPA to the mixture with constant stirring.",
+        "Add salts NaCl and KCl one after another with constant stirring.",
+        "Add Tris base to the mixture with constant stirring.",
+        "Add 250 mg of each amino acid except tryptophan with constant stirring.",
+        "Stir the mixture continuously to dissolve amino acids.",
+        "Insert a calibrated pH probe into the medium.",
+        "Check the pH of the medium continuously with constant stirring.",
+        "Adjust the pH using Tris base until it stabilizes at 7.0.",
+        "Make up the volume of the medium to 1000 ml.",
+        "Sterilize the medium in an autoclave at 110\u00b0C for 15 minutes.",
+        "Cool the sterilized medium and maintain sterile conditions.",
+        "Add filter-sterilized tryptophan (250 mg/L of medium) from the stock while maintaining sterility.",
+        "Add 5 ml of egg yolk emulsion to the cooled, sterilized medium while maintaining sterility.",
+        "Mix the medium well after adding tryptophan and egg yolk emulsion.",
+        "Store the mixed medium in a refrigerator for several months."
+    ]
+}

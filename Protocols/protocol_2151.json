@@ -1,0 +1,34 @@
+{
+    "id": 902,
+    "origin_website": "Nature",
+    "title": "Experiments on parochial altruism in humans: procedures and instructions",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Gather all participants in a group for preliminary verbal instructions about the general experimental procedures and game structure.",
+        "Ensure that participants do not communicate about the game before participating.",
+        "Explain the detailed rules of the game individually after each participant enters the experiment room.",
+        "Include information about the participant's role and the group affiliation of other players during individual explanations.",
+        "Use coins and cups to demonstrate the roles of players A, B, and C for clarity.",
+        "Ask test questions to ensure participants understand the instructions before proceeding with the experiment.",
+        "Make decisions on how much of the endowment to transfer to player B.",
+        "Indicate willingness to spend K0, K1, or K2 on punishment for each feasible transfer by player A before knowing the actual transfer level.",
+        "Elicit 11 punishment decisions from each player C, one for each feasible transfer level.",
+        "Elicit every player A's and every player C's expectation about punishment for transfers of K0, K5, and K10.",
+        "Conduct the games first with the Ngenikas.",
+        "Conduct the games with the Wolimbkas after completing the session with the Ngenikas.",
+        "Pay the Wolimbka participants their money immediately after everyone in the session has made a decision.",
+        "Return to the Ngenikas and pay them according to the Wolimbkas' decisions.",
+        "Explain which decisions had been made when paying each Ngenika.",
+        "Hand over the payment in envelopes to the Ngenikas.",
+        "Give each Ngenika K2 as a thank you for coming a second time.",
+        "Provide preliminary verbal instructions as a group.",
+        "Separate participants into individual rooms one by one.",
+        "Explain that the experiment may take up to 4 hours.",
+        "Inform participants about the rules and objectives of the experiment.",
+        "Clarify that any money earned during the experiments belongs to them to keep.",
+        "Distribute K3 from Assistant 1 to each participant as a thank you for their participation.",
+        "Reiterate that the distributed K3 is not part of the experiment and is theirs to keep."
+    ]
+}

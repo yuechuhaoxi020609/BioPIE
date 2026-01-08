@@ -1,0 +1,36 @@
+{
+    "id": 255,
+    "origin_website": "Nature",
+    "title": "Isothermal titration calorimetry to determine the association constants for a ligand bound simultaneously to two specific protein binding sites with different affinities",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Structural Biology",
+        "Chemical Biology"
+    ],
+    "protocol": [
+        "Prepare 300 \u03bcL of protein solution by diluting dialyzed protein with buffer Hepes 20 mM (pH 8.0) to a concentration of 50-60 \u03bcM.",
+        "Prepare approximately 100 \u03bcL of ligand solution by diluting the ligand batch solution (50 mM in DMSO) with the dialysis buffer to achieve a concentration ten times that of the protein.",
+        "Perform washing cycles of the cell and syringe to avoid interference from contaminants from previous runs.",
+        "If necessary, wash the cell with 5% v/v DECON detergent at 60\u00b0C for 1 hour followed by abundant water.",
+        "Eliminate any trace of methanol from the syringe.",
+        "Perform a preliminary experiment with water into water to check baseline stability and ensure the cleanness of the cell and syringe.",
+        "Rinse the sample cell with the protein buffer solution.",
+        "Fill the sample cell with the protein solution, avoiding bubbles.",
+        "Degas all solutions using a vacuum pump or centrifuge to avoid air bubbles during the experiment.",
+        "Filter the protein solution to eliminate possible precipitates.",
+        "Fill the syringe with the ligand solution.",
+        "Perform a couple of purge-refill cycles in the syringe to avoid air bubbles.",
+        "Determine very accurately the concentration of the ligand using an analytical balance.",
+        "Rinse the surface of the needle with water to eliminate any trace of the ligand.",
+        "Wipe the needle with a Kimwipe.",
+        "Choose instrument settings for your experiments.",
+        "Set 20 injections, initial delay 60 seconds, spacing 180 seconds, filter period 5 seconds, injection volume 2 \u03bcL, measurement temperature at 25\u00b0C, reference power at 5 \u03bccal s^-1^, and stirring speed at 1000 r.p.m.",
+        "Start the experiment after gently setting the syringe in place.",
+        "Rerun the ITC assay for reverse titration and titration with the ligand into the protein pre-equilibrated with a second ligand using the same running parameters as in the first titration.",
+        "Perform blank experiments titrating the buffer in the cell with the ligand solution.",
+        "Correct manually the integration of the peaks after adjusting the baseline to eliminate the effect of bubbles or drifting of the baseline.",
+        "Subtract the blank experiment to correct for dilution effects of the ligand in the buffer.",
+        "Fit the data using a suitable model such as the One set of sites model.",
+        "Evaluate the fitting curve and errors on Ka and enthalpy after fitting."
+    ]
+}

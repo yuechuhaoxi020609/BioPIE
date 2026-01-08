@@ -1,0 +1,43 @@
+{
+    "id": 843,
+    "origin_website": "Nature",
+    "title": "Mechanical tracing of protein function in the <em>Drosophila</em> ear",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Calibrate the Br\u00fcel & Kjaer pressure microphone using the acoustic calibrator.",
+        "Generate a 1 kHz tone of 94 dB SPL with the calibrator.",
+        "Sample the output voltage signal of the microphone.",
+        "Cut the time trace into _N_ time windows, each of length _T = 1 s_.",
+        "Set the sampling frequency to 4096 or 8192 Hz.",
+        "Choose the number of samples per window to be a power of two (2^12 or 2^13).",
+        "Apply Fast Fourier transformation analysis to determine the Fourier amplitude at 1 kHz.",
+        "Place the pressure microphone and the reference microphone side by side in the acoustic far field of a loudspeaker.",
+        "Generate a continuous 1 kHz signal with the function generator.",
+        "Pass the generated signal through the step attenuator.",
+        "Pass the signal from the step attenuator through the audio amplifier.",
+        "Broadcast the signal via the loudspeaker.",
+        "Sample the output signals of both microphones.",
+        "Subject the sampled signals to Fast Fourier transforms.",
+        "Determine the respective Fourier amplitudes at 1 kHz.",
+        "Heat the soldering iron to approximately 220\u00b0C.",
+        "Briefly anesthetize the fly with CO\u2082.",
+        "Melt a drop of wax at the tip of the Teflon rod.",
+        "Use tweezers to hold the fly by its wings and attach it to the rod using the melted wax, ensuring its legs are free.",
+        "Wax the fly's coxae to the rod carefully with fine tips of the soldering iron to fix the thorax, orienting the arista perpendicular to the longitudinal axis of the rod.",
+        "Avoid touching the antenna with the wire to prevent damage to the ear.",
+        "Attach small drops of wax to the postero-lateral side of the head and stabilize the halteres, wing-hinges, and proboscis.",
+        "Blow on the antenna to test its movement and ensure it has not been damaged during preparation.",
+        "Arrange the setup on the vibration isolation table with the laser Doppler vibrometer positioned in the center.",
+        "Mount the rod holding the fly on a micromanipulator.",
+        "Position the manipulator so that the fly is at the focal distance from the LDV.",
+        "Turn the rod to orient the arista of one antenna perpendicular to the optical axis of the laser.",
+        "Focus the laser on the tip of the arista using the coaxial video capture system.",
+        "Adjust the position via the scanning unit until a maximum level of backscattered laser light is obtained.",
+        "Place the loudspeaker at a distance of approximately 10 cm behind the fly, facing both the LDV and the fly.",
+        "Use a second micromanipulator to bring the reference microphone close to the measured antenna (distance about 5 mm).",
+        "Ensure that the measured arista and the microphone are equidistant from the loudspeaker.",
+        "Make sure the microphone membrane is perpendicular to the direction of sound propagation."
+    ]
+}

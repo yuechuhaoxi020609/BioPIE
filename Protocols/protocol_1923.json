@@ -1,0 +1,18 @@
+{
+    "id": 463,
+    "origin_website": "Nature",
+    "title": "Hydrodynamics-based gene transduction",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Genetics"
+    ],
+    "protocol": [
+        "Dilute plasmid DNA with sterile PBS right before injection.",
+        "Take 2 ml of the solution into a 3 ml syringe.",
+        "Attach a 27-gauge needle to the syringe.",
+        "Warm up a mouse using a Heatlamp for 1-2 minutes.",
+        "Fix the mouse in a Mouse Tail Illuminator.",
+        "Inject the DNA solution from the tail vein in 5-7 seconds.",
+        "Place the mouse back into the cage."
+    ]
+}

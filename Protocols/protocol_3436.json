@@ -1,0 +1,26 @@
+{
+    "id": 278,
+    "origin_website": "Nature",
+    "title": "Time-Lapse Video Microscopy for Assessment of Self-Renewal and Division Kinetics",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Obtain fresh sorted cancer cell populations immediately after FACS.",
+        "Keep cells in phenol red-free media.",
+        "Seed cancer cells at 5-10% confluency in 100mm vacuum gas plasma-treated plates.",
+        "Incubate cells at standard culture conditions of 37\u00b0C, 5% CO2.",
+        "Allow 4-8 hours for cells to adhere.",
+        "Acquire first image using both brightfield and fluorescence filters.",
+        "Set microscope to acquire images every 10 minutes for a period of 72 hours.",
+        "Assemble movie of individual images using ImageJ Java-based software.",
+        "Observe for anaphase in the parent cell to track individual cell divisions.",
+        "Record the time to first division (doubling time).",
+        "Observe for anaphase in the daughter cells from the original parent cell.",
+        "Record the time to first division of these daughter cells.",
+        "Determine if there are significant differences in doubling times between the different subsets of cells and between the two daughters from a single parent stem cell from each subset.",
+        "Observe for asymmetric versus symmetric distribution of fluorescence in the daughter cell after division of the parent cell.",
+        "Note for cell death in the daughter cells."
+    ]
+}

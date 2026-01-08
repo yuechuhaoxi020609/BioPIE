@@ -1,0 +1,41 @@
+{
+    "id": 632,
+    "origin_website": "Nature",
+    "title": "Immunofluorescence staining of kidney sections to monitor ischemia-induced damage",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Deparaffinize tissue sections by immersing slides in Xylene twice, each for 10 minutes.",
+        "Hydrate tissue sections by immersion in 100% ethanol for 10 minutes.",
+        "Hydrate tissue sections by immersion in 100% ethanol for 5 minutes.",
+        "Hydrate tissue sections by immersion in 95% ethanol in PBS for 5 minutes.",
+        "Hydrate tissue sections by immersion in 70% ethanol in PBS for 3 minutes.",
+        "Hydrate tissue sections by immersion in 50% ethanol in PBS for 3 minutes.",
+        "Hydrate tissue sections by immersion in 30% ethanol in PBS for 3 minutes.",
+        "Wash slides in PBS twice, each for 5 minutes.",
+        "Immerse slides in 10mM sodium citrate pH6.0/Tween-20 in a glass jar.",
+        "Microwave the jar containing the slides on high power setting for 3 minutes.",
+        "Repeat microwave treatment for an additional 3 minutes.",
+        "Allow the solution to cool down to room temperature (30-45 minutes).",
+        "Remove slide from jar and draw hydrophobic borders with a Dako-pen around each tissue section.",
+        "Add 0.1% Triton-X100 solution to permeabilize cell membranes for 5 minutes at room temperature.",
+        "Block unspecific binding sites with 5% FBS/Tween-20 solution for 1 hour at room temperature.",
+        "Dilute antibodies against HuR (1:250) and aquaporin-1 (1:125) in blocking solution.",
+        "Transfer slides to a humidified chamber and add 50-100\u03bcl of primary antibodies diluted in blocking solution overnight at room temperature.",
+        "Wash with blocking solution three times, each for 5 minutes.",
+        "Dilute secondary antibodies in blocking solution (1:500 for Cy3-conjugated anti-mouse IgG; 1:250 for AlexaFluor\u00ae488-conjugated anti-rabbit IgG).",
+        "Incubate slide with diluted secondary antibodies in a humid chamber for 2 hours at room temperature.",
+        "Protect the slide from light during incubation.",
+        "Wash the slide with blocking solution three times, each wash lasting 5 minutes.",
+        "Stain DNA with 1 \u00b5g/ml of stain in blocking solution for 2 minutes.",
+        "Add mounting medium to the slide.",
+        "Place a glass coverslip over the slide.",
+        "Seal the edges of the coverslip with nail polish.",
+        "Incubate one section on each slide without primary antibodies.",
+        "Proceed with adding secondary antibodies as described above.",
+        "To assess autofluorescence, process control samples without addition of primary or secondary antibodies."
+    ]
+}

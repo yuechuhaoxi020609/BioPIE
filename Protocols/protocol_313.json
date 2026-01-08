@@ -1,0 +1,20 @@
+{
+    "id": 30,
+    "origin_website": "Nature",
+    "title": "Isolation of live bacteria from adult insects",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Use autoclaved microcentrifuge tubes and gloves.",
+        "Collect 50-100 adult insects on ice with 70% EtOH.",
+        "Transfer anesthetized flies to the Centrifugal Filter.",
+        "Wash flies five times with 70% ethanol.",
+        "Spin for 5-10 seconds at 1,000 g in a tabletop microcentrifuge to remove most of the EtOH.",
+        "Wash flies three times with sterile H2O.",
+        "Spin for 5-10 seconds to eliminate most of the water.",
+        "Transfer the filter unit to a sterile microcentrifuge tube.",
+        "Spin for 3 minutes at around 10,000 g.",
+        "From 50 to 100 flies, yield is approximately 10-20 \u03bcl."
+    ]
+}

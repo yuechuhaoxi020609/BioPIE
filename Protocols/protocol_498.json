@@ -1,0 +1,30 @@
+{
+    "id": 368,
+    "origin_website": "Nature",
+    "title": "PCR_Sequencing for genotyping SNPs PF3D7_1343700 Kelch protein propeller domain",
+    "subjectAreas": [
+        "Biotechnology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Prepare Primary PCR Master Mixes in a 1.5 mL centrifuge tube according to Table 2.",
+        "Label PCR tubes and add 20 \u03bcl Primary Master Mix to each tube.",
+        "Add 5 \u03bcl of template DNA to each tube.",
+        "Seal and run PCR in thermocycler according to the conditions listed in Table 3.",
+        "Prepare nested PCR Master Mixes in a 1.5 mL centrifuge tube according to Table 4.",
+        "Label PCR tubes and add 45 \u03bcl Secondary Master Mix to each tube.",
+        "Add 5 \u03bcl of Primary PCR product to each tube.",
+        "Seal and run PCR in thermocycler according to the conditions listed in Table 5.",
+        "Run an agarose gel of Nested PCR product to ensure amplification has been successful.",
+        "Make a 2% agarose gel by dissolving 2 grams of agarose and 100 mL of 1X TBE in the microwave.",
+        "Cool, then add 4 \u03bcL Ethidium bromide and gently swirl to mix.",
+        "Pour into assembled gel tray with comb and leave at room temperature for 30 minutes to set.",
+        "Place the gel in gel apparatus and fill to line with 1X TBE.",
+        "Place 2 \u03bcl dots of xylene cyanol per sample on Parafilm.",
+        "Carefully pipette 10 \u03bcL Nested PCR product to each dot of dye.",
+        "Add 4-5 \u03bcL of size standard.",
+        "Run gel at 100-150 volts for 60 minutes.",
+        "View gel using a UV transilluminator.",
+        "Send 40 \u00b5l of N1 PCR products for sequencing."
+    ]
+}

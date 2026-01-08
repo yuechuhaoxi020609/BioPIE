@@ -1,0 +1,33 @@
+{
+    "id": 907,
+    "origin_website": "Nature",
+    "title": "Chemical and topographical 3D surface profiling using atmospheric pressure LDI and MALDI MS imaging",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Fix sample on MALDI target holder with superglue.",
+        "Perform 3D optical microscopy of the sample.",
+        "Dissolve DHB and CHCA matrices in a 1:1 (v/v) acetone/water mixture containing 0.1% TFA to create matrix solutions.",
+        "Apply 100 \u00b5l of matrix solution using a pneumatic sprayer system with a flow rate of 10 \u00b5l/min and gas pressure of 1 bar.",
+        "Check matrix layer quality, crystal size, and homogeneous coverage with an optical microscope.",
+        "Calibrate mass spectrometer with known DHB cluster signals.",
+        "Mount MALDI target with sample on the target support of the modified AP-SMALDI10 MSI source.",
+        "Search region of interest in the optical sample observation camera.",
+        "Set mass range of m/z 100-1000 and fixed injection time of 500 ms for the mass spectrometer.",
+        "Apply a voltage of 4 kV to the MALDI target with respect to the MS inlet.",
+        "Set laser settings to 30 laser pulses per spot (pixel) with a repetition rate of 60 Hz.",
+        "Set step size (lateral resolution) and corresponding pixel number in the control software for measuring the entire region of interest.",
+        "Adjust laser pulse energy to desired lateral resolution.",
+        "Set lock mass in the mass spectrometer to calibrate spectra to known matrix cluster peaks.",
+        "Start mass spectrometer data acquisition and initialize the 3D scan in the control software.",
+        "Load mass spectrometric data and 3D imaging data into MIRION or MATLAB software.",
+        "Set image bin width to m/z \u00b10.01.",
+        "Export all relevant images with their corresponding intensity-weighted centroid m/z value as .jpg and .csv files.",
+        "Use 3D imaging data to display sample topography in a heat map color scale using MATLAB scripts.",
+        "Combine three different ion images into an RGB overlay image and integrate it with the topographic information into 3D RGB MS surface images.",
+        "Normalize MS images to the base pixel (highest intensity) per image (m/z bin).",
+        "Import m/z value list (.csv file) into METLIN database within a search window of 2 ppm for accurate mass compound assignment."
+    ]
+}

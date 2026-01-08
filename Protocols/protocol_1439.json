@@ -1,0 +1,39 @@
+{
+    "id": 968,
+    "origin_website": "Nature",
+    "title": "A protocol for imaging of the Drosophila visceral muscle",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Decapitate wild type flies or Mef2>mCD8GFP flies in PBS using microscissors.",
+        "Expose the forepart of the intestine by selectively removing legs, thoracic muscles, and the thoracic junction cuticle to the abdomen using a pair of forceps.",
+        "Make an incision from the beginning of the abdomen to the anus without damaging the intestine.",
+        "Grab the anus and pull carefully to separate the whole intestine from the abdominal cuticle.",
+        "Remove the reproductive organ from the dissected intestine.",
+        "Incubate the intestine in 4% PFA for 20 minutes. Nutation is optional for subsequent procedures except for antibody incubation.",
+        "Wash the tissue twice in 0.1% PBST for 5 minutes.",
+        "Permeabilize the intestine by incubating it in 0.5% PBST for 10 minutes.",
+        "Wash the tissue three times in 0.1% PBST for 5 minutes.",
+        "Add Hoechst at a ratio of 1:400 and FITC/TRITC-conjugated phalloidin at a ratio of 1:200 to the tissue-containing solution.",
+        "Incubate the mixture for approximately two hours at room temperature on a nutator.",
+        "Incubate the tissue in 3% bovine serum albumin in 0.1% PBST for 30 minutes at room temperature for blocking.",
+        "Add primary antibodies including anti-mouse tubulin antibody (Abcam, ab6046, 1:200) and anti-mouse myosin heavy chain antibody (DSHB, ALD-58, 1:100), and incubate overnight at 4\u00b0C.",
+        "Wash the tissue by nutating in 0.1% PBST three times for five minutes each.",
+        "Treat with anti-mouse dye-conjugated antibodies (1:200), FITC/TRITC-conjugated phalloidin antibodies (1:200), and Hoechst (1:400) for two hours at room temperature in the dark.",
+        "Wash the tissue by nutating in 0.1% PBST three times for five minutes each, followed by washing with PBS once for five minutes.",
+        "Place the whole tissue on a slide glass and mount it in SlowFade solution (Invitrogen, CA, ID: S36936) with a cover glass.",
+        "Wash the tissue two times in 0.5% PBST for ten minutes each and discard the washing solution.",
+        "Add 0.1 M sodium citrate in 0.1% PBST and incubate the tissue at 65\u00b0C for thirty minutes.",
+        "Wash the tissue with PBS twice for ten minutes each.",
+        "As a control group, add DNase solution (1.5 \u03bcl of DNase, 3 \u03bcl of 10 mg/ml BSA, 1.5 \u03bcl of 1 M Tris buffer with pH7.5, and 24 \u03bcl of H2O).",
+        "Incubate experimental samples in 2 \u03bcl of TUNEL enzyme and 18 \u03bcl of buffer at 37\u00b0C for 2 hours.",
+        "Wash tissue in 0.1% PBST for 10 minutes.",
+        "Incubate tissue with phalloidin-TRITC/FITC and Hoechst for 1 hour at RT.",
+        "Wash samples 3 times in 0.1% PBST for 10 minutes each wash.",
+        "Mount the sample for confocal imaging as described in the previous immunostaining section.",
+        "Obtain Z-stack images of the intestine using a confocal microscope (LSM710, Carl Zeiss).",
+        "Make a projection image using the Z-stack images.",
+        "Measure width of a few regions of the intestine to represent its diameter."
+    ]
+}

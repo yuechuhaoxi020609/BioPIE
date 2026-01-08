@@ -1,0 +1,41 @@
+{
+    "id": 10675,
+    "origin_website": "Jove",
+    "title": "Microfluidic Bioprinting for Engineering Vascularized Tissues and Organoids",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Insert a smaller blunt needle into the center of a larger blunt needle to construct the dual-layer, concentric microfluidic printhead.",
+        "Adjust the alignment so that the core needle protrudes slightly (~1 mm) longer than the outer shell.",
+        "Seal the junction of the barrels with epoxy glue and remove any alignment spacers from the tip side if necessary.",
+        "Insert another needle in the barrel of the central needle in the reverse direction.",
+        "Generate a hole on the side of the barrel of the outer needle and insert a metal connector into the hole.",
+        "Seal the connection between the needle and the metal connector with epoxy glue.",
+        "Connect the inlets of the printhead to a dual-channel syringe pump through two PVC tubes.",
+        "Mount the extruder onto the head of a bioprinter using a plastic holder made of poly(methyl methacrylate) (PMMA).",
+        "Dissociate human umbilical vein endothelial cells (HUVECs) from the flasks using treatment by 0.05 w/v% trypsin for 5 - 10 min.",
+        "Resuspend HUVECs in bioink at a concentration of 5 - 10 \u00d7 10^6 cells/mL.",
+        "Pipette cell suspension slowly 5 to 10 times to ensure homogenous distribution.",
+        "Start the injection of the bioink/crosslinking fluid using a dual-channel syringe pump.",
+        "Allow the flows to stabilize for up to 1 min.",
+        "Initiate the movement of the printhead at a deposition speed of approximately 4 mm/s.",
+        "Fine tune the speeds with each new setup as needed.",
+        "Conduct the bioprinting process at room temperature (21 - 25 \u00b0C).",
+        "Allow for fast ionic gelation of the alginate component during bioprinting.",
+        "Depose a microfibrous scaffold.",
+        "Achieve chemical gelation by photocrosslinking the GelMA component with approximately 5 - 10 mW/cm\u00b2 UV light at 360 - 480 nm for 20 - 30 s.",
+        "Gently rinse the scaffold with phosphate-buffered saline (PBS) to remove excess CaCl\u2082.",
+        "Culture the HUVECs-laden microfibrous scaffold in endothelial cell growth medium (EGM) in an incubator at 37 \u00b0C and 5 vol.% CO\u2082 for up to 16 days.",
+        "Change the medium at least every 2 days during culture.",
+        "Monitor the morphologies of the HUVECs under a microscope during the culture period.",
+        "Retrieve the scaffold once HUVECs have migrated to form lumen-like structures.",
+        "Place the scaffold gently on a hydrophobic surface such as polymethylsiloxane (PDMS).",
+        "Remove medium from the interstitial space of the scaffold using sterile filter paper with capillary force.",
+        "Add a drop (20 - 40 \u00b5L) of secondary cell type suspension in medium at density 1 - 10 \u00d7 10^6 cells/mL onto the scaffold.",
+        "Incubate the configuration in an incubator at 37 \u00b0C, 5 vol.% CO2, and 95% relative humidity for 0.5 - 2 h.",
+        "Monitor droplet size during incubation to ensure no noticeable evaporation occurs.",
+        "Gently wash scaffolds by shaking in a PBS bath to remove non-adherent cells.",
+        "Culture the construct in relevant medium until vascularized tissue is formed."
+    ]
+}

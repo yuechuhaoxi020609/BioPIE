@@ -1,0 +1,38 @@
+{
+    "id": 1256,
+    "origin_website": "Nature",
+    "title": "<p>Rapid, reliable, and cheap point-of-care bulk testing for SARS-CoV-2 by combining hybridization capture with improved colorimetric LAMP (Cap-iLAMP)</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Mix an aliquot of 2 ml Lysis Binding Buffer (LysBB, 2x concentrated) with 2 ml water to obtain 1x concentrated LysBB for bead washing.",
+        "Transfer 20 \u00b5l Dynabeads\u2122 MyOne\u2122 Streptavidin C1 per reaction to 1.5 ml tubes.",
+        "Place the tube in a magnetic rack and discard the supernatant.",
+        "Resuspend beads in 500 \u00b5l 1x LysBB, place in a magnetic rack, and discard supernatant.",
+        "Repeat the resuspension step once more with 500 \u00b5l 1x LysBB.",
+        "Resuspend washed beads in 100 \u00b5l 1x LysBB per reaction.",
+        "Add 2 \u00b5l of CV2_btn (100 \u00b5M) and 2 \u00b5l CV16_btn (100 \u00b5M) per reaction, rotate tubes for 10 minutes at room temperature for binding of the oligonucleotides to the beads.",
+        "Place tube on a magnetic rack, discard supernatant, and resuspend in 40 \u00b5l alkaline melt solution per reaction.",
+        "Incubate the suspension for 5 minutes at room temperature, then place tube in a magnetic rack and discard supernatant.",
+        "Resuspend beads in 40 \u00b5l 1x LysBB per reaction, place in a magnetic rack, and discard supernatant.",
+        "Resuspend washed beads in 100 \u00b5l 2x LysBB per reaction.",
+        "Distribute 100 \u00b5l of suspension to single 1.5 ml tubes if multiple reactions were prepared at once.",
+        "Add 400 \u00b5l of 2x LysBB to each tube.",
+        "Mix by pipetting to obtain a volume of 500 \u00b5l.",
+        "Add 500 \u00b5l of sample or water (negative control) or 499.5 \u00b5l of water and 0.5 \u00b5l synthetic SARS-CoV-2 RNA control 2 (positive control) to 500 \u00b5l bead suspension.",
+        "Mix by pipetting.",
+        "Incubate at 55\u00b0C for 10 min.",
+        "Place the suspension on a magnetic rack, discard the supernatant.",
+        "Resuspend the beads in 200 \u00b5l wash buffer, place the suspension on a magnetic rack, discard the supernatant.",
+        "Repeat this wash step once.",
+        "Resuspend the beads in 200 \u00b5l low salt buffer, place the suspension on a magnetic rack, discard the supernatant.",
+        "Resuspend the beads in 25 \u00b5l elution buffer, incubate at 60\u00b0C for 2 min.",
+        "Place the reaction on a magnetic rack, transfer the supernatant to a fresh tube, discard the beads.",
+        "To 20 \u00b5l of LAMP master mix, add 10 \u00b5l of eluate from the captures, mix by pipetting.",
+        "Add 0.5 \u00b5l of SYBR green I to the cap of the tube without getting in contact with the reaction volume.",
+        "Incubate the reactions for 40 min at 65\u00b0C.",
+        "Shake the tube to mix the reaction volume with the SYBR green I in the cap."
+    ]
+}

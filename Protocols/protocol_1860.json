@@ -1,0 +1,29 @@
+{
+    "id": 74,
+    "origin_website": "Nature",
+    "title": "Genome-wide analysis of data generated on the Affymetrix 10K Xba 142 arrays for identification of regions with high probability to contain genes responsible for Micronodular \\(non-pigmented) Adrenocortical Hyperplasia",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Genetics",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Utilize the Genetic Algorithm Module to find logical combinations of SNP's for association studies.",
+        "Calculate Chi Square, Yates, Fisher Exact, Odds Ratio, LD, D', etc., using the Association Study Module.",
+        "Perform LOH analysis on the dataset using user-specified controls as a reference set with the Chromosome Alteration module.",
+        "Utilize the AS module to provide extensive statistical analysis of the dataset including Fishers Exact by genotype and allele.",
+        "Calculate Odds Ratio by genotype and allele using the AS module.",
+        "Use the AS module for feature selection of the dataset prior to inputting it into the GA Module.",
+        "Run the Genetic Algorithm Module against the dataset multiple times with different parameter settings.",
+        "Run GA module against the entire input dataset.",
+        "Build models of smallest size that can effectively predict outcomes while minimizing False Positives and maximizing True Positives.",
+        "Employ various feature selection methods to reduce the input parameter space.",
+        "Calculate a p-value for each SNP using Fisher's method.",
+        "Eliminate SNPs if their p-value does not fall below a certain threshold.",
+        "Calculate minor allele frequency for each SNP for cases and controls.",
+        "Eliminate SNPs from consideration if variance is below a defined threshold.",
+        "Run Exemplars CA Module against the dataset to detect possible deletions in chromosomes by looking for Loss Of Heterozygosity.",
+        "Assign a p-value to each SNP."
+    ]
+}

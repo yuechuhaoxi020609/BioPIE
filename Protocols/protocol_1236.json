@@ -1,0 +1,37 @@
+{
+    "id": 4072,
+    "origin_website": "Cell",
+    "title": "Cell cycle arrest of S.\u00a0cerevisiae in conjunction with labeling of the cell wall",
+    "subjectAreas": [
+        "Microscopy",
+        "Cell Biology",
+        "Model Organisms",
+        "Genetics"
+    ],
+    "protocol": [
+        "Wash the cells twice in ice-cold PBS and then resuspend them in 0.5 mM sodium m-periodate in PBS (freshly prepared).",
+        "Incubate for 15 min on ice.",
+        "Wash the cells 2\u00d7 with ice-cold PBS.",
+        "Incubate on ice for 30 min with 0.5 mg/mL Texas Red--hydrazide or 13 mM CF488A Aminooxy in PBS (diluted from 100\u00d7 stocks).",
+        "Wash the cells twice and return them to growth medium \u00b1 methionine.",
+        "Label the cells in growth medium by adding a 1/100 volume of rhodamine-Concanavalin A stock (1 mg/mL).",
+        "Incubate for 15 min ice.",
+        "After two washes in growth medium \u00b1 methionine, resuspend the cells in medium \u00b1 methionine.",
+        "Grow shaking cultures of cells in synthetic medium lacking methionine.",
+        "When they reach mid-log phase (OD600 = 0.5\u20131), sediment samples in Eppendorf tubes and resuspend in an equal volume of complete synthetic medium ([methionine] = 20 mg/liter).",
+        "Shake for 3 h at 23\u00b0C.",
+        "Sediment cell cultures.",
+        "Apply 0.5\u20131.0 \u03bcL samples of the pellet to the surface of agarose pads after exposure of the agarose by sliding off the upper slide.",
+        "Overlay with a No. 1 thickness coverslip.",
+        "For imaging in excess of 15 min duration, trim the agar to the dimensions of the coverslip and seal with vaseline to reduce drying.",
+        "Examine samples in a Deltavision RT epifluorescence microscope with an automated stage using an oil immersion objective.",
+        "Capture z-stacks at intervals of 0.2\u20130.5 \u03bcm.",
+        "Set the exposure time to 0.05\u20131 s and field size to 1040 \u00d7 1040 pixels, binning 1 \u00d7 1.",
+        "Collect through-focal series spanning a total of 6 \u03bcm.",
+        "Remove out-of-focus light using the Softworks deconvolution program.",
+        "If imaging living cells is inconvenient, add formaldehyde to cultures to achieve a final concentration of 3.7%.",
+        "Agitate cultures with added formaldehyde for 5 minutes.",
+        "Wash cultures once with growth medium to quench free aldehydes.",
+        "Store samples in water at 4\u00b0C for 1\u20132 days before examination."
+    ]
+}

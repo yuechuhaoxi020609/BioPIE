@@ -1,0 +1,26 @@
+{
+    "id": 94,
+    "origin_website": "Nature",
+    "title": "RNAi in human monocyte-derived dendritic cells using shRNA vectors",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Plate 293T cells at 0.5x10^6 per well in 6-well plates.",
+        "Transfect 293T cells with TransIT-293 following the manufacturer's protocol, using 8 \u00b5L TransIT-293 and 3 \u00b5g total DNA.",
+        "Change media to 3 ml per well of 293T culture media.",
+        "Isolate mononuclear cells from adult or cord blood on a FicollPAQUE gradient.",
+        "Use Miltenyi human CD14+ beads and procedure to isolate CD14+ monocytes and check their purity.",
+        "Plate 5x10^6 monocytes in 5 ml MDDC culture media in a 10 cm plate with recombinant human GM-CSF at 10 ng/ml and recombinant human IL-4 at 50 ng/ml.",
+        "Add 1 \u00b5g/ml polybrene to the cell cultures.",
+        "Filter culture supernatants from transfected 293T cells with 0.45 \u00b5m yellow filters (Corning).",
+        "Add 2.5 ml of helper particle supernatant to the monocytes.",
+        "Add 2.5 ml of shRNA particle supernatant to the monocytes.",
+        "Add an additional 2.5 ml of fresh MDDC culture media containing GM-CSF and IL-4.",
+        "Add an additional 2.5 ml of fresh MDDC culture media containing GM-CSF and IL-4.",
+        "Analyze transduction efficiency by cytometry if a lentiviral vector encoding GFP was used.",
+        "Check knockdown efficiency by real-time PCR.",
+        "Check knockdown efficiency by western blotting."
+    ]
+}

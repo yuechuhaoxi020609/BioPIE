@@ -1,0 +1,23 @@
+{
+    "id": 822,
+    "origin_website": "Nature",
+    "title": "Generation of mouse bone marrow-derived dendritic cells \\(BM-DCs)",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Flush mouse tibiae and femurs with ice-cold PBS through a 70 \u03bcm-wide cut-off cell strainer.",
+        "Centrifuge 5' at 1400 rpm.",
+        "Resuspend pelleted cells in conditioned medium supplemented with 10% of growth supernatant of GM-CSF-transduced B16 cells.",
+        "Seed 7 x 10^6 cells in 100 x 20 mm non-treated cell culture plates in 10 ml of conditioned medium.",
+        "Incubate at 37\u00b0C \u2013 5% CO2.",
+        "On day 4 and 7, add 5 ml of pre-warmed conditioned medium.",
+        "At day 8/9, harvest the supernatant and gently wash the plate once with 5 ml of pre-warmed PBS.",
+        "Incubate 2' with 5 ml of 2mM EDTA at 37\u00b0C \u2013 5% CO2.",
+        "Collect cells, wash once with PBS.",
+        "Centrifuge 5' at 1200 rpm.",
+        "Resuspend pelleted cells in conditioned medium."
+    ]
+}

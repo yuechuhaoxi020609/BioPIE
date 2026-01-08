@@ -1,0 +1,25 @@
+{
+    "id": 154,
+    "origin_website": "Nature",
+    "title": "Receptor internalization assay to probe for agonist binding to CXCR2",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Chemical Biology",
+        "Drug Discovery",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Cultivate HEK293-CXCR2 cells at a density of 10^5 cells/well in a 12-well plate using 10%FCS/DMEM culture medium overnight.",
+        "Change the medium to DMEM containing 0.5% FCS.",
+        "Treat the cells with CXCL8 or rMIF for 45 min at 37\u00b0C.",
+        "Remove the medium and wash the cells once with cold acidic glycine buffer and twice with cold PBS.",
+        "Stain the cells with mouse anti-human CXCR2 antibody diluted 1:500 in PBS containing 1% FCS, or isotype control, for 45 min at 4\u00b0C.",
+        "Wash the cells three times with cold PBS.",
+        "Incubate the cells with FITC-conjugated anti-mouse antibody for 30 min at 4\u00b0C.",
+        "Analyse the fluorescence intensity by FACS.",
+        "Calculate percent of receptor internalization from the relative fluorescence intensity using the provided formula."
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": 461,
+    "origin_website": "Nature",
+    "title": "Orthotopic lung epithelial cell transplantation",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Administer 280 FFU of Influenza A/H1N1/Puerto Rico/8/34 (PR8) intra-nasally to recipient mice.",
+        "Dissolve PR8 virus in 30 \u03bcl of PBS.",
+        "Pipette the dissolved PR8 virus onto the nostrils of heavily anesthetized mice.",
+        "Confirm proper anesthesia by visual confirmation of agonal breathing.",
+        "Ensure properly anesthetized mice aspirate the fluid directly into their lungs.",
+        "Isolate donor cells from a ubiquitously fluorophore-expressing mouse at 9 days post-infection.",
+        "Resuspend isolated donor cells in 50 \u03bcl sterile PBS after sorting.",
+        "Transplant cell solution intranasally into recipient mice.",
+        "Keep mice in a nose cone with a flow of 100% oxygen to aid recovery and decrease accidental death risk.",
+        "Observe engraftment using between 1,000 to 1 million donor cells.",
+        "Anesthetize mice at day 21 post-infection for tissue harvest.",
+        "Perfuse and lavage lungs three times with 1 ml PBS.",
+        "Inflate lungs with about 0.75 mls of 4% PFA and tie off at the trachea.",
+        "Rock inflated lungs in an additional 20 ml of 4% PFA for 1 hour.",
+        "Decant PFA solution from lungs, rinse with PBS, and decant again.",
+        "Replace with fresh PBS and rock incubate lungs for 1-4 hours at room temperature.",
+        "Incubate lungs overnight in 30% sucrose in PBS + 0.02% azide on a rocker at 4 degrees Celsius.",
+        "Decant sucrose solution the next day and replace with 50% OCT / 15% sucrose / PBS for 2 hours at room temperature.",
+        "Dissect each lung lobe and trachea carefully.",
+        "Arrange dissected lungs and trachea in a cryomold containing 100% OCT.",
+        "Incubate the cryomold on ice for 1 hour.",
+        "Freeze the entire cryomold in a dry ice alcohol bath."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": 751,
+    "origin_website": "Nature",
+    "title": "Raising H.illucnes: A Protocol",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Place the larvae in a 1m^3 box pre-filled with dirt.",
+        "Feed the larvae specific food 3-4 times a day at intervals of 2-3 hours.",
+        "Continue feeding until the larvae become pupae.",
+        "Increase the amount of food when the larvae transition to pupae.",
+        "Change the environment for adult emergence by adding water once pupae become adults.",
+        "Provide a mating environment with water after adults emerge.",
+        "Retrieve newly made larvae after adults have mated."
+    ]
+}

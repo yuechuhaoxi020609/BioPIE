@@ -1,0 +1,26 @@
+{
+    "id": 173,
+    "origin_website": "Nature",
+    "title": "Biofunctionalization of PDMS-based microfluidic systems",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Clean flat PDMS surfaces with ethanol 96%.",
+        "Rinse cleaned PDMS surfaces with DI H\u2082O.",
+        "Dry PDMS surfaces with N\u2082.",
+        "Immerse PDMS in a 1 mg/ml PEG solution in DI H\u2082O for 1 hour.",
+        "Rinse PDMS with DI H\u2082O after PEG immersion.",
+        "Dry PDMS with N\u2082 after rinsing.",
+        "Immerse PDMS in a 1 mg/ml PVA solution in DI H\u2082O for 1 hour.",
+        "Rinse PDMS with DI H\u2082O after PVA immersion.",
+        "Dry PDMS with N\u2082 after rinsing.",
+        "Immerse PDMS in an acidic solution containing DI H\u2082O, 37% HCl and 30% H\u2082O\u2082 in a 5:1:1 (v/v/v) ratio for 1 hour.",
+        "Rinse PDMS with DI H\u2082O after chemical oxidation.",
+        "Dry PDMS with N\u2082 after rinsing.",
+        "Measure the contact angle with a contact angle meter: deposit a drop of water on the modified PDMS surfaces and compare the angle formed between the drop and the surface to the angle formed using a non-modified PDMS surface.",
+        "Calculate the mean value of the contact angle and its standard deviation.",
+        "Make an XPS analysis of the modified and non-modified PDMS surfaces."
+    ]
+}

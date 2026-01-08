@@ -1,0 +1,32 @@
+{
+    "id": 1076,
+    "origin_website": "Nature",
+    "title": "**Rapid extraction of living primary veins from the leaves of _Arabidopsis thaliana_**",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Plant Sciences"
+    ],
+    "protocol": [
+        "Select an expanded leaf for the procedure.",
+        "Place the apical part of the selected leaf on a block of agar (1% w/v).",
+        "Make an arc-like incision through the upper and lateral epidermis of the petiole, positioned 4-8 mm from the center of the rosette.",
+        "Do not make an incision on the basal petiole surface.",
+        "Create a second similar incision up to 4 mm from the first incision towards the leaf tip.",
+        "Make a perpendicular cut through the upper epidermis to join the two previous incisions.",
+        "Gently remove extravascular tissues in the region of the incisions using small forceps and a scalpel.",
+        "Ensure that the manipulations do not damage the vasculature.",
+        "This procedure typically takes 2-5 minutes to complete.",
+        "Select an expanded leaf.",
+        "Cut off the leaf blade just above the petiole/blade junction, leaving a few millimeters of the leaf blade.",
+        "Discard the apical part of the leaf blade.",
+        "Make gentle incisions through the upper (adaxial) and lateral epidermis near the base of the petiole using a scalpel.",
+        "Avoid making any incision on the underside of the petiole.",
+        "Gently pull away the cut end near the petiole/lamina junction using thumb and forefinger to expose the midvein.",
+        "Quickly excise the exposed vein for immediate use or rapid freezing in liquid nitrogen.",
+        "Make a ring-like incision through the upper and lateral epidermis of the petiole of the leaf 4 - 8 mm from the center of the rosette.",
+        "Gently pull the leaf away from the center of the plant using thumb and forefinger.",
+        "Place a block of 1% (w/v) agar in 0.5 x Murashige Skoog medium on the soil below the exposed vein to prevent desiccation.",
+        "Place a strip of filter paper previously soaked in 0.5 x MS medium on the agar block below the vein to enhance visibility and prevent desiccation.",
+        "Allow plants to recover for 1 hour in humidified Plexiglas boxes before conducting experiments."
+    ]
+}

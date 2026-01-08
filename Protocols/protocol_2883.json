@@ -1,0 +1,21 @@
+{
+    "id": 462,
+    "origin_website": "Nature",
+    "title": "Tamoxifen Administration for Lineage Tracing Using CreERT2 mice",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Reconstitute tamoxifen stock solution at a concentration of 20 mg/ml in 100% ethanol.",
+        "Aliquot 1 ml portions and store at -80\u00b0C.",
+        "Weigh mice to determine the appropriate dose of tamoxifen based on body weight.",
+        "Dissolve tamoxifen stock into corn oil to achieve a final volume of 50 \u03bcl per dose.",
+        "Vortex the corn oil/ethanol mixture and place in vacuum centrifuge for 30 min to evaporate ethanol.",
+        "Aspirate the tamoxifen solution into an insulin syringe.",
+        "Administer tamoxifen intraperitoneally to mice.",
+        "Inject mice with between 3 and 5 doses of tamoxifen as appropriate for transgenic lines.",
+        "Quantify recombination efficiency in a known cell type expressing the gene driving CreER.",
+        "Use a chase period of at least 21 days to ensure the absence of residual tamoxifen before injury."
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2692,
+    "origin_website": "Cell",
+    "title": "Protocol for the generation of human induced hepatic stem cells using Sendai virus vectors",
+    "subjectAreas": [
+        "Cell Differentiation",
+        "Cell Culture",
+        "Stem Cells",
+        "Health Sciences"
+    ],
+    "protocol": [
+        "Wash human hepatocytes twice with 10 mL of phosphate buffered saline (PBS) on Day -1.",
+        "Dissociate the cells with 0.05% trypsin/EDTA for 5 min.",
+        "Add 5 ml of hepatocyte basal medium and break up cell aggregates by pipetting up and down with a 5 ml pipette.",
+        "Centrifuge the samples at 700 \u00d7 g for 5 min to pellet the cells.",
+        "Remove the supernatant.",
+        "Count cells and dilute to 1.0 \u00d7 10^5 cells/mL in hepatocyte basal medium.",
+        "Plate cells (1.0 \u00d7 10^5 cells/well) in 6-well plates.",
+        "Incubate human hepatocytes at 37\u00b0C, 5% CO2, and 85% humidity for 24 h.",
+        "Prepare a 15 ml tube containing 2 mL of hepatocyte basal medium with 10 \u03bcL of SeV KOS (5.0 \u00d7 10^5 CIU), 10 \u03bcL of SeV Klf4 (5.0 \u00d7 10^5 CIU), and 10 \u03bcL of SeV Myc (5.0 \u00d7 10^5 CIU) on Day 0.",
+        "Aspirate the culture medium.",
+        "Add 2 mL hepatocyte basal medium with SeV.",
+        "Place the 6-well plate in an incubator at 37\u00b0C, 5% CO2, and 85% humidity for 24 h.",
+        "On Day 1, aspirate the culture medium.",
+        "Renew with fresh hepatocyte basal medium.",
+        "Repeat daily for 3 days.",
+        "On Day 4, dissociate the hepatocytes.",
+        "Plate the hepatocytes in a 60 mm dish containing MEFs using human ES/iPS/iTS-L cell culture medium.",
+        "Place the 60 mm dish in an incubator at 37\u00b0C, 5% CO2, and 85% humidity.",
+        "Change human ES/iPS/iTS-L cell culture medium daily.",
+        "On Days 14\u201321, observe for round morphology transformation of reprogrammed cells.",
+        "Independently expand every single clone for characterization and freezing.",
+        "Anesthetize immunodeficient male mice with isoflurane inhalation.",
+        "Inject 1.0 \u00d7 10^6 cells in 0.1 mL of cold Hanks' balanced salt solution subcutaneously into the shoulders and buttocks using a 22 G injection needle.",
+        "Examine the mice daily for tumor formation.",
+        "Extract tumors at 10 or 15 weeks after surgery.",
+        "Culture iPS/iTS-L cells to approximately 80% confluence in Primate ES Cell Medium.",
+        "Prepare RNA from the iPS/iTS-L cells using a SuperPREP II Cell Lysis & RT Kit according to the manufacturer\u2019s instructions."
+    ]
+}

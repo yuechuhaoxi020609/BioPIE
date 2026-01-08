@@ -1,0 +1,39 @@
+{
+    "id": 11229,
+    "origin_website": "Jove",
+    "title": "Simultaneous Synthesis of Single-walled Carbon Nanotubes and Graphene in a Magnetically-enhanced Arc Plasma",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Scale nickel powder and yttrium powder according to the molar ratio of 4.2:1 as catalyst powder.",
+        "Mix the catalyst powder with graphite powder very well.",
+        "Fill the mixed powder into a hollow graphite rod firmly.",
+        "Ensure the total molar ratio of C:Ni:Y in the anode rod is 94.8:4.2:1.",
+        "Install the cathode rod inside the cylindrical chamber.",
+        "Position the stuffed anode rod inside the cylindrical chamber with the cathode rod.",
+        "Adjust the gap distance between the cathode and anode to about 3 mm.",
+        "Place a cuboid permanent magnet inside the chamber at about 25 mm from the interelectrode axis.",
+        "Cut a 0.3 mm thickness molybdenum sheet into a 25 mm \u00d7 100 mm rectangular shape.",
+        "Remove surface contamination of the molybdenum sheet by ultrasonic dismembrator in acetone and ethanol for 30 min.",
+        "Install the molybdenum sheet attaching one side of the permanent magnet.",
+        "Turn this side of the molybdenum sheet towards the electrodes.",
+        "Measure the magnetic field in the interelectrode gap by a Gaussmeter.",
+        "Pump down the cylindrical chamber to less than 10-1 Torr vacuum.",
+        "Fill the chamber with helium (99.995%) to 500 Torr.",
+        "Connect arc electrodes to DC welding power supply.",
+        "Set up the power supply on an arc current of about 75 A.",
+        "Record real-time values of arc current, arc voltage, and chamber pressure for analysis.",
+        "Start video recording from right and front viewports simultaneously.",
+        "Run the arc for 15 seconds.",
+        "Cool down the chamber by natural convection for at least 20 minutes.",
+        "Use tweezers to tear off the deposition flake from the surface of molybdenum sheet.",
+        "Collect another sample from the black collar of cathode.",
+        "Observe the morphology of both sides of deposition flake under SEM (acceleration voltage of 30 kV).",
+        "Drop cast a suspension of methanol-dispersed SWCNT solution after sonicating for 60 minutes using ultrasonic dismembrator with 50% amplitude.",
+        "Observe the morphology of the thin film under JEOL TEM at 100 KV after volatilization of methanol solution.",
+        "Obtain electron diffraction patterns from positions of interest in sample using a CCD camera length of 50 cm associated with TEM.",
+        "Perform Raman spectroscopy on graphene flakes using a micro-Raman system based on a 200 mW Lexel 3000 Ar ion laser at 514 nm wavelength.",
+        "Cover the range of 100 cm-1 to 3100 cm-1 for Raman measurements on the surface of graphene flakes."
+    ]
+}

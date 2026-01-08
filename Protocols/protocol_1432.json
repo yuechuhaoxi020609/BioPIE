@@ -1,0 +1,35 @@
+{
+    "id": 981,
+    "origin_website": "Nature",
+    "title": "Novel FACS strategy for identification of early hematopoietic progenitors including BFU-e, CFU-e and erythroid-biased MPPs",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Obtain femora and tibiae from 10 mice and remove the muscles.",
+        "Cut the tip of the bones and flush the shaft with 2 to 3 ml of staining buffer or medium using a 2 ml syringe with a 26-gauge needle.",
+        "Crush the bones after flushing, using mortar & pestle to obtain any remaining cells.",
+        "Pass cells through a 70 \u03bcm cell strainer to remove cell clumps. Moisten filter with buffer or medium before use.",
+        "Pellet cells by centrifugation at 1400 rpm for 5 min.",
+        "Resuspend the cells in staining buffer and count.",
+        "Resuspend cells at 2 x 10^8 cells/ml in EasySep buffer.",
+        "Add Rat Serum to a final concentration of 1% to block Fc receptors.",
+        "Prepare a cocktail of lineage-specific antibodies, each at a final concentration of 0.005 mg/ml: biotin lanti-TER119, anti-CD11b (Clone M1/70), anti-Ly-6G and Ly-6C (Clone RB6-8C5), anti-CD4 (Clone RM4-5), anti-CD8a (Ly-2) (Clone 53-6.7), anti-CD19 (Clone 1D3).",
+        "Mix the cells with the antibody cocktail and incubate for 30 min on ice.",
+        "Vortex RapidSpheres and add to sample at 100 \u03bcl/ml (1 ml/10 ml).",
+        "Mix well and incubate on ice for 15 min.",
+        "Divide 10 ml total volume of sample into two 5 ml samples (Use 15 ml conical Falcon tubes).",
+        "Bring each sample to a 10 ml total volume with Easysep buffer.",
+        "Place the tube in The Big Easy magnet for 10 minutes.",
+        "Pour the supernatant into a new empty 15 ml Falcon tube.",
+        "Repeat the magnet wash for higher purity.",
+        "Pellet lineage-depleted cells by centrifugation at 1400 rpm for 5 min.",
+        "Wash the lineage-depleted cells with cold staining buffer.",
+        "Pellet by centrifugation at 1400 rpm for 5 min.",
+        "Stain for 1 hour on ice in 1 ml of staining buffer containing 1% Rat Serum and specified antibodies.",
+        "Wash cells with cold staining buffer.",
+        "Resuspend in 1 ml staining buffer containing DAPI and 5 mM EDTA."
+    ]
+}

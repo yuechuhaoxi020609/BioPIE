@@ -1,0 +1,31 @@
+{
+    "id": 1271,
+    "origin_website": "Nature",
+    "title": "<p>Effects of administration route on uptake kinetics of <sup>18</sup>F-sodium fluoride Positron Emission Tomography in mice</p>",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Prepare <sup>18</sup>F-NaF in saline (0.9% w/v).",
+        "Use a cyclotron and a FASTlab synthesiser (GE Healthcare), using commercially available cassettes.",
+        "Induce and maintain anaesthesia using isoflurane (2-2.5%, Oxygen 0.5 L/min, Nitrous Oxide 0.5 L/min) during the whole surgical procedure.",
+        "Insert polyethylene catheters (PE10) filled with heparinized (20 IU/mL) saline into the left femoral artery or vein using a stereomicroscope.",
+        "Secure fastened catheters with ligatures (6-0 silk thread).",
+        "Hold catheters in place with surgical glue.",
+        "Transfer animals to the PET/CT scanner (nanoPET/CT, Mediso, Hungary) for all subsequent imaging procedures.",
+        "Use the right femur and the right tibia to obtain bone measurements.",
+        "Administer <sup>18</sup>F-NaF via intra-vascular or intra-peritoneal injection.",
+        "Obtain a 60 min whole-body emission scan immediately post-radiotracer administration using a 1:5 coincidence mode.",
+        "Acquire a CT scan for attenuation correction with semi-circular full trajectory, maximum field of view, 360 projections, 35 kVp, 170 ms and 1:4 binning.",
+        "Reconstruct PET data into frames of 6\u00d730 sec, 3\u00d760 sec, 2\u00d7120 sec, and 10\u00d7300 sec using Mediso\u2019s iterative Tera-Tomo 3D reconstruction algorithm with settings including 4 iterations, 6 subsets, full detector model, low regularisation, spike filter on, voxel size 0.4 mm and 400-600 keV energy window.",
+        "Correct PET data for randoms, scatter, and attenuation.",
+        "Import reconstructed scans into PMOD 4.0 software (PMOD Technologies, Switzerland).",
+        "Manually draw volumes of interest (VOIs) around organs and bones of interest using the CT data.",
+        "Estimate radioactivity in the blood using the blood pool in the vena cava.",
+        "Generate time-active curves (TACs) for each organ.",
+        "Calculate standardised uptake values (SUV, g/ml) using the given equation.",
+        "Perform kinetic modelling using Patlak analysis (t*=16minutes) to estimate the influx constant (Ki).",
+        "Use the blood pool VOI in the vena cava as reference tissue VOI for Patlak modelling.",
+        "Take SUV and SUVr averages from the last 3 frames between 45-60 minutes."
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 1241,
+    "origin_website": "Nature",
+    "title": "<p>Protocol for subcellular targeted microthermal protein damage in cells cultivated on plasmonic nanosilver-modified surfaces</p>",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Prepare stock solutions of silver nitrate (0.005 M), ammonia solution (0.1 M), sodium citrate (1% w/w), sodium borohydride (0.001 M), and hydrazine monohydrate (0.05 M) with water.",
+        "Add 5 mL of silver nitrate, 1.25 mL of ammonia solution, 1.25 mL of sodium citrate, and 13.425 mL of distilled water into a 50 mL beaker while stirring continuously.",
+        "Add 0.075 mL of sodium borohydride and 4 mL of hydrazine to the mixture in the beaker.",
+        "Stir the solution for 5 minutes.",
+        "Measure UV-VIS absorption spectra of the solution.",
+        "Functionalize cell culture plates by filling up the wells with 1% polyacrylic acid (PAA).",
+        "After a 2-hour functionalization period, pour out PAA from the wells and wash them under running distilled water.",
+        "Coat each well surface by filling up the wells for 2 hours with 1% poly(diallyl dimethylammonium chloride) (PDDA).",
+        "Pour out unabsorbed PDDA from the wells and wash properly by running distilled water.",
+        "Fill up the wells with AgNPs dispersion and leave still for 45 minutes to deposit AgNPs on the well surface.",
+        "Empty the wells, wash them with distilled water, and air-dry.",
+        "Seed the desired cell line using standard cell culture protocol.",
+        "Use between 80,000 and 100,000 cells per well for optimal confluency in a 24-well plate.",
+        "Place the well plate with cells on a prewarmed (35\u00b0C-37\u00b0C) confocal microscope.",
+        "Wait approximately 15 minutes to allow temperature equilibration.",
+        "Visualize the cells expressing GFP using a blue laser and appropriate filters.",
+        "Set the focus of the objective to the plasmon layer by finding the interface between the cell body and the bottom of the well surface.",
+        "Alternatively, visualize the plasmon layer using transmission light mode.",
+        "Activate the plasmon layer with a 561 nm solid-state laser or another appropriate laser with similar wavelength.",
+        "Regulate emitted heat through laser power, pixel dwell time, and number of irradiation cycles.",
+        "Determine the appropriate setup experimentally due to differences between microscopes and lasers.",
+        "Visualize cells (GFP-reporter) by 488 nm laser."
+    ]
+}

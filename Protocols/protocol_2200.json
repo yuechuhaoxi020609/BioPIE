@@ -1,0 +1,17 @@
+{
+    "id": 1066,
+    "origin_website": "Nature",
+    "title": "A target-specific whole cell assay for antibacterial drug discovery",
+    "subjectAreas": [
+        "Chemical Biology",
+        "Drug Discovery"
+    ],
+    "protocol": [
+        "Inoculate _S. aureus_ strains carrying plasmid pTet15 (control) or pTet15-FabF from frozen cultures into 25 ml Miller's LB with 34 \u03bcg/ml chloramphenicol and grow overnight at 37\u00b0C with shaking (220 rpm).",
+        "Dilute cultures in LB to a final OD600 of 2.",
+        "Add one ml of diluted culture to 25 ml LB/1.2% select agar containing 15 \u03bcg/ml chloramphenicol and 45 ng/ml anhydrotetracycline, pour into an OmniTray with a 96-well pin lid, and allow it to solidify at room temperature.",
+        "Remove the pin lids after plates have solidified.",
+        "Add 10 \u03bcl of various concentrations of platensimycin in DMSO to wells on both control and FabF overexpressing plates.",
+        "Incubate plates overnight at 37\u00b0C and image."
+    ]
+}

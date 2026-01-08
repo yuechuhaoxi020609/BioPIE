@@ -1,0 +1,29 @@
+{
+    "id": 911,
+    "origin_website": "Nature",
+    "title": "Manipulation of \u03b17 nicotinic acetylcholine receptor signaling in primary ovine fetal microglia cultures",
+    "subjectAreas": [
+        "Biotechnology",
+        "Cell Biology",
+        "Biological Techniques",
+        "Developmental Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Obtain fetal sheep brain tissues during sheep autopsy after completion of the in vivo experiment.",
+        "Adapt a human adult and fetal microglia culture protocol to include a myelin removal step following high-speed centrifugation.",
+        "Plate fetal sheep cells on poly-L-lysine-coated tissue culture flasks at a concentration of 2 \u00d7 10^6 cells/ml in DMEM with supplements.",
+        "Incubate cells for seven days at 37\u00b0C, 5% CO\u2082.",
+        "Perform a media change by centrifuging the cells and adding re-suspended cells back to the culture flask.",
+        "Continue incubating cells for an additional seven days at 37\u00b0C, 5% CO\u2082.",
+        "Collect floating microglia carefully to avoid contamination with astrocytes and oligodendrocytes.",
+        "Incubate collected cells in a 24-well plate at 1 \u00d7 10^5 cells/ml with 5% DMEM for 4-5 days.",
+        "Treat cells with or without LPS (100 ng/ml) for 6 hours.",
+        "Collect cell conditioned media for cytokine analysis.",
+        "Add 0.5 ml TriZol per well for RNA extraction.",
+        "Extract total RNA from cultured microglia using TRIzol Reagent.",
+        "Quantify RNA quantity and quality using an RNA Nano Chip on Agilent 2100 BioAnalyzer.",
+        "Prepare RNAseq libraries using Illumina TruSeq RNA Sample Preparation v2 kit.",
+        "Perform single-end 50-bp sequencing at high throughput on an Illumina HiSeq2500."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 437,
+    "origin_website": "Nature",
+    "title": "Protocol for delivery of macromolecules using dfTAT into live cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Seed cells (HeLa, HDF, etc.) in a dish (e.g., 8 well or 24 well dish).",
+        "Grow cells in appropriate medium (e.g., DMEM supplemented with 10% FBS and Pen/Strep) until 80-90% confluency in a 37\u00b0C humidified atmosphere containing 5% CO2.",
+        "Wash cells 3 times (3X) with PBS.",
+        "Make a 5 \u00b5M working concentration of dfTAT by diluting dfTAT in nrL-15 media (for an 8 well dish, the total volume should be 200 \u00b5L).",
+        "Incubate cells with dfTAT with or without cargo (e.g., EGFP, TAT-Cre etc.) and keep at 37\u00b0C for 1h.",
+        "Wash cells with heparin (1 mg/ml) in L-15 (3 washes are recommended).",
+        "Incubate cells with cell-impermeable nuclear stain such as Sytox Blue or Sytox Green (2 \u00b5M in nrL-15) to determine whether the plasma membrane of cells is compromised.",
+        "Image cells using a fluorescence microscope (100X oil immersion or 20X objective).",
+        "Image dfTAT using a RFP filter (Ex = 560 \u00b1 20 nm/Em = 630 \u00b1 35 nm).",
+        "Assess successful delivery by observing diffuse fluorescence of dfTAT throughout the cell.",
+        "Stain nucleoli with fTAT to indicate intracellular entry.",
+        "Monitor degradation of fTAT within a few hours, noting punctate distribution as an indication of degradation fragments."
+    ]
+}

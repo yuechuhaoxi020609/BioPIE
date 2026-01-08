@@ -1,0 +1,43 @@
+{
+    "id": 610,
+    "origin_website": "Nature",
+    "title": "RNA isolation using the miRNeasy Micro Kit",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Transfer 200 \u00b5l of biofluid into a 1.5 ml microfuge tube.",
+        "Add 1000 \u00b5l of QIAzol Lysis Reagent to the tube.",
+        "Vortex for 5 seconds.",
+        "Incubate for 5 minutes at room temperature.",
+        "Add 200 \u00b5l chloroform to the sample.",
+        "Shake vigorously for 15 seconds.",
+        "Incubate for 3 minutes at room temperature.",
+        "Centrifuge the sample for 15 minutes at 12,000 x g at 4\u00b0C.",
+        "Transfer the upper aqueous phase to a new microcentrifuge tube.",
+        "Carefully measure the aqueous phase and add 1.5 volumes of 100% ethanol.",
+        "Mix gently and thoroughly.",
+        "Assemble a MinElute spin column in a new collection tube.",
+        "Load up to 700 \u00b5l of the mixture from step 5 onto the column, including any precipitate that may have formed.",
+        "Spin for 15 seconds at 8,000 x g at room temperature.",
+        "Discard the flow-through.",
+        "Repeat steps 13-15 until the entire sample has been loaded.",
+        "Add 700 \u00b5l Buffer RWT to the RNeasy MinElute spin column.",
+        "Centrifuge for 15 seconds at 8,000 x g at room temperature to wash the column.",
+        "Discard the flow-through.",
+        "Pipette 500 \u03bcl Buffer RPE onto the RNeasy MinElute spin column.",
+        "Centrifuge for 15 seconds at 8000 x g to wash the column.",
+        "Discard the flow-through.",
+        "Pipette 500 \u00b5l 80% ethanol onto the RNeasy MinElute spin column.",
+        "Centrifuge for 2 minutes at \u2265 8000 x g (\u226510,000 rpm) at room temperature to wash the column.",
+        "Discard the collection tube with the flow-through.",
+        "Transfer the RNeasy MinElute spin column into a new 2 ml collection tube.",
+        "Centrifuge at full speed for 5 minutes to dry the membrane.",
+        "Discard the collection tube with the flow-through.",
+        "Transfer the RNeasy MinElute spin column to a new 1.5 ml collection tube.",
+        "Add 14 \u03bcl RNase-free water directly to the center of the spin column membrane.",
+        "Centrifuge for 1 minute at full speed to elute the RNA."
+    ]
+}

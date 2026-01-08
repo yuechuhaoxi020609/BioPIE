@@ -1,0 +1,29 @@
+{
+    "id": 141,
+    "origin_website": "Nature",
+    "title": "Blood Sampling from the Orbital Sinus",
+    "subjectAreas": [
+        "Biochemistry",
+        "Chemical Biology",
+        "Drug Discovery"
+    ],
+    "protocol": [
+        "Fast the rat for 16 hours.",
+        "Use thick gloves to take the rat out of its cage and place it in a container with a lid.",
+        "Transfer the rat into a glass desiccator containing vaporized halothane under the hood, watching carefully to avoid over-anesthetizing the rat.",
+        "Once the breathing rate slows down, remove the rat from the desiccator and place it on its ventral surface on an operating board with its tail positioned at 90 degrees towards the investigator.",
+        "Press down with the thumb and forefinger behind the eye and pull back the skin to make the eyeballs protrude.",
+        "Position a heparinized hematocrit capillary tube (35 mm long) at the inner corner of the eye beside the eyeball.",
+        "Slide the tube approximately 45 degrees to the eye forward gently by twisting it along the side of the orbit to reach the ophthalmic venous plexus (orbital sinus).",
+        "Allow blood vessels in the orbital sinus to rupture on contact with the tube tip, causing blood to drip into a collecting tube.",
+        "Tilt the rat's head downward and elevate the lower part of its body so that the capillary tube faces downwards for gravitational blood flow collection.",
+        "Collect approximately 2 mL of blood at a time for serial bleeding every two weeks.",
+        "Capillary tube is removed after bleeding.",
+        "Close the eyelid used for bleeding quickly.",
+        "Apply pressure to the eyeball with Kimwipes paper for 30 seconds.",
+        "Release the rat gently after checking if bleeding has stopped.",
+        "Allow blood samples to stand at 2-8\u00b0C for 1 hour.",
+        "Centrifuge serum at 1000 x g for 60 minutes.",
+        "Store separated serum at -70\u00b0C until analysis."
+    ]
+}

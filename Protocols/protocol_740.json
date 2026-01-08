@@ -1,0 +1,28 @@
+{
+    "id": 8,
+    "origin_website": "Nature",
+    "title": "Indirect immunofluorescence with preextraction \\(<em>in situ</em> cell fractionation)",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Prepare poly-D-lysinated coverslips.",
+        "Plate 15-20x10^3 cells on coverslips 1 day before staining.",
+        "Wash cells with ice-cold PBS twice gently.",
+        "Treat cells with ice-cold cytoskeleton buffer for 5 minutes on ice.",
+        "Aspirate and add an ice-cold cytoskeleton stripping buffer for 5 minutes on ice.",
+        "Wash cells with ice-cold PBS three times.",
+        "Fix cells in fixative for 30 minutes at room temperature.",
+        "Wash cells once with 2x PBS.",
+        "Permeabilize cells for 15 minutes at room temperature with permeabilization buffer.",
+        "Wash cells with PBS three times.",
+        "Block cells for 30 minutes with PBG 1X.",
+        "Stain cells with primary antibody diluted in PBG 1X for 1 hour at room temperature.",
+        "Wash cells gently with PBG 1X five times three times.",
+        "Stain cells with secondary antibody diluted in PBG 1X for 1 hour at room temperature.",
+        "Wash cells gently twice with PBG 1X and twice with PBS, each for five minutes.",
+        "Stain cells with Dapi for 5 minutes in the dark.",
+        "Mount coverslips with 3 \u03bcl of Mowiol mounting medium.",
+        "Let coverslips dry before microscope analysis."
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 816,
+    "origin_website": "Nature",
+    "title": "A new protocol for live imaging of mammalian retina _ex vivo_ by confocal laser scanning microscopy",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Obtain freshly enucleated bovine eyes from a local slaughterhouse within 1.5 hours of animal death.",
+        "Cut eyes in half and divide the eyeballs into two eyecups.",
+        "Carefully remove the cornea, lens, and vitreous and discard them.",
+        "Fill the semi-cup containing choroid and retina still attached to the RPE with 6-9 ml of MR solution containing 2 mM glucose, protease inhibitor cocktail, and Ampicillin (100 \u03bcg/ml).",
+        "Incubate for 5-10 minutes.",
+        "If necessary, add appropriate inhibitors to test dye specificity.",
+        "Conduct all steps in dim red light.",
+        "Add mitochondrial vital dyes from a stock solution to the eye semicup solution.",
+        "Incubate in the dark for 10-15 minutes without washing the eye semicups.",
+        "Mount the sample for imaging using option A or B based on preference.",
+        "For option A, after 20 minutes of incubation, shake the eye semicup gently to detach retinas from pigmented epithelium.",
+        "Remove retinas by turning the eye semi-cup inside out and cutting the retina free from the optic nerve.",
+        "Mount detached retinas onto a coverslip for CLSM without washing or fixing them.",
+        "For option B, set overall incubation time to no more than 10 minutes if rods must remain embedded in RPE.",
+        "Cut at the rim all around the posterior eye semi-cup.",
+        "Mount the posterior eye semi-cup on a coverslip chamber with the retina facing downwards.",
+        "Alternatively, immerse the whole semi-cup in a small pool arranged over the immersion objective of the microscope.",
+        "Wrap the immersion objective carefully in a plastic glove and allow its tip to emerge through a small hole.",
+        "Hold the eye-semicup while the objective moves up and down to reach proper focal planes.",
+        "Image the labelled retinas using CLSM at 23\u00b0C.",
+        "Acquire measurements with a Leica TCS SP5-AOBS inverted confocal laser scanning microscope equipped with 457-476-488-514-543-633 nm laser lines.",
+        "Examine specimens using an HCX APO L U-V-I 63x/0.9NA water immersion objective.",
+        "Cut the whole semicup at the rim and mount onto the coverslip chamber if retinas are left in the eye-semicup.",
+        "Immerse the whole semicup in a small pool arranged around the objective if the retina is detached from the choroid.",
+        "Hold the eye-semicup while moving the objective up and down to reach proper focal planes.",
+        "Excite retinas stained with MitoTracker Deep Red 633 at 633 nm.",
+        "Collect emission in the spectral range from 650 to 700nm.",
+        "Keep laser power and detection settings equal across all experiments.",
+        "Acquire, store, and visualize resulting images with Leica Confocal Software.",
+        "Carry out image elaboration, analysis, and three-dimensional rendering by ImageJ software."
+    ]
+}

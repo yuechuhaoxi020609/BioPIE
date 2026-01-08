@@ -1,0 +1,35 @@
+{
+    "id": 10512,
+    "origin_website": "Jove",
+    "title": "A New Ex Vivo Model for the Evaluation of Endoscopic Submucosal Injection Material Performance",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Prepare specimens from the upper third of a porcine stomach.",
+        "Exclude specimens with submucosal elevation due to fibrosis.",
+        "Cut gastric specimens into squares approximately 6 \u00d7 6 cm in size.",
+        "Store cut gastric specimens at -30\u00b0C immediately after preparation.",
+        "Thaw frozen gastric specimens just before use for measurement procedures.",
+        "Stretch thawed specimens on a board using pins for the conventional ex vivo model.",
+        "Fix both ends of the specimen with clips to produce constant tension for the new ex vivo model.",
+        "Connect stainless-steel clip and key wire to S-shaped hook for setup.",
+        "Attach wire and S-shaped hook to weight for completion of setup.",
+        "Connect the hook to the other end of the wire.",
+        "Fix the pulleys at both ends of the base.",
+        "Place the rubber plate on the center of the base.",
+        "Place the gastric specimen on the rubber plate.",
+        "Pinch the specimen ends with the clip of the traction device.",
+        "Hang the weight through the pulley on each side.",
+        "Perform zero-point adjustment of the height gauge.",
+        "Push the PRESET button after fixing the scriber at the height of the mucosal surface.",
+        "Inject 2.0 mL of each solution horizontally into the submucosa from the specimen margins using a 2.5-mL syringe and 23-gauge needle.",
+        "Perform a submucosal elevation procedure.",
+        "Measure SEH promptly using a digital height gauge at 0, 2.5, 5, 7.5, 10, 12.5, 15, 17.5, 20, 30, 45, and 60 min after the injection.",
+        "Record the height displayed on the height gauge when fixing the scriber to the top of the submucosal elevation.",
+        "Perform three independent measurements.",
+        "Express the obtained results as the mean and standard deviation.",
+        "Analyze the obtained data using appropriate statistical software.",
+        "Evaluate the performance of SIMs."
+    ]
+}

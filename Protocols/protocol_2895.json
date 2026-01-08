@@ -1,0 +1,30 @@
+{
+    "id": 1135,
+    "origin_website": "Nature",
+    "title": "Bead aggregation assay to demonstrate the clustering of postsynaptic proteins by the <span class=\"caps\">NGL</span> family of cell adhesion molecules",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Transfect cultured neurons with EGFP-NGL-2 at DIV 14, and incubate for 2 days.",
+        "Mix 5 \u03bcg of biotin-conjugated EGFP antibodies with 2 \u03bcL of neutravidin-conjugated FluoSphere beads, and incubate for 1 hour.",
+        "Increase the mixture volume to 1 mL by adding Hank's balanced salt solution (HBSS).",
+        "Centrifuge the mixture at 13,000 rpm for 1 minute in a microcentrifuge.",
+        "Carefully remove the supernatant and resuspend the precipitates in 100 \u03bcL of conditioned media where neurons were growing.",
+        "Place coverslips containing transfected neurons (DIV16) face-up on 6-well dishes.",
+        "Add 100 \u03bcL of resuspended beads onto the neurons and incubate at 37\u00b0C for 30 minutes.",
+        "Wash the neurons twice with HBSS and place the coverslip back into the culture media.",
+        "Incubate the neurons for 24 hours after adding the beads.",
+        "Fix and immunostain the neurons with primary antibodies against various synaptic proteins and fluorophore-conjugated secondary antibodies.",
+        "Capture Z-stacked images by confocal immunofluorescence microscopy as well as DIC imaging.",
+        "Manually trace the boundaries of the beads.",
+        "Copy a boundary to a nearby dendritic area for normalization.",
+        "Measure the average immunofluorescence intensity of a synaptic marker from a bead area.",
+        "Normalize the measured intensity to that from a nearby control area."
+    ]
+}

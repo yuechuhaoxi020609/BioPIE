@@ -1,0 +1,43 @@
+{
+    "id": 1932,
+    "origin_website": "Cell",
+    "title": "Protocol for generating a mouse model of gastric MALT lymphoma and the identification of MALT lymphoma cell populations by immunostaining",
+    "subjectAreas": [
+        "Immunology",
+        "Microscopy",
+        "Cancer",
+        "Cell Biology",
+        "Microbiology",
+        "Model Organisms"
+    ],
+    "protocol": [
+        "Sacrifice all mice through cervical dislocation under anesthesia.",
+        "Resect the stomachs, opening at the outer curvature.",
+        "Free half of the stomach in cryo-embedding compound (O.C.T).",
+        "Set the inside temperature of the device between \u221215\u00b0C and \u221220\u00b0C.",
+        "Slice the tissue to create 10-\u03bcm thick sections.",
+        "Immediately place the tissue sections in a staining vat containing 200 mL of acetone for about 1 s.",
+        "Dry the sections using an air dryer.",
+        "Store the sections at \u221230\u00b0C until staining.",
+        "Air dry the tissue sections for 1\u20132 hours at room temperature.",
+        "Fix the sections in acetone for 5\u201310 minutes inside a chemical hood.",
+        "Wash the sections in 1\u00d7 PBS for 3 minutes.",
+        "Repeat the wash with 1\u00d7 PBS twice more.",
+        "Remove excess 1\u00d7 PBS from the section using a wipe.",
+        "Add 100 mL of 10% goat serum drop-wise onto the section and incubate for 30 minutes in a humid chamber for blocking.",
+        "Wash the sections thrice with PBS, each for 3 minutes.",
+        "After removing excess 1\u00d7 PBS, add 100 \u03bcL of primary antibody (diluted 1:20\u201350 with 1\u00d7 PBS) drop-wise and incubate at room temperature for 2 hours or at 4\u00b0C for 12\u201324 hours in a humid chamber.",
+        "Wash the sections thrice with 1\u00d7 PBS, each for 3 minutes.",
+        "Remove excess 1\u00d7 PBS from the section.",
+        "Add 100 \u03bcL of secondary antibody (diluted in 1\u00d7 PBS) drop-wise and incubate at room temperature for 1 hour in a dark room in a humid chamber.",
+        "Wash the sections thrice with 1\u00d7 PBS, each for 3 minutes.",
+        "Remove excess 1\u00d7 PBS from the section.",
+        "Add 100 \u03bcL of fluorescent mounting medium drop-wise onto the tissue section.",
+        "Cover the tissue section with a coverslip (size: 24 \u00d7 32 mm).",
+        "Aspirate any air bubbles in the sample using a PIPETMAN\u00ae pipetman.",
+        "Store the encapsulated mounting medium at 4\u00b0C for up to 2-3 days.",
+        "Observe fluorescence signals under a confocal laser-scanning microscope.",
+        "Use suitable software, such as LSM Image Browser, to analyze the images.",
+        "Set the pixels in the x-y plane to 1024 \u00d7 1024 pixels at a pixel size of 0.83 \u03bcm/pixel."
+    ]
+}

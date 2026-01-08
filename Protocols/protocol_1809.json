@@ -1,0 +1,41 @@
+{
+    "id": 156,
+    "origin_website": "Nature",
+    "title": "Sequential chromatin immunoprecipitation protocol for global analysis through massive parallel sequencing \\(reChIP-seq)",
+    "subjectAreas": [
+        "Biotechnology",
+        "Genetics",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Dialyse 150 \u00b5g of antibody overnight against 1xPBS if stored in primary amine buffers like glycin or Tris (optional).",
+        "Quantify the amount of antibody recovered from the dialysis step using Bradford assay.",
+        "Wash 250 \u00b5l protein A sepharose beads twice with 500 \u00b5l sodium borate washing solution.",
+        "Dilute the antibody 1/1 with Sodium Borate washing solution.",
+        "Add diluted antibody into prewashed protein A beads and incubate for 1 hour at room temperature.",
+        "Centrifuge the protein A/antibody mix at 425xg.",
+        "Recover the supernatant and quantify the amount of antibody that was not crosslinked.",
+        "Wash the crosslinked beads with sodium borate washing solution.",
+        "Resuspend 1.625mg DSS in 250\u00b5l dimethylsulfoxide or dimethylformamide.",
+        "Add 250\u00b5l PBS to the DSS solution and immediately add it into the preloaded protein-A beads.",
+        "Incubate at room temperature for 1 hour on a rotating table.",
+        "Wash the crosslinked beads twice with 1xPBS.",
+        "Add 1ml ethanolamine (0.1M) to inactivate remaining DSS.",
+        "Incubate for 10 minutes at room temperature.",
+        "To remove non-crosslinked antibodies, add 1ml of glycine (0.1M, pH 2.8).",
+        "Vortex briefly and recover the supernatant in 25\u00b5l Tris-base (1M, pH 8.8) to neutralize acidic conditions.",
+        "Quantify the amount of antibody in the supernatant to estimate crosslinking efficiency.",
+        "Wash crosslinked beads twice with sodium borate washing solution.",
+        "Resuspend in 500\u00b5l PBS for storage at 4\u00b0C.",
+        "Pool at least four primary ChIPs done with DSS crosslinked antibodies.",
+        "Elute the first IP with 10 mM DTT at 30\u00b0C for 30 minutes.",
+        "Combine eluates from the first IP before proceeding to the second IP.",
+        "Dilute combined eluates at least 30-times with ChIP lysis buffer.",
+        "Use the smallest possible volume of elution buffer for reChIP elution.",
+        "From a typical reChIP eluate, keep 14 \u03bcl for LinDA amplification and take the remaining 16 \u03bcl for qPCR validations.",
+        "Perform qPCR validations with at least 2 technical replicates per evaluated region using 2 \u03bcl DNA, 1 \u03bcl of 10 uM primers mix, and 5 \u03bcl of Quantitect SyBr master mix (total volume: 10 \u03bcl per reaction).",
+        "Take 14 \u03bcl of the reChIP material for linear DNA amplification following the corresponding protocol.",
+        "Evaluate the amplified material by qPCR as indicated in step 2.",
+        "Perform library preparation for massive parallel sequencing by following standard conditions."
+    ]
+}

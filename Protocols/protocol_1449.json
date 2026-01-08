@@ -1,0 +1,34 @@
+{
+    "id": 2893,
+    "origin_website": "Cell",
+    "title": "Fast and efficient synaptosome isolation and post-synaptic density enrichment from hiPSC-motor neurons by biochemical sub-cellular fractionation",
+    "subjectAreas": [
+        "Cell Culture",
+        "Cell Separation/Fractionation",
+        "Neuroscience",
+        "Stem Cells"
+    ],
+    "protocol": [
+        "Wash the cells on ice.",
+        "Completely aspirate the cell culture medium from all wells.",
+        "Wash twice with 500 \u03bcL of DPBS per well.",
+        "Distribute 1 mL of Buffer A to all wells of the 6-well plate.",
+        "Use a cell scraper to collect cells and transfer them to a glass douncer.",
+        "Homogenize manually for 30 strokes.",
+        "Transfer the homogenate (Ho) to the 1.5 mL centrifuge tube labeled \u201cP.\u201d",
+        "Collect 100 \u03bcL separately in the 1.5 mL centrifuge tube labeled \u201cHo.\u201d",
+        "Centrifuge the remaining Ho in tube \u201cP\u201d at 500 \u00d7 g for 5 min at 4\u00b0C.",
+        "Transfer the supernatant containing the lysate (S1) to the 1.5 mL centrifuge tube labeled \u201cP3.\u201d",
+        "Collect 100 \u03bcL separately in the 1.5 mL centrifuge tube labeled \u201cS1.\u201d",
+        "Discard the pellet (P1) remaining in tube \u201cP\u201d (containing cell debris, nuclei and extracellular matrix).",
+        "Centrifuge the P3 tube containing the remaining lysate at 10,000 \u00d7 g for 15 min at 4\u00b0C.",
+        "Transfer the supernatant containing the cytosol (S2) to the 1.5 mL centrifuge tube labeled \u201cS2.\u201d",
+        "Resuspend the pellet completely in 200 \u03bcL of Buffer B to obtain the crude synaptosomal fraction (P2).",
+        "Transfer 50 \u03bcL separately to a 1.5 mL centrifuge tube labeled \u201cP2.\u201d",
+        "Centrifuge the remaining P2 at 20,000 \u00d7 g for 80 min at 4\u00b0C.",
+        "Transfer the supernatant containing the synaptic cytosol fraction (S3) to a 1.5 mL centrifuge tube labeled \u201cS3.\u201d",
+        "Completely resuspend the pellet in 70 \u03bcL of Buffer C to obtain the enriched PSD fraction (P3).",
+        "Estimate the protein concentrations of the Ho, S1, S2, P2, S3 and P3 fractions.",
+        "Snap freeze the samples in liquid nitrogen and store them at -80\u00b0C up to 1 year."
+    ]
+}

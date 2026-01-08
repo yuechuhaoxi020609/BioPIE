@@ -1,0 +1,29 @@
+{
+    "id": 264,
+    "origin_website": "Nature",
+    "title": "Histological imaging from speed-of-sound through tissues by scanning acoustic microscopy \\(SAM)",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Structural Biology"
+    ],
+    "protocol": [
+        "Section formalin-fixed and paraffin-embedded blocks at a thickness of 10 \u00b5m.",
+        "Soak sections in 100% xylol to remove paraffin.",
+        "Immerse sections in 100% ethanol.",
+        "Dip sections in increasingly lower concentrations of ethanol in a step-wise fashion.",
+        "Submerge sections in 100% distilled water.",
+        "Keep sections in distilled water for at least 3 h before observations.",
+        "Apply a drop of distilled water onto the transducer as a coupling fluid.",
+        "Place the section upside down on the stage above the transducer.",
+        "Move the slide glass to locate a blank area on the transducer.",
+        "Switch on the \u201cSCAN\u201d button.",
+        "Adjust the distance between the transducer and the glass slide so that the reflection sound waves appear on the bottom of the screen.",
+        "Switch on the \u201cX scan\u201d button and turn the X slope knob to place the sound wave within the center zone between the 2 vertical blue bars.",
+        "Switch on the \u201cY scan\u201d button and turn the Y slope knob to adjust the position of the wave in the center zone.",
+        "Relocate the slide to set the region of interest on the transducer, and switch on the \u201cSCAN\u201d button.",
+        "Include a blank area in at least one corner of the screen as a reference SOS area (1,500 m/s).",
+        "During mechanical X-Y scanning, an image of acoustic intensity gradually appears on the left-upper screen.",
+        "Adjust the location of the slide, scan size (region of interest: 1.2, 2.4, or 4.8 mm\u00b2), and/or scan points (maximum, 300 \u00d7 300 points).",
+        "Push the \u201cANALYZE\u201d button."
+    ]
+}

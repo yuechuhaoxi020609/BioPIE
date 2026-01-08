@@ -1,0 +1,20 @@
+{
+    "id": 268,
+    "origin_website": "Nature",
+    "title": "In vivo imaging of Ras protein\u2019s activity in olfactory neurons",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Pick up individual adult animals expressing Raichu-Ras probe to a bacteria-free NGM plate to remove bacteria.",
+        "Pick up the animal and put them on a 4% agarose pad made on a cover glass.",
+        "Immobilize the animal on the agarose pad by glue delivered through a drawn glass capillary tube, keeping the tip of the animal\u2019s head free from glue.",
+        "Place the cover glass with glued animal in a 35 mm laboratory dish and cover with 4 ml imaging buffer solution.",
+        "Capture images of the cell body of the olfactory neuron expressing the probe using a microscope equipped with a 40\u00d7 or 63\u00d7 objective lens and a digital camera device, maintaining room temperature at 20-23\u00b0C during imaging analysis.",
+        "Add 20 \u03bcl odorants solution to the buffer covering animals using pipetman as the odorant stimuli for stimulation.",
+        "Exclude crosstalk between the YFP and CFP emission spectra using a linear unmixing method to distinguish weak signals representing Ras activity from noise (optional).",
+        "Calculate fluorescent intensity using imaging software."
+    ]
+}

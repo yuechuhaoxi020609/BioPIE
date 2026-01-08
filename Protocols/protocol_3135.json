@@ -1,0 +1,15 @@
+{
+    "id": 582,
+    "origin_website": "Nature",
+    "title": "Bile Sample Collection for the analysis of extracellular RNA",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Collect bile from drainage bags of patients with an indwelling biliary tube into a sterile collection bottle.",
+        "Centrifuge the collected bile for 10 minutes at 3000g at 4\u00b0C to remove cellular sediment and debris.",
+        "Aliquot the centrifuged bile into 1 ml portions in microcentrifuge tubes.",
+        "Store the aliquoted bile samples at -20\u00b0C."
+    ]
+}

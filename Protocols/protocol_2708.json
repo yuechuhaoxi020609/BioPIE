@@ -1,0 +1,38 @@
+{
+    "id": 10466,
+    "origin_website": "Jove",
+    "title": "Protein Kinase C-delta Inhibitor Peptide Formulation using Gold Nanoparticles",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Retrieve peptides P2, P4, and PKC\u03b4i from the -20\u00b0C freezer.",
+        "Thaw peptides at room temperature with the bottle closed.",
+        "Weigh 0.01 g of each peptide on a microscale.",
+        "Transfer each peptide to a separate 50 mL conical tube.",
+        "Add 18.74 mL of deionized water to the P2 tube.",
+        "Add 16.93 mL of deionized water to the P4 tube.",
+        "Add 8.21 mL of 50% acetonitrile diluted in deionized water to the PKC\u03b4i tube.",
+        "Vortex each peptide solution briefly.",
+        "Place the conical tubes in a sonicator for 5 minutes at 40 MHz.",
+        "Transfer solutions to a biosafety cabinet (BSC).",
+        "Add 1 mL of each 1 mM peptide solution to new 50 mL conical tubes.",
+        "Dilute P2 and P4 with 19 mL deionized water, PKC\u03b4i with 19 mL 50% acetonitrile in the respective tubes.",
+        "Mix solutions thoroughly.",
+        "Transfer 475 \u03bcL of P2 solution to a 15 mL tube.",
+        "Add 25 \u03bcL of P4 solution to the same 15 mL tube.",
+        "Add 500 \u03bcL of PKC\u03b4i solution to the 15 mL tube.",
+        "Add 9 mL of 20 nm GNP solution (7.0x10^11 particles/mL) to the 15 mL tube containing peptides.",
+        "Wrap the 15 mL tube with aluminum foil.",
+        "Shake overnight at room temperature.",
+        "Transfer GNPs/PKC peptides to a biosafety cabinet.",
+        "Aliquot 1 mL of GNP/PKCi mixture into each 1.5 mL microtube.",
+        "Centrifuge tubes in a microcentrifuge for 30 minutes at 15,294 x g at 4\u00b0C.",
+        "Remove the supernatant from each tube under a biosafety cabinet.",
+        "Re-suspend the pellet in the desired solvent according to the concentration required.",
+        "Mix the desired solvent well before diluting the GNP/PKCi pellet.",
+        "Pour 0.5 mL of GNP/PKCi solution into an acryl cuvette.",
+        "Place the acryl cuvette on a UV-Vis spectrophotometer.",
+        "Test the peak absorption of the GNP/PKCi solution."
+    ]
+}

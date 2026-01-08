@@ -1,0 +1,38 @@
+{
+    "id": 708,
+    "origin_website": "Nature",
+    "title": "Preparation and culture of cytotrophoblasts",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Isolate placental tissue from ice-cold saline.",
+        "Rinse placental tissue with PBS.",
+        "Remove soft villous material from connective tissue and vessels.",
+        "Incubate villous tissue in HBSS containing 0.125% trypsin type XII-S, 3 mM EDTA, and 0.2 mg/ml deoxyribonuclease I at 37\u00b0C for 30 minutes.",
+        "Centrifuge the incubated tissue to isolate dissociated cells.",
+        "Resuspend isolated cells in medium.",
+        "Layer cells over a discontinuous Percoll gradient (15% to 70%) prepared in HBSS.",
+        "Collect middle bands of the gradient (35% to 55%), containing cytotrophoblasts.",
+        "Wash collected cytotrophoblasts several times with culture media (DMEM:F12 in a 1:1 ratio and 15% heat-inactivated FCS).",
+        "Remove remaining leukocytes from the cells.",
+        "Maintain cell cultures in culture media at 37\u00b0C and 5% CO\u2082 in a humidified incubator.",
+        "Plate trophoblasts on 24 well plates precoated with 75% growth factor reduced Matrigel.",
+        "Incubate plated trophoblasts in media as described above.",
+        "After 5 days, remove trophoblasts by scraping the plates.",
+        "Treat removed cells with trypsin-EDTA and use for analysis.",
+        "Obtain decidual samples.",
+        "Trim decidual samples into 1mm pieces.",
+        "Enzymatically digest the trimmed samples for 20 minutes by shaking in 37\u00b0C with 1.5 mg type I DNase and 24 mg type IV collagenase in 15 ml of RPMI-1640 medium.",
+        "Repeat enzymatic digestion three times.",
+        "Collect supernatants after each digestion round.",
+        "Centrifuge the collected supernatants.",
+        "Incubate overnight in tissue culture dishes in DMEM medium with supplements.",
+        "Remove non-adherent cells from the incubated samples.",
+        "Treat remaining adherent cells with trypsin-EDTA for a short period.",
+        "Sort purified HLA-G+ extra-villous trophoblasts from adherent decidual fraction using monoclonal mouse anti-human HLA-G specific antibodies.",
+        "Perform intracellular staining on purified trophoblasts with Cytofix-cytoperm kit.",
+        "Stain cells with mouse anti-human Cytokeratin 7 and mouse anti-human vimentin antibodies.",
+        "Include matching isotype controls for antibody specificity."
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 1177,
+    "origin_website": "Nature",
+    "title": "<p>Extraction, identification, and quantification of volatile fatty acids (VFA) in rumen fluid samples using Reverse Phase High-Performance Liquid Chromatography with Diode Array Detector (RP HPLC-DAD)</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Analytical Chemistry"
+    ],
+    "protocol": [
+        "Collect at least 50 mL of rumen fluid from a fistulated cattle, sheep or goat, filtering it through three cheese-cloth layers.",
+        "Pre-warm the thermos with water at 39 \u00baC and empty before collecting rumen fluid.",
+        "Add 2 mL of previously filtered rumen fluid to a 5 mL centrifuge tube.",
+        "Add 2 mL of extraction solution to the centrifuge tube plus rumen fluid and stir in vortex using medium speed for 30 s.",
+        "Freeze the sample at -20 \u00baC until analysis.",
+        "If immediately analyzed, refrigerate the tube at 4 \u00baC for 30 min to allow rumen fluid protein precipitation.",
+        "Thaw samples at room temperature (20 \u00baC) on the day of analysis.",
+        "Centrifugate samples at 4,000 rpm for 10 min at room temperature (20 \u00baC).",
+        "Recover the liquid phase after centrifugation using a plastic syringe.",
+        "Filter the liquid phase through a 0.45 \u03bcm PES membrane filter.",
+        "Collect the volume in a plastic tube of 4 mL.",
+        "Prepare the calibration curve as described in section 3.3.2.",
+        "Analyze each point of the curve by RP HPLC-DAD.",
+        "Identify and integrate the resulting chromatographic peaks.",
+        "Place 500 \u03bcL of the final extract in a chromatographic vial.",
+        "Add 500 \u03bcL of Milli-Q water.",
+        "Analyze by RP HPLC-DAD.",
+        "Identify and integrate the resulting chromatographic peaks."
+    ]
+}

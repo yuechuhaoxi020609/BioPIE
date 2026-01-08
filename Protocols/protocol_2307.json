@@ -1,0 +1,15 @@
+{
+    "id": 508,
+    "origin_website": "Nature",
+    "title": "Mineral Salt Medium \\(MSM) for extreme acidophilic microorganisms",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Mix 3.0 g/l (NH4)2SO4, 3.2 g/l Na2SO4\u00b710H2O, 0.1 g/l KCl, 0.05 g/l K2HPO4, 0.5 g/l MgSO4\u00b77H2O, and 0.01 g/l Ca(NO3)2 in a final volume of 1 liter of water.",
+        "Dissolve each constituent before adding the next one.",
+        "Adjust the pH to 2.0 with sulfuric acid (and/or sodium hydroxide).",
+        "Autoclave the solution."
+    ]
+}

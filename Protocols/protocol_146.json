@@ -1,0 +1,39 @@
+{
+    "id": 11320,
+    "origin_website": "Jove",
+    "title": "Tri-layered Electrospinning to Mimic Native Arterial Architecture using Polycaprolactone, Elastin, and Collagen: A Preliminary Study",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Extract collagen from 6 month bovine corium using an acetic acid based process.",
+        "Purify the extracted collagen through dissolutions, precipitations, and dialyses.",
+        "Lyophilize purified collagen for electrospinning preparation.",
+        "Mass polycaprolactone (PCL), elastin (ELAS), and collagen (COL) according to requirements.",
+        "Dissolve PCL in HFP at a concentration of 100 mg/ml.",
+        "Dissolve ELAS in HFP at a concentration of 200 mg/ml.",
+        "Dissolve COL in HFP at a concentration of 70 mg/ml.",
+        "Blend materials in five different scintillation vials at volumetric ratios of 98-2-0 PCL-ELAS-COL (intima), 45-45-10, 55-35-10, and 65-25-10 PCL-ELAS-COL (media), and 70-0-30 PCL-ELAS-COL (adventitia).",
+        "Load polymer solutions into a plastic 3 ml Becton Dickinson syringe with an 18 gage blunt-tip needle.",
+        "Place the syringe onto a syringe pump set for dispensing rate.",
+        "Electrospin individual layers at a rate of 4 ml/hr and volume of 0.5 ml for intima layer.",
+        "Combine both intimal and medial syringes to transition for 0.2 ml at 2 ml/hr each.",
+        "Stop the intimal syringe, allow medial layer to spin for 0.6 ml at 4 ml/hr.",
+        "Transition between media and adventitia layers with 0.2 ml of polymer solution at 2 ml/hr each.",
+        "Allow adventitia layer to spin for 0.4 ml at 4 ml/hr.",
+        "Cross-link all samples in 50 mM EDC for 18 hours prior to testing.",
+        "Hydrate electrospun sheets in PBS for 24 hours.",
+        "Punch \"dog-bone\" shaped samples from hydrated electrospun mats.",
+        "Test samples on an MTS Bionix 200 testing system with a 100 N load cell and an extension rate of 10.0 mm/min.",
+        "Calculate peak stress, modulus, and strain at break using TestWorks version 4.",
+        "Soak tubular specimens in PBS for 24 hours at 37\u00b0C.",
+        "Place 5-0 commercial PDS II violet monofilament suture 2 mm from the end of each specimen.",
+        "Extend sutures until they pull through the graft on MTS Bionix 200 testing system with a 50 N load cell and an extension rate of 150.0 mm/min.",
+        "Record peak load in grams-force using TestWorks version 4.",
+        "Hydrate burst tubes from electrospun grafts in PBS.",
+        "Fit hydrated burst tubes over 1.5 mm diameter nipples attached to the device.",
+        "Secure burst tubes with 2-0 silk suture.",
+        "Introduce air into the system at a rate of 5 mmHg/s until tubes burst.",
+        "Report results as pressure in mmHg at which tubes ruptured."
+    ]
+}

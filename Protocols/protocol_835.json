@@ -1,0 +1,24 @@
+{
+    "id": 161,
+    "origin_website": "Nature",
+    "title": "A highly-sensitive and rapid Surface Plasmon Resonance immunoassay procedure based on the covalent-orientated immobilization of antibodies",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Incubate the Au-coated SPR chip with Au surface cleaning solution for two minutes.",
+        "Wash the cleaned Au-coated SPR chip extensively with DIW.",
+        "Incubate the cleaned Au-coated SPR chip with 100 \u00b5L of 2% \\(v/v) APTES for 1 hour at room temperature in a fume hood.",
+        "Wash the incubated SPR chip five times with DIW.",
+        "Incubate PrA (990\u00b5L of 100 \u00b5g/ml in HBS) with cross-linking solution containing EDC (4 mg/mL) and sulfoNHS (11 mg/mL) in 0.1 M MES buffer, pH 4.7, at room temperature for 15 minutes.",
+        "Inject fifty microliters of EDC-sulfoNHS activated PrA (100 \u00b5g/mL) over all four flow cells of an APTES-functionalized Au chip at a flow rate of 10 \u00b5L/min.",
+        "Inject 20 \u03bcl of 1% (w/v) BSA for blocking.",
+        "Use filtered BSA or filter the BSA solution before use to remove contaminants.",
+        "Inject 50 \u00b5L of anti-HFA antibody at a concentration of 100 \u00b5g/mL in 10 mM HBS, pH 7.4, over all flow cells at a flow rate of 10 \u03bcL/min.",
+        "Pass 50 \u00b5L of dilution buffer (10mM HBS, pH 7.4) through all flow cells before HFA capture and record the changes in SPR response units (RU).",
+        "Inject 50 \u00b5L of HFA at six different concentrations (0.6, 1.2, 2.5, 5.0, 10.0, and 20.0 ng/mL) through the flow cells.",
+        "Subtract RU values obtained for blanks from the RU values for HFA detected in respective flow cells.",
+        "Plot SPR-based HFA detection curves using SigmaPlot software version 11.2 with standard curve analysis based on a four parameter logistic function.",
+        "Generate analytical parameters such as EC50 and Hillslope using the software analysis report."
+    ]
+}

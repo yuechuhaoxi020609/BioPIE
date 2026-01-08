@@ -1,0 +1,16 @@
+{
+    "id": 1005,
+    "origin_website": "Nature",
+    "title": "BCP-MG: A Web Server for Predicting Bacterial Community of Metagenome",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Choose the data type for representing metagenomic sample data.",
+        "Upload the data file as a plain text file.",
+        "Select the metabolic database to use, choosing between BioCyc and KEGG.",
+        "Choose the organisms selection strategy."
+    ]
+}

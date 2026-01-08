@@ -1,0 +1,24 @@
+{
+    "id": 514,
+    "origin_website": "Nature",
+    "title": "Preparation of cultured cells for scanning electron microscope",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Pre-warm fixative solution to 37 degrees C.",
+        "Remove media from plastic tissue culture dish and rapidly pour on glutaraldehyde fixative.",
+        "Leave for 15 minutes.",
+        "Rinse with buffer or PBS three times over 5 minutes.",
+        "Fix in OsO4, 15-30 minutes.",
+        "Rinse with buffer five times over 10 minutes.",
+        "Incubate in freshly made 1% carbohydrazide 10-30 minutes.",
+        "Rinse with distilled water five times over 15 minutes.",
+        "Incubate again in 1% OsO4, 15-30 minutes.",
+        "Rinse three times with distilled water over 15 minutes. In the third rinse, cut dishes to fit the critical point dryer.",
+        "Place in another dish.",
+        "Dehydrate through ethanol or hexylene glycol series beginning with 30%, changing to solutions of 50%, 70%, 90%, and three times 100% over 30 minutes.",
+        "Dry in critical point dryer.",
+        "Sputter coat with 1-2 nm gold-palladium."
+    ]
+}

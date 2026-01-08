@@ -1,0 +1,33 @@
+{
+    "id": 63,
+    "origin_website": "Nature",
+    "title": "High throughput phenotype screening pipeline for functional genomics in <em>Magnaporthe oryzae</em>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Biological Techniques",
+        "Genetics",
+        "Plant Sciences",
+        "Computational Biology And Bioinformatics",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Regeneration of mutants in 24-well plate marks entry into HPS pipeline.",
+        "Measure growth of mutants after 3 days on V8 agar, comparing with wild-type.",
+        "Score mycelial color visually after 6 days incubation.",
+        "Harvest conidia from 6-day old cultures by adding 1 ml Tween 20 solution to each well and rubbing with cotton swab.",
+        "Pipette forty-microliters of conidial suspension onto green mirror glass.",
+        "Incubate conidial suspension at room temperature for 24 hours.",
+        "Observe conidiation, conidial morphology, conidial germination, and appressorium formation under a microscope with x100 magnification.",
+        "Score conidiation by comparing the relative number of conidia from mutants to that of wild-type.",
+        "Measure the conidial germination rate as the percentage of germinated conidia.",
+        "Measure the ability to form appressoria as the percentage of appressorium-forming conidia among the germinated conidia.",
+        "Drop conidial suspension onto a green mirror.",
+        "Use the remaining conidial suspension for a pathogenicity test.",
+        "Spray-innoculate approximately 1000 microliters of spore suspension on rice plants using an artist's airbrush connected to compressed air.",
+        "Maintain test tubes in a dew chamber to ensure high humidity required for the fungus to penetrate plant cuticles.",
+        "Incubate plants in the dew chamber for 20-24 hours.",
+        "Transfer plants to room temperature conditions and keep them there for 3 days.",
+        "Assess pathogenicity by visually examining lesions produced on rice plants."
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 93,
+    "origin_website": "Nature",
+    "title": "Quantitative proteomic assessment of very early cellular signaling events: qPACE",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Structural Biology",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Label your cells with SILAC for at least 5 population doublings to ensure complete incorporation of isotope-labeled amino acids.",
+        "Serum-starve your cells before pumping for approximately 12 hours.",
+        "Connect pumps P1 and P2 with tubing, running them at the same speed of 800 \u03bcl/min.",
+        "Pump P1 delivers medium containing the stimulus.",
+        "Pump P2 delivers cells in suspension or growing on microcarrier beads.",
+        "Run pump P3 at a speed of 8 ml/min to deliver the quenching reagent, which is 80% ethanol prechilled to -20\u00b0C.",
+        "Adjust the tube length according to your pumping speed and tubing diameter to reach the desired stimulation time.",
+        "Use 1 mm i.d. Teflon tubes with lengths of 3.4 cm for 1 second, 17 cm for 5 seconds, 34 cm for 10 seconds, and 204 cm for 60 seconds.",
+        "Prepare cell suspension with 1.5-4\u00d710^8 cells per time point resuspended in 5 or 10 ml of medium.",
+        "Prepare double-concentrated stimulation medium containing 300 ng/ml EGF to achieve a final concentration of 150 ng/ml.",
+        "Pump the sample through the system.",
+        "Pellet cells by centrifugation.",
+        "Discard supernatant.",
+        "Wash pellet with ice-cold PBS.",
+        "Pellet cells again.",
+        "Lysate cells with lysing buffer containing protease and phosphatase inhibitors.",
+        "Immunoprecipitate complexes of interest.",
+        "Separate immunoprecipitated complexes by SDS-PAGE.",
+        "Digest separated proteins enzymatically, e.g., with trypsin.",
+        "Enrich phosphopeptides prior to LC-MS analysis, e.g., using TiO2.",
+        "Analyze resulting peptide mixture by LC-MS.",
+        "Quantitate peptides of interest, e.g., using MSQuant software."
+    ]
+}

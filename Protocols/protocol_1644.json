@@ -1,0 +1,42 @@
+{
+    "id": 10690,
+    "origin_website": "Jove",
+    "title": "A High-performance Compact Photoacoustic Tomography System for In Vivo Small-animal Brain Imaging",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Mount the PLD inside the circular scanner.",
+        "Connect the PLD to the laser driver unit (LDU).",
+        "Switch on the PLD laser.",
+        "Set the PLD repetition rate to \"7,000\" Hz using the function generator in the LDU.",
+        "Increase the pulse energy to 1.42 mJ by setting the voltage of the variable power supply to \"3.1\" V.",
+        "Mount the optical diffuser (OD) in front of the PLD exit window to make the output beam homogenous.",
+        "Mount the focused UST on the UST holder, facing the center of the scanning area.",
+        "Place the ultrasound detector inside the acrylic tank.",
+        "Fill the tank with water to totally immerse the UST.",
+        "Anesthetize the animal by intraperitoneally injecting a cocktail of ketamine, xylazine, and saline.",
+        "Remove the fur on the scalp of the animal using a hair clipper.",
+        "Apply hair removal cream to the shaved area for further depletion of the fur.",
+        "Remove the applied cream after 4-5 min using a cotton swab.",
+        "Apply artificial tear ointment to the eyes of the animal.",
+        "Mount the custom-made animal holder equipped with a breathing mask on a lab-jack.",
+        "Place the animal in a prone position on the holder.",
+        "Secure the animal to the holder using surgical tape.",
+        "Ensure that the breathing mask covers the nose and mouth of the rat.",
+        "Connect the breathing mask to the anesthesia machine.",
+        "Switch on the anesthesia machine and set it to deliver 1.0 L/min of oxygen with 0.75% isoflurane.",
+        "Clamp the pulse oximeter to the tail of the rat.",
+        "Apply a layer of colorless ultrasound gel to the scalp of the rat.",
+        "Adjust the lab-jack position to the center of the scanner.",
+        "Connect the customized breathing mask to deliver inhaled anesthetic to the animal.",
+        "Set the parameters in the data acquisition software as required.",
+        "Run the data acquisition software program to start acquisition.",
+        "Observe the animal during the entire imaging period.",
+        "Reconstruct the cross-sectional brain image from the A-lines using the reconstruction software program.",
+        "Turn off the anesthesia system.",
+        "Remove the animal from the stage.",
+        "Return the animal to its cage.",
+        "Monitor the animal until it regains consciousness."
+    ]
+}

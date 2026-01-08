@@ -1,0 +1,19 @@
+{
+    "id": 18,
+    "origin_website": "Nature",
+    "title": "Yeast growth assays and quantification",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Transform and select yeast on solid YNB medium supplemented with 3% glucose and 1 mM arginine.",
+        "Grow cells in liquid YNB medium supplemented with 3% glucose and 1 mM arginine for one day.",
+        "Dilute cells 10, 100, 1000, and 10000 times in water.",
+        "Drop 5 \u03bcL of diluted cells on solid YNB medium containing 50 mM Tris/MES buffered at pH 5.2, 3% glucose, and 0.2, 0.4 or 2 mM ammonium chloride or 1 mM arginine as control.",
+        "Incubate cells for 3-6 days at 28\u00b0C.",
+        "Document results by scanning the plates at 600dpi in grey scale.",
+        "Quantify yeast growth using ImageQuant TL software.",
+        "Subtract the average pixel-intensity of each 1000 dilution spots from the agar-intensity-background.",
+        "Normalize with intensity of controls."
+    ]
+}

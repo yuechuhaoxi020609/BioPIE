@@ -1,0 +1,29 @@
+{
+    "id": 186,
+    "origin_website": "Nature",
+    "title": "Standardized Relative Quantification of Immunofluorescence Tissue Staining",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Perform a standard immunofluorescent staining of the samples.",
+        "Stain for a single protein or carry out double immunofluorescence combining suitable secondary antibodies.",
+        "Stain nuclei with DAPI or Hoechst 33342.",
+        "Take standard confocal images.",
+        "Define Regions of Interest using the Polygon or Freehand selection tool to delimit tumor tissue from stroma or adjacent regions.",
+        "Split the image into two or three color channels to obtain one image per channel.",
+        "Use the Measure option in the ROI Manager to assess the integrated density value for the blue channel.",
+        "Using the Elliptical selection tool, mark at least ten representative nuclei covering different sizes and intensities throughout the ROI.",
+        "Determine the IDV for all selected nuclei and calculate the mean nucleus value.",
+        "Divide the blue channel IDV by the mean nucleus value to obtain the average number of cells in each respective ROI.",
+        "Next, quantify individual Protein X content per nucleus using the Image calculator from the Process menu.",
+        "Create a merged image combining the red channel image with the blue channel image using the operator AND.",
+        "Measure the integrated density value (IDV) of the respective region of interest (ROI) in this newly created merged image and divide it by the average number of cells calculated before to obtain the Protein X content per nucleus.",
+        "Repeat the procedure with the green channel image to obtain the Protein Y content per nucleus.",
+        "Use the Image calculator and the AND operator with the previously merged images of red/blue and green/blue channels to get the Protein X and Y colocalization signal value.",
+        "Divide the IDV of the respective ROI by the average number of cells for each pair of channels to determine the colocalization signal value.",
+        "Represent the obtained values in scattered plots representing the level of expression for each protein per cell nucleus analyzed, noted as relative units (r.u.) indicating mean and 95% confidence interval.",
+        "Perform a non-parametric Kruskal-Wallis test to compare three or more groups of unpaired values that did not follow any particular distribution.",
+        "Conduct Dunn\u2019s multiple comparison post-test to identify the significance (P value) of differences in the sum of ranks between each pair of groups of values."
+    ]
+}

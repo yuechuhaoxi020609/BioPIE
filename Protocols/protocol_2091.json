@@ -1,0 +1,14 @@
+{
+    "id": 285,
+    "origin_website": "Nature",
+    "title": "Laser capture microdissection \\(LCM) and RNA isolation",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Obtain tissue samples from 12 \u03bcm-thick frozen sections for RNA analysis.",
+        "Place hypothalamic nucleus or 50 captured GFP-positive or -negative cells onto a single CapSure HS LCM Cap using specified parameters: spot size = 7.5 \u03bcm; power = 50\u201380 mW; pulse duration = 50\u20131,000 ms.",
+        "Isolate total RNAs using PicoPure RNA Isolation Kit.",
+        "Treat isolated RNAs with DNase I."
+    ]
+}

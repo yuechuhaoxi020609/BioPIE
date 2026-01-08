@@ -1,0 +1,30 @@
+{
+    "id": 704,
+    "origin_website": "Nature",
+    "title": "Re-using plastic cassettes for vertical gel electrophoresis.",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Clean plastic gel plates with 70 % ethanol.",
+        "Place the tall plate on the lab bench.",
+        "Pipette 2-3 ml of 1 % liquefied agarose along the outside part of the plate.",
+        "Carefully place the short plate onto the tall plate.",
+        "Lift up the cassette while holding it levelled and apply foldback clips.",
+        "Check whether the outside part of the cassette is well filled with agarose after the agarose has solidified.",
+        "If the outside part is not well filled, pipette from the outside agarose in-between the plates.",
+        "Re-apply the foldback clips if necessary.",
+        "Remove any agarose that has leaked into the inside of the cassette using a piece of paper towel or Whatman Blotting paper.",
+        "Tape scotch tape over the slot at the bottom of the tall gel plate.",
+        "Fold one end of the tape for easier removal later.",
+        "Pour premix acrylamide solutions, APS, and TEMED into the cassette to cast an SDS-PAGE gradient gel.",
+        "Allow the acrylamide gel to solidify completely.",
+        "Remove the comb and scotch tape from the gel plate.",
+        "Carefully remove foldback clips and rinse with deionised water.",
+        "Mount the gel cassette into the electrophoresis unit carefully.",
+        "Load samples following usual procedures."
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 11060,
+    "origin_website": "Jove",
+    "title": "An Improved Method for the Preparation of Type I Collagen From Skin",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Equilibrate all reagents to 4\u00b0C prior to use.",
+        "Rinse dermal sample in ice-cold dH2O and remove any wool, fur, or hair with depilatory cream.",
+        "Scrape the sample clean of connective tissue and fat with a single-edge razor blade.",
+        "Slice the skin sample into 1 cm x 1 cm pieces with a single-edge razor blade.",
+        "Weigh out 5 g of sample per 50 ml conical tube and add 30 ml of ice-cold 0.5 M sodium acetate.",
+        "Mix tubes for 1 min at the 6 m/sec setting using a 50 ml tube adaptor in the bench-top homogenizer.",
+        "Discard supernatant and repeat for a total of 7 sodium acetate wash cycles.",
+        "Rinse the sample in ice-cold dH2O and mix once to remove residual sodium acetate.",
+        "Compress the sample against the side of the tube with a spatula to remove excess liquid and transfer to a fresh 50 ml conical tube.",
+        "Wash the sample twice in 2 ml/g 0.075 M sodium citrate buffer for 1 min at 6 m/sec in the bench-top homogenizer compressing the sample after each wash.",
+        "Discard supernatant after each wash cycle.",
+        "Add a fresh 2 ml/g aliquot of 0.075 M sodium citrate buffer to the sample.",
+        "Perform 6 sequential 1 min, 6 m/sec bench-top homogenizer mix cycles without removing the buffer between each cycle.",
+        "Transfer the thick, clear supernatant to a collection tube.",
+        "Add an additional 1 ml/g of 0.075 M sodium citrate buffer to the sample.",
+        "Agitate the sample using a bench-top homogenizer for one final cycle.",
+        "Centrifuge the collection tube at 3,200 x g for 10 min at 4 \u00b0C.",
+        "Transfer the supernatant to the top compartment of a 100,000 molecular weight cut off centrifugal filter device.",
+        "Centrifuge at 3,200 x g for 30 min at 4 \u00b0C.",
+        "Transfer the purified COL1 from the upper compartment to a clean conical tube.",
+        "Store the purified COL1 at 4 \u00b0C."
+    ]
+}

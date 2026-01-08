@@ -1,0 +1,31 @@
+{
+    "id": 525,
+    "origin_website": "Nature",
+    "title": "Metabolite Identification in Candida albicans",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Suspend frozen yeast cell pellets from 500-ml cultures in 5 ml lysis solution.",
+        "Add equal amount of glass beads to the pellet to facilitate cell lysis.",
+        "Vortex for 1 min followed by resting on ice for 1 min, repeat for 15 cycles.",
+        "Centrifuge at 13,400 \u00d7 g for 30 min.",
+        "Subject the supernatants to tandem affinity purification (TAP).",
+        "Incubate cell lysates with 50 ul of anti-FLAG M2 agarose for 2 h at 4\u00b0C.",
+        "Perform a second round of purification with Ni-nitrilotriacetic acid (NTA) agarose for 1 h at 4\u00b0C.",
+        "Wash the beads once in 300 mM ammonium acetate for 5 min.",
+        "Wash the beads again in 150 mM ammonium acetate for 5 min.",
+        "Add 60 ul of pure methanol to the beads twice, incubating at room temperature for 10 min.",
+        "Transfer the methanol extract to a Waters Max Recovery glass vial.",
+        "Analyse by mass spectrometry.",
+        "Boil the beads in 50 \u03bcl of 1\u00d7 SDS sample buffer for 5 min.",
+        "Analyse 15 \u03bcl of the supernatant on a 12% SDS-PAGE gel.",
+        "Stain the gel using a silver staining reagent (Bio-Rad).",
+        "Load 10 \u03bcl of metabolite extract onto a C18 column.",
+        "Use a binary solvent gradient from 5% to 95% methanol in water for 12 min, followed by 95% methanol for another 5 min.",
+        "Maintain the collection mass range between 100 and 1,200 m/z in profile scan mode.",
+        "Keep the probe temperature at 500\u00b0C and source temperature at 130\u00b0C.",
+        "Process the data through MarkerLynx software, version 4.1 (Waters Co., Milford, MA)."
+    ]
+}

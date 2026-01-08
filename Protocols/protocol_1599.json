@@ -1,0 +1,32 @@
+{
+    "id": 433,
+    "origin_website": "Nature",
+    "title": "Immunofluorescence staining for studying histone deubiquitination",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Treat HeLa cells (70\u201380% confluence) with nocodazole (400 ng/ml, Sigma) overnight.",
+        "Collect treated cells by trypsinization.",
+        "Resuspend cells in hypotonic buffer (10 mM Tris-HCl, pH 7.5, 10 mM NaCl, 5 mM MgCl2) and incubate at 37\u00b0C for 15 min.",
+        "Add 1/10 volume of 3% Tween 20 to the cell suspension.",
+        "Centrifuge cells onto Superfrost slides using a Shandon Cytospin3 (Shandon, UK) for 5 min at 1000 rpm.",
+        "Incubate slides with KCM-T solution (containing 0.1% Triton X-100) at RT for 10 min.",
+        "Wash slides with KCM-T buffer without Triton X-100 three times.",
+        "Fix cells in freshly prepared 4% para-formaldehyde (in PBS, pH 7.4) at RT for 10 min.",
+        "Wash slides with KCM-T buffer three times.",
+        "Block slides with KCM-T buffer containing 2.5% BSA and 10% goat serum at RT for 30 min.",
+        "Incubate slides with primary antibodies (Anti-phospho-Histone H3-Ser10, Anti-ubiquityl-Histone H2A) at RT for 1 h.",
+        "Wash slides with KCM-T buffer three times.",
+        "Incubate slides with secondary antibodies (FITC conjugated goat anti-rabbit IgG, Texas Red conjugated goat anti-mouse IgG) at 1:500 dilutions for an additional hour.",
+        "Wash the slides with KCM-T three times.",
+        "Wash the slides with PBS once.",
+        "Add DAPI at a concentration of 0.5 \u03bcg/ml and incubate for 1 min.",
+        "Wash the slides with PBS twice.",
+        "Wash the slides with water once.",
+        "Mount the slides with vectorshield mounting media.",
+        "Capture images with an Olympus microscope using a 20\u00d7 objective."
+    ]
+}

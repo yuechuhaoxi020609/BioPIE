@@ -1,0 +1,38 @@
+{
+    "id": 579,
+    "origin_website": "Nature",
+    "title": "A protocol for the role of TNF-\u03b1 on regulatory T cell function",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Obtain fresh blood specimens from healthy donors.",
+        "Isolate PBMC by Lymphoprep density gradient medium.",
+        "Resuspend total PBMC in 40 \u03bcl of MACS buffer per 10^7 cells.",
+        "Incubate with 10 \u03bcl of Biotin-Antibody Cocktail per 10^7 cells for 10 min at 4\u00b0C.",
+        "Add 30 \u03bcl of MACS buffer per 10^7 cells.",
+        "Incubate cells with 20 \u03bcl of MicroBead Cocktail per 10^7 cells for 15 min at 4\u00b0C.",
+        "Wash cells with MACS buffer.",
+        "Resuspend cells in 1 ml of MACS buffer.",
+        "Prepare LS column by rinsing with 3 ml of MACS buffer.",
+        "Apply cell suspension onto the column.",
+        "Collect unlabeled cells that passed through.",
+        "Wash CD4^+ T cells (negative fraction) with MACS buffer.",
+        "Resuspend CD4^+ T cells with 100 \u03bcl of FACS buffer.",
+        "Add 10 \u03bcl anti-CD4, anti-CD25, and anti-CD127 respectively.",
+        "Mix and incubate for 15 min at 4\u00b0C.",
+        "Wash cells twice with 3 ml of FACS buffer.",
+        "Sort CD4^+CD25^hiCD127^low/-^ as Treg cells.",
+        "Sort CD4^+CD25^- T cells as Teff cells.",
+        "Treat Treg cells with TNF-\u03b1 at a concentration of 50 ng/ml or leave them in medium alone as control.",
+        "Wash the resulting Treg cells twice with culture medium.",
+        "Count the washed Treg cells.",
+        "Label Teff cells with CFSE at a concentration of 2 \u00b5M, incubating for 8 minutes at 37\u00b0C.",
+        "Wash the labeled Teff cells three times with culture medium.",
+        "Culture CFSE-labeled Teff cells alone or with TNF-\u03b1 pre-treated Treg cells in 96-well U-bottom plates.",
+        "Maintain the culture in the presence of 2\u00d710^3 anti-CD3/CD28 beads for 4 days.",
+        "Culture CFSE-labeled Teff cells alone or with non-TNF-\u03b1-exposed Treg cells, in the presence or absence of TNF-\u03b1, in 96-well U-bottom plates.",
+        "Maintain this culture in the presence of 2\u00d710^3 anti-CD3/CD28 beads for 4 days.",
+        "Measure proliferation of Teff cells by CFSE dilution using flow cytometry analyses."
+    ]
+}

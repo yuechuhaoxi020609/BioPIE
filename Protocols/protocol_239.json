@@ -1,0 +1,33 @@
+{
+    "id": 883,
+    "origin_website": "Nature",
+    "title": "Fabrication of elastic micro-cavity chips for use in Elastic Resonator Interference Stress Microscopy",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Physics",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Blow clean glass coverslips from dust with air gun.",
+        "Clean coverslips in ultrasonic bath for 3 minutes in acetone.",
+        "Clean coverslips in ultrasonic bath for 3 minutes in isopropyl alcohol.",
+        "Dry coverslips thoroughly with airbrush.",
+        "Dry coverslips on hotplate at 125 \u00b0C for 10 minutes.",
+        "Deposit micro-cavity bottom mirror consisting of layered structure of 0.5 nm Cr, 10 nm Au and 50 nm SiO\u2082 on whole surface area of cleaned coverslips in e-beam evaporator or sputter machine.",
+        "Clean and dry coverslips with bottom mirror structure as in step 1.",
+        "Mix same volumes of the two elastomer precursors.",
+        "Stir mixed elastomer precursors for 10 minutes.",
+        "Degas mixed elastomer precursors under vacuum for 1 minute.",
+        "Spin-coat mixed elastomer precursors onto coverslip with bottom mirror structure for 1 minute (300 \u00b5L per coverslip).",
+        "Use 3000 rpm spin speed for 8 \u00b5m-thick micro-cavities.",
+        "Use 5000 rpm spin speed for 5 \u00b5m-thick micro cavities.",
+        "Bake samples at 125 \u00b0C on hotplate for 60 minutes to crosslink elastomer.",
+        "Expose the elastomer on coverslips to mild oxygen plasma.",
+        "Transfer the oxidized elastomer coverslips into a thermal evaporator.",
+        "Evaporate 15 nm Au as top mirror.",
+        "Mount silicone chamber onto the surface of the micro-cavity chip.",
+        "Incubate micro-cavity chip with protein suspension to apply protein coating to the surface of the micro-cavity.",
+        "Ensure the surface of the micro-cavity is always covered with liquid when removing the suspension or washing the chip.",
+        "Wash several times with new solution if the medium needs to be changed, without completely removing the solution from the silicone well."
+    ]
+}

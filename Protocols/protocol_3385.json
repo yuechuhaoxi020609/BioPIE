@@ -1,0 +1,39 @@
+{
+    "id": 10650,
+    "origin_website": "Jove",
+    "title": "A Performance-testing Platform for a Conduction Micropump with an FR-4 Copper-clad Electrode Plate",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Cut silicone membrane to the same size as the electrode plate.",
+        "Use a punching tool to punch chamber holes in the silicone membrane.",
+        "Order holder from a factory.",
+        "Drill two holes on top of the cover plate for inlet and outlet tubes.",
+        "Wash all plates, holder, tubes, and tools with 99.5% acetone using an ultrasonic washer set to 5 minutes.",
+        "Insert stainless-steel tubes into the drilled holes in the cover plate.",
+        "Place a chamber plate made of silicone membrane on the electrode plate.",
+        "Cover the chamber plate with the cover plate.",
+        "Stack and align the cover plate, chamber plate, and electrode plate from top to bottom.",
+        "Insert the aligned plates into the holder.",
+        "Fix the plates inside the holder using an M5 bolt.",
+        "Tighten the bolts to press the plates together.",
+        "Use a cylinder to inject acetone to fill up the micropump.",
+        "Continue injecting 10 mL of acetone inside until all bubbles are pushed away from the chamber.",
+        "Pour 20-30 mL of acetone into a beaker.",
+        "Submerge the inlet hose in the acetone, ensuring the liquid level is at least 5 mm higher than the hose.",
+        "Attach the outlet hose to a small frame to keep it straight and vertical.",
+        "Place a ruler alongside the outlet hose for measuring the liquid level.",
+        "Connect the micropump to the power source.",
+        "Press the switch to start the static pressure test.",
+        "Mark down the initial liquid level upon starting the test.",
+        "Record the time, final liquid level, and electric current once the liquid level stabilizes.",
+        "Continue recording the liquid level and current every 10 seconds until the micropump breaks down.",
+        "Use a large measuring cylinder to collect liquid from the outlet hose.",
+        "Fix the outlet hose so that its end remains at the same altitude as the liquid level in the beaker.",
+        "Connect the micropump to the power source.",
+        "Press the switch to start the test and mark down the initial liquid level.",
+        "Record the volume of acetone inside the measuring cylinder every 10 seconds.",
+        "Add acetone to the beaker to maintain the liquid level throughout the experiment."
+    ]
+}

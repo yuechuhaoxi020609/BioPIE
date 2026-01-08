@@ -1,0 +1,22 @@
+{
+    "id": 138,
+    "origin_website": "Nature",
+    "title": "FACS-based calcium mobilization assay",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Label peripheral blood-derived neutrophils with fluo-4 AM in assay buffer for 45 min at 37\u00b0C.",
+        "Wash cells.",
+        "Resuspend cells at 2\u00d710^6 cells/mL.",
+        "Keep cell solutions at 37\u00b0C.",
+        "Add stimulus to the cells and record the change in mean fluorescent intensity (MFI) for 120 s using the BD FACSAria System.",
+        "For determining desensitization, add a second stimulus at time 130 s and measure another 120 s.",
+        "Analyze experiments via FlowJo Software."
+    ]
+}

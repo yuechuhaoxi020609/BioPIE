@@ -1,0 +1,42 @@
+{
+    "id": 3131,
+    "origin_website": "Cell",
+    "title": "Depletion and reconstitution of macrophages in mice with vesicular stomatitis virus infection",
+    "subjectAreas": [
+        "Cell Isolation",
+        "Immunology"
+    ],
+    "protocol": [
+        "Intraperitoneally inject CD45.2+ C57BL/6J mice with 0.7\u20131 mL sterile 6% starch solution.",
+        "Sacrifice the mice by anesthesia 3 days after injection.",
+        "Soak the mice in 75% alcohol for 3 min and then move them to the ultra-clean workbench.",
+        "Cut the skin of mice to expose the peritoneum.",
+        "Make a small incision in the center of the peritoneum using scissors carefully.",
+        "Irrigate the peritoneum with 1 mL sterile PBS using a sterile dropper.",
+        "Irrigate the peritoneal cavity gently with an irrigating solution until it becomes clear.",
+        "Centrifuge the irrigating solution at 500 \u00d7 g for 5 minutes.",
+        "Remove the supernatants from the centrifuged solution.",
+        "Resuspend cell pellets in 3 mL mouse RBC lysis buffer if red blood cells are present, place on ice for 5 minutes, then centrifuge again at 500 \u00d7 g for 5 minutes and discard the supernatants.",
+        "Wash the cell pellets with 5 mL PBS after RBC lysis and centrifuge at 500 \u00d7 g for 5 minutes before discarding the supernatants once more.",
+        "Suspend the cell pellets using DMEM medium supplemented with 10% FBS and 1% penicillin\u2013streptomycin.",
+        "Adjust the cell density to 2 \u00d7 10^6/mL.",
+        "Seed the cells on 10 cm cell culture dishes.",
+        "Place the dishes at 37\u00b0C under 5% CO2 for 4 hours.",
+        "Discard the supernatants to remove unattached cells.",
+        "Wash the dishes with PBS.",
+        "Add fresh DMEM medium supplemented with 10% FBS and 1% penicillin\u2013streptomycin.",
+        "Culture the cells at 37\u00b0C with 5% CO2 for 24 hours.",
+        "Intraperitoneally inject CD45.1+ C57BL/6J mice with 200 \u03bcL sterile clodronate liposome.",
+        "Scrape CD45.2+ donor peritoneal macrophages from culture dish by a cell scraper.",
+        "Count cells and adjust density to 2\u00d710^7/mL.",
+        "Gently vortex the cell suspension.",
+        "Fill a 1 mL syringe with 100 \u03bcL cell suspension.",
+        "Place a heater around the mice for 10 min to dilate the tail veins.",
+        "Find the tail veins of CD45.1+ recipient mice and clean them with alcohol swabs.",
+        "Insert the needle at an angle parallel to the tail veins and inject 100 \u03bcL cell suspension (2\u00d710^6 cells).",
+        "Remove the needle and apply pressure to the injection site with gauze until there is no more bleeding.",
+        "Rapidly thaw VSV.",
+        "Intraperitoneally inject VSV into CD45.1+ recipient mice (5 \u00d7 10^7 PFU per mouse).",
+        "Sacrifice the mice after anesthesia 24 hours later."
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 134,
+    "origin_website": "Nature",
+    "title": "Competitive receptor binding assay to probe for agonist binding to CXCR2",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Chemical Biology",
+        "Drug Discovery",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Cultivate cells expressing CXCR2 in a 24-well plate overnight in DMEM medium plus 10% FCS.",
+        "Remove the medium and add binding buffer (medium without FCS).",
+        "Place the plate on ice for 10 min.",
+        "Add cold agonist (rMIF or cold CXCL8) together with tracer (40 pM of 125I-labeled recombinant CXCL8).",
+        "Incubate at 4\u00b0C for 90 min to perform equilibrium receptor binding.",
+        "Remove the medium and wash cells twice with cold medium.",
+        "Harvest cells by adding 0.5 M NaOH.",
+        "Transfer cell lysate to a liquid scintillation tube.",
+        "Add Aquasafe 500 plus LSC cocktail and mix well.",
+        "Determine cell-bound radioactivity by liquid scintillation counting.",
+        "Calculate EC50, Ki, and Kd values using the Cheng-Prusoff equation with GraphPad software."
+    ]
+}

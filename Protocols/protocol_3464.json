@@ -1,0 +1,38 @@
+{
+    "id": 489,
+    "origin_website": "Nature",
+    "title": "Technique for Liquid Culture of Early Chick Embryos Suitable for Long Term Live Imaging",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Prepare 0.6% Bacto agar in 121 mM NaCl.",
+        "Cool to 48\u00b0C in a water bath.",
+        "Mix 50 ml of thin albumin collected from fertilized eggs with the cooled agar solution.",
+        "Pour 3 ml of the mixture into culture plates and allow to gel at room temperature.",
+        "Sterilize circular rings of Whatman filter paper by cutting out the central disk (25 mm).",
+        "Break eggs in a clean 10 cm petri dish, keeping the vitelline membrane intact around the yolk.",
+        "Orient the yolk so that the embryo is on top.",
+        "Clean the surface of the vitelline membrane with sterile tissue.",
+        "Place the filter paper ring on top of the vitelline membrane to center the embryo in the hole.",
+        "Cut the vitelline membrane around the outer edges of the filtering with small scissors.",
+        "Gently lift the embryo off the yolk using fine forceps.",
+        "Place the embryos with the epiblast side down onto the agar albumin-filled culture dish.",
+        "Position the dish under a dissecting microscope.",
+        "Remove excess yolk from the embryos with fine tweezers.",
+        "Sterilize the culture plates with 70% ethanol.",
+        "Rinse the sterilized plates with sterile distilled water.",
+        "Fill central depression of culture plate with 30 \u03bcl of heavy Silicon oil.",
+        "Take the filter paper mounted embryo from the culture plate and place it hypoblast side down over the central depression of the culture plate.",
+        "Place rubber O ring in the groove of the culture plate and press down gently with the help of two forceps.",
+        "Remove the filter ring outside the embryo by tearing the vitelline membrane with fine forces.",
+        "Place the culture plate in a sterile 3cm petri dish and fill it with 3 ml of thin albumin, removing any yolk extruding from under the vitelline membrane into the four escape ports.",
+        "Mount the culture plate at the bottom of an observation chamber for lightsheet microscope observation.",
+        "Prepare an agar mould that fits the culture plate by placing an unused culture plate in the centre of the observation chamber and filling it with 2 ml of 1% agar in saline.",
+        "Replace the empty culture plate with the culture plate containing the embryo once the agar is solidified.",
+        "Fill the box with 10 ml of thin egg white, optionally including Pen/Strep to prevent bacterial contamination.",
+        "Mount preparation under the Lightsheet microscope.",
+        "Cover the albumin with 2 ml light silicon oil to prevent evaporation."
+    ]
+}

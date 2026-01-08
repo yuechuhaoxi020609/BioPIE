@@ -1,0 +1,39 @@
+{
+    "id": 1221,
+    "origin_website": "Nature",
+    "title": "<p>Optogenetic manipulation of cellular communication in axolotls</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Thaw the required plasmids for this experiment.",
+        "Dilute DNA constructs in DPBS to reach a final concentration of 1-2 mg/ml.",
+        "Combine diluted DNA with phenol red solution to achieve a final concentration of approximately 0.1 mM.",
+        "Make a capillary glass microinjection needle using a standard needle puller.",
+        "Backfill the glass needle with 5 \u03bcl of DNA injection solution using a microloader tip.",
+        "Prepare 0.25 g/L Tricaine solution by dissolving Tricaine powder into pre-chilled Holtfreter's solution.",
+        "Adjust the pH of the Tricaine solution to be within the range of 6-8 using Tris solution.",
+        "Anesthetize the axolotl by placing it in the Tricaine solution for approximately 8 minutes until unresponsive.",
+        "Place the axolotl on its belly in an agarose-filled petri dish.",
+        "Observe the axolotl under a standard desktop microscope.",
+        "Stretch out and position the forelimbs with sterile tweezers to enable injection and subsequent electroporation.",
+        "Pressure-inject the DNA injection solution into the axolotl forelimb, approximately 1-2 mm distal to the elbow joint. Use 2-3 different injection sites for full diffusion.",
+        "Pour pre-chilled DPBS solution in the petri dish to immerse the injected limb.",
+        "Place an electrode tweezer on both sides of the injected forelimb with a distance of 2-4 mm apart between electrodes.",
+        "Apply three poring pulses of 150 V and 5 ms with 10 ms interval followed by five transfer pulses of 50 V and 50 ms with 950 ms interval. Hold the proximal part of the forelimb during electroporation using a tweezer.",
+        "Amputate the most distal region of the forelimb using a sterile surgical scalpel.",
+        "Prepare 0.25 g/L Tricaine solution by dissolving Tricaine powder into pre-chilled Holtfreter's solution.",
+        "Adjust the pH of the Tricaine solution to the range of 6-8 using Tris solution.",
+        "Anesthetize the axolotl by placing it in the Tricaine solution for approximately 8 minutes until unresponsive to motion.",
+        "Cut a sterile hybrislip to 0.8 x 0.8 cm and attach four small particles of adhesive to each corner using sterile tweezers.",
+        "Place the anesthetized axolotl inside a sterile fluorodish on its belly, removing major liquid droplets from the dish.",
+        "Stretch out the electroporated and amputated forelimb using a sterile tweezer.",
+        "Mount the prepared hybrislip onto the blastema region with minimal force applied to each corner of the hybrislip.",
+        "Fill the fluorodish with Tricaine solution to submerge the axolotl.",
+        "Perform standard confocal imaging on the mounted live axolotl at the site of the blastema using the least possible laser power for imaging.",
+        "Perform anesthesia and mounting strictly in the dark for optogenetic experiments.",
+        "Use a red flashlight to aid the process during optogenetic experiments.",
+        "Use short pulses of 488 nm laser to activate optoATVs."
+    ]
+}

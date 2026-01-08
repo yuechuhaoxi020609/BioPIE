@@ -1,0 +1,23 @@
+{
+    "id": 840,
+    "origin_website": "Nature",
+    "title": "Two-group comparison of gene signatures: failure of conventional statistical methods and validation of a novel algorithm",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Install CalcHEPI Add-in by opening Excel and inserting the program CD into the drive.",
+        "In Excel, click on 'Add-Ins' under the 'Tools' menu, then select 'Browse'.",
+        "Locate and double-click on 'HEPI' to install it.",
+        "Click 'Yes' when prompted to confirm copying HEPI to your system.",
+        "Ensure 'HEPI' appears on the menu bar after installation is complete.",
+        "Remove the software CD from the drive if applicable.",
+        "For uninstallation, follow similar steps but select 'HEPI Uninstall'.",
+        "Enter gene expression data of different groups in separate columns for computing HEPI score.",
+        "Activate the 'Input' window before entering data to ensure proper comparison.",
+        "Click the 'HEPI' button in the menu bar to pop up the 'Input' window.",
+        "Select the range of data (numbers only) without including the header row.",
+        "Click the 'OK' button to execute the software and display a comprehensive report."
+    ]
+}

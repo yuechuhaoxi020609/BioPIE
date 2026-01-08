@@ -1,0 +1,41 @@
+{
+    "id": 12,
+    "origin_website": "Nature",
+    "title": "Thymosin &#x3B2;4 \\(T&#x3B2;4)-induced outgrowth and differentiation of vasculogenic precursor cells from adult epicardium",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Coat 6-well plates with gelatin by pipetting 2 ml of 0.1% gelatin solution and allowing it to stand for 15 minutes before aspirating.",
+        "Optional: Place coverslips into wells prior to gelatin coating.",
+        "Cull adult mouse by cervical dislocation.",
+        "Using sterile forceps and scissors, make a lateral incision in the center of the abdomen and tear back the fur to expose the rib cage.",
+        "Carefully cut upwards through the sternum and along the diaphragm, taking care not to cut into the heart. Pull back the ribs to reveal the heart.",
+        "Remove the heart using forceps and dissect away the atria and major vessels to leave right and left ventricles.",
+        "Place tissue in a 60mm tissue culture dish containing 2 ml of DPBS. Cut into quarters and allow blood to rinse from the tissue. Carefully aspirate away DPBS. Using a sterile scalpel, cut the heart into pieces of approximately 1 mm\u00b3.",
+        "Divide heart pieces into four equal portions.",
+        "Pipette 2 ml of EPDC culture medium supplemented with 100 ng/ml T\u03b24 into each well to be used.",
+        "Place 1 portion of heart tissue into the centre of each well and ensure all pieces are submerged.",
+        "Gently transfer the plate to a humidified 5% CO\u2082 37\u00b0C incubator.",
+        "Maintain cultures with minimal disturbance for the first 72 hours.",
+        "After 72 hours in culture, carefully transfer the plate to the culture hood.",
+        "Wash explants gently with DPBS.",
+        "Add 2 ml fresh EPDC medium containing 100 ng/ml T\u03b24.",
+        "Leave for an additional 24 hours before assessing cellular phenotype.",
+        "Culture adult heart explants as described above.",
+        "After 72 hours of culture, fix cells with 4% PFA for 10 minutes at room temperature.",
+        "Wash cells twice with PBS.",
+        "Permeabilize cells with 0.5% Triton X-100 in PBS for 5 minutes at room temperature.",
+        "Wash cells twice with PBS.",
+        "Block non-specific binding by incubating cells in BLOCK (1% BSA/10% sheep serum in PBS) for 1 hour at room temperature.",
+        "Incubate cells with an appropriate dilution of primary antibody (epicardin, 1:100; SMalphaA, 1:700; Flk1, 1:100), or Procollagen type I, 1:100) in BLOCK.",
+        "Wash cells 3 times using BLOCK.",
+        "Incubate cells with the appropriate secondary antibody (epicardin: Cy3-conjugated anti-rabbit; SMalphaA: FITC-conjugated anti-mouse, 1:30; Procollagen type I: Alexa 488-conjugated anti-goat, 1:200; Flk1: Alexa 594-conjugated anti-rat, 1:200) diluted in BLOCK.",
+        "Wash cells twice in PBS.",
+        "OPTIONAL: To stain nuclei, incubate with 5ug/ml Hoechst in PBS for 5 minutes at room temperature.",
+        "Wash cells twice in PBS.",
+        "Mount coverslips onto microscope slides using 50% glycerol in PBS as mountant and visualize using a fluorescence microscope."
+    ]
+}

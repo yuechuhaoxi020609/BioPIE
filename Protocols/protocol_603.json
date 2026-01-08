@@ -1,0 +1,41 @@
+{
+    "id": 535,
+    "origin_website": "Nature",
+    "title": "Dissection and immunostaining of mouse whole-mount meninges",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Anesthetize mouse with lethal dose of appropriate pharmacological agent.",
+        "Perfuse transcardially with ice-cold Perfusion Buffer using the 10 ml syringe with the 30G needle until mouse is exsanguinated.",
+        "Sever mouse head just above the shoulder using regular scissors.",
+        "Using angled scissors, carefully detach skin and flesh from skull beginning at caudal aspect and working rostrally until all skin is removed.",
+        "Sever optic nerves to remove the eyes.",
+        "Turn head over so that ventral aspect of the jaw is facing up. Slide angled dissection scissors through the oral cavity until resistance of mandibular junction is felt, then sever large muscles connecting lower jaw to skull; remove.",
+        "Using angled dissection scissors, remove the lower orbits on each side of the skull (the squamosae, zygomatic and maxillae).",
+        "Using Dumont curved Forceps, clean all flesh from all aspects of skull.",
+        "With large scissors, make a coronal cut along the suture that defines the most caudal point of the nasal bone to prevent removal of the olfactory lobes.",
+        "With curved scissors, carefully cut clockwise around the skull inferior to the posttympanic hook.",
+        "Remove the lower portion of the skull; discard.",
+        "Scoop the brain out of the upper half of the skull.",
+        "Place the skullcap in a 24-well plate with 1 ml of appropriate Fixation solution.",
+        "Fix the meninges within the skullcap using PFA overnight at 4\u00b0C.",
+        "Wash the fixed meninges with 1 ml of PBS three times, each for 5 minutes.",
+        "Place the skullcap with PBS in a 10 mm petri dish under a dissecting microscope.",
+        "Score the meninges around the skullcap's interior edge starting from the olfactory lobes using a Dumont #5 forceps.",
+        "Peel off the scored meninges at the junction between the transverse sinuses and the superior sagittal sinus, ensuring it remains intact as one piece.",
+        "Place the dissected meninges in a 24-well plate with 1 ml of storage solution and store at 4\u00b0C until immunostaining.",
+        "Wash the meninges twice with 1 ml of PBS for 5 minutes each.",
+        "Incubate the meninges for 1 hour at room temperature in 300 \u00b5l of Block-Perm solution.",
+        "Incubate the meninges overnight at 4\u00b0C in primary antibodies diluted in antibody dilution solution.",
+        "Wash the meninges three times with 500 \u00b5l of PBS, each for 5 minutes.",
+        "Incubate the meninges for 1 hour at room temperature in 300 \u00b5l of secondary antibodies diluted in antibody dilution solution.",
+        "Wash the meninges once with 500 \u00b5l of PBS for 5 minutes.",
+        "Incubate the meninges for 5 minutes at room temperature in 300 \u00b5l of DAPI.",
+        "Wash with 500 \u00b5l of PBS.",
+        "Repeat washing three times.",
+        "Flatten the meninges on a glass slide using a paintbrush.",
+        "Mount the meninges using mounting media (e.g., Aquamount)."
+    ]
+}

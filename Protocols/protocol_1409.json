@@ -1,0 +1,42 @@
+{
+    "id": 9989,
+    "origin_website": "Jove",
+    "title": "Dissection and Isolation of Region-Specific Decellularized Lung Tissue",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Setup all necessary equipment required for the dissection procedure, including a glass casserole dish, two pairs of surgical tweezers, one pair of forceps, and one pair of surgical scissors.",
+        "Autoclave the equipment before use.",
+        "Obtain a section of the lung.",
+        "Place the lung section in the glass casserole dish.",
+        "Orient the lung so that the superior end of the airway can be seen clearly.",
+        "Identify the proximal end of the vasculature.",
+        "Keep the proximal end of the vasculature intact until later steps.",
+        "Remove any pleura lining the exterior of the lung using tweezers and surgical scissors.",
+        "Expose additional airway using a spreading technique with surgical scissors.",
+        "Locate the largest airway, typically having a diameter of 2-4 cm.",
+        "Palpate down the length of the airway to determine the location of an unseen airway to a depth of approximately 1 inch.",
+        "Hold the surgical scissors parallel to the airway and insert closed tips into the tissue directly surrounding the unseen airway.",
+        "Slowly open the surgical scissors to gently pull apart the surrounding membrane without cutting any tissue.",
+        "Repeat this process intermittently throughout the dissection procedure to continue exposing the airway.",
+        "Cut the airway at branching points using surgical scissors.",
+        "Dissect along either branch independently.",
+        "Sever regions of the airway once confident that the intact ends will remain identifiable and easily located for further dissection.",
+        "Place severed regions of the airway into the corresponding tube.",
+        "Apply gentle pressure to the vasculature and slowly pull away from the airway.",
+        "Use surgical scissors to separate the vasculature from the airway.",
+        "Expose branching points in the vascular tree using surgical scissors and tweezers.",
+        "Insert closed tips of the surgical scissors just below a branching point between two corresponding vasculature regions.",
+        "Slowly open the scissors to spread apart the underlying tissues.",
+        "Remove tissue that was spread apart using the surgical scissors with a pair of tweezers.",
+        "Cut the vasculature at a branching point when it covers regions of the airway or complicates dissection.",
+        "Dissect along either branch independently after cutting the vasculature.",
+        "Sever regions of the vasculature once confident that the intact ends will remain identifiable for further dissection.",
+        "Pinch and gently tear away small regions of alveolar tissue using a pair of forceps or tweezers.",
+        "Locate a region of tissue not in the direct vicinity of the airway or the vasculature.",
+        "Pinch a small region of the tissue that appears to be devoid of any vasculature or airway.",
+        "Tear the pinched region of the tissue from the lung using the tweezers.",
+        "Observe the region of tissue removed and confirm whether it is alveolar tissue."
+    ]
+}

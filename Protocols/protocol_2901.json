@@ -1,0 +1,40 @@
+{
+    "id": 620,
+    "origin_website": "Nature",
+    "title": "Detection of LacZ expression by FACS-Gal analysis",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Prepare single cell suspension from bone marrow.",
+        "Harvest bone marrow cells by flushing femur with ice-cold bone marrow harvesting medium.",
+        "Filter suspended cells through a 70 \u03bcm cell strainer while keeping the cells on ice.",
+        "Count the concentration of filtered cells.",
+        "Centrifuge filtered cells at 1500 rpm for 5-10 minutes.",
+        "Resuspend the cells in HBSS+ staining buffer, aiming for approximately 2 \u00d7 10^7 cells/mL.",
+        "Aliquot 100 \u03bcL suspended cells for staining.",
+        "Prepare controls including unstained control and single color controls for FACS compensation.",
+        "Dilute 20 mM FDG stock solution with ice-cold distilled water to make a 2 mM FDG working solution.",
+        "Dilute FDG control stock solution by 1:10 to prepare the working FDG control solution.",
+        "Aliquot 100 \u03bcL of FDG working solution or control solution into amber tubes.",
+        "Prepare 15 mL tubes with 2 mL HBSS+ buffer and keep them on ice.",
+        "Prewarm cell sample tubes and corresponding FDG (or control) tubes in a 37\u00b0C water bath for 10 minutes.",
+        "Transfer prewarmed cells into the corresponding FDG tube, mix thoroughly.",
+        "Return the mixture to the 37\u00b0C bath for exactly one minute.",
+        "Stop FDG loading by transferring the mixture into 2 mL ice-cold HBSS+.",
+        "Keep on ice for 1.5 hours to allow accumulation of FITC release from FDG in LacZ+ cells.",
+        "Centrifuge at 1500rpm for 7 minutes.",
+        "Discard supernatant.",
+        "Resuspend cell pellets with 100 \u03bcL ice-cold HBSS+ buffer.",
+        "Add 2 \u03bcl antibodies to cells.",
+        "Rock slowly at 4\u00b0C for 15 min.",
+        "Centrifuge at 1500rpm for 5-10 min.",
+        "Discard supernatants.",
+        "Resuspend cell pellets with 200ul ice-cold HBSS+.",
+        "Add 7 \u03bcl 7-AAD solution to 200 \u03bcl cells.",
+        "Adjust voltage.",
+        "Run compensation.",
+        "Run samples and collect FACS data.",
+        "Analyze FACS data."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 563,
+    "origin_website": "Nature",
+    "title": "Generation of murine sympathoadrenergic progenitor-like cells from embryonic stem cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Cultivate the murine embryonic stem cell \\(mESC) line D3 on mitotically inactivated primary mouse embryonic fibroblasts \\(MEFs).",
+        "Place 75 drops of ES medium containing various numbers of ES cells onto the lids of 10 cm petri dishes filled with phosphate-buffered saline \\(PBS).",
+        "Cultivate the ES cell-containing drops as hanging drops for 2 days.",
+        "Transfer EB aggregates from the hanging drops into 6 cm bacteriological petri dishes.",
+        "Further cultivate EB aggregates in suspension for 5 days.",
+        "Plate embryoid bodies generated from mESCs by the hanging drop method in Iscove\u2019s Modified Dulbecco\u2019s Medium containing 10% FCS on 0.1% gelatin-coated dishes.",
+        "Replace medium with Dulbecco's Modified Eagle Medium:Ham\u2019s F-12 supplemented with insulin, transferrin, selenium, and fibronectin after 1 day of cultivation.",
+        "Culture cells at 37\u00b0C and 5% CO2 for 7 days to generate neural progenitor cells \\(NPCs).",
+        "Enrich NCSCs from NPCs by CD57 expression sorting.",
+        "Plate dissociated NPCs on poly-D-lysine/fibronectin coated culture dishes.",
+        "Culture the cells in NCSC medium for 7 days in a hypoxia chamber adjusted to 3% oxygen.",
+        "Sort low-enriched NCSC-like population by FACS for expression of CD57 to generate higher-enriched NCSC-like cells.",
+        "Stain cells with GD2 antibody and sort them using FACS to generate highly-enriched SAP-like cells."
+    ]
+}

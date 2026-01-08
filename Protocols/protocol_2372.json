@@ -1,0 +1,22 @@
+{
+    "id": 510,
+    "origin_website": "Nature",
+    "title": "MSM Trace Element \\(TE) solution",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Adjust the pH of water to around 2.5.",
+        "Add 1100 mg/l FeCl\u2083 x6H\u2082O into the water, dissolve it thoroughly.",
+        "Add 50 mg/l CuSO\u2084 x5H\u2082O into the solution, dissolve it thoroughly.",
+        "Add 200 mg/l HBO\u2083 into the solution, dissolve it thoroughly.",
+        "Add 200 mg/l MnSO\u2084 xH\u2082O into the solution, dissolve it thoroughly.",
+        "Add 80 mg/l Na\u2082MoO\u2084 x2H\u2082O into the solution, dissolve it thoroughly.",
+        "Add 60 mg/l CoCl\u2082 x6H\u2082O into the solution, dissolve it thoroughly.",
+        "Add 90 mg/l ZnSO\u2084 x7H\u2082O into the solution, dissolve it thoroughly.",
+        "Add 10 mg/l Na\u2082SeO\u2084 into the solution, dissolve it thoroughly.",
+        "Adjust the pH to 1.5 with sulfuric acid and/or sodium hydroxide.",
+        "Sterile filter the solution."
+    ]
+}

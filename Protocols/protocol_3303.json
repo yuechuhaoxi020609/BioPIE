@@ -1,0 +1,41 @@
+{
+    "id": 60,
+    "origin_website": "Nature",
+    "title": "Synapse-specific reconsolidation of distinct fear memories in the lateral amygdala",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Implant rats with LA cannulas and a stimulation electrode aimed at the left auditory thalamus.",
+        "Attach an insulated stainless steel recording wire to the left LA cannula, extending approximately 0.5 mm from the base of the infusion cannula.",
+        "Determine the final depth using stimulation of the MGm/PIN as a guide.",
+        "Place two cortical silver balls contralaterally to serve as a reference and ground.",
+        "Leave animals at least one week before starting the experiment.",
+        "Choose two CSs, either made of pure tone or FM tone, to minimize generalization.",
+        "Use a 20-s series of acoustic tone pips for the pure tone CS \\(1 kHz, 50-ms duration, 1-ms ramp, intensity 20 dB higher than background noise, delivered at 1 Hz).",
+        "Use a 20-s series of frequency modulation tone sweeps for the FM tone CS \\(12.5-kHz carrier frequency, 50-Hz modulation frequency, 2.5-kHz modulation depth, 250-ms duration, 1-ms ramp, intensity 20 dB higher than background noise, delivered at 1 Hz).",
+        "Reactivate one of the tones in a counterbalanced manner in each experiment.",
+        "Use a 0.5-s \\(0.75-mA) electric foot shock as the US.",
+        "Place rats in the conditioning chamber for 30 min on two consecutive days.",
+        "Give rats three pre-exposures of one CS followed by three pre-exposures of another CS in the chamber with a variable intertrial interval of approximately 157 seconds, reversing the order on the next day.",
+        "Place the rats in the chamber and allow them to acclimate for 120 seconds.",
+        "Present three CSr-US pairings and three CSn-US pairings in the chamber with a variable intertrial interval of approximately 130 seconds, delivering the US immediately after each CS ends.",
+        "Acclimate the rats to the modified context chamber for 120 seconds before presenting a single CSr.",
+        "Thirty minutes prior to reactivation, infuse rats bilaterally with U0126 (1 \u03bcg; 0.5 \u03bcl in 50% DMSO) or an equivalent volume of vehicle (50% DMSO).",
+        "Place rats in the chamber three hours after the reactivation trial.",
+        "Allow acclimation for 120 seconds.",
+        "Present four presentations of CSr.",
+        "Wait 180 seconds after the CSr presentations.",
+        "Present four presentations of CSn.",
+        "Approximately 24 hours after the reactivation trial, conduct a PR-LTM test.",
+        "Present nine CSr.",
+        "Present nine CSn in the same order as the PR-STM test.",
+        "Record rats' freezing behavior onto videotape during all sessions for off-line scoring.",
+        "Record auditory-evoked field potentials \\(AEFPs\\) from both the LA and MGm/PIN through the tip of the stimulation electrode.",
+        "Analyze AEFP recordings using DataWave software.",
+        "Average AEFPs across all tone-pip presentations within a trial and collapse data across trials.",
+        "Measure the amplitude of the short latency negative component for each potential: 12-16 ms for the LA, 7-9 ms for the MGm/PIN.",
+        "Express retention of behavioral and electrophysiological changes as a percentage during the last four trials of the PR-LTM test relative to the four trials of the PR-STM test."
+    ]
+}

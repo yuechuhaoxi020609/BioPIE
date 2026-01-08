@@ -1,0 +1,27 @@
+{
+    "id": 722,
+    "origin_website": "Nature",
+    "title": "Retroviral transduction in cultured murine basophils",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Transfect retroviral constructs into the packaging cell line Phoenix using FuGene-6 reagent as instructed by supplier.",
+        "Collect retrovirus-containing supernatants 48 hours after transfection.",
+        "Concentrate virus supernatants 10-fold by centrifugation at 8000 g for 12 hours at 4\u00b0C.",
+        "Filtrate virus supernatants through a 0.22 \u03bcm pore PVDF membrane.",
+        "Store filtrated supernatants for up to one week at 4\u00b0C.",
+        "Isolate bone marrow cells from femurs and tibias of 8-12 week old mice.",
+        "Culture whole BM cells at 2 to 2.5 \u00d7 10^6 cells/ml in RPMI 1640 medium supplemented with penicillin, streptomycin, L-glutamine, \u03b2-mercaptoethanol, fetal bovine serum, and recombinant mouse IL-3 for 9 days.",
+        "Change the medium every 3 days during culture.",
+        "Enrich BM-derived basophils by depleting mast (c-kit+) cells using IMag system or autoMACS as instructed by the supplier.",
+        "Treat 12-well plates with RetroNectin solution at 50 \u03bcg/ml in PBS for 2 hours at room temperature.",
+        "Incubate treated plates with bovine serum albumin at 2% concentration in PBS for 30 minutes.",
+        "Incubate treated plates with virus supernatants for 4 hours at 30\u00b0C.",
+        "Add enriched BM-derived basophils (0.5 to 1 \u00d7 10^6 cells/ml) and culture for 2 days for infection.",
+        "Recover infected cells.",
+        "Wash recovered cells with RPMI 1640 containing 2% FBS.",
+        "Starve infected BM-derived basophils by culturing them in culture media without IL-3 for 12 to 18 hours.",
+        "Enrich rat CD2+ cells using the IMag system and/or AutoMACS."
+    ]
+}

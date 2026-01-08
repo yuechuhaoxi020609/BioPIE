@@ -1,0 +1,35 @@
+{
+    "id": 1134,
+    "origin_website": "Nature",
+    "title": "Bead aggregation assay to demonstrate presynaptic differentiation induced by the <span class=\"caps\">NGL</span> family of cell adhesion molecules",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Transfect HEK293T cells with NGL-2-Ecto-Fc.",
+        "Incubate for 2 days, then change to serum-free medium.",
+        "Incubate the serum-free medium for a further 3 days.",
+        "Purify NGL-2-Ecto-Fc from the serum-free medium using protein-A sepharose.",
+        "Mix 5 \u03bcg of NGL-2-Ecto-Fc with 5 \u03bcg of biotin-conjugated anti-human antibodies and 2 \u03bcL of neutravidin-conjugated FluoSphere beads.",
+        "Incubate the mixture for 1 hour.",
+        "Increase the volume to 1 mL by adding Hank's balanced salt solution (HBSS).",
+        "Centrifuge at 13,000 rpm for 1 minute in a microcentrifuge.",
+        "Remove the supernatant carefully and resuspend the precipitates in 100 \u03bcL of conditioned media where neurons were growing.",
+        "Place coverslips with cultured neurons face-up on 6-well dishes.",
+        "Add 100 \u03bcL of the resuspended beads onto the neurons.",
+        "Incubate at 37\u00b0C for 30 minutes without drying the coverslips.",
+        "Wash the neurons twice with HBSS.",
+        "Return the coverslip to the conditioned media and incubate for 24 hours.",
+        "Fix and immunostain the neurons with primary antibodies against various synaptic proteins and fluorophore-conjugated secondary antibodies.",
+        "Capture Z-stacked images by confocal immunofluorescence microscopy as well as DIC imaging.",
+        "Manually trace the boundaries of the beads for quantitation.",
+        "Copy a bead boundary to a nearby axonal region for normalization.",
+        "Determine the mean immunofluorescence intensity of a synaptic marker in a bead area.",
+        "Normalize the mean immunofluorescence intensity by that from a nearby control area."
+    ]
+}

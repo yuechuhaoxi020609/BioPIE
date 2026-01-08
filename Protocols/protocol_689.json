@@ -1,0 +1,28 @@
+{
+    "id": 0,
+    "origin_website": "Nature",
+    "title": "In vivo evaluation of drug lead candidates by intravenous continuous infusion",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology",
+        "Chemical Biology",
+        "Drug Discovery"
+    ],
+    "protocol": [
+        "Grow _S. aureus_ MB 2865 overnight with aeration in TSB medium.",
+        "Harvest and wash bacteria with fresh TSB.",
+        "Dilute bacteria to achieve an inoculum of 4 x 10^3 CFU/mL in 5% hog gastric mucin.",
+        "Infect mice intraperitoneally using 0.5 mL of the diluted bacterial solution.",
+        "Anesthetize infected mice using isoflurane.",
+        "Attach 0.5 inch hollow connectors to external JVC catheter sections.",
+        "Harness mice to counter-balance arm inside a mouse cage.",
+        "Connect fluid-primed PE 20 tubings attached to individual syringes on the infusion pump to mice through the connector.",
+        "Initiate infusion pump for 24 hours at a flow rate of 0.1 mL/hour.",
+        "Take blood samples by tail vein during infusion to determine serum drug concentration.",
+        "Euthanize mice after 24 hours.",
+        "Aseptically remove kidneys and homogenize them.",
+        "Plate serial dilutions of kidney homogenates on Mannitol plates.",
+        "Incubate plates overnight at 37 \u00b0C.",
+        "Enumerate bacterial counts."
+    ]
+}

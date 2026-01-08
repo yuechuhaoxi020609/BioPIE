@@ -1,0 +1,12 @@
+{
+    "id": 1014,
+    "origin_website": "Nature",
+    "title": "Identification of lineage-specific gene family expansions in a database of gene families",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Use Interproscan 5 to identify predicted proteins with Pfam domains associated with transposable elements using a list from Foth et al."
+    ]
+}

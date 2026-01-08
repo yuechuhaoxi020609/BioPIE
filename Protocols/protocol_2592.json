@@ -1,0 +1,39 @@
+{
+    "id": 1181,
+    "origin_website": "Nature",
+    "title": "<p>RET-enhanced measurement of relaxation time constants of LOV2-based optogenetic actuators</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Prepare plasmids for the experiment.",
+        "Culture HEK293 cells in a 10cm dish with DMEM-high glucose medium supplemented with 10% FBS, 2mM Glutamine, and 50unit-50\u00b5g/ml Penicillin-Streptomycin at 37\u00b0C with 5% CO2.",
+        "Prewarm culture medium in a 37\u00b0C water bath. Thaw the 2.5% trypsin stock in room temperature.",
+        "Aspirate culture medium from the 10cm dish containing HEK293 cells. Gently rinse cells with about 2-3ml Versene once.",
+        "Add 1ml of Versene containing final 0.05% trypsin to the cells. Rock the plate gently and leave in the cell culture incubator for 5 min.",
+        "When fully detached, add 1ml of warm culture medium to the dish. Pipette up and down until all the cells are dissociated. Transfer to a 50ml conical tube and centrifuge at 800rpm for 4 min.",
+        "Discard supernatant and resuspend cell pellet in fresh culture medium gently.",
+        "Count the cells using a B\u00fcrker chamber.",
+        "Plate 400,000 cells with 2ml of medium into one 35mm dish.",
+        "Prepare an additional dish for untransfection control based on the number of plasmids needed.",
+        "Transfect cells using Calcium-phosphate precipitation the day after plating.",
+        "Mix 2.5 \u00b5g of plasmid DNA with 6.25 \u00b5l of 2.5M CaCl\u2082 and add 62.5 \u00b5l of 2XHebs stock to each transfection mix.",
+        "Drop the DNA-CaCl\u2082 mixture into 2XHeBs while swirling, wait for 30 minutes, then distribute evenly over cultures.",
+        "Leave transfected cells in the incubator for 48 hours.",
+        "Cool down 1x PBS and LSB solution with protease inhibitors on ice before use.",
+        "Aspirate cell culture medium from the dish and rinse the cell layer twice with cold PBS without disturbing it.",
+        "Add prepared LSB solution to the dish for lysis.",
+        "Pre-cool the benchtop centrifuge to 4 \u00b0C.",
+        "Centrifuge all cell lysates pre-clearing at 4 \u00b0C, at 20,000g for 10 min.",
+        "Transfer the supernatant of the centrifuged lysate into a new microfuge tube after centrifugation.",
+        "Aliquot the supernatant to smaller volumes and snap freeze all tubes in liquid nitrogen.",
+        "Thaw cell lysates on ice and cover tubes with foil.",
+        "Re-centrifuge cell lysate at 4 \u00b0C, 20,000g for 10 min after thawing.",
+        "Turn on the plate reader to ready it for measurement.",
+        "Transfer 20 \u03bcl of cell lysate to a half-area 96 well plate.",
+        "Add 5 \u03bcl mineral oil on top of the cell lysate to prevent evaporation.",
+        "Equilibrate the plate at either 25\u00b0C or 37\u00b0C in the plate reader for 5-10 min before measurement."
+    ]
+}

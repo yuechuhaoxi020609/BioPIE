@@ -1,0 +1,27 @@
+{
+    "id": 962,
+    "origin_website": "Nature",
+    "title": "Cell-specific mitochondrial affinity purification \\(CS-MAP) protocol",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Grow approximately 10,000 worms on 2 x 150 mm NGM plates seeded with E. coli OP50 bacteria.",
+        "Harvest worms and wash them three times with 15 ml of M9 buffer.",
+        "Wash worms once with 15 ml of ddH2O.",
+        "Resuspend worms in 3 ml of ice cold MIB and transfer into a 7 ml dounce homogenizer on ice.",
+        "Perform 21 gentle strokes.",
+        "Centrifuge at 200 g for 5 min and keep supernatant.",
+        "Centrifuge at 800 g for 10 min and keep supernatant.",
+        "Centrifuge at high-speed 12,000 g for 10 min to pellet the total mitochondria.",
+        "Remove MIB and replace with 500 \u00b5l of ice cold PEB.",
+        "Add 100 \u00b5g of anti-HA magnetic beads.",
+        "Incubate samples at 4 \u00b0C for 1 h while rotating at 10 rpm.",
+        "Transfer the samples onto a homemade setup consisting of a column and a magnet.",
+        "Ensure that beads are attracted to the side of the tip and held by the magnet.",
+        "Wash twice with 25 ml of ice cold PEB.",
+        "After washings, resuspend the beads in 20 \u00b5l of MIB."
+    ]
+}

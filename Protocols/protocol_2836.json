@@ -1,0 +1,20 @@
+{
+    "id": 601,
+    "origin_website": "Nature",
+    "title": "Plasma Collection Procedure \\(Small Scale) for the analysis of extracellular RNA",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Process sample and place into freezer within 2 hours of collection.",
+        "Collect 10 ml whole blood by peripheral venipuncture using a 21 gauge butterfly needle into a K2EDTA vacutainer tube.",
+        "Invert the tube gently 8-10 times.",
+        "Centrifuge tubes at 500 xg for 10 minutes at room temperature.",
+        "Transfer plasma to a fresh 15 ml centrifuge tube, avoiding the buffy coat layer.",
+        "Centrifuge tubes again at 2000 xg for 10 minutes at room temperature.",
+        "Using a fresh pipet, transfer the top 80% of the plasma, avoiding the pellet at the bottom of the tube, to a fresh 15 ml tube.",
+        "Transfer 1 ml of plasma into each screw-cap microcentrifuge tube.",
+        "Place the 1 ml aliquots into a -80\u00b0C freezer for storage."
+    ]
+}

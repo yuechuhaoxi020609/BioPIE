@@ -1,0 +1,21 @@
+{
+    "id": 11033,
+    "origin_website": "Jove",
+    "title": "Sample Drift Correction Following 4D Confocal Time-lapse Imaging",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Set the sampling rate for temporal resolution of dynamic events.",
+        "Ensure time between image time-points is at least half the interval of regular repeating events.",
+        "Decrease time intervals for irregular events to capture dynamics accurately.",
+        "Install Fiji program from http://fiji.sc/Downloads.",
+        "Load acquired dataset using LOCI Bio-Formats Importer plugin.",
+        "Select \"Use virtual stack option\" if dataset exceeds allocated memory.",
+        "Correct drift of 3D object in post processing.",
+        "Run the Correct 3D drift plugin once the dataset has loaded.",
+        "Select the channel representing a static structure within the sample for registration, or choose the channel with the least movement if necessary.",
+        "If available RAM is less than twice the size of the original dataset, select the use virtual stack option to store registered hyperstack as an image sequence.",
+        "Select a folder for the plugin to output individual corrected images files."
+    ]
+}

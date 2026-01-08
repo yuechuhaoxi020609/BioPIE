@@ -1,0 +1,31 @@
+{
+    "id": 11011,
+    "origin_website": "Jove",
+    "title": "Preparation of Mica Supported Lipid Bilayers for High Resolution Optical Microscopy Imaging",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Place No. 1\u00bd (0.17 mm) coverslips into a staining rack.",
+        "Sonicate the coverslips for 30 minutes in 2% detergent at 60 \u00b0C.",
+        "Wash the coverslips 20 times with deionized water.",
+        "Remove the coverslips using forceps and blow dry using compressed air or nitrogen.",
+        "Cut mica sheet into 10 x 10 mm square pieces using scissors or a razor blade.",
+        "Cut each mica piece into 2-3 thinner leaflets using a razor blade.",
+        "Clean a microscopic glass slide with ethanol.",
+        "Glue a leaflet of mica to the glass slide using optical adhesive.",
+        "Cure the glued assembly under a UV lamp for 10 minutes.",
+        "Expose a clean mica surface by removing the first few layers with Scotch tape.",
+        "Place a small drop (~20 \u03bcm) of high viscosity optical adhesive onto the exposed mica surface.",
+        "Gently place a freshly cleaned coverslip onto the drop of adhesive, avoiding air bubbles.",
+        "Let the assembly settle for 1 minute.",
+        "Cure the assembly under a UV lamp for 10 minutes.",
+        "Using an exacto knife, gently dismount the coverslip from side glass slide.",
+        "Check the surface quality by naked eye or under a dissecting microscope.",
+        "Remove rubber seal from a 1.5 ml vial cap and glue the cap upside down to the surface using optical adhesive or nail polish.",
+        "Cure with UV lamp or let air dry for 10 min, respectively.",
+        "Place freshly prepared liposome solution into chamber with surface for SLB formation.",
+        "Proceed with SLB formation using desired protocol.",
+        "Incubate the chamber during imaging to maintain temperature required for lipid stability."
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 3036,
+    "origin_website": "Cell",
+    "title": "Protocol to image deuterated propofol in living rat neurons using multimodal stimulated Raman scattering microscopy",
+    "subjectAreas": [
+        "Molecular/Chemical Probes",
+        "Microscopy",
+        "Cell Culture",
+        "Cell Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Dilute 5 mM calcein AM stock to a final working concentration of 100 nM in HEPES ACSF.",
+        "Load cells with 100 nM calcein AM in HEPES ACSF for 30 min at 37\u00b0C in 5% CO2 incubator.",
+        "After loading, wash cells in fresh HEPES ACSF and transfer to 35 mm glass base dish with 3 mL of HEPES ACSF.",
+        "Align two lasers using an alkyne-containing standard sample to maximize SRS signals.",
+        "Add propofol-d17 to the cell culture dish to achieve a final concentration of 100 \u03bcM.",
+        "Place the cell culture dish on the sample stage and prepare for observation.",
+        "If available, turn on single photon confocal microscopy and illuminate cells with 488 nm laser to locate them using calcein AM fluorescence.",
+        "Open shutters for pump and Stokes lasers after checking optical line safety.",
+        "Run program to start the experiment.",
+        "Adjust the bottom objective lens according to the two-photon microscope channel.",
+        "Check SRS channel signal.",
+        "If equipped, adjust correction collar on the objective lens to maximize SRS signal.",
+        "Adjust the number of frames and average according to signal strength.",
+        "Acquire the image.",
+        "Set the pump wavelength to a wavenumber below 2,000 cm\u22121 for propofol-d17 off-resonance.",
+        "Obtain an image in the same frame averaging setting as before.",
+        "Compare images under on- and off-resonance pulses to confirm the signal of propofol-d17.",
+        "Choose a target cell for timelapse imaging using the loaded neuronal cells.",
+        "Perform timelapse imaging for a total of 1,000 frames while perfusing 3 mL 100 \u03bcM propofol-d17 solution with fresh HEPES ACSF solution.",
+        "Choose the region of interest for analysis using appropriate software (e.g., Fiji).",
+        "Analyze SRS channels' signal changes using the chosen software.",
+        "Plot intensity of propofol-d17 SRS signal against time to visualize signal changes upon washout."
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 274,
+    "origin_website": "Nature",
+    "title": "An improved protocol for ex vivo expansion of highly lytic NK cells from human umbilical cord blood CD34<sup>+</sup> cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Collect fresh cord blood from umbilical cords of full-term newborns.",
+        "Dilute collected cord blood samples 1:2 in PBS.",
+        "Isolate cord blood mononuclear cells by Ficoll-Hypaque centrifugation at 400 g for 30 minutes.",
+        "Wash isolated CBMCs extensively in PBS.",
+        "Isolate CD34+ cells from CBMCs using the Miltenyi human CD34 Microbead Kit.",
+        "Analyze cell purity by FACS; ensure purity is routinely higher than 90%.",
+        "Mix 10 \u03bcl of isolated cells with 80 \u03bcl of PBS and 10 \u03bcl of Trypan Blue.",
+        "Count viable CD34+ cells using a Neubauer chamber.",
+        "Culture isolated CD34+ cells in warm SCGM supplemented with Penicillin/Streptomycin and FBS.",
+        "Add recombinant human SCF, Flt3-L, IL-15, and IGF-1 to the culture medium.",
+        "Incubate cultures at 37\u00b0C in a humidified atmosphere with 5% CO2 for 4 weeks.",
+        "Replace half of the medium volume every 3\u20134 days with fresh medium containing the same concentration of freshly added cytokines.",
+        "Adjust cell density to 1\u00d710^6 cells/ml in 6-well culture plates.",
+        "Collect cells at day 28.",
+        "Measure the percentage of CD3- CD56+ cells by FACS analysis.",
+        "Evaluate NK cell function through flow cytometry monitoring of perforin and CD107a expression.",
+        "Perform intracellular staining for perforin following surface staining for CD56+ CD3neg cells to identify NK cells.",
+        "Thoroughly resuspend cells with 250 \u03bcl of BD Cytofix/Cytoperm solution in the 1.5 ml Eppendorf tube and incubate for 20 min at 4\u00b0C.",
+        "Wash cells two times in 1 ml BD Perm/Wash buffer.",
+        "Thoroughly resuspend fixed/permeabilized cells in 50 \u03bcl of BD Perm/Wash buffer containing a predetermined optimal concentration of a PE-conjugated anti-perforin Ab or appropriate negative control.",
+        "Incubate at 4\u00b0C for 30 minutes in the dark.",
+        "Wash cells 2 times with BD Perm/Wash buffer.",
+        "Resuspend cells in staining buffer.",
+        "Analyze by flow cytometry.",
+        "Isolate cytokine-differentiated NK cells for CD107a assay.",
+        "Mix 2\u00d710^5 NK cells and 2\u00d710^5 K562 cells gently.",
+        "Spin down the mixture for 1 min at 200 g.",
+        "Incubate for 2 h at 37\u00b0C in 200 \u00b5l of SCGM media.",
+        "Stain NK cells with Alexa-647-labeled anti-CD56 antibody.",
+        "Stain NK cells with PE-Cy5-labeled anti-CD3 antibody.",
+        "Detect degranulation with PE-labeled anti-CD107a antibody."
+    ]
+}

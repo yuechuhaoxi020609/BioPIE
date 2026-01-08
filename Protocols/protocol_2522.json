@@ -1,0 +1,37 @@
+{
+    "id": 3645,
+    "origin_website": "Cell",
+    "title": "Microfluidics for single-cell lineage tracking over time to characterize transmission of phenotypes in Saccharomyces cerevisiae",
+    "subjectAreas": [
+        "Single Cell",
+        "Cell Biology",
+        "Model Organisms",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Inoculate 3 mL synthetic media in a 15-mL tube with yeast from a freshly streaked plate.",
+        "Grow the inoculated yeast cultures at 30\u00b0C with shaking at 250\u2013300 rpm for 10\u201315 hours.",
+        "Filter media through a 0.22 \u03bcm filter to remove particulate matter or precipitates.",
+        "Inoculate a fresh culture of 3 mL media with 25-50 \u03bcL culture from the first step.",
+        "Grow the new inoculated cultures at 30\u00b0C with shaking at 250\u2013300 rpm for approximately 4 hours until cells reach low log phase.",
+        "Place microfluidics chip in the heating chip holder.",
+        "Secure the microfluidics chip with screws and holders.",
+        "Secure the chip tightly on the stage to prevent movement during the time-lapse experiment.",
+        "Connect all tubings for media and cell inlets and outlets to the chip.",
+        "Prime the chip and tubings with medium until continuous flow is observed into the waste.",
+        "Inject cells from a low log phase culture into each microchamber using a 1 mL syringe and a 22 gauge blunt edge needle.",
+        "Start pumping media through chip.",
+        "Choose positions to image.",
+        "Set focus for each position.",
+        "Collect images with 3-min resolution with phase contrast and any filters for fluorescent molecules of interest.",
+        "Acquire images in the following order: (channel 1) phase contrast, (channel 2) fluorescent protein of interest, (channel 3) lineage marker.",
+        "Segment cells using fluorescence or phase contrast images.",
+        "Import images into PhyloCell to generate a segmentation project.",
+        "Convert ND2 files into JPEG images for use in PhyloCell (optional).",
+        "Map cells so that they are tracked from frame to frame.",
+        "Build pedigrees based on mother-bud proximity or lineage markers.",
+        "Correct any errors in segmentation, mapping, or lineage tracking.",
+        "Measure fluorescence in segmented cells.",
+        "Subtract cellular autofluorescence and/or background fluorescence."
+    ]
+}

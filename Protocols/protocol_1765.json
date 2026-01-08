@@ -1,0 +1,38 @@
+{
+    "id": 10963,
+    "origin_website": "Jove",
+    "title": "Bead Aggregation Assays for the Characterization of Putative Cell Adhesion Molecules",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Split HEK293 cells 1:5 using 0.05% Trypsin-EDTA solution.",
+        "Incubate split cells in Growth Media at 37 \u00b0C with 5% CO2 until 60 - 80% confluent (2 - 3 days).",
+        "Culture cells for each condition in 2 x 100 mm dishes.",
+        "Transfect HEK293 cells with plasmid encoding Fc-fusion using Lipofectamine.",
+        "Return transfected cells to the incubator for 24 hours.",
+        "Preheat Growth Media without Fetal Bovine Serum (-FBS) to 37 \u00b0C.",
+        "Rinse culture dishes twice with 10 ml of Growth Media -FBS.",
+        "Incubate the rinsed dishes in 37 \u00b0C incubator for 1 hour.",
+        "Rinse cultures one more time with 10 ml of Growth Media -FBS, completing three washes total.",
+        "Incubate transfected HEK293 cells at 37 \u00b0C without FBS for another 48 hours before collecting media.",
+        "Transfer media from each pair of dishes to 50 ml conical tubes.",
+        "Spin the conical tubes at 500 x g for 5 minutes to pellet cellular debris.",
+        "Filter media through a centrifugal filter using a 30 ml syringe and 0.45 \u00b5m syringe filter.",
+        "Spin the centrifugal filters at 4,000 x g and 4 \u00b0C until volume is approximately 500 \u00b5l (approximately 15 minutes).",
+        "Repeat filtration and concentration steps until all culture media has been processed.",
+        "Add 1.5 \u00b5l of Protein G magnetic beads to 1 ml of ice cold Binding Buffer in a 1.5 ml microcentrifuge tube for each sample.",
+        "Place tubes on a magnet and remove buffer.",
+        "Immediately add concentrated culture media to the Protein G magnetic beads.",
+        "Rotate tubes at 4 \u00b0C for 2 hours.",
+        "Place tubes on a magnet and remove media.",
+        "Wash beads twice with ice cold 1 ml Binding Buffer.",
+        "Resuspend beads in 300 \u00b5l Binding Buffer.",
+        "Split resuspended beads into 2 tubes, 150 \u00b5l into each tube.",
+        "Add 1.5 \u00b5l of 200 mM CaCl2 to one tube for the \u201ccalcium\u201d condition.",
+        "Add 1.5 \u00b5l of 200 mM EDTA to another tube for the \u201cno calcium\u201d condition.",
+        "Transfer 100 \u00b5l from each condition to a depression well slide.",
+        "Collect micrographs using a transmitted light microscope.",
+        "Collect images from 5 fields of view for each experiment at each desired time point."
+    ]
+}

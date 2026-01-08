@@ -1,0 +1,33 @@
+{
+    "id": 304,
+    "origin_website": "Nature",
+    "title": "_In vitro_ antimicrobial assay using chemically reconstituted system with hemocyanin or hemoglobin",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology",
+        "Chemical Biology",
+        "Drug Discovery"
+    ],
+    "protocol": [
+        "Prepare the bacterial culture as described in protocol #4.",
+        "Adjust the bacterial population to 10^6 - 10^7 cfu/ml.",
+        "Incubate bacteria under test at 10^6 cfu/ml with 60 \u03bcg purified HMC plus 100 nmol 4-methylcatechol (4ME) in 100 \u03bcl PBS at 37\u00b0C for 1 h.",
+        "Plate 100 \u03bcl of serially diluted samples on nutrient agar plates and incubate at 37\u00b0C overnight.",
+        "Perform the colony count and calculate bacterial cfu/ml.",
+        "Add 10 nmol phenylthiourea (PTU) to reactions to evaluate PO activity impact.",
+        "Set up controls by incubating bacteria with HMC/PPO, 4ME, or PTU separately, or in combinations.",
+        "Mix each bacterial strain at 10^7 cfu/ml with 60 \u03bcg HMC/PPO and 100 nmol 4ME in 100 \u03bcl PBS.",
+        "Apply one \u03bcl of the mixture to fluorescence microscopy.",
+        "Examine it at magnification of 63 x 1.6, with time-elapse method.",
+        "Capture images at intervals of 30 s for 1 h and make a movie.",
+        "Incubate bacteria under test at 10^6 cfu/ml with 36 \u03bcg metHb and 1.6 \u03bcmol H2O2 in 200 \u03bcl PBS at 37\u00b0C for 1 h.",
+        "Plate 100 \u03bcl of serially diluted samples on nutrient agar plates.",
+        "Incubate the plates at 37\u00b0C overnight.",
+        "Count the colonies and calculate the bacterial cfu/ml.",
+        "Apply 2 \u03bcmol GSH to the incubation mixture to quench superoxide ions.",
+        "Set up controls by incubating bacteria with metHb separately.",
+        "Set up controls by incubating bacteria with H\u2082O\u2082 separately.",
+        "Set up controls by incubating bacteria with GSH separately.",
+        "Incubate bacteria with combinations of metHb, H\u2082O\u2082, and GSH."
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 481,
+    "origin_website": "Nature",
+    "title": "A one-step kinetics-based rapid sandwich ELISA procedure using leach-proof antibody immobilization for the highly-sensitive detection of human fetuin A",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Incubate the MTP well surface with 100 \u03bcL of 1% \\(w/v) KOH in DIW for 10 min at 37\u00b0C.",
+        "Wash five times with 300 \u03bcL DIW per well.",
+        "Mix EDC-activated anti-HFA capture Ab \\(8 \u00b5g mL\\(^{-1}\\)) with 1% \\(v/v\\) APTES in a ratio of 1:1 \\(v/v).",
+        "Incubate each desired MTP well with 100 \u03bcL of the prepared anti-HFA capture Ab solution at 4 \u00b5g mL\\(^{-1}\\) in 0.5% APTES for 30 min at 37\u00b0C.",
+        "Wash five times with 300 \u03bcL of 0.1M PBS, pH 7.4.",
+        "Block the MTP wells by incubating with 300 \u03bcL of 1% \\(w/v\\) BSA for 30 min at 37\u00b0C.",
+        "Filter the BSA solution before use to remove contaminants.",
+        "Wash five times with 300 \u03bcL of 0.1M PBS, pH 7.4.",
+        "Dispense 100 \u00b5L of biotinylated anti-HFA detection Ab at 0.17 \u00b5g/mL into MTP wells.",
+        "Incubate for 15 min at 37\u00b0C.",
+        "Prepare HFA concentrations in BSA-preblocked sample vials to minimize analyte loss due to non-specific surface binding.",
+        "Add 100 \u00b5L of varying concentrations of HFA (0.1-243 ng/mL) to the MTP wells containing biotinylated anti-HFA detection Ab.",
+        "Wash the resulting sandwich immune complex-bound MTP with 300 \u00b5L of 0.1M PBS, pH 7.4 five times.",
+        "Add 100 \u00b5L of TMB-H2O2 mixture to each MTP well and incubate at room temperature for 14 min.",
+        "Stop the enzymatic reaction by adding 50 \u00b5L of 2N H2SO4 to each MTP well.",
+        "Record the absorbance at a primary wavelength of 450 nm, with 540 nm as the reference wavelength in a Tecan Infinite M200 Pro microplate reader."
+    ]
+}

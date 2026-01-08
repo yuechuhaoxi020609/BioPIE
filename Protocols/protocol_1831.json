@@ -1,0 +1,38 @@
+{
+    "id": 1356,
+    "origin_website": "Nature",
+    "title": "<p>Reconstitution of circularized nanodiscs using SpyCatcher-SpyTag</p>",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Thaw 1 vial of BL21 STAR\u2122 (DE3) cells on ice.",
+        "Add 1 \u00b5L of spMSP plasmids into the vial and keep it on ice for 10 minutes.",
+        "Heat shock at 42 \u00b0C for 30 seconds and place the vial on ice for 2 minutes.",
+        "Add 500 \u00b5L LB broth into the vial and shake it at 37 \u00b0C for 1 hour.",
+        "Spread the cells on LB agar Kanamycin plates.",
+        "Incubate the plates overnight at 37 \u00b0C.",
+        "Pick a single colony from the plate into 10 ml LB media supplemented with 50 \u00b5g/ml kanamycin.",
+        "Shake the culture at 37 \u00b0C overnight (200 rpm).",
+        "Transfer the 10 ml culture into 1 L LB supplemented with 50 \u00b5g/ml kanamycin.",
+        "Incubate the 1L culture at 37 \u00b0C with shaking at 200 rpm until OD600 = 0.7.",
+        "Add IPTG (0.2 mM) into the culture and continue incubation with shaking at 120 rpm for 20h at 16 \u00b0C.",
+        "Collect the cells by centrifugation at 3450 x g for 20 minutes using 5920 R.",
+        "Resuspend cells in buffer A.",
+        "Lysate cells on ice using a Branson cell disrupter (60% duty cycle, 45 seconds).",
+        "Centrifuge the cell lysate at 12,000 x g for 45 minutes to clarify.",
+        "Load supernatant onto a 1 ml Ni\u00b2\u207a-NTA column.",
+        "Wash the column extensively with buffer B.",
+        "Elute proteins using buffer C.",
+        "Desalt eluted proteins in buffer A using PD MiDiTrap G-25.",
+        "Store desalted proteins at -80\u00b0C.",
+        "Incubate purified spMSPs with PC lipids at different ratios in buffer A containing 0.05% DDM on ice for 30 minutes.",
+        "Slowly remove detergents by incubating samples with BioBeads (1/3 volume) and gentle shaking overnight at 4\u00b0C.",
+        "Fractionate cNDs by size exclusion chromatography using Superose 6 10/300 in buffer A.",
+        "Collect fractions corresponding to cNDs for analysis.",
+        "Glow discharge formvar/carbon-coated copper grids at 15 mA for 25 seconds.",
+        "Apply cNDs solution (10 \u00b5g/ml) to the grids for 30 seconds.",
+        "Stain the grids with 0.75% uranyl formate for 1 minute.",
+        "Collect images using a ThermoFisher Scientific Tecnai G2 TEM at 100 kV equipped with a Veleta CCD camera."
+    ]
+}

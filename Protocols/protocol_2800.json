@@ -1,0 +1,36 @@
+{
+    "id": 321,
+    "origin_website": "Nature",
+    "title": "Immunohistochemical detection of preproenkephalin in the mouse brain",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Anesthetize the mouse by intraperitoneal injection of sodium pentobarbital according to manufacturer guidelines.",
+        "Immobolize the fully anesthetized animal on an appropriate surface surrounded by a plastic container for recovery of any biological fluid.",
+        "Cut open the chest and secure the tissue to obtain visibility of the heart.",
+        "Insert a 20-gauge needle hooked up to a perfusion pump into the left ventricle.",
+        "Perform a small incision into the left atrium and perfuse the animal at 3ml/min with TBS for 3 minutes.",
+        "Switch the perfusion to CS at 3ml/min for an additional 3 minutes.",
+        "Remove the brain from the skull and postfix it in CS for 1 hour at room temperature.",
+        "Wash the tissue twice with TBS to remove residual CS and place it in CPB until it sinks to the bottom of the tube.",
+        "Wash the brain twice with TBS to remove excess sucrose.",
+        "Embed the brain in OCT and snap-freeze it using liquid nitrogen. Store blocks at -80\u00b0C until use.",
+        "Prepare cryosections of 30-to-40 \u00b5m thickness in the appropriate orientation using a cryostat. Place free-floating sections in 24 well plates with 300\u00b5l TBS maintaining the sequential order.",
+        "Wash the sections twice with 300\u00b5l TBS for 10 minutes.",
+        "Incubate for 30 minutes at room temperature with QS.",
+        "Wash three times with 300 \u00b5l WS.",
+        "Incubate for 1 hour at room temperature with BB.",
+        "Remove BB and incubate tissues with 200\u00b5l AIB containing a 1:200 dilution of anti-preproenkephalin antibody. Incubate overnight at 4\u00b0C with gentle rocking.",
+        "Wash tissues three times as above.",
+        "Incubate with Alexa488-conjugated secondary antibody diluted 1:1000 in AIB for 3 hours at room temperature with gentle rocking.",
+        "Wash tissues three times as above.",
+        "Counterstain the tissue with 100 ng/ml DAPI for 10 minutes at room temperature.",
+        "Wash tissues once as above.",
+        "Place sections on a gelatin-coated slide using a fine brush.",
+        "Mount the slides using Vectashield Mounting Medium and cover with a coverslip glass.",
+        "Seal the edges of the coverslip with nail polish to reduce oxidation of the mounting medium.",
+        "Let the slides dry at room temperature for 30 minutes.",
+        "Proceed with the analysis."
+    ]
+}

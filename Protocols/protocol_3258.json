@@ -1,0 +1,38 @@
+{
+    "id": 171,
+    "origin_website": "Nature",
+    "title": "Creation of mixed bone marrow chimeras with appropriate controls",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Select recipient mice in good health, aged between 6-10 weeks and sex-matched to donors.",
+        "Separate mice into groups for irradiation.",
+        "Wipe down the mouse container from the irradiator with antiseptic and place the mice there.",
+        "Use an MDS Nordion Gammacell irradiator (GC40E) to deliver a total dose of 1100 cGy in two cycles of 550 cGy on the same day.",
+        "Take irradiated mice back to the colony for further procedures.",
+        "Harvest bone marrow from donor mice, ensuring at least 1 million cells per recipient are obtained.",
+        "Sacrifice donor mouse and spray down with ethanol.",
+        "Remove skin around legs and cut leg off at hip joint.",
+        "Remove skin and muscle by cutting and using Kim wipes to clean bones.",
+        "Place bones in a well with PBS for further processing.",
+        "Separate femur from tibia/fibula at the knee level.",
+        "Rinse bones with 75% ethanol, then rinse twice with fresh sterile PBS.",
+        "Prepare a 1.5 ml Eppendorf tube with 200 ul of PBS and place a PCR tube with a small hole on the bottom into it for further processing.",
+        "Cut ends off bone and transfer to new dish containing PBS.",
+        "Place femur/tibia together into tubes prepared on step 9.",
+        "Run a short spin in the eppendorf centrifuge to flush bone marrow cells.",
+        "Lose red blood cells with sterile lysis buffer.",
+        "Pass cell suspension through cell strainer to remove large fragments.",
+        "Count cells and resuspend them in PBS at a final concentration of 2 million/100ul.",
+        "Mix two different donor cells at a defined ratio for mixed bone marrow chimeras before injection.",
+        "Store cell mixture on ice until ready to inject.",
+        "Heat recipient mice with heat lamp until the tail vein is visible, ensuring they do not overheat.",
+        "Place mouse into restrainer with tail sticking out and wipe injection site with alcohol.",
+        "Inject 100ul cells (1 million) i.v. through the tail vein of the recipient mice using a 26 gauge needle.",
+        "Watch for clearing of vein lumen to confirm successful injection.",
+        "If not in vein, move more proximal until successful and apply pressure to injection site.",
+        "Put mice back into their cages and maintain them on antibiotic-water during two weeks (filter 2g/L of Neomycin Sulfate into water).",
+        "Analyze mice after at least 6-8 weeks."
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 177,
+    "origin_website": "Nature",
+    "title": "Western blot analysis of IR fluorescently labelled proteins using the G:BOX Imaging System and the Odyssey Infrared Imaging System.",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Dilute HeLa cell lysate to a concentration ranging from 29.2 - 0.028 \u00b5g total protein in 1X LDS sample buffer + 1X sample reducing agent.",
+        "Load 10 \u03bcl of diluted lysate onto a NuPAGE\u00ae Novex\u00ae 4-12% Bis-Tris pre-cast SDS-PAGE gel.",
+        "Load Precision All Blue marker (2 \u03bcl) on to the gel.",
+        "Run the gel for 30 minutes at 60V and then increase voltage to 120V until the dye front reaches the bottom (~1 hour 30 minutes).",
+        "Wet nitrocellulose membrane in 1X NuPAGE transfer buffer + 10% methanol.",
+        "Prepare the transfer stack for the XCell II Blot Module according to manufacturers instructions and transfer proteins for 1 hour 15 minutes at 30V in 1X NuPAGE transfer buffer + 10% methanol.",
+        "Remove nitrocellulose membrane from the transfer stack and rinse in PBST.",
+        "Block the membrane with Odyssey Blocking Buffer for 1 hour at room temperature with gentle agitation.",
+        "Incubate the membrane overnight at 4\u00b0C on a rocker with primary antibodies diluted in Odyssey Blocking Buffer + 0.1% Tween (mouse monoclonal anti-actin, 1:5000 and rabbit polyclonal anti-ERK, 1:1000).",
+        "Wash the membrane 4 times with PBST, 5 minutes each wash.",
+        "Incubate the membrane with secondary antibodies diluted in Odyssey Blocking Buffer + 0.1% Tween for 1 hour at room temperature in the dark with gentle agitation.",
+        "Wash the membrane 3 times with PBST, 5 minutes each wash.",
+        "Rinse the membrane with PBS alone before scanning or using the imaging system.",
+        "Set G:BOX IR<sup>6</sup> system settings for DyLight 680 to Epi Red lighting and Syngene 705M filter with 4x4 binning factor.",
+        "Set Odyssey system settings preset for membranes at resolution 169 mm, quality medium, focus offset 0.0, intensity 4.5 for DyLight 680.",
+        "Set Odyssey system settings preset for membranes at resolution 169 mm, quality medium, focus offset 0.0, intensity 5 for DyLight 800.",
+        "Detect DyLight 680 as red bands and DyLight 800 as green bands using the stated imaging conditions.",
+        "Use G:BOX IR<sup>6</sup> and Odyssey imaging system to multiplex between DyLight 680 and DyLight 800 for comparable sensitivity.",
+        "Plot the amount of actin and ERK proteins loaded onto the gel against the Integrated Intensity K counts mm\u00b2 for the Odyssey system using Odyssey software.",
+        "Plot the amount of actin and ERK proteins loaded onto the gel against raw volume Signal Intensity for G:BOX IR6 using GeneTools software.",
+        "Determine the linear range of DyLight 680 over the series dilution from 7.3-0.22 \u00b5g using the Odyssey system.",
+        "Determine the linear range of DyLight 680 over the series dilution from 7.3-0.22 \u00b5g using G:BOX IR6.",
+        "Compare the linearity of data and determine LOD for ERK p44 (DyLight 800) with both Odyssey and G:BOX IR6 systems.",
+        "Determine the linear range for ERK p44 with an R\u00b2 value of 0.98 on the Odyssey system, with a LOD of 0.11 \u00b5g.",
+        "Determine the linear range for ERK p44 with an R\u00b2 value of 0.98 on the G:BOX IR6 system, with a LOD of 0.11 \u00b5g."
+    ]
+}

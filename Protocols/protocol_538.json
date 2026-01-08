@@ -1,0 +1,33 @@
+{
+    "id": 670,
+    "origin_website": "Nature",
+    "title": "Analysis of flow-cytometry microbial biofilm datasets with viSNE and Matlab",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology",
+        "Cell Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Run cyt in Matlab by selecting the cyt directory as the working directory and typing run_cyt into the Matlab prompt.",
+        "Choose add data (plus sign) in the GUI to import data.",
+        "Import data from .fcs or .csv format using Cyt.",
+        "Change file filter to *.csv for importing from .csv format.",
+        "Format the .csv file with columns representing measured parameters and each row representing a different measured particle/cell.",
+        "Transform the data using hyperbolic arcsin transformation, with cofactor of 150.",
+        "Merge or subsample datasets as needed.",
+        "Select samples and measurements for analysis by choosing appropriate Gates and Channels in cyt.",
+        "Right-click on selected ones to run viSNE (bh-SNE).",
+        "Once the algorithm finishes, new channels named bh-SNE1 and bh-SNE2 appear.",
+        "Visualize viSNE maps as scatter plots by selecting bh-SNE1 and bh-SNE2 channels and clicking scatterplot.",
+        "Adjust visualization options for better data interpretation.",
+        "Categorize visual clusters into subpopulations based on expert knowledge and optical/autofluorescent properties.",
+        "Delineate identified subpopulations using the polygonal region selection tool in cyt.",
+        "Count the number of particles/cells in each delineated region automatically by cyt.",
+        "Export analysis from cyt into Matlab by saving the session in cyt.",
+        "Load the saved .mat file session into Matlab prompt for further analysis.",
+        "Calculate the similarity between different viSNE maps using maximum mean discrepancy as described in mmd_visne.m.",
+        "Ensure compared viSNE maps are of equal number of cells and obtained from the same instrument parameters.",
+        "Use overlay_visne.m script to project particles/cells not used during viSNE onto a viSNE map."
+    ]
+}

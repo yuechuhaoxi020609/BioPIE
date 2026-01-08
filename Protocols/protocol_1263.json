@@ -1,0 +1,33 @@
+{
+    "id": 884,
+    "origin_website": "Nature",
+    "title": "Collecting and processing single-particle cryo-EM data with tilts",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Structural Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Prepare all sample grids according to conventional single-particle cryo-EM analysis protocols.",
+        "Use gold grids instead of carbon grids for superior results.",
+        "Perform vitrification steps identically for holey carbon and holey gold grids, noting that blotting times are generally shorter with gold grids.",
+        "Observe differences in particle concentration and extent of preferred particle orientation based on specimen type.",
+        "Place the grid into the microscope to begin data collection.",
+        "Determine the correct eucentric height for the square on the grid.",
+        "Adjust the stage alpha parameter to tilt the stage to the desired angle.",
+        "Acquire a low-magnification square image at the tilted position.",
+        "Queue up holes in the designated area of the low-magnification image.",
+        "Collect high-magnification images from the queued locations at the specified tilt angle.",
+        "Perform per-particle CTF estimation for each micrograph.",
+        "Use GCTF software to estimate CTF values locally within each particle.",
+        "Run GCTF with options \\(-apix, -kV, -cs, -ac, -dstep\\) and additional tilt-specific options: \\(-do_local_refine 1\\), \\(-do_validation 1\\).",
+        "Specify the box suffix as either .box or .star in the command.",
+        "Assume all micrographs are located in a directory named \"Micrographs\".",
+        "Perform 2D classification using per-particle defocus values as input.",
+        "Carry out 3D classification with conventional processing methods and per-particle defocus values.",
+        "Execute 3D refinement using standard procedures and input of per-particle defocus values.",
+        "Evaluate the degree of preferred orientation by analyzing Euler angle distribution.",
+        "Assess directional resolution anisotropy quantitatively using 3DFSC software.",
+        "Download 3DFSC from its repository for anisotropy analysis."
+    ]
+}

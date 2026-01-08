@@ -1,0 +1,33 @@
+{
+    "id": 11299,
+    "origin_website": "Jove",
+    "title": "A Simple Hanging Drop Cell Culture Protocol for Generation of 3D Spheroids",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Grow adherent cell cultures to 90% confluence.",
+        "Rinse monolayers twice with PBS.",
+        "Add 2 mls of 0.05% trypsin-1 mM EDTA and incubate at 37\u00b0C until cells detach.",
+        "Stop trypsinization by adding 2 mls of complete medium.",
+        "Triturate the mixture gently until cells are in suspension.",
+        "Transfer cells to a 15 ml conical tube.",
+        "Add 40 \u03bcl of a 10 mg/ml DNAse stock and incubate for 5 minutes at RT.",
+        "Vortex briefly and centrifuge at 200 XG for 5 minutes.",
+        "Discard supernatant and wash pellet with 1 ml complete tissue culture medium.",
+        "Repeat washing step.",
+        "Resuspend cells in 2 mls of complete tissue culture medium.",
+        "Count the cells using a hemacytometer or automated cell counter.",
+        "Adjust concentration to 2.5 x 10^6 cells/ml.",
+        "Remove lid from a 60 mm tissue culture dish and place 5 mls of PBS in the bottom as hydration chamber.",
+        "Invert the lid.",
+        "Use a 20 \u03bcl pipettor to deposit 10 \u03bcl drops onto the bottom of the lid.",
+        "Ensure that drops are placed sufficiently apart so they do not touch.",
+        "Invert the lid onto the PBS-filled bottom chamber.",
+        "Incubate at 37\u00b0C/5% CO2/95% humidity.",
+        "Monitor drops daily to assess aggregate formation.",
+        "Use a stereo microscope to check for aggregate formation.",
+        "Transfer cell sheets to round-bottom glass shaker flasks containing 3 mls of complete medium once they form.",
+        "Incubate in a shaking water bath at 37\u00b0C and 5% CO2 until spheroids form."
+    ]
+}

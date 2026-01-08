@@ -1,0 +1,22 @@
+{
+    "id": 1283,
+    "origin_website": "Nature",
+    "title": "<p>A research protocol of an observational study on efficacy of microsoft kinect azure in evaluation of static posture in normal healthy population</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Health Humanities"
+    ],
+    "protocol": [
+        "Obtain informed consent.",
+        "Approach participants and screen for eligibility.",
+        "Conduct baseline attention bias assessment.",
+        "Orientation to the use of Kinect Azure for posture evaluation.",
+        "Administer and assess posture using Kinect Azure.",
+        "Perform statistical analysis on collected data.",
+        "Stand normally with the frontal plane of posture within sensor coverage.",
+        "Record and interpret data using normal posture landmarks.",
+        "Mount Kinect sensor to capture subject image.",
+        "Record age, weight, height, sex, and profession of individuals.",
+        "Use recorded information for better annotation of collected data."
+    ]
+}

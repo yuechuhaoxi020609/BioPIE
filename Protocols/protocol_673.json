@@ -1,0 +1,29 @@
+{
+    "id": 114,
+    "origin_website": "Nature",
+    "title": "Optically Highlighting Basement Membrane Components in C. elegans",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Mount transgenic worms of appropriate developmental stage into a 1.5 \u00b5l drop of M9 on a 5% noble agar pad with 0.01 M sodium azide atop a standard microscope slide.",
+        "Cover the worms with a standard glass coverslip.",
+        "Proceed to photoconversion using a 405 nm ultraviolet laser.",
+        "Use a laser scanning confocal microscope equipped with a 63X or 100X objective to acquire an image of the worm.",
+        "Photoconvert a region(s) of BM using a customizable ROI bleaching tool within the acquisition software.",
+        "Adjust the 405nm laser power to 1-2% and perform 100-200 iterations for optimal photoconversion.",
+        "Mark particular worms carefully if working with several worms per slide, especially on an inverted microscope by labeling under the slide opposite the coverslip.",
+        "Reduce the pinhole size on the confocal to minimize Dendra2 photoconversion above and below the focal plane.",
+        "Image worms immediately following photoconversion using a wide field fluorescence microscope or spinning disc confocal if appropriate for the experiment.",
+        "Use the same image acquisition settings if quantitative measurements are planned among different images.",
+        "Recover worms by sliding the coverslip back and picking with a glob of OP50 or using a mouth pipette and M9 to transfer animals to food plates.",
+        "Transfer worms to food (OP50 E. coli) plates for the necessary amount of time at the appropriate temperature as required by the experimental design.",
+        "Mount worms on new noble agar pad with 0.01M NaN3.",
+        "Reimage the mounted worms.",
+        "Use image analysis software to quantify changes in position or fluorescence intensities of regions of photoconverted BM in 3D over time.",
+        "Maintain consistent imaging acquisition settings between sessions or experiments."
+    ]
+}

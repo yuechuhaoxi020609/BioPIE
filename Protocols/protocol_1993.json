@@ -1,0 +1,41 @@
+{
+    "id": 707,
+    "origin_website": "Nature",
+    "title": "Transfection of bone marrow-derived mast cells for transcription factor luciferase reporter assays",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Maturate mast cells from bone marrow using interleukin 3.",
+        "Isolate bone from femurs and tibias of 8-12 week old Pac-1-/- and Pac-1+/+ mice.",
+        "Grow cells at 4\u00d710^5 cells/mL in RPMI 1640 medium supplemented with components as specified.",
+        "Maintain cultures for 4-6 weeks at 37\u00b0C in 5% CO2.",
+        "Assess cell positivity by fluorescein isothiocyanate-labelled anti-c-kit and anti-DNP IgE antibodies using flow cytometry.",
+        "Evaluate cell morphology by cytospin and staining with giemsa and toluidine blue.",
+        "Sensitise cells with anti-DNP IgE mAb at 100 ng/mL for 18 hours.",
+        "Wash cells twice to remove unbound IgE.",
+        "Stimulate cells with 20 ng/mL of DNP-HSA for chosen times.",
+        "Transfect 4 x 10^6 BMMCs with 1.75 \u03bcg pG5E4D38-Luc and 1.75 \u03bcg pSG-Gal-Elk-1 plasmids.",
+        "Transfect cells with 1 \u03bcg of lacZ-expression vector pCMV\u03b2 using solution T and an Amaxa nucleofector device set to program T-016.",
+        "Mock-transfect cells with PBS to measure background luciferase and \u03b2-galactosidase activities.",
+        "Transfect BMMCs with 1 \u03bcg pCMV\u03b2 and 3.5 \u03bcg of the NFAT reporter plasmid pNFAT-Luc.",
+        "Plate BMMCs in 3 mL culture medium (RPMI 1640 supplemented with 10% fetal bovine serum, penicillin, streptomycin, L-glutamine, \u03b2-mercaptoethanol, HEPES, and recombinant murine IL-3).",
+        "Allow the cells to recover for 24 hours.",
+        "Sensitise BMMCs with 100 ng/mL anti-DNP IgE antibodies for 18 hours.",
+        "Split the cells.",
+        "Stimulate with 20 ng/mL DNP-HSA for 6 h (Elk-1) or 8 h (NFAT:AP-1).",
+        "Leave untreated as a control condition.",
+        "Lysis the cells in luciferase lysis buffer.",
+        "Determine raw luciferase activities using a luciferase activity kit.",
+        "Measure \u03b2-galactosidase (\u03b2-gal) activities using Galactostar and Galacton reagents.",
+        "Subtract background \u03b2-gal activity of mock-transfected cells from transfected BMMCs lysates.",
+        "Calculate relative \u03b2-gal activity for each sample.",
+        "Divide the luciferase activity of each sample by the corresponding relative \u03b2-gal activity to obtain standardized luciferase activity.",
+        "Transfect mast cells with 2 \u03bcg of WT Pac-1.",
+        "Transfect mast cells with 2 \u03bcg of C257S Pac-1.",
+        "Transfect mast cells with 2 \u03bcg of pMIG vector control."
+    ]
+}

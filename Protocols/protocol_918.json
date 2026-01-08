@@ -1,0 +1,28 @@
+{
+    "id": 570,
+    "origin_website": "Nature",
+    "title": "RNAi vector feeding protocol for distal tip cell \\(DTC) migration studies in _C. elegans_",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Genetics"
+    ],
+    "protocol": [
+        "Streak out culture from desired library well on LB/Amp plate (optional).",
+        "Culture bacteria containing each RNAi clone in 1 ml LB medium with 40 \u03bcg/ml ampicillin overnight.",
+        "Chunk a starved nematode plate and allow nematodes to recover on fresh E. coli OP50-seeded NGM plates for two days.",
+        "In a 24-well format, spot 20 \u03bcl of each culture in a single well containing NGM agar with 6 mM IPTG and 25 \u03bcg/ml carbenicillin.",
+        "In the 6 cm format, spread out 150 \u03bcl of culture on plates.",
+        "Release eggs from gravid hermaphrodites using alkaline hypochlorite solution.",
+        "Wash eggs in M9 buffer.",
+        "Transfer eggs to plates seeded with E. coli HT115(DE3) bacteria expressing dsRNA.",
+        "Incubate the plates at 23\u00b0C.",
+        "Analyze animals with light microscopy.",
+        "Score animals for clear patches using dissecting microscopy.",
+        "Mount the animals on agar pads using 0.08M sodium azide as an anesthetic.",
+        "View DTC migration using 40X Nomarski microscopy.",
+        "Transfer 5 young adults to new plates seeded with RNAi bacteria.",
+        "Take the day off on Day 7.",
+        "Analyze young adult progeny animals as described for Day 6 on Day 8.",
+        "If the worms aren't old enough, analyze them on Day 9."
+    ]
+}

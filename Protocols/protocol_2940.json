@@ -1,0 +1,31 @@
+{
+    "id": 423,
+    "origin_website": "Nature",
+    "title": "High-efficiency transfection of small RNAs and plasmid DNA in human cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Plate cells at approximately 25% confluency in 24-well plates using standard growth medium.",
+        "Check cell confluency (it should be approximately 50%) and replace the medium with 500 \u03bcl of growth medium without antibiotics.",
+        "Mix 600 ng of siRNA in 50 \u03bcl of Opti-MEM.",
+        "Mix 1 \u03bcl of RNAiMAX in 50 \u03bcl of Opti-MEM.",
+        "Combine the two solutions, mix gently, and incubate for 10 minutes at room temperature.",
+        "Add the solution uniformly to the cells.",
+        "After 4-6 hours, replace the medium with standard growth medium.",
+        "Incubate cells for 48 hours under standard conditions.",
+        "Replace the medium with 500 \u03bcl of growth medium without antibiotics.",
+        "Mix 600 ng of miRNA, 80 ng of reporter plasmid, and 40 ng of pCS2-lacZ plasmid in 50 \u03bcl of Opti-MEM.",
+        "Mix 1 \u03bcl of Lipofectamine2000 in 50 \u03bcl of Opti-MEM.",
+        "Combine the two solutions, mix gently, and incubate for 10 minutes at room temperature.",
+        "After 4-6 hours, replace the medium with standard growth medium.",
+        "Replace the medium with 500 \u03bcl of growth medium containing 0.1% serum and incubate for 8 hours.",
+        "Dilute the protein ligand in 0.1% serum medium and add the solution to the cells.",
+        "Incubate cells under standard conditions for 2-16 hours (according to the ligand activity).",
+        "Replace the medium with 200 \u03bcl per well of luciferase lysis buffer.",
+        "Perform a standard luciferase assay."
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 10563,
+    "origin_website": "Jove",
+    "title": "Two Methods for Decellularization of Plant Tissues for Tissue Engineering Applications",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Use fresh or frozen F. hispida leaf samples.",
+        "Freeze unused fresh samples in a -20\u00b0C freezer and store for future use.",
+        "Determine the size and shape of samples based on their intended use.",
+        "Cut the leaf into 8 mm discs with a sharp, clean biopsy punch while submerged under room temperature deionized H2O.",
+        "Incubate the samples for 5-10 min at room temperature in deionized H2O on a shake plate set to a low speed setting.",
+        "Prepare a solution of 10% (w/v) sodium dodecyl sulfate (SDS) in deionized H2O.",
+        "Place the samples in a suitable container and add SDS solution to completely cover the samples.",
+        "Incubate samples for 5 days at room temperature on a shake plate set to a low speed.",
+        "Do not overcrowd the container during decellularization.",
+        "Replace the SDS solution with deionized H2O after 5 days.",
+        "Incubate samples for an additional 10-15 min on the shake plate to rinse off residual SDS solution.",
+        "Prepare a 1% (v/v) non-ionic surfactant in 10% (v/v) bleach solution by mixing 5 mL of the non-ionic surfactant with 50 mL of bleach and adding 445 mL of deionized H2O to make a 500 mL solution.",
+        "Submerge samples in the freshly prepared non-ionic surfactant/bleach solution.",
+        "Replace the non-ionic surfactant/bleach solution every 24 h until samples are completely cleared.",
+        "Incubate samples in deionized water on a shake plate for 2 min to rinse off excess non-ionic surfactant/bleach solution.",
+        "Set the shake plate to a low setting to prevent damaging the samples.",
+        "Reconstitute lyophilized samples in Tris-HCl buffer at a concentration sufficient to coat the samples.",
+        "Rinse reconstituted samples 2-3 times with serum-free media using a micropipette.",
+        "Prepare a 5% (v/v) bleach and 3% (w/v) sodium bicarbonate solution.",
+        "Warm the prepared solution in a fume hood to 60-70 \u00b0C for leaf samples while stirring.",
+        "Submerge the samples once they reach the desired temperature range.",
+        "Reduce the stirring speed to avoid damaging the samples.",
+        "Remove the samples from the bath carefully when they are visibly cleared.",
+        "Incubate the samples in deionized H2O for 1-2 min to remove excess bleach solution.",
+        "Lyophilize the samples after incubation.",
+        "Store the lyophilized samples at room temperature (20-25 \u00b0C) in low humidity."
+    ]
+}

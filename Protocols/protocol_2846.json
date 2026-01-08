@@ -1,0 +1,24 @@
+{
+    "id": 37,
+    "origin_website": "Nature",
+    "title": "Immunizations and enzyme-linked immunosorbent assay \\(ELISA) for antibody isotype determination",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Prepare KLH or DNP-KLH in alum precipitate as described.",
+        "Inject 100 \u00b5g of KLH or DNP-KLH precipitated in alum into the peritoneal cavity in a total volume of 300 \u03bcl adjusted with PBS.",
+        "Collect serum at days 0, 7, and 14 and make serial dilutions in PBS.",
+        "Coat 96-well MaxiSorp\u2122 ELISA plates with 50 \u00b5l/well of DNP-ovalbumin (5 \u00b5g/ml in PBS).",
+        "Incubate coated plates overnight at 4 \u00b0C.",
+        "Wash plates three times with PBS + 0.05% Tween 20, then block for 3 hours with PBS + 2.5% bovine serum albumin.",
+        "Wash plates three times with PBS + 0.05% Tween 20.",
+        "Add diluted serum in triplicates to the ELISA plates and incubate overnight at 4 \u00b0C.",
+        "Wash plates three times with PBS + 0.05% Tween 20.",
+        "Add alkaline phosphatase-labeled mouse IgM- and subclass IgG-specific antibodies (working dilutions 1:250 \u2013 1:500 in PBS + 2.5% bovine serum albumin) to the ELISA plates.",
+        "Incubate at 25 \u00b0C for 1 hour.",
+        "Wash plates five times with PBS + 0.05% Tween 20.",
+        "Add 100 \u00b5l per well of alkaline phosphatase substrate solution.",
+        "Read optical density of each well at 405 nm at 10 minutes and 20 minutes after substrate addition."
+    ]
+}

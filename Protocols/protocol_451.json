@@ -1,0 +1,41 @@
+{
+    "id": 1049,
+    "origin_website": "Nature",
+    "title": "Induction of different human enteroendocrine cells in intestinal organoids",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Establishment of organoid culture",
+        "Cut intestinal tissue into small pieces using two scalpels.",
+        "Transfer tissue fragments into a 15 ml falcon tube containing 2 ml of Advanced DMEM/F12 supplemented with Y-27632 (10 \u00b5M), Collagenase type 2 (1 mg/ml), and Hyaluronidase (10 \u00b5g/ml).",
+        "Incubate for 30 minutes at 37\u00b0C in a shaker.",
+        "Check dissociated tissue under a microscope for crypt isolation. If no or few crypts are observed, extend the incubation by another 30 minutes.",
+        "Add 8 ml of ice-cold Advanced DMEM/F12 and spin the fragments for 5 min at 4\u00b0C.",
+        "Aspirate the supernatant.",
+        "Resuspend the pellet in 10 ml of ice-cold Advanced DMEM/F12. If large fragments remain, filter the solution through a 70 or 100 \u00b5m strainer into a fresh 15 ml falcon tube.",
+        "Quantify crypts in 50 \u00b5l of medium to estimate the total number of fragments.",
+        "Spin the fragments for 5 min at 4\u00b0C and aspirate the supernatant.",
+        "Resuspend the pellet in a mixture of Basement membrane extract (BME) and Advanced DMEM/F12.",
+        "Dissolve larger pellets initially in Advanced DMEM/F12 due to BME viscosity.",
+        "Dilute BME to 60% using Advanced DMEM/F12.",
+        "Plate approximately 150-300 fragments/crypts per BME droplet of 15 \u00b5l into a suspension plate.",
+        "Allow the BME to polymerize for at least 20 minutes at 37\u00b0C.",
+        "Add warmed human intestinal organoids as described previously.",
+        "Expand human intestinal organoids and passage them as described previously.",
+        "Refresh medium every third day during expansion.",
+        "Passage organoids 1:4-1:8 per week, depending on tissue regional identity.",
+        "Initiate differentiation of human intestinal organoids 2 to 5 days post passaging when organoids are between 100-200 \u00b5m in diameter.",
+        "Plate 150-300 organoids in 15 \u00b5l BME for differentiation.",
+        "Remove expansion medium and wash each well with 1-2 ml of Advanced DMEM/F12.",
+        "Add warmed differentiation medium to each well.",
+        "Withdraw Wnt, Prostaglandin E2, Nicotinamide, SB 202190, and A83-01 from the expansion medium for differentiation medium preparation.",
+        "Add DAPT (10 \u00b5M) and PD0325901 (500 nM for duodenal, 1 \u00b5M for ileal organoids) to the differentiation medium.",
+        "For villus enriched hormones induction, add BMP-4 (20 ng/ml) and remove Noggin from the differentiation medium.",
+        "Refresh the medium at day 1 and day 3 after differentiation initiation.",
+        "Observe EECs after 3-4 days of differentiation.",
+        "Maintain organoids up to 6 days for optimal balance between cell survival and differentiation."
+    ]
+}

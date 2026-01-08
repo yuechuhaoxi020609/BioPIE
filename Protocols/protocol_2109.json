@@ -1,0 +1,37 @@
+{
+    "id": 240,
+    "origin_website": "Nature",
+    "title": "A highly-sensitive multisubstrate-compatible chemiluminescent immunoassay for human fetuin A",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Reconstitute a BupH Phosphate Buffered Saline Pack in 500 mL of autoclaved DIW.",
+        "Dissolve well to prepare PBS at pH 7.2.",
+        "Store PBS at RT for up to one week or at 4\u00b0C for up to four weeks.",
+        "Reconstitute a BupH MES Buffered Saline Pack in 500 mL of autoclaved DIW.",
+        "Dissolve well to prepare MES at pH 4.7.",
+        "Store MES at RT for up to two weeks.",
+        "Reconstitute APTES solution in autoclaved DIW to make a 2% (v/v) solution immediately before use.",
+        "Incubate each desired well of a 96-well CMTP plate with 100 \u03bcL of 1% (w/v) KOH for 10 min at 37\u00b0C.",
+        "Wash the wells five times with 300 \u03bcL DIW per well using an automatic plate washer if available.",
+        "Reconstitute 25 g EDC in 0.1 M MES buffer, pH 4.7 to make a 8 mg/mL solution.",
+        "Aliquot and store EDC effectively at -20\u00b0C for up to six months.",
+        "Reconstitute 5 g SulfoNHS in 0.1 M MES, pH 4.7 to make a 22 mg/mL solution.",
+        "Aliquot and store SulfoNHS effectively at -20\u00b0C for up to six months.",
+        "Incubate KOH-treated CMTP with 100 \u03bcL of 2% v/v APTES for 1 hour at room temperature inside the fume cabinet.",
+        "Wash the APTES-modified wells extensively with DIW as described in step 1.",
+        "Mix 5 \u00b5L each of EDC and SulfoNHS to make 10 \u00b5L of pre-mixed EDC-SulfoNHS solution.",
+        "Incubate 990 \u03bcL of anti-HFA capture antibody with 10 \u03bcL of EDC-SulfoNHS solution for 15 minutes at 37 \u00baC.",
+        "Incubate the EDC-SulfoNHS activated antibody in APTES-functionalized wells for 1 hour at 37 \u00baC and wash five times with 300 \u00b5L of 0.1M PBS, pH 7.4.",
+        "Block the antibody-bound wells with 300 \u03bcL of 1% w/v BSA for 30 minutes at 37 \u00baC followed by extensive washing with PBS as mentioned in step 5.",
+        "Add 100 \u00b5L of varying HFA concentrations (0.3 pg/mL-20 ng/mL) to different BSA-blocked wells and incubate for 1 hour at 37 \u00baC, then wash extensively with PBS as stated in step 5.",
+        "Add 100 \u03bcL of biotinylated anti-HFA antibody in each of the HFA-captured wells and incubate for 1 hour at 37 \u00baC followed by extensive washing with PBS as mentioned in step 5.",
+        "Add 100 \u00b5L of streptavidin-HRP conjugate to the biotinylated anti-HFA antibody treated wells.",
+        "Incubate for 20 min at 37 \u00baC.",
+        "Wash extensively with PBS.",
+        "Add 100 \u00b5L of working solution, formed by mixing equal parts of SuperSignal ELISA Femto Luminol/Enhancer and SuperSignal ELISA Femto Stable Peroxide Solution, to each of the CMTP wells.",
+        "Incubate at RT for 5 min.",
+        "Record the chemiluminescent intensity at 425 nm in the Tecan Infinite M200 Pro microplate reader."
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 863,
+    "origin_website": "Nature",
+    "title": "IL-4 <em>in situ</em> staining",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Obtain serial frozen tissue sections 4-8 \u03bcm thick on glass microscope slides.",
+        "Fix slides in chilled acetone for 10 minutes in a crystal slide jar.",
+        "Air dry slides, and outline tissue section with a hydrophobic marker.",
+        "Rehydrate the tissue by submerging the slide in PBS for 10-30 seconds.",
+        "Apply antibody cocktail to cover the outlined region. Incubate at room temperature for 45 minutes.",
+        "Blot off excess staining cocktail carefully without touching the tissue, and rinse the slide in PBS with gentle manual shaking for 10-30 seconds.",
+        "Wash slides in detergent wash solution with gentle manual shaking for 10-30 seconds. Repeat this wash step once in fresh detergent wash solution.",
+        "Wash slides in PBS with gentle, manual shaking for 10-30 seconds.",
+        "Wash slides in dH2O with gentle, manual shaking for 10-30 seconds.",
+        "Add a drop of Fluoromount G to the tissue section without introducing bubbles.",
+        "Carefully apply a coverslip so the Fluoromount G is evenly distributed underneath without bubbles.",
+        "Image the stained slides immediately.",
+        "Store stained slides tissue side up in a dark box at 4\u00b0C if not imaging immediately.",
+        "Use FITC excitation and emission filters to visualize Alexa 488 fluors for imaging.",
+        "Ensure identical exposure times and image normalization settings for IL-4 and isotype images."
+    ]
+}

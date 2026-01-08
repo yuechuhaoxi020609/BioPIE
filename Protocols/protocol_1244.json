@@ -1,0 +1,30 @@
+{
+    "id": 732,
+    "origin_website": "Nature",
+    "title": "Stripping protocol for Affymetrix tiling gene chips",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Pre-warm the stripping buffer at 65\u00b0C.",
+        "Pre-warm the hybridization oven at 65\u00b0C.",
+        "Fill the tiling chip with 200 \u03bcl pre-warmed stripping buffer.",
+        "Place the chip in the hybridization oven at 65\u00b0C. Rotate for 20 min at 60 rpm.",
+        "Remove the stripping buffer from the chip.",
+        "Strip again using another 200 \u03bcl of stripping buffer for 10 min.",
+        "Repeat step 4 for one more time.",
+        "Remove the stripping buffer and fill with 200 \u03bcl of wash buffer A to wash.",
+        "Place the chip in the hybridization oven at 65\u00b0C. Rotate for 5 min at 60 rpm.",
+        "Remove the wash buffer from the chip.",
+        "Repeat step 9 twice.",
+        "Fill the chip with 250 \u03bcl storage buffer.",
+        "Scan the chip to check stripping efficiency.",
+        "Scan the chip to check the scanned image.",
+        "If no signal is detected on the image, proceed to hybridize with the target (re-probe).",
+        "Change the oven temperature to 45\u00b0C.",
+        "Replace the storage buffer with pre-hybridization buffer.",
+        "Place the chip in the hybridization oven at 45\u00b0C. Rotate for 5 min at 60 rpm.",
+        "If not re-probed immediately, store the chip at 4\u00b0C overnight."
+    ]
+}

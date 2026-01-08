@@ -1,0 +1,22 @@
+{
+    "id": 129,
+    "origin_website": "Nature",
+    "title": "Transfection Protocol for Raw 264.7 \\(Mouse Leukaemic Monocyte Macrophage Cell Line) in Targefect Handbook of Transfection Protocols",
+    "subjectAreas": [
+        "Biotechnology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Grow cells to 70% confluency in 12-well plates.",
+        "Complex 6 \u03bcg DNA with 12 \u03bcl of targefect and 24 \u03bcl of Virofect in 0.6 ml of serum-free high glucose DMEM.",
+        "Incubate the mixture at 37 \u00b0C for 20 minutes to form transfection complexes, shaking well after each addition.",
+        "Dilute 125 ul of transfection complexes in an equal amount of complete medium and add to the cells.",
+        "Incubate with cells for 2 hours at 37 \u00b0C.",
+        "Add 600-800 \u03bcl of complete medium to the cells.",
+        "Incubate for 24 - 36 hours before assay.",
+        "Aspirate all media from a 6-well dish, leaving 500 \u03bcl of supernatant on the cells.",
+        "Mix 250 \u03bcl of transfection complex with 500 \u03bcl of cell supernatants and incubate overnight for improved results.",
+        "Assay at 36-48 hours post-transfection.",
+        "For 24-well dishes, add 70 ul of transfection complex per well."
+    ]
+}

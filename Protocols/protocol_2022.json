@@ -1,0 +1,33 @@
+{
+    "id": 2805,
+    "origin_website": "Cell",
+    "title": "Measuring SERCA-mediated calcium uptake in mouse muscle homogenates",
+    "subjectAreas": [
+        "Cell Biology",
+        "Metabolism",
+        "Cell-Based Assays"
+    ],
+    "protocol": [
+        "Set plate reader to 37\u00b0C.",
+        "Shake Ca2+ uptake buffer.",
+        "Vortex muscle homogenate.",
+        "Add 200 \u03bcL of Ca2+ uptake buffer to black Eppendorf tubes.",
+        "Add 20 \u03bcL of muscle homogenate to the tubes.",
+        "Add 1 \u03bcL of Indo-1 (2 mM) to the tubes.",
+        "Vortex reaction mixture.",
+        "Plate 100 \u03bcL of reaction mixture in duplicate into an all-black 96-well plate.",
+        "Read plate using excitation wavelength of 355 nm and dual emission at 405 nm and 485 nm.",
+        "Remove plate from plate reader.",
+        "Add 4 \u03bcL of 250 mM ATP to each well.",
+        "Read the plate kinetically using the same excitation and emission settings.",
+        "Shake the plate continuously or at intervals during the reading process.",
+        "Perform readings for 30 min with intervals of 20 s.",
+        "Add 10 \u03bcL of 50 mM EGTA to each well after the initial read to obtain a \"minimum\" value.",
+        "Read the plate again after adding EGTA in increments until values stabilize.",
+        "Add 80 \u03bcL of 100 mM Ca\u00b2\u207a solution to each well following EGTA addition.",
+        "Read the plate again to obtain a \"maximum\" value for calibration.",
+        "Mix 1 \u03bcL of 40 mM cyclopiazonic acid stock with DMSO.",
+        "Add the mixture to each well.",
+        "Continue the kinetic plate read for an additional 10\u201315 minutes or until a plateau is reached."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": 3,
+    "origin_website": "Nature",
+    "title": "Oscillating current stimulation &#8211; slow oscillation stimulation during sleep",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Recruit subjects with a normal sleep-wake cycle in the last 4 weeks.",
+        "Exclude individuals with seizure disorders, metallic foreign bodies, skull fractures, neurological diseases, severe systemic diseases affecting the central nervous system or cardiovascular regulation, or pregnant women.",
+        "Follow Ethical Principles for Medical Research Involving Human Subjects according to the Declaration of Helsinki.",
+        "Degrease and disinfect sites for stimulating electrodes (F3, F4, right and left mastoids).",
+        "Apply abrasive paste by rubbing skin with pressure on an area of about 1 cm\u00b2.",
+        "Apply self-adhesive electrode paste to stimulating electrodes and stick them to the scalp.",
+        "Measure electrode impedance between each pair of stimulating electrodes (ipsilateral frontal and mastoid sites) must be < 2 kOhm.",
+        "Use a 2 kOhm resistor for each circuit to check that the applied current does not exceed the selected strength of 260 \u03bcA.",
+        "Set stimulator for slow oscillation stimulation: use currents oscillating at a frequency of 0.75 Hz (0.33 s-on/0.33 s-off with rising and falling slopes of 0.33 s).",
+        "Switch back to the correct settings immediately after checking current strength if different settings are used.",
+        "Plug the frontal electrodes cable into the anode (positive) sockets and the ipsilateral mastoids into the corresponding reference sockets for slow oscillation stimulation.",
+        "Check with documentation and/or manufacturer of the EEG amplifier that the stimulation current is uncritical for the amplifier.",
+        "After attaching the subject to the recording equipment and stimulation device, check that current is not felt by the subject when the stimulation is turned on for about 4 sec.",
+        "Monitor polysomnographic recording for eight consecutive 30-s epochs of sleep stage 2 or deeper NonREM sleep stage.",
+        "If the subject awakens or shifts into stage 1 sleep, wait for re-entry and maintenance of stage 2 sleep for eight consecutive 30-s epochs.",
+        "Set high pass filters at a sufficiently low frequency, e.g., 0.08 Hz, for recording slow oscillations.",
+        "Ensure a within-subject control by having an interval of at least 1 week between stimulation and sham stimulation sessions or two different types of stimulation sessions."
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 1329,
+    "origin_website": "Nature",
+    "title": "<p>Assessment of Anxiety using Hamilton Anxiety Scale in Augmented Reality Head Mounted Display User: A Study Protocol</p>",
+    "subjectAreas": [
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Explain the procedure thoroughly to all participants.",
+        "Take consent from participants.",
+        "Collect data using Google form of HAM-A to evaluate anxiety severity before exposing them to Oculus Rift.",
+        "Perform statistical analysis on collected data.",
+        "Draw results based on the analysis.",
+        "Draw conclusions based on the results."
+    ]
+}

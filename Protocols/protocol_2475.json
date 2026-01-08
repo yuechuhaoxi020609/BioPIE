@@ -1,0 +1,41 @@
+{
+    "id": 1269,
+    "origin_website": "Nature",
+    "title": "<p>VaNGuard assay protocol for SARS-CoV-2 detection</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biological Techniques",
+        "Genetics",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Add 8.3 \u00b5L of heat-inactivated NP swab samples to the tube.",
+        "Vortex for 1 minute.",
+        "Heat inactivate Proteinase K at 95\u00b0C for 5 minutes.",
+        "Use 2 \u03bcL of treated sample for RT-LAMP amplification.",
+        "Prepare 10X SARS-CoV-2 S primer mix with water, F3, B3, FIP(PM), BIP(PM), FIP(tPM-1), BIP(tPM-1), LF, LB, swarm F1c, and swarm B1c as specified in the protocol.",
+        "Prepare 10X ACTB primer mix with water, F3, B3, FIP, BIP, LF, and LB as specified in the protocol.",
+        "Dilute 3 \u00b5L of Q5 Polymerase at 2U/\u00b5L with 99 \u00b5L of water to achieve a concentration of 0.06 U/\u00b5L.",
+        "Setup RT-LAMP reaction in a 0.2 mL PCR strip tube with components as specified: 10X SARS-CoV-2 S primer mix, 10X ACTB primer mix, 0.4M Guanidine HCl, Q5 Polymerase (0.06 U/\u00b5L), water, LAMP dye, and WarmStart LAMP mastermix.",
+        "Pipette 2 \u00b5L of Proteinase K-treated NP swab samples into the assembled reaction.",
+        "Incubate final reaction at 65\u00b0C for 22 minutes.",
+        "Pre-complex Cas12a RNP by mixing 0.75 \u00b5L of S2(+4DNA)(5\u00b5M), 0.75 \u00b5L of S6(+4DNA)(5\u00b5M) and 7.5 \u00b5L of enAsCas12a(100ng/\u00b5L).",
+        "Incubate RNP at 37\u00b0C for at least 15 minutes.",
+        "Prepare RNP-probe mix with 32 \u00b5L of water, 7.5 \u00b5L of 10X Tango Buffer, 1.5 \u00b5L of Cy5-Quencher reporter(10\u00b5M) and 9 \u00b5L of complexed RNP.",
+        "Pipette 50 \u00b5L of Cas12a-probe mix directly into RT-LAMP products.",
+        "Incubate reaction mix at 60\u00b0C for 5 minutes.",
+        "Prepare 10X SARS-CoV2 S primer mix with 22 \u00b5L of water, 2 \u00b5L of F3(100\u00b5M), 4 \u00b5L of B3(100\u00b5M), 8 \u00b5L of FIP(PM)(100\u00b5M), 8 \u00b5L of BIP(PM)(100\u00b5M), 8 \u00b5L of FIP(tPM-1)(100\u00b5M), 8 \u00b5L of BIP(tPM-1)(100\u00b5M), 4 \u00b5L of LF(100\u00b5M) and 4 \u00b5L of LB(100\u00b5M), 16 \u00b5L of swarm F1c(100\u00b5M) and 16 \u00b5L of swarm B1c.",
+        "Dilute 3 \u00b5L of Q5 Polymerase at 2U/\u00b5L with 99 \u00b5L of water to create a working solution.",
+        "Setup RT-LAMP reaction in a 0.2mL PCR strip tube with 2.5\u00b5L of 10X SARS-CoV2 S primer mix, 2.5\u00b5L of 0.4M Guanidine HCl, 2.5\u00b5L of Q5 Polymerase (0.06U/\u03bcl), 3\u03bcl of water and 12.5\u03bcl of WarmStart LAMP mastermix.",
+        "Pipette 2\u03bcl of Proteinase K-treated NP swab samples into the assembled reaction.",
+        "Incubate final reaction at 65\u00baC for 22 minutes.",
+        "Pre-complex Cas12a RNP by mixing 0.75\u03bcL of S2(+4DNA)(5\u03bcM), 0.75\u03bcL of S6(+4DNA)(5\u03bcM) and 7.5\u03bcL of enAsCas12a (100ng/\u03bcl).",
+        "Incubate RNP at 37\u00baC for 30 minutes.",
+        "Prepare Cas12a-probe mix with 20\u03bcL of water, 7.5\u03bcL of 10X Tango Buffer, 13.5\u03bcL of FAM-Biotin reporter(500nM) and 9\u03bcL of complexed RNP.",
+        "Pipette 50\u03bcl of RNP-probe mix directly into RT-LAMP products.",
+        "Incubate reaction mix at 60\u00baC for 5 minutes.",
+        "Pipette 75\u03bcl of HybriDetect assay buffer (Milenia Biotec) into the reaction mix.",
+        "Insert dipstick into reaction mix in an upright position.",
+        "Allow reaction to flow up the flow strip for 2 minutes before inspection."
+    ]
+}

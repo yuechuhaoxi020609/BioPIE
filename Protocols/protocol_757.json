@@ -1,0 +1,38 @@
+{
+    "id": 1166,
+    "origin_website": "Nature",
+    "title": "Protocol for aquaphotomics monitoring of water molecular structure in leaves of resurrection plants during desiccation and recovery ",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Plant Sciences"
+    ],
+    "protocol": [
+        "Prepare plant materials according to established protocols.",
+        "Grow three biological replicates of Haberlea rhodopensis and Deinostigma eberhardtii in a growth chamber at specified conditions for at least two months after the last subculture.",
+        "Start dehydration procedure with well-developed and rooted plants that are at least two months old.",
+        "Remove three plantlets from culture vessels and leave them to dry in open air under controlled conditions.",
+        "Allow Haberlea rhodopensis plantlets to reach full dry state within 24 hours.",
+        "Dehydrate Deinostigma eberhardtii plantlets for up to 168 hours until water content reaches approximately 10%.",
+        "Store fully desiccated Haberlea rhodopensis under controlled conditions for 10 days before rehydration.",
+        "Rehydrate dried plantlets by placing them on moist cotton beds for 24 hours.",
+        "Separate the leaves of the prepared plant material with a surgical knife.",
+        "Place the separated leaves on the gold reflector cell.",
+        "Perform spectral acquisition in transflectance mode.",
+        "Set spectral range from 1100 to 2500 nm using WinISI II software version 1.50.",
+        "Configure resolution step at 2 nm and average each spectrum with 32 scans.",
+        "Measure three spectra for different leaves of each plant.",
+        "Acquire spectra at the following time points: 0, 1, 2, 3, 6, and 24 hours after starting desiccation for H. rhodopensis.",
+        "Acquire spectra at the following time points: 0, 1, 3, 6, 24, 48, 72, 120, and 168 hours after beginning desiccation for D. eberhardtii.",
+        "Acquire spectra at 1, 2, 3, 6, 24, and 48 hours after starting rehydration for H. rhodopensis.",
+        "Acquire spectra at 1, 3, 6, and 24 hours after undertaking rehydration for D. eberhardtii.",
+        "Perform extended multiplicative scatter correction (EMSC) to eliminate scattering effects arising from different thickness and surface properties of leaves.",
+        "Calculate difference spectra by subtracting the averaged spectrum of each plant\u2019s fresh leaves from the corresponding averaged spectra of leaves at various time points of dehydration and rehydration.",
+        "Perform Principal component analysis (PCA) with leave one sample out cross validation as an exploratory analysis of spectral variation during desiccation and rehydration processes.",
+        "Calculate second derivative spectra using Norris gap second derivative on EMSC treated spectra to reveal the presence of hidden and overlapped peaks of the water species.",
+        "Based on the peaks discovered in the previous step, calculate ratios of water species absorbing at the found water absorbance bands.",
+        "Calculate the relative absorbance of water species for each time point.",
+        "Divide As by the sum of mean absorbances for all water species at that time point to find Arel,s.",
+        "Plot the calculated relative absorbances on a stacked column chart.",
+        "Each column in the chart corresponds to a certain time point during dehydration and rehydration."
+    ]
+}

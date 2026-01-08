@@ -1,0 +1,42 @@
+{
+    "id": 133,
+    "origin_website": "Nature",
+    "title": "Micropatterning on glass with deep UV",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Wash glass coverslips in Ethanol 70% for 1 minute.",
+        "Dry coverslips with absorbent paper.",
+        "Illuminate coverslips with deep UV lamp for 5 minutes at a distance of 5 cm from the lamp.",
+        "Place a drop of 50 to 200 \u03bcl PLL-g-PEG solution on parafilm and place the coverslip on top, activated face in contact with PEG.",
+        "Incubate the setup for 1 hour at room temperature in a humid chamber.",
+        "Wash the coverslip for 2 minutes in PBS.",
+        "Rinse the coverslip twice for 2 minutes each in H2O.",
+        "Wear gloves.",
+        "Clean mask with 70% Ethanol using a soft tissue.",
+        "Put quartz mask with metal side facing UV lamp.",
+        "Illuminate mask surface for 5 minutes to clean and make it hydrophilic.",
+        "Place 3 \u03bcl of Millipore water on the metal side of the mask.",
+        "Position coverslip with pegylated side on the water drop.",
+        "Press coverslip against mask using a plastic tip, removing excess water.",
+        "Illuminate quartz side of the mask for 3 to 10 minutes with UV lamp.",
+        "Illuminate the coverlip for 3 min for RPE-1 cells or 5 min for HeLa cells.",
+        "Place 5 mL of water on the coverlip and leave until it spontaneously floats.",
+        "Carefully remove the coverlip to avoid scratching the mask with tweezers.",
+        "Incubate the illuminated surface at room temperature for 1 hour with a fibronectin solution (25 \u00b5g/mL in 100 mM NaHCO3, pH 8.5).",
+        "Add 5 \u03bcg/mL of labeled fibrinogen or fibronectin to visualize patterns.",
+        "Collect cells using EDTA 0.02% in PBS and not trypsin.",
+        "Rinse the EDTA solution with pre-warmed and pH equilibrated culture medium.",
+        "Resuspend the cells well using a 1 mL micropipette.",
+        "Add 100,000 to 200,000 cells for a 25 mm coverslip or 6 well plate well.",
+        "Use a small volume of solution (e.g., 500 \u03bcL) for the dish.",
+        "Leave the dish in the incubator without moving it.",
+        "Wash unattached cells 20-30 min after plating with equilibrated hot medium.",
+        "Add medium from one side to create a gentle flow over cells when washing.",
+        "Aspirate medium from the other side simultaneously during washing.",
+        "Cells should be spread on the patterns 1 hour after plating."
+    ]
+}

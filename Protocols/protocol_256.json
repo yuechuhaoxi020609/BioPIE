@@ -1,0 +1,25 @@
+{
+    "id": 973,
+    "origin_website": "Nature",
+    "title": "_In vitro_ analysis of cytotoxic T cell recruitment mediated by the DC-derived chemokine CCL17",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Coat plastic channel slides with 100 \u00b5l of Fibronectin-coating solution.",
+        "Incubate coated slides for 60 minutes at room temperature.",
+        "Aspirate the Fibronectin-coating solution from the slides.",
+        "Wash the slides once with 1 ml PBS.",
+        "Resuspend 1-2x10^7 cells/ml in PBS for fluorochrome labeling.",
+        "Add appropriate plasma membrane permeable cell tracker to the cells: CFSE at 5 \u00b5M for 10 minutes, CMTMR at 5 \u00b5M for 10 minutes, FarRed at 5 \u00b5M for 20 minutes.",
+        "Mix cytotoxic T cells (CTL) and dendritic cells (DCs) from spleen in RPMI medium containing 2% FBS at a ratio of 4:1 to achieve a total cell number of 2x10^6/ml.",
+        "Apply 100 \u00b5l of the mixed cell suspension into the channel of the \u03bc-slide.",
+        "Cover reservoirs loosely with supplied caps for live cell imaging.",
+        "Record time-lapse series using an inverted widefield fluorescence or confocal microscope equipped with motorized xyz-stage and a climate chamber (37\u00b0C, humidified, 5% CO2).",
+        "Capture fluorescence and phase contrast or differential interference contrast (DIC) images every minute to record cell motility and cell-cell interactions over a period of 2-3 hours.",
+        "Track 100-300 motile CTL using the Manual Tracking plugin in ImageJ (NIH).",
+        "Calculate directionality of migrating CTL before physical contact to DC.",
+        "Determine duration of cell-cell interactions (contact duration).",
+        "Analyze data with the Chemotaxis and Migration Tool Plugin (IBIDI) for ImageJ."
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1071,
+    "origin_website": "Nature",
+    "title": "Targeted sequencing of ampliconic gene transcripts from total human male testis RNA",
+    "subjectAreas": [
+        "Biotechnology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Add 0.1 volume of 5 M Ammonium Acetate to 5-50 ug of testis RNA.",
+        "Add 1 \u03bcL Glycogen.",
+        "Add 2.5 volumes of 100% ethanol.",
+        "Mix thoroughly by vortexing.",
+        "Precipitate at \u201320\u00b0C overnight.",
+        "Recover the RNA by centrifugation at 12,000 x g for 30 min at 4\u00b0 C.",
+        "Carefully remove and discard the supernatant.",
+        "Centrifuge the tube briefly and aspirate away any additional fluid.",
+        "Add 1 mL 70% ethanol, and vortex the tube a few times.",
+        "Repellet the RNA by microcentrifuging for 10 min at 4\u00b0C.",
+        "Add a unique PacBio barcode to the forward primer.",
+        "Add a unique PacBio barcode to the reverse primer.",
+        "Perform Gradient PCR on human testis cDNA using annealing temperatures ranging from 55\u00b0C to 68\u00b0C.",
+        "Separate RT-PCR products with electrophoresis on a 0.8% agarose gel.",
+        "Visualize bands on the agarose gel under UV light.",
+        "Determine the optimal annealing temperature for each multigene transcript family based on distinct band patterns.",
+        "Perform final PCR amplifications using the specific annealing temperatures determined.",
+        "Purify RT-PCR products using AMPure XP beads.",
+        "Prepare RT-PCR products for PacBio sequencing.",
+        "Pool equimolar amounts of RT-PCR products specific to each multigene family that are less than 1 kb in size to a total amount of 2 ug.",
+        "Prepare one PacBio SMRTbell library from the pooled RT-PCR products.",
+        "Sequence the prepared library using one SMRT cell with PacBio\u2019s Procedure & Checklist \u2013 Isoform Sequencing (Iso-Seq) using the Clontech SMARTer PCR cDNA Synthesis Kit and No Size Selection.",
+        "Pool equimolar amounts of RT-PCR products specific to each gene family that are between 1 kb and 2 kb in size to a total amount of 2 ug.",
+        "Prepare one PacBio SMRTbell library from the pooled RT-PCR products.",
+        "Sequence the prepared library using one SMRT cell with PacBio\u2019s Procedure & Checklist \u2013 Isoform Sequencing (Iso-Seq) using the Clontech SMARTer PCR cDNA Synthesis Kit and No Size Selection.",
+        "Construct Nextera XT libraries from the same RT-PCR products used for PacBio sequencing.",
+        "Pool equal volumes of bead-normalized Nextera XT libraries.",
+        "Sequence the pooled libraries on a MiSeq instrument using one MiSeq Reagent Nano Kit, v2 (250x250 paired-end sequencing)."
+    ]
+}

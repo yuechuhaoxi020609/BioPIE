@@ -1,0 +1,37 @@
+{
+    "id": 292,
+    "origin_website": "Nature",
+    "title": "Protocol for lentiviral knock down in mouse ES cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Plate Cos-7 cells in Cos-7 medium at ~40% confluency on 10 cm dishes, ensuring even distribution of cells over the plate.",
+        "Mix 300 ul DMEM low glucose with 24 \u03bcl Fugene 6 by flicking; incubate for 5 min at room temperature.",
+        "Mix plasmids: 2 \u03bcg pRSV-rev, 2 \u03bcg pMDLg/pRRE, 2 \u03bcg pMD2.G, and 2 \u03bcg pLKO-short hairpin construct.",
+        "Add contents of Tube 1 to Tube 2; mix by flicking and incubate for 20-30 min at room temperature.",
+        "Add mixture to Cos-7 cells.",
+        "Replace the medium of transfected Cos-7 cells with 10 ml ES medium/10 cm dish.",
+        "Plate IB10 ES cells on gelatinized dishes at 4.4 x 10e4 cells/10 cm dish.",
+        "Collect viral supernatant from Cos-7 cells using a syringe and filter through 0.45 \u03bcm low protein binding filter to remove cells.",
+        "Add fresh ES medium to the Cos-7 cells.",
+        "Remove the medium from the IB10 cells.",
+        "Supplement the viral supernatant with 8 \u03bcg/ml polybrene.",
+        "Mix the supplemented viral supernatant and add it to the IB10 cells.",
+        "Use 10 ml of undiluted viral supernatant to infect one 10 cm dish of IB10 cells.",
+        "Repeat the infection process on day 4 as described for day 3.",
+        "Add fresh ES medium to the Cos-7 cells.",
+        "Optionally, repeat the infection once more on day 5 as described for day 3.",
+        "Discard the Cos-7 cells after optional repetition.",
+        "Refresh the medium of infected IB10 cells daily with ES medium containing 1.8 \u03bcg/ml puromycin starting 1-2 days after the last infection.",
+        "Assess the condition of the IB10 cells to ensure clear growth and formation of small colonies before initiating puromycin selection.",
+        "Wait an additional day if necessary for proper cell growth before starting puromycin selection.",
+        "Analyze the cells on day 11 for alkaline phosphatase colony staining or RT-qPCR to determine knock down efficiency.",
+        "Mix 70 \u03bcl of beta-mercaptoethanol stock with 100 ml H2O.",
+        "Aliquot and store the beta-mercaptoethanol solution at -20\u00b0C.",
+        "Add 6 ml non-essential amino acids (Lonza 13-114E).",
+        "Mix 60 \u03bcl LIF (500 U/ml final) into the mixture (Gibco 13275-029)."
+    ]
+}

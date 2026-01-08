@@ -1,0 +1,36 @@
+{
+    "id": 286,
+    "origin_website": "Nature",
+    "title": "Reprogramming efficiency of human embryonic fibroblasts using polycistronic lentiviral expression of reprogramming factors OSKM. Testing of factors that enhance efficiency",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Plate 293T cells into 10 cm dishes in a final volume of 9 ml MEF medium per dish.",
+        "Transfect the 293T cells from day 1 with Fugene 6.",
+        "Incubate tube 1 containing Optimem and Fugene 6 for 5 minutes at room temperature.",
+        "Incubate tube 2 containing LV-OSKM or LV-gene of interest, psPAX2, pCMV-VSVG, and Optimem for 5 minutes at room temperature.",
+        "Mix tubes 1 and 2 gently by flicking after incubation.",
+        "Incubate the mixed solution for 15 minutes at room temperature.",
+        "Add 200 \u03bcl of the mixture per 10 cm dish.",
+        "Shake and incubate for 72 hours.",
+        "Plate F134 human embryonic fibroblasts at 100,000 cells per well in a 6 wells plate in MEF medium.",
+        "Collect supernatant of dishes with transfected 293T cells and filter through 0.45 \u03bcm PVDF filters.",
+        "Spin filtered supernatant by ultra-centrifugation at 20 krpm in an SW32Ti rotor for 2 hr at 4 \u00b0C.",
+        "Remove supernatant by decanting.",
+        "Dissolve the pellet into 1000 \u03bcl DMEM low glucose.",
+        "Use the virus directly to infect cells or store virus for less than 1 week at 4 \u00b0C or in aliquots at -80 \u00b0C.",
+        "Infect the plated F134 cells from Day 4 with 50 \u03bcl of concentrated OSKM virus and 50 \u03bcl of the concentrated virus expressing the gene of interest.",
+        "Add 6 \u00b5g/ml protamine sulfate directly into the medium and mix by swirling.",
+        "Replace medium of infected F134 cells by washing three times with PBS followed by MEF medium.",
+        "Plate CF-1 MEF feeder cells with 1,7 x 10e4 cells per cm2 into a gelatinized 6 wells plate.",
+        "Trypsinize infected F134 cells on day 11.",
+        "Plate 10,000 trypsinized cells per well onto feeders plated on day 11.",
+        "Change medium to iPS medium.",
+        "Daily refresh the medium with iPS medium from day 12 onwards.",
+        "Count colonies with iPS-like morphology or process for Tra1-60 colony staining or single cell FACS analysis on day 29."
+    ]
+}

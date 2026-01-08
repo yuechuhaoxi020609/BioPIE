@@ -1,0 +1,24 @@
+{
+    "id": 801,
+    "origin_website": "Nature",
+    "title": "Isolation of extracellular RNA from urine using Millipore membrane filtration",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Thaw samples on ice.",
+        "Add 500 \u00b5L PBS to the AU-0.5 filter, cap, and centrifuge for 10 minutes at 14,000 x g.",
+        "Reverse the device and centrifuge for 2 minutes at 1000 x g to remove residual PBS.",
+        "Aspirate PBS from the collection tube.",
+        "Transfer 500 \u00b5L of sample to the AU-0.5 filter and cap the device.",
+        "Centrifuge for 30 minutes at 14,000 x g; approximately 15 \u00b5L should remain in the upper chamber.",
+        "Remove the device from the centrifuge and empty the collection tube.",
+        "Add 500 \u00b5L PBS to the filter device and gently pipette sample multiple times to mix.",
+        "Centrifuge for 30 minutes at 14,000 x g.",
+        "Place the filter upside down in a fresh microcentrifuge tube.",
+        "Centrifuge for 2 minutes at 2000 x g to transfer the sample to the tube.",
+        "Isolate RNA using the miRNeasy Micro kit."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": 754,
+    "origin_website": "Nature",
+    "title": "JEG3 transplantation assay",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Maintain four week old NUDE mice in pathogen-limited conditions.",
+        "Inoculate subcutaneously in the back region below the neck with JEG3 cells \\(2.5 x 10^6 cells in RPMI\\).",
+        "Mix JEG3 cells either alone or with different NK subpopulations \\((1 x 10^6 in RPMI)\\) for inoculation.",
+        "Inject the cell mixture subcutaneously with a total volume of 200 \u03bcl per mouse.",
+        "Give mice Flt1-Fc or CTLA4-Fc as control \\(50 \u03bcg per mouse; R&D Systems Inc.\\).",
+        "Re-inject NK cells with or without Flt1-Fc or CTLA4-Fc molecules subcutaneously in the same site on day 10 and 20.",
+        "Sacrifice the mice on day 30 to determine tumor weight and size.",
+        "Estimate tumor size in square millimeters as the product of two-dimensional measurements \\(longest perpendicular length and width\\).",
+        "Prepare paraffin sections from tumor samples obtained.",
+        "Stain sections with anti-Von Willebrand and hematoxylin at 150X original magnifications.",
+        "Capture images of stained sections.",
+        "Quantify microscopic vascular area using NIH image software according to the accompanying instructions.",
+        "Identify blood vessels based on morphological identification by a pathologist.",
+        "Stain endothelial cells with anti-Von Willebrand antibody.",
+        "Measure diameters as the minimum axis of the best fit-ellipse to the lumen.",
+        "Select 10 images from each experimental subgroup for analysis.",
+        "Average measurements from selected images to give a representative vascular area.",
+        "Determine all measurements in a blinded manner by two operators.",
+        "Repeat measurements on two different occasions."
+    ]
+}

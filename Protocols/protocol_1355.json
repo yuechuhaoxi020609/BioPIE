@@ -1,0 +1,32 @@
+{
+    "id": 556,
+    "origin_website": "Nature",
+    "title": "A protocol for _in vivo_ detection of reactive oxygen species",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Collect larvae of the right developmental stage with a paintbrush and place them in PBS in three well plates, at room temperature.",
+        "Alternatively, anaesthetize females of the correct age and collect them in 2ml eppendorf tubes for adult tissue dissection.",
+        "Dissect tissue of interest in 1XPBS in three well glass plates.",
+        "Reconstitute dye right after dissection and immediately before use in anhydrous DMSO.",
+        "Dissolve 1 microlitre of the reconstituted dye (in DMSO) in 1ml of 1X PBS to give a final concentration of 10uM.",
+        "Vortex to evenly disperse the dye.",
+        "Vortex the mixture for about 15 to 30 seconds.",
+        "Incubate the tissue with the dye for 5 to 15 minutes in a dark chamber on an orbital shaker at room temperature.",
+        "Perform three 5-minute washes in 1XPBS on an orbital shaker at room temperature.",
+        "Mount the tissue immediately in vectashield.",
+        "Capture an image immediately using a confocal microscope.",
+        "Collect and dissect tissue as described previously.",
+        "Reconstitute dye right after dissection and immediately before use in anhydrous DMSO.",
+        "Ensure that the reconstituted dye solution appears slightly pink in color.",
+        "Dissolve 1 microlitre of the reconstituted dye in 1ml of Schneider's medium to give a final concentration of approximately 30uM.",
+        "Vortex to evenly disperse the dye.",
+        "Incubate the tissue with the dye for 3 to 7 minutes in a dark chamber on an orbital shaker at room temperature.",
+        "Perform three 5-minute washes in Schneider's medium in a dark chamber, on an orbital shaker at room temperature.",
+        "(Optional) Fix slightly for 4 to 8 minutes in 7% formaldehyde in 1X PBS.",
+        "Rinse once in 1X PBS right after fixation.",
+        "Mount immediately in Vectashield.",
+        "Capture images immediately using a confocal microscope."
+    ]
+}

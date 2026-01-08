@@ -1,0 +1,22 @@
+{
+    "id": 1853,
+    "origin_website": "Cell",
+    "title": "Protocol for growing silica nanowires on various substrates to enhance superwetting and self-jumping properties",
+    "subjectAreas": [
+        "Material Sciences",
+        "Chemistry",
+        "Microscopy",
+        "Physics"
+    ],
+    "protocol": [
+        "Set H2 and Ar gases at flow rates of 70 and 40 sccm, respectively, on metal foil samples.",
+        "Set the working pressure during the process at 5 Torr.",
+        "Heat the chamber to a growth temperature of 830\u00b0C after pressure stabilization.",
+        "Cool the furnace system to 510\u00b0C under Ar and H2 flow after growing the nanowires.",
+        "Turn off H2 for subsequent cooling when the temperature reaches 510\u00b0C.",
+        "Stop Ar gas flow and remove the samples when the temperature reaches 200\u00b0C.",
+        "Deposit a water drop on the surface of the sample to confirm the success of the F13-TCS treatment.",
+        "Set the hot plate temperature above the boiling point of F13-TCS (192\u00b0C) before injecting it into the Petri dish.",
+        "Inject 5-\u03bcL F13-TCS into the inverted Petri dish at 210\u00b0C."
+    ]
+}

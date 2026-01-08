@@ -1,0 +1,26 @@
+{
+    "id": 897,
+    "origin_website": "Nature",
+    "title": "Passive induction of experimental autoimmune encephalomyelitis by activated or tolerogenic dendritic cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Expand bone marrow-derived dendritic cells from hematopoietic progenitors isolated from C57BL/6 mice.",
+        "Liberate progenitors using ACK buffer for red cell lysis.",
+        "Culture progenitors in RPMI-1640 plus L-glutamine, 10% FBS, 50 nM \u03b2-mercaptoethanol, and 5% penicillin/streptomycin.",
+        "Add fresh medium with 15 ng/ml GM-CSF and 10 ng/ml IL-4 to cultures on day 0, 3, and 5.",
+        "Harvest BMDCs on day 7 for analysis by flow cytometry for CD11c expression.",
+        "Pre-treat harvested BMDCs with the absence or presence of CDDO-DFPA (400 nM) for 4 hours before LPS treatment.",
+        "Treat pre-treated BMDCs with LPS (100 ng/ml) for 24 hours after pre-treatment.",
+        "Treat BMDCs with MOG (35-55) (100 \u03bcg/ml) for 4 hours prior to administration.",
+        "Induce EAE in 8-10 week old female C57BL/6 mice.",
+        "Stimulate BMDCs with LPS.",
+        "Pulse BMDCs with MOG.",
+        "Inject 2\u00d710^6 LPS-stimulated, MOG-pulsed CD11c+ BMDCs subcutaneously (100 \u03bcl into each hind leg).",
+        "Inject 200 ng of pertussis toxin (PTX) on the day of BMDC transfer and 48 hours later.",
+        "Monitor mice daily for survival and symptoms of EAE."
+    ]
+}

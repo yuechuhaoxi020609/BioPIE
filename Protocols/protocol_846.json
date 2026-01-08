@@ -1,0 +1,37 @@
+{
+    "id": 172,
+    "origin_website": "Nature",
+    "title": "Detection of small intestinal IgA+TNF\u03b1+iNOS+ CELLS by Immunofluorescence Microscopy \\(IF)",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Cut the small intestines out of animals and remove the mesentery and fat.",
+        "Gently push out the fecal content using a forceps.",
+        "Wash the small intestines gently twice in PBS.",
+        "Cut open the intestines longitudinally and into small pieces, approximately 1 cm each.",
+        "Place tissue sections in base molds.",
+        "Cover tissue sections with OCT compound.",
+        "Freeze the OCT-tissue blocks in dry-ice-chilled 2-methyl-butane.",
+        "Wrap frozen OCT-tissue blocks in aluminum paper.",
+        "Store wrapped blocks at -80\u00b0C until used for sectioning.",
+        "Cut intestinal tissue sections at 5 \u03bcm using a Leica CM3050 cryostat.",
+        "Mount the sections on glass microscope slides.",
+        "Fix the sections for seven minutes in ice-cold acetone.",
+        "Air-dry the fixed sections for one hour at room temperature.",
+        "Store fixed sections at -80\u00b0C in desiccant bags.",
+        "Rehydrate sections in TBS for 20 minutes.",
+        "Place sections in TBS-T for an additional 20 minutes by gentle shaking.",
+        "Block unspecific binding of antibodies by incubating tissue sections in TBS-T supplemented with 10% normal rabbit serum, 10% normal mouse serum, 5% sterile-filtered BSA, and 2 mg/ml of a rat anti-mouse CD16/CD32 antibody for 30 minutes in a humidified chamber.",
+        "Remove the blocking solution and dip the slides briefly in TBS-T.",
+        "Apply mixtures of fluorochrome-labeled antibodies diluted in TBS-T to the slides for 45 minutes in the dark in a humidified chamber.",
+        "Remove the staining solutions and wash the slides three times for ten minutes each in TBS-T, once with TBS, and once with PBS in slide-beakers with gentle shaking.",
+        "Stain the slides with DAPI nucleic acid stain for 30 seconds.",
+        "Wash the slides three times with PBS in slide-beakers with gentle shaking.",
+        "Mount the slides with Gel/Mount medium using coverslips.",
+        "Acquire images with a Leica DMRA2 fluorescence microscope equipped with a Retiga EXi digital camera and OpenLab software, keeping picture acquisition settings and exposure times constant for every fluorescent channel when comparing tissues of diverse genotypes.",
+        "Process images utilizing Photoshop CS5, applying adjustments to input and output levels in an equal manner for all compared images.",
+        "Count the numbers of small intestinal LP IgA+ plasma cells and CD8\u03b1+ cells in a blinded fashion using ImageJ.",
+        "Analyse and quantify a total of five separate images from sections of six mice per group."
+    ]
+}

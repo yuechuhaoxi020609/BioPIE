@@ -1,0 +1,20 @@
+{
+    "id": 602,
+    "origin_website": "Nature",
+    "title": "Urine Collection Procedure for the analysis of extracellular RNA",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Process the sample within 2 hours of collection.",
+        "Collect approximately 50 ml urine in an empty sterile urine collection cup as a midstream sample.",
+        "Transfer urine to a 50 ml centrifuge tube.",
+        "Centrifuge tubes at 500 xg for 10 minutes at room temperature.",
+        "Transfer the urine to a fresh 50 ml centrifuge tube, avoiding any material at the bottom of the previous tube.",
+        "Centrifuge tubes at 2000 xg for 10 minutes at room temperature.",
+        "Transfer the top 80% of the urine, avoiding any material at the bottom of the tube, to fresh 15 ml tubes, dispensing at most 10 ml urine per tube (should be 4 tubes total).",
+        "Using a sterile pipet, make 3 aliquots of 1 ml each in screw-cap microcentrifuge tubes.",
+        "Place the four 15 ml centrifuge tubes and three 1 ml aliquots of urine into a -80\u00b0C freezer for storage."
+    ]
+}

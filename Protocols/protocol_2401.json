@@ -1,0 +1,43 @@
+{
+    "id": 724,
+    "origin_website": "Nature",
+    "title": "Genome resequencing and identification of variations by Illumina Genome Analyzer Reads",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Concatenate chromosome sequences from NCBI build v36 reference assembly into a single FASTA format file.",
+        "Align Illumina GA reads to the reference sequence using SOAP1 software with the command line parameter \"-c 52\" for trimming low-quality bases.",
+        "For single-end data, use the following command: soap -a <Reads.fastq> -d <Reference.fasta> -o <Alignment.soap> -p <# of parallel processes> -c 52 -s 12",
+        "For paired-end data, use the following command: soap -a <Reads1.fastq> -b <Reads2.fastq> -d <Reference.fasta> -o <PEalignment.soap> -2 <SEalignment.soap> -p <# of parallel processes> -c 52 -s 12 -m <maximum insert size> -x <minimum insert size>",
+        "Sort the alignment results from each lane by chromosome names and then by mapping coordinates on each chromosome.",
+        "Merge sorted alignment results from all lanes into a single file, ensuring alignments remain sorted.",
+        "Split the merged alignments into separate files for each chromosome.",
+        "Download flat ASN files of dbSNP2 database and allele frequency information such as HapMap3 data for human resequencing.",
+        "Transform dbSNP information of each chromosome into a tab-delimited plain text file named \"chrN.dbSNP.txt\".",
+        "Build consensus sequence for each chromosome by SoapSNP using the command line:",
+        "Invoke SoapSNP with input alignment file, reference fasta file, output consensus file, and other parameters as required.",
+        "Extract potential SNP sites from each consensus file where called genotypes differ from reference genotypes and reference genotypes are not \"N\".",
+        "Record the distance to neighboring potential SNPs for each potential SNP site.",
+        "Filter raw SNP dataset to retain confident SNPs with quality scores larger than 20.",
+        "Ensure each allele is supported by more than a certain number of reads, depending on average sequencing depth (typically 2 for 20X data).",
+        "Maintain overall depth less than the average plus three times the standard deviation of sequencing depth.",
+        "Check that the average copy number of nearby regions around SNPs is less than 2.",
+        "Ensure each allele is supported by at least one paired-end read.",
+        "Verify SNP sites are at least 5bp away from another SNP.",
+        "Align all paired-end reads to reference genome using SOAP in gap alignment mode: soap -a <Reads1.fastq> -b <Reads2.fastq> -d <Reference.fasta> -o <PEalignment.soap> -2 <SEalignment.soap> -p <# of parallel processes> -c 52 -s 12 -m <maximum insert size> -x <minimum insert size> -g 3 -e 5.",
+        "Extract all gapped alignments from SOAP result and merge them into a single file.",
+        "Sort all gapped alignments by chromosome names lexicographically, followed by coordinates on each chromosome.",
+        "Extract coordinates, sizes, and numbers of supporting reads of potential indels from the alignments.",
+        "Select only one representative indel according to their number of supporting reads in each 10bp window.",
+        "Filter all potential indels to get confident ones that satisfy: a) supported by at least 3 reads; b) number of ungapped alignment crossing the indels no more than twice that of gapped reads.",
+        "Extract all abnormally aligned paired-end reads with unexpected orientations and/or span size.",
+        "Cluster abnormally aligned paired-end reads that have same alignment orientation and similar coordinates on both ends of read pairs.",
+        "Fit all abnormal paired-end clusters into alignment models and call potential structural variations (SVs).",
+        "Merge redundant called SVs.",
+        "Filter potential structural variations to get confident ones which satisfy the criteria.",
+        "Ensure each of the paired-end clusters supporting the SV comprises at least 4 read pairs.",
+        "Merge SVs that conflict with one another into complex structural variation cases."
+    ]
+}

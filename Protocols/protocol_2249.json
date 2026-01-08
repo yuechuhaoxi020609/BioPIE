@@ -1,0 +1,20 @@
+{
+    "id": 771,
+    "origin_website": "Nature",
+    "title": "Stimulation of <span class=\"caps\">MHC</span> class I binding receptors on decidual NK clones.",
+    "subjectAreas": [
+        "Cell Biology",
+        "Biological Techniques",
+        "Chemical Biology",
+        "Drug Discovery",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Perform _in vitro_ culture and generation of IL-2 dNK clones as previously described.",
+        "Characterize NK clones for their expression of KIR2DS4, LIR-1, and KIR2DL1 receptors.",
+        "Select clones that are positive for only one of these receptors for co-incubation experiments.",
+        "Among EB6-positive clones, select only the clones on which functional expression of KIR2DL1 was verified by inhibition of killing Cw4 and Cw6 transfected 721.221 target cells.",
+        "Co-culture 30 X 10^3 dNK cells per well from each clone with an equal amount of different irradiated 721.221 transfectant cells for 72 hours at 37\u00b0C in a 5% CO\u2082 environment using Bio-MPM-1 medium supplemented with 5% pen-strep and non-essential amino acids.",
+        "Measure produced cytokines by ELISA after the co-culturing period."
+    ]
+}

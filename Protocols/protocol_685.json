@@ -1,0 +1,32 @@
+{
+    "id": 269,
+    "origin_website": "Nature",
+    "title": "CloVR-ITS: Automated ITS amplicon sequence analysis pipeline for fungal microbiota analysis\u2013 standard operating procedure, version 1.0",
+    "subjectAreas": [
+        "Biotechnology",
+        "Microbiology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Check each read from the sequence pool for quality.",
+        "Sort sequences based on the sample-specific barcodes.",
+        "Use QIIME script split_libraries.py with parameters --min-seq-length 100, --max-seq-length 2000, --barcode-type variable_length, --max-homopolymer 8, --min-qual-score 25, and --max-ambig 0.",
+        "Generate a single set of filtered reads identified by sample meeting the quality criteria.",
+        "Cluster all non-chimeric reads from all samples into genus-level operational taxonomic units (OTUs) using UCLUST with a nucleotide sequence identity threshold of 85%.",
+        "Examine both forward and reverse complement sequences during clustering.",
+        "Reorganize genus-level OTUs created by QIIME commands.",
+        "Input the reorganized OTUs to Mothur for alpha-diversity analysis.",
+        "Use Mothur scripts read.otu, rarefaction.single, and summary.single to generate rarefaction curves and species diversity estimators for each sample.",
+        "Plot all rarefaction curves together using a custom program called Leech with color schemes related to the input mapping file.",
+        "Search non-chimeric representative sequences from 99% clusters against a custom ITSreference database using BLASTN with options \"-e 1.0e-5\", \"-b 10\", and \"-m 8\".",
+        "Assign each sequence to the taxonomic lineage of the best BLAST alignment covering at least 90% of the query sequence length.",
+        "Denote sequences as \"Unclassified\" if alignments do not meet coverage or identity thresholds for specific taxonomic levels.",
+        "Propagate hits across corresponding clusters.",
+        "Normalize taxon counts using a custom R script called skiff.",
+        "Calculate distance matrices for samples and taxonomic groups using Euclidean distance metric with skiff.",
+        "Create dendrograms of samples and taxa using complete-linkage clustering in the .pdf format.",
+        "Include R packages RColorBrewer and gplots for this task.",
+        "Form pie charts displaying proportions of sequences assigned to specific functional and taxonomic levels for up to 12 samples.",
+        "Output pie chart visualizations in .pdf format."
+    ]
+}

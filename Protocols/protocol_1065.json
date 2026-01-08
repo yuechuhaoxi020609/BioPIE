@@ -1,0 +1,39 @@
+{
+    "id": 1240,
+    "origin_website": "Nature",
+    "title": "<p>The Ability of Three Different Protocols in Removing Biroceramic- and Resin based Sealers from Simulated Internal Root Resorption Cavities: An in vitro Study</p>",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Remove crowns using a sterile diamond disk to standardize root length to 18 mm.",
+        "Prepare an access cavity using sterile diamond burs.",
+        "Extirpate pulp using #10 K-files.",
+        "Determine working length with a #15 K-file, 1mm short of where the file is visible from the apical foramen.",
+        "Mechanically prepare the root canal to size #35:0.06.",
+        "Irrigate the prepared canal with NaOCl 5.25% using a 27-gauge needle, 1mm short of working length.",
+        "Final irrigation with 5 mL distilled water.",
+        "Dry the canal with paper points.",
+        "Prepare simulated internal root canal resorption according to Top\u00e7uo\u011flu et al.",
+        "Fix specimens in modified silicon (hydrorise, Zhermack, Italy) within an eppendorf tube.",
+        "After silicone setting, remove the specimen from the eppendorf tube.",
+        "Create two longitudinal grooves along the root on both buccal and lingual sides using sterile diamond burs.",
+        "Split the specimen along its long axis with a chisel.",
+        "Make standard cavities on both segments 5 mm from the apex.",
+        "Cavities should be 0.8 mm deep and 1.6 mm in diameter.",
+        "Use sterile diamond burs under water cooling for cavity preparation.",
+        "Keep 7 random specimens as a negative control group with no further treatment.",
+        "Fill the cavities of 36 random specimens with resin-based sealer and assign to group A.",
+        "Fill the cavities of another 36 random specimens with bioceramic sealer and assign to group B.",
+        "Bond back together the two halves of each specimen using superglue and remount in silicon impression for proper positioning.",
+        "Seal the access cavity with a temporary filling.",
+        "Store all specimens at 37\u00b0C at 100% humidity for 1 week.",
+        "Split each specimen again after storing under specified conditions for evaluation.",
+        "Capture one digital image of each half of the split specimens under an inverted laboratory microscope (Leica DM IL LED).",
+        "Evaluate images using the classification described by Van der Sluis et al.",
+        "Score 0: the cavity is free of debris.",
+        "Score 1: less than half of the cavity is filled with debris.",
+        "Score 2: more than half of the cavity is filled.",
+        "Score 3: the cavity is filled completely."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 11285,
+    "origin_website": "Jove",
+    "title": "Increasing cDNA Yields from Single-cell Quantities of mRNA in Standard Laboratory Reverse Transcriptase Reactions using Acoustic Microstreaming",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Equilibrate the micromixer to 37\u00b0C for at least 1 hour.",
+        "Set up the RT mix according to the reverse transcriptase supplier's instructions.",
+        "Use single-cell amounts of input total RNA in the range of 0.1-1pg/\u03bcl.",
+        "Position RT tubes into the micromixer as soon as they are ready for mixing.",
+        "Select a frequency and amplitude of micromixing, using 150Hz as an example.",
+        "Switch the micromixer on and leave it running for 60 minutes.",
+        "Switch the micromixer off once the RT reaction is complete.",
+        "Take the RT tubes out and place them on ice.",
+        "Proceed with further applications such as quantitative Polymerase Chain Reaction (qPCR or real-time PCR).",
+        "Micromix the reaction mixture for 60 minutes during the RT reaction.",
+        "Conduct qPCR on duplicate samples to obtain consistent signal traces.",
+        "Perform melting curve analysis on qPCR products to identify appropriate PCR products.",
+        "Generate negative controls by excluding cDNA from qPCR reactions."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 281,
+    "origin_website": "Nature",
+    "title": "Mass Spectrometry Imaging of Invisible Micro-Patterns on Graphene Substrate",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques",
+        "Nanoscience And Technology"
+    ],
+    "protocol": [
+        "Prepare engineered graphene films by filtering solvent-dispersed graphene sheets at a concentration of 1 mg/mL.",
+        "Scan the selected area of the graphene film with a pulsed nitrogen laser at 337 nm and 200 Hz.",
+        "Set the spot-to-spot distance to 30 \u00b5m and take 500 shots per spot with a laser intensity of 50% (about 121.8 \u00b5J for 100%).",
+        "Dilute analytes (DOTAP) solutions in a step-wise manner and store them at -20\u00b0C before use.",
+        "Dip the stamp into the diluted solution and press it onto the engineered graphene film to mark the pattern.",
+        "Set up matrix-free LDI MS imaging by setting the spot-to-spot distance to 50 \u00b5m and taking 50 laser shots with an intensity of 36% at each spot.",
+        "Apply a nitrogen laser (337 nm) at a repetition rate of 200 Hz for the imaging setup.",
+        "Acquire a full mass spectrum ranging from 200 to 2000 m/z for every pixel at an x-y step-size of 50 \u00b5m.",
+        "Store imaging data in the FlexImaging data format.",
+        "Execute 2D image construction using custom-made scripts in the FlexImaging software.",
+        "Perform peak finding for each pixel at specific m/z values of 380 and 662.",
+        "Integrate peaks using a 0.3 Da window."
+    ]
+}

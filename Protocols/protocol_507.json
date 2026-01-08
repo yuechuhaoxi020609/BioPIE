@@ -1,0 +1,33 @@
+{
+    "id": 353,
+    "origin_website": "Nature",
+    "title": "Inhibition of lymphocyte homing by carbohydrate-binding proteins, lectins",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Isolate mesenteric lymph nodes and spleen from sacrificed wild-type mice.",
+        "Squeeze isolated lymph nodes and spleen between two coverslips to drop lymphocytes into RPMI-1640 medium in a plastic 6-well plate.",
+        "Pass the medium through a 70 \u03bcm mesh and centrifuge to collect cells.",
+        "Incubate collected cells with red blood cell lysis buffer at room temperature for 3 \u2013 5 min.",
+        "Add 10 times volume of RPMI-1640 containing 10% fetal bovine serum, incubate the mixture at 37\u00b0C for 30 min.",
+        "Centrifuge the mixture at 1,000x g for 5 min and suspend the pellet in 5 ml of RPMI-1640 with 1 \u03bcM CMFDA solution, then incubate at 37\u00b0C for 30 min.",
+        "Alternatively, use orange tracker Orange CMRA under the same conditions as CMFDA.",
+        "Centrifuge the labeled lymphocytes at 1000 x g for 5 min and suspend in RPMI-1640 containing 10% fetal bovine serum, incubate at 37\u00b0C for 30 min.",
+        "Wash the cell pellet twice with RPMI-1640 and pass through a 70 \u03bcm mesh.",
+        "Reconstitute cells in 0.9% NaCl to obtain two hundred fifty thousand cells per 100 \u03bcl.",
+        "Dissolve E-PHA (150 to 400 \u03bcg), LEA (150 to 300 \u03bcg) or Con A (150 \u03bcg) in 150 \u03bcl of PBS and intravenously inject through a tail vein.",
+        "One hour after the injection, inject CMFDA-labeled lymphocytes (twenty five million cells).",
+        "Sacrifice mice one to 24 hours after lymphocyte injection.",
+        "Collect peripheral (cervical and lateral axillary) lymph nodes, mesenteric lymph nodes, Peyer's patches, spleen, and thymus from the sacrificed mice.",
+        "Squeeze out lymphocytes as described in previous steps.",
+        "Remove debris by passing through a 70 \u03bcm mesh.",
+        "Suspend lymphocytes in 2 ml of PBS.",
+        "Analyze cell suspension containing hundred to hundred fifty thousand cells by flow cytometry.",
+        "Compare the number of fluorescent cells to the total number of cells.",
+        "Conduct control experiments by injecting only PBS.",
+        "Compare the ratio of control and lectin-inhibited experiments."
+    ]
+}

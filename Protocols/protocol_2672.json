@@ -1,0 +1,26 @@
+{
+    "id": 1099,
+    "origin_website": "Nature",
+    "title": "Beta-galactosidase activity assay for yeast",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Collect approximately 5 \u00d7 107 cells from yeast cultures growing exponentially.",
+        "Pellet cells by centrifugation at 4000xg at 4\u00b0C and wash once with water.",
+        "Resuspend cells in 200 \u03bcl of Z Buffer + \u03b2-mercaptoethanol (0.27% v/v) containing 1mg/mL zymolyase-20T.",
+        "Incubate samples for 20-30 minutes at 30\u00b0C to digest cells.",
+        "Centrifuge the mixture at 13400xg for 5 minutes at 4\u00b0C.",
+        "Transfer the supernatant to a new eppendorf tube.",
+        "Use 1 or 2 \u03bcL of the extract to quantify protein amount using the Bradford assay.",
+        "Mix 180 \u03bcl of extract with 700 \u03bcL of Z Buffer + \u03b2-mercaptoethanol.",
+        "Start the reaction by adding 200 \u03bcL of 4mg/mL ONPG (o-nitrophenyl-\u03b2-D-galactopyranoside).",
+        "Incubate samples at 30\u00b0C until they turn yellow (up to 90 minutes).",
+        "When a yellow color appears, stop the reaction with 500 \u03bcL of Na2CO3 1M.",
+        "Centrifuge cells at 13400xg for 1 minute to pellet cells.",
+        "Measure absorbance at 460 nm.",
+        "Express \u03b2-galactosidase activity in arbitrary units (U) using the formula: U = (A460 \u00d7 1000)/(Time (min) \u00d7 Volume (\u03bcL) \u00d7 Concentration (\u03bcg/\u03bcL))."
+    ]
+}

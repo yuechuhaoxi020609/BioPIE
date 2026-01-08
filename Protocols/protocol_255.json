@@ -1,0 +1,32 @@
+{
+    "id": 11310,
+    "origin_website": "Jove",
+    "title": "Studying Cell Rolling Trajectories on Asymmetric Receptor Patterns",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Fabricate microcontact printing polydimethylsiloxane (PDMS) stamps with an inclination angle of \u03b1 = 10\u00b0 by an SU-8 molding process.",
+        "Clean the gold surface with piranha solution for 20 minutes and rinse it with DI water at 24.5 \u00b0C.",
+        "Ink the PDMS stamp with 5mM PEG solution in ethanol.",
+        "Dry the inked stamp in air for 20 minutes.",
+        "Gently place the stamp on the gold surface for 40 seconds to ensure good contact.",
+        "Rinse the surface with ethanol and dry it under a stream of N2.",
+        "Incubate the substrate within P-selectin solution (15 \u03bcg/mL in DPBS) using a perfusion chamber for 3 hours at 24.5\u00b0C.",
+        "Rinse the surface with copious DPBS to remove excess P-selectin.",
+        "Backfill the surface with BSA (1 mg/mL in DPBS) for 1 hour to block non-specific interactions.",
+        "Rinse the surface with copious DPBS.",
+        "Flow a suspension of HL60 cells (~10^5 cells/mL) over the patterned surfaces in a rectangular flow chamber at 24.5\u00b0C.",
+        "Generate a flow rate of 75 \u03bcL/min using a syringe pump.",
+        "Calculate shear stress using \u03c4 = 6\u03bcQ/wh\u00b2, where \u03bc is kinematic viscosity (0.001002 Pa s), Q is volumetric flow rate, w is width of the chamber, and h is height of the chamber.",
+        "Record HL60 cells rolling interactions with adhesive P-selectin substrates using an inverted microscope and a mounted camera at 1 frame per second for 300 seconds.",
+        "Perform three independent experiments for each shear stress magnitude and pattern inclination angle.",
+        "Analyze image sequences using a customized Matlab program.",
+        "Utilize particle tracking freeware to generate tracks along patterned line edges.",
+        "Select tracks extending till the end of a P-selectin band.",
+        "Fit selected tracks with two straight line segments aligned with flow and pattern edge.",
+        "Calculate edge tracking length from the segments.",
+        "Determine rolling velocity on the edge segment.",
+        "Determine rolling velocity on the plain region."
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 1500,
+    "origin_website": "Nature",
+    "title": "<p>Long-term, <em>in toto</em> live imaging of the developing mouse heart</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Cell Biology",
+        "Genetics",
+        "Cardiology",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Euthanize pregnant mice with 4% chloral hydrate.",
+        "Soak the abdomen with 70% ethanol, then make an incision at the midline of the abdomen and pull the skin apart.",
+        "Cut the peritoneum to expose the abdominal cavity.",
+        "Place the uterus into dissection medium after cutting it free from surrounding tissues.",
+        "Separate each embryo with forceps between implantation sites.",
+        "Peel back the surrounding muscle layer and expose decidua tissue.",
+        "Clip off 1/5 portion of the decidua, exposing the embryo.",
+        "Dissect out the enveloped decidua with fine forceps.",
+        "Remove ectoplacental cone, yolk sac, and amnion with super fine forceps when embryos are later than E8.25.",
+        "Transfer the embryos to a Petri dish or agarose tube containing culture medium-V2.",
+        "Place the Petri dish or agarose tube in an incubator set at 37\u00b0C, 5% CO\u2082, and 95% air.",
+        "Make hollow agarose cylinders by inserting component B into component A filled with 2% low melting-temperature agarose.",
+        "Remove component A to form a triangular hollow.",
+        "Suck the mouse embryo with culture medium-V2 into the hollow in the agarose holder.",
+        "Combine the agarose holder with a base support.",
+        "Mount the agarose holder and base on the chamber, fill the chamber with culture medium-V3.",
+        "Set up the environment on the microscopy: Open and adjust gas mixer to 5% CO\u2082, 5% O\u2082, and 90% N\u2082.",
+        "Pre-heat the chamber to 37\u00b0C using a water bath surrounding the chamber.",
+        "Image the embryos with a step size of 2.5 \u03bcm up to a total of ~400 \u03bcm.",
+        "Use 3 min intervals for imaging.",
+        "Lower laser power and exposure time are used to obtain better results."
+    ]
+}

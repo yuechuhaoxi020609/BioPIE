@@ -1,0 +1,42 @@
+{
+    "id": 2904,
+    "origin_website": "Cell",
+    "title": "Protocol to transfer epithelial acini between different extracellular matrices and orient fibril organization",
+    "subjectAreas": [
+        "Cell Culture",
+        "Cell Biology",
+        "Cancer"
+    ],
+    "protocol": [
+        "Gently aspirate the medium from the well containing MCF10A acini grown on Matrigel for 10 days.",
+        "Wash the cells once with PBS using a pipette gently.",
+        "Place an 8-well chamber coverglass with the cells on ice and add 500 \u03bcL of cold cell recovery solution to each well.",
+        "Incubate the samples on ice for 30 minutes.",
+        "Gently mix the cell recovery solution and Matrigel in the chamber well 3-5 times by pipetting until Matrigel is dissociated.",
+        "Collect the mixed solution into an aliquot of cold PBS.",
+        "Add 500 \u03bcL of cold PBS to the well, then wash and collect the solution into the same tube from step 6.",
+        "Spin down the collected mixture at 1200 rpm for 5 minutes at 4\u00b0C.",
+        "Remove the supernatant carefully, leaving a small amount behind, and re-suspend with 8-10 mL of cold PBS.",
+        "Spin down the sample at 1,200 rpm for 5 minutes at 4\u00b0C.",
+        "Remove the supernatant and resuspend the sample with 500 \u03bcL of growth medium.",
+        "Keep the resuspended sample on ice.",
+        "Add 0.2 M HEPES and 0.5 M NaOH to the resuspension and mix well.",
+        "Add collagen type 1 solution to the mixture and mix gently.",
+        "Check the pH of the collagen mixture using litmus paper and adjust it to approximately pH 7.5 if necessary.",
+        "Fill PDMS casting wells with 200\u2013250 \u03bcL of the collagen/acini solution.",
+        "Allow the collagen to solidify in an incubator at 37\u00b0C for 30 minutes.",
+        "Put the collagen solution with acini in the incubator immediately after filling the PDMS casting wells.",
+        "Aliquot 3\u20135 mL of growth medium in a 6 well plate and keep in the incubator at 37\u00b0C to warm up.",
+        "Gently shake the PDMS casting wells in the medium with a tweezer and remove the collagen ring gel from the casting wells.",
+        "Carefully insert the PDMS stretching poles inside the gel hole using a tweezer.",
+        "Insert the cut pipet tip between the stretcher pole to expand the gel.",
+        "Incubate at 37\u00b0C for 4 h in the CO2 incubator.",
+        "Remove the inserted pipet tips and stretcher from the ring gel.",
+        "Transfer the stretched gel into an 8 well chamber slide.",
+        "Add 200\u2013250 \u03bcL of collagen mixture made with growth medium to re-embed the stretched collagen gel.",
+        "Make sure that the stretched gels are completely covered by the newly added collagen solution.",
+        "Do not leave and float the stretched gel after removing the stretching poles.",
+        "Incubate at 37\u00b0C for 30 min in the CO2 incubator.",
+        "Add 500 \u03bcL of growth medium for each well."
+    ]
+}

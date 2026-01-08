@@ -1,0 +1,35 @@
+{
+    "id": 127,
+    "origin_website": "Nature",
+    "title": "Transfection Protocol for Primary Hepatocytes \\( Rat Hepatocytes, Mouse Hepatocytes and Human Hepatocytes)   in Targefect Handbook of Transfection Protocols",
+    "subjectAreas": [
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Set up cells to be transfected so that they are about 70-80% confluent at the time of the experiment.",
+        "Plate out or maintain cells to be transfected in media with 10% serum.",
+        "Vortex the Targefect-Hepatocyte reagent and vortex at full speed for 30 seconds twice just before transfection.",
+        "Add high glucose DMEM (serum-free) first, then DNA, mix well by flicking the tube about 12 times to create a vortexing action.",
+        "Add targefect next, mix well again by flicking the tube.",
+        "Add virofect, mix again by flicking the tube 12 times.",
+        "Incubate the tubes at 37\u00b0C for 20 minutes to form the transfection complexes.",
+        "Just before addition, incubate the media completely and add the transfection complexes to the cells.",
+        "Swirl the dish to cover cells evenly with the transfection complex.",
+        "Incubate at 37\u00b0C for 4 hours.",
+        "Aspirate the complexes and replace with fresh complete media (with serum).",
+        "Assay at 24-48 hours post-transfection.",
+        "Use high glucose DMEM as the complexing medium for transfections.",
+        "Add DMEM first, then DNA, and mix well by flicking the tube about 12 times.",
+        "Add Targefect-Hepatocyte and mix well again.",
+        "Wash cells to be transfected with DMEM twice.",
+        "Aspirate the second wash completely.",
+        "Add 1 ml of the transfection complex per 35 mm dish.",
+        "Add 250 \u03bcl of transfection complex per well of a 12-well dish.",
+        "Add 150 \u03bcl of transfection complex per well of a 24-well dish.",
+        "Incubate at 37\u00b0C for 2-3 hours.",
+        "Add 2 ml of complete media with serum (10% serum) for a 6-well dish.",
+        "Add 1 ml of complete media with serum (10% serum) for a 12-well or 24-well dish.",
+        "Incubate at 37\u00b0C in a CO\u2082 incubator.",
+        "Assay cells at 24-48 hours post transfection."
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": 616,
+    "origin_website": "Nature",
+    "title": "Fluorescent Nano-switches for diagnostics applications",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology",
+        "Nanoscience And Technology"
+    ],
+    "protocol": [
+        "Prepare and synthesize nanoparticles using the thermal decomposition method.",
+        "Cool the black colored mixture at room temperature after removing the heat source.",
+        "Precipitate the mixture using ethanol.",
+        "Magnetically separate the precipitated mixture using a rare-earth magnet.",
+        "Discard the brown supernatant.",
+        "Wash the nanoparticles once more with ethanol to remove leftover nonmagnetic product.",
+        "Synthesize DMSA-functionalized nanoparticles as previously reported in the literature.",
+        "Isolate black powders through centrifugation.",
+        "Add 1 ml of water after isolation.",
+        "Magnetically purify the solution and adjust pH to 7.",
+        "Determine the SPMNPs concentration using TGA.",
+        "Measure the size of SPMNPs using DLS or TEM respectively.",
+        "Mix 25-fold molar excess of FIASH-EDT2-Maleimide with fluorescein-conjugated DMSA functionalized SPMNPs.",
+        "Perform the reaction for overnight at room temperature.",
+        "Remove unbound fluorescein by extensive washing in the presence of a magnetic field.",
+        "Resuspend purified fluorescein conjugated SPMNPs in distilled H\u2082O for further cellular uptake analysis.",
+        "Resuspend magnetically purified fluorescein conjugated SPMNPs in PBS for further cellular uptake analysis.",
+        "Incubate HeLa cells with fluorescence-modified SPMNPs at 37\u00b0C for different Pulse\u2013Chase periods.",
+        "Fix the cells in 4% paraformaldehyde and mount on a coverslip with polymount containing DAPI nucleus staining after the Pulse-Chase paradigm.",
+        "Capture images on a Zeiss Radiance 2100 confocal connected to an upright Nikon Eclipse E800 microscope using an oil immersion plan Apo 40xA/1.40 numerical aperture objective lens.",
+        "Process final images using Adobe Photoshop and restrict adjustments to limited linear color balance adjustments for interpreting merged pictures."
+    ]
+}

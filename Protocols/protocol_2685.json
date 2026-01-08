@@ -1,0 +1,30 @@
+{
+    "id": 352,
+    "origin_website": "Nature",
+    "title": "_In vitro_ human Th17 development",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Isolate human PBMC from buffy coats of healthy donors by Ficoll hypaque density centrifugation.",
+        "Resuspend total PBMC in MACS buffer at a rate of 40 \u03bcl per 10 cells.",
+        "Incubate resuspended PBMC with Biotin-Antibody cocktail at a rate of 10 \u03bcl per 10 cells for 10 minutes at 4\u00b0C.",
+        "Add 30 \u03bcl of MACS buffer per 10 cells and incubate with Anti-Biotin Microbeads at a rate of 20 \u03bcl per 10 cells for 15 minutes at 4\u00b0C.",
+        "Wash cells with MACS buffer.",
+        "Resuspend washed cells in MACS buffer up to 500 \u03bcl per 10 cells.",
+        "Sort CD4+ T cells by two rounds of magnetic depletion on the AutoMACS using program Deplete S.",
+        "Wash isolated CD4+ T cells with MACS buffer.",
+        "Resuspend CD4+ T cells in MACS buffer at a rate of 80 \u03bcl per 10 cells.",
+        "Add CD45RO microbeads at a rate of 20 \u03bcl per 10 cells for 15 minutes at 4\u00b0C.",
+        "Isolate Na\u00efve CD45RO- T cells by two rounds of depletion on the AutoMACS.",
+        "Culture naive CD4+ CD45RO- T cells at 1 \u00d7 10^5 cells/well in 96-well flat-bottom plates or 5 \u00d7 10^5 cells/well in 24-well plates for 5-6 days.",
+        "Add Yssel\u2019s medium containing 1% human AB serum and appropriate cytokines to the cultures.",
+        "Coat beads with anti-CD3, anti-CD28, and anti-CD2 antibodies at a ratio of 1 bead/10 cells using T Cell Activation/Expansion Kit.",
+        "Collect and count cells after 5-6 days of culture.",
+        "Wash collected cells thoroughly.",
+        "Culture washed cells at 1 \u00d7 10^5 cells/well in 96-well flat-bottom plates or 5 \u00d7 10^5 cells/well in 24-well plates for an additional period of 5-6 days.",
+        "Add the indicated cytokines and IL-2 to the cultures during this second phase.",
+        "Count cells after 10-12 days of culture total.",
+        "Stimulate cells at 5 \u00d7 10^5 cells/ml with anti-CD3, anti-CD28, and anti-CD2 antibodies in the presence of IL-2 for 24 h to analyze gene expression or 48 h to assess cytokine levels in cell-free supernatants."
+    ]
+}

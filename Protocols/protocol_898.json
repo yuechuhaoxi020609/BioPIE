@@ -1,0 +1,34 @@
+{
+    "id": 10179,
+    "origin_website": "Jove",
+    "title": "A Novel Tenorrhaphy Suture Technique with Tissue Engineered Collagen Graft to Repair Large Tendon Defects",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Add 4 mL of rat tail collagen type 1 monomeric collagen solution (2.15 mg/mL in 0.6% acetic acid) and 500 \u03bcL of 10x Minimal Essential Medium.",
+        "Neutralize the mixture by titrating against 5 M and 1 M sodium hydroxide.",
+        "Add 500 \u03bcL of Dulbecco's Modified Eagle Medium (DMEM).",
+        "Pour 5 mL of this solution into a custom-built rectangular metal mold (33 mm \u00d7 22 mm \u00d7 10 mm, 120 g weight).",
+        "Keep the mold in a CO2 incubator at 37 \u00b0C and 5% CO2 for 15 minutes to allow matrix assembly.",
+        "Remove the collagen hydrogel from the mold after polymerization.",
+        "Place the collagen hydrogel in a standard plastic compression assembly.",
+        "Place the collagen hydrogel between two 50 \u00b5m nylon mesh sheets.",
+        "Apply a static load of 120 g for 5 minutes to remove interstitial fluid from the hydrogel.",
+        "Absorb discharged fluid with four layers of filter paper.",
+        "Cut four compressed gel layers into 15 mm segments.",
+        "Sedate animals with an intramuscular dose of Hypnorm.",
+        "Euthanize animals by administering pentobarbitone.",
+        "Trim hair on both hind legs.",
+        "Make a 9 cm incision to expose the tibialis posterior tendon.",
+        "Excise lapine TP tendons and keep moist in PBS.",
+        "With a surgical blade, cut the TP tendon at the midpoint.",
+        "Excise a 15 mm segment of the tendon from the middle of the tendon.",
+        "Replace the excised segment with an ET collagen graft.",
+        "Interlock the 3-0 suture proximally away from native tendon ends.",
+        "Pass the 3-0 core sutures above the entire length of the graft.",
+        "Interlock the 3-0 core sutures distally away from the cut end.",
+        "Secure both ends of the ET to the native tendon with 6-0 and continuous running sutures around the periphery by coupling two tendon ends.",
+        "Manually ensure that the tension on the sutures is appropriate."
+    ]
+}

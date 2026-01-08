@@ -1,0 +1,32 @@
+{
+    "id": 612,
+    "origin_website": "Nature",
+    "title": "Extracellular RNA isolation using the SeraMir Kit",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Add 350 \u00b5l LYSIS Buffer to resuspended exosome pellet.",
+        "Vortex for 15 seconds.",
+        "Incubate at room temperature for 5 minutes.",
+        "Add 200 \u00b5l of 100% Ethanol.",
+        "Vortex for 10 seconds.",
+        "Assemble spin column and collection tube.",
+        "Transfer mixture (600 \u00b5l) to spin column.",
+        "Centrifuge for 1 minute at 13,000 rpm at room temperature.",
+        "Discard flow-through.",
+        "Add 400 \u00b5l WASH Buffer.",
+        "Centrifuge for 1 minute at 13,000 rpm at room temperature.",
+        "Discard flow-through.",
+        "Add 400 \u00b5l WASH Buffer.",
+        "Centrifuge for 1 minute at 13,000 rpm at room temperature.",
+        "Discard flow-through.",
+        "Centrifuge for 2 minutes at 13,000 rpm at room temperature.",
+        "Transfer spin column to fresh microfuge tube.",
+        "Add 30 \u00b5l ELUTION Buffer directly to membrane in spin column.",
+        "Centrifuge for 2 minutes at 2,000 rpm at room temperature.",
+        "Centrifuge for 1 minute at 13,000 rpm at room temperature to elute RNA."
+    ]
+}

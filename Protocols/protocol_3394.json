@@ -1,0 +1,23 @@
+{
+    "id": 906,
+    "origin_website": "Nature",
+    "title": "High-throughput homogenization of <em>Drosophila melanogaster</em> larvae using a bead mill-style homogenizer",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Biological Techniques",
+        "Genetics",
+        "Molecular Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Wash Drosophila larvae 3 times with 1 ml PBS to remove food, surface bacteria, and other contaminants.",
+        "Aspirate the larvae or remove as much liquid as possible with a pipette.",
+        "Place 10-300 mg of larvae into microcentrifuge tubes.",
+        "Add an equal mass of 0.5 mm glass beads to the tube.",
+        "Add 2 volumes of buffer for every mass of larvae.",
+        "Close the microcentrifuge tubes and place them into the Bullet Blender TM.",
+        "Run the tubes for 3 minutes at speed 8.",
+        "Proceed with your downstream application."
+    ]
+}

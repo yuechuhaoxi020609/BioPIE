@@ -1,0 +1,22 @@
+{
+    "id": 846,
+    "origin_website": "Nature",
+    "title": "Behavioural assay for olfactory plasticity in <em>C. elegans</em>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Pick about 6 adults to NGM plates seeded with bacterial strain NA22, 4 days before the assay.",
+        "Collect well-fed animals in microfuge tubes and wash 3 times with Wash buffer to remove bacteria and larval worms.",
+        "Add 100 \u03bcl of 10^-4 dilutions of odorants in water into the tubes for odorant pre-exposure.",
+        "During odorant pre-exposure, prepare assay plates by spotting 1 \u03bcl each of odorant and 0.5 \u03bcl each of 1 M sodium azide on two points at one end of the plates, and spot only sodium azide on the other side.",
+        "After 5 min of pre-exposure, add 1 ml of Wash buffer and centrifuge for 5 seconds at 100 g.",
+        "Suck animals settled at the bottom and spot about 50 animals at the center of an assay plate.",
+        "Remove excess liquid with Kimwipes and disperse the animals gently along the midline of the plates to prevent clumping.",
+        "Incubate for 30 min at 23 \u00b1 1 \u00b0C.",
+        "Count the number of animals in areas A or B after 30 min.",
+        "Exclude animals that remain within 0.5 cm of the midline from counting.",
+        "Calculate the chemotaxis index as (NA \u2013 NB) / (NA + NB)."
+    ]
+}

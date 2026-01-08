@@ -1,0 +1,40 @@
+{
+    "id": 10729,
+    "origin_website": "Jove",
+    "title": "Merging Ion Concentration Polarization between Juxtaposed Ion Exchange Membranes to Block the Propagation of the Polarization Zone",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Design two kinds of silicon masters using conventional photolithography or deep reactive ion etching.",
+        "Silanize the micropatterned silicon masters with trichlorosilane for 30 minutes in a vacuum jar.",
+        "Mix a silicone elastomer base with a curing agent at a ratio of 10:1 and place the mixture in a vacuum jar to remove bubbles.",
+        "Pour uncured PDMS on the silicon masters, remove any remaining bubbles with a blower, and cure the PDMS at 80 \u00b0C for 2 hours in a convection oven.",
+        "Detach the cured PDMS from the silicon masters.",
+        "Shape the detached PDMS properly using a knife to form squared shapes.",
+        "Cut half of the PDMS mold perpendicularly to the two parallel microchannels.",
+        "Punch holes at the ends of the PDMS channels with a 2.0-mm biopsy punch.",
+        "Clean a glass slide and the PDMS mold with tape and a blower.",
+        "Attach the PDMS mold onto the glass slide for reversible attachment.",
+        "Release approximately 10 \u00b5L of cation exchange resin at the open end of the sliced channel.",
+        "Place the syringe head on the punched holes.",
+        "Pull the plunger to create a gentle negative pressure.",
+        "Pull the cation exchange resin into the two channels.",
+        "Detach the PDMS mold without touching the patterned resin.",
+        "Place the glass slide on the heater at 95 \u00b0C for 5 min to evaporate the solvent in the resin.",
+        "Peel off the unnecessary part of the patterned membrane with a razor blade, making two separated line-patterns.",
+        "Punch two holes at the ends of microchannels and another two holes where the membrane patterns will be located after bonding the PDMS channel to the membrane-patterned substrate.",
+        "Bond the PDMS microchannel to the membrane-patterned substrate immediately after oxygen plasma treatment for 40 s at 100 W and 50 mTorr.",
+        "Prepare various test solutions including 1-100 mM KCl, 1 mM NaCl (pH ~7), the mixture of 1 mM NaCl and 0.2 mM HCl (pH ~3.7), the mixture of 1 mM NaCl and 0.2 mM NaOH (pH ~10.3), and 1x phosphate-buffered saline.",
+        "Add a negatively charged fluorescent dye (~1.55 \u00b5M) to the test solutions.",
+        "Load the sample solution in one reservoir of the channel and apply negative pressure to the other reservoir to fill the channel with the solution.",
+        "Connect the two reservoirs hydrodynamically by releasing a large droplet to eliminate the pressure gradient along the channel.",
+        "Fill the two reservoirs, which are connected to the cation exchange patterns, with buffer solutions (1 M KCl or 1 M NaCl) using a syringe or pipet.",
+        "Place wires at the reservoirs across the two patterned membranes (anode on the left reservoir and cathode on the right).",
+        "Connect the wires with a source measurement unit.",
+        "Load the ICP device onto an inverted epifluorescence microscope.",
+        "Apply a voltage (0.5-100 V) and measure the current response with a source measurement unit.",
+        "Capture fluorescent images using a charge-coupled device camera.",
+        "Analyze the fluorescent intensity using imaging software."
+    ]
+}

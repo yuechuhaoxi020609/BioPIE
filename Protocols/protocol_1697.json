@@ -1,0 +1,38 @@
+{
+    "id": 246,
+    "origin_website": "Nature",
+    "title": "A simple protocol for extraction, derivatization, and analysis of tomato leaf and fruit lipophilic metabolites using GC-MS",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Plant Sciences"
+    ],
+    "protocol": [
+        "Harvest plant tissue (500mg-1.0g) from under desired experimental conditions.",
+        "Immediately freeze the harvested tissue by immersing in liquid nitrogen.",
+        "Store lyophilized tissue at -80\u00b0C for several weeks or process immediately.",
+        "Transfer 300-500mg of lyophilized tissue to a glass vial with cap.",
+        "Add 10\u00b5l of internal standard 5\u03b1-cholest 7en-3\u03b2-ol (1mg/ml stock) to the vial.",
+        "Add 3.75ml of CHCl3: methanol (1:2) and vortex vigorously.",
+        "Add 1.25 ml of CHCl3 and vortex well.",
+        "Add 1.25 ml of dH2O and vortex once again.",
+        "Transfer bottom organic phase to a fresh vial with the help of a pipette.",
+        "Allow solvent to evaporate completely at 35\u00b0C.",
+        "Add 500 \u00b5l of 6% methanolic KOH (w/v) to the dried residue and incubate at 85\u00b0C for \u00bd -1 hours.",
+        "To it, add half the volume i.e., 250 \u00b5l of dH2O and then equal volume i.e., 750 \u00b5l of n-heptane and vortex well.",
+        "Allow layers to separate. Transfer upper phase to a fresh vial.",
+        "Repeat the above step twice using remaining volumes.",
+        "Allow heptane to evaporate completely (16-24 hours).",
+        "Add 100 \u00b5l of derivatization reagent (80 \u00b5l BFSTA + 20 \u00b5l TMCS) to the dried residue.",
+        "Incubate at 65\u00b0C for 1 hour.",
+        "Inject the sample into GC-MS in split mode.",
+        "Use a Rtx5MS column with dimensions 30m, 0.25-mm ID, and 0.25\u00b5m df.",
+        "Set the injection temperature to 300\u00b0C.",
+        "Set the interface temperature to 300\u00b0C.",
+        "Adjust the ion source to 250\u00b0C.",
+        "Use helium as carrier gas at a flow rate of 1 ml/min.",
+        "Perform analysis with an initial isothermal heating period at 100\u00b0C for 1 minute, followed by heating to 300\u00b0C for 20 minutes.",
+        "Record mass spectra at 2 scans per second over the range of 40 to 850 m/z.",
+        "Quantify each component based on peak areas and normalization using an internal standard."
+    ]
+}

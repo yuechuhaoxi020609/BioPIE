@@ -1,0 +1,27 @@
+{
+    "id": 401,
+    "origin_website": "Nature",
+    "title": "A rapid and highly-sensitive surface plasmon resonance \\(SPR)-based immunoassay procedure for human fetuin A",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Incubate the Au-coated SPR chip with 90 \u00b5L of 1% (w/v) KOH for 5 min.",
+        "Wash the SPR chip extensively with DIW.",
+        "Mix capture anti-HFA antibody (200 \u00b5g mL\\(^{-1}\\)) with 1% APTES in a 1:1 volume ratio.",
+        "Dispense 90 \u00b5L of the mixed solution onto the Au chip, achieving a final concentration of 100 \u00b5g mL\\(^{-1}\\) in 0.5% APTES.",
+        "Incubate the mixture on the Au chip for 30 min at room temperature in the fume hood.",
+        "Wash the anti-HFA antibody-bound Au SPR chip extensively with 10 mM HBS, pH 7.4.",
+        "Dock the anti-HFA antibody-bound Au SPR chip into Biacore 3000 and prime it.",
+        "Inject 20 \u00b5L of 1% (w/v) BSA over all four flow cells of the anti-HFA antibody-bound Au SPR chip at a flow rate of 10 \u00b5L min\\(^{-1}\\).",
+        "Filter BSA or filter the BSA solution prior to use to remove any microbial or other contaminants.",
+        "Pass fifty microliters of running buffer through all flow cells before HFA capture.",
+        "Record changes in SPR response units (RU) corresponding to blanks.",
+        "Pass fifty microliters of HFA at seven different concentrations (0.3, 0.6, 1.2, 2.5, 5.0, 10.0, and 20.0 ng/mL) through the flow cells of an Ab-bound SPR chip in consecutive cycles.",
+        "Regenerate the Ab-bound SPR chip surface after each analysis by treating it with 10 mM glycine-HCl, pH 2.0.",
+        "Subtract RU values obtained for blanks from the RU values for HFA detected in respective flow cells.",
+        "Plot SPR-based HFA detection curves using SigmaPlot software version 11.2.",
+        "Generate analytical parameters such as EC50 and Hillslope using standard curve analysis based on a four parameter logistic function."
+    ]
+}

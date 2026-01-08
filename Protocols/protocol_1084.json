@@ -1,0 +1,33 @@
+{
+    "id": 1133,
+    "origin_website": "Nature",
+    "title": "Neuron-fibroblast coculture assay to demonstrate presynaptic differentiation induced by the <span class=\"caps\">NGL</span> family of cell adhesion molecules",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Grow HEK293T cells on 60-mm culture dishes to around 50% confluency.",
+        "Transfect HEK293T cells with Myc-NGL-2 or Myc-NGL-2 ECD by the calcium phosphate method.",
+        "Trypsinize the cells after 24\u201348 hours.",
+        "Resuspend 10% of the trypsinized cells from a single 60-mm dish in 1 mL of phosphate-buffered saline (PBS).",
+        "Harvest the cells by centrifugation.",
+        "Resuspend harvested cells in 1 mL of PBS.",
+        "Add 10% (100 \u03bcl) of resuspended cells onto cultured hippocampal neurons at DIV8 grown on a 18-mm coverslip.",
+        "Add cytosine arabinoside to the culture medium to a final concentration of 0.5 \u03bcM.",
+        "Incubate the coculture in the CO2 incubator for 3 days.",
+        "Fix the coculture in 4% paraformaldehyde and 4% sucrose in phosphate buffered saline at room temperature for 5 minutes.",
+        "Incubate cells with primary antibodies (synapsin I and Myc; 1 \u03bcg/ml).",
+        "Incubate cells with Cy3- or FITC-conjugated secondary antibodies.",
+        "Perform vesicle turnover experiments in parallel with the immunostaining.",
+        "Briefly wash the cells with an extracellular solution.",
+        "Incubate the cells in high-potassium solution containing synaptotagmin luminal domain antibodies at room temperature for 5 min.",
+        "Wash the cells twice with extracellular solution.",
+        "Fix the cells and perform immunostaining with appropriate antibodies.",
+        "Capture Z-stacked images of randomly chosen HEK293T cells by confocal microscopy using a 63x objective.",
+        "Manually trace the boundaries of the transfected cells.",
+        "Normalize the integrated synapsin I immunofluorescence from a transfected HEK293T cell by the cell area."
+    ]
+}

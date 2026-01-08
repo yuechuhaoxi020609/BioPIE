@@ -1,0 +1,42 @@
+{
+    "id": 10984,
+    "origin_website": "Jove",
+    "title": "Quantification of Global Diastolic Function by Kinematic Modeling-based Analysis of Transmitral Flow via the Parametrized Diastolic Filling Formalism",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Record a complete 2D/echo-Doppler study for all subjects.",
+        "Position subjects in the supine position.",
+        "Obtain apical four-chamber views using a 2.5 MHz transducer.",
+        "Gate the sample volume at 1.5-5 mm directed between the tips of the mitral valve leaflets.",
+        "Set the wall filter at 1 (125 Hz) or 2 (250 Hz).",
+        "Adjust the baseline to take advantage of the full height of the display.",
+        "Adjust the velocity scale to exploit the dynamic range of the output without aliasing.",
+        "Perform Doppler tissue imaging with the sample volume gated at 2.5 mm.",
+        "Position the sample volume at the lateral and septal portions of the mitral annulus.",
+        "Save Doppler examinations in DICOM format.",
+        "Record Doppler examinations on DVD with simultaneously recorded electrocardiogram (ECG).",
+        "Convert images from the DICOM format and video to bitmap (.bmp) files using a custom MATLAB program.",
+        "Load the bitmap image files on another custom MATLAB program.",
+        "Measure conventional transmitral flow parameters such as Epeak, Apeak, Edur, E\u2019peak, A\u2019peak, etc.",
+        "Crop the images for PDF analysis.",
+        "Select images with discernible transmitral flow contour and complete cardiac cycle indicated by ECG for analysis.",
+        "Mark the time sampling rate (measured in pixels/s on the horizontal axis) in the images.",
+        "Mark the velocity sampling rate (measured in pixels/(m/sec) along the vertical axis) in the images.",
+        "Identify the complete cardiac cycle by noting consecutive R peaks on the image.",
+        "Mark the transmitral Doppler E- and A-wave or tissue Doppler E\u2019- and A\u2019-wave in the selected cardiac cycle.",
+        "Select the Doppler E-wave peak point (Epeak) or E\u2019-wave peak point.",
+        "Mark the start of the wave using the line connecting the peak to the start as a guide for matching the acceleration slope of the E-wave or E\u2019-wave.",
+        "Calculate the interval from the start to peak flow, denoted as the E-wave or E\u2019-wave acceleration time (AT).",
+        "Mark the end of the E-wave or E\u2019-wave using the line connecting the peak to the end as a guide for matching the deceleration slope.",
+        "Calculate the interval from the peak to the baseline, denoted as the deceleration time (DT).",
+        "Determine the duration of the E-wave by calculating the sum of AT and DT (Edur = AT + DT).",
+        "Mark the A-wave using a similar procedure as used for the E-wave.",
+        "With both the E- and A-waves marked, calculate the Epeak/Apeak ratio.",
+        "Load the cropped image into the custom LabView program.",
+        "Set the threshold such that MVE approximates transmitral flow.",
+        "Select onset and termination points of MVE along the time-axis by the operator.",
+        "Input user-selected MVE points to the computer program for fitting."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 273,
+    "origin_website": "Nature",
+    "title": "Analyzing cytokine-induced growth arrest",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Seed the different cancer cells at a density of 10,000 cells/cm\u00b2.",
+        "Incubate the cells overnight at 37\u00b0C; 5% CO\u2082 to ensure adherence.",
+        "Treat the cells with either control medium or cytokines (standard concentration: 100 ng/ml IFN-\u03b3 plus 10 ng/ml TNF) for 4 - 5 days.",
+        "Remove the medium and trypsinize the cells after treatment.",
+        "Count viable cells using trypan blue exclusion under a Zeiss Axiovert 25 microscope with a Neubauer counting-chamber.",
+        "Reseed the cells at 20,000 cells/cm\u00b2 in the absence of cytokines.",
+        "Grow the cells in complete RPMI 1640 medium until control cultures reach confluence.",
+        "Repeat steps 4 - 6.",
+        "After passage 1 - 2 (p1 - p2), seed 1,000 - 3,000 viable cells on MultiscreenTM HTS 96 well Filtration Plates.",
+        "Incubate the cells overnight at 37\u00b0C; 5% CO\u2082 to ensure adherence.",
+        "Measure proliferation by BrdU-based Cell Proliferation ELISA in combination with Vector\u00aeSG Substrate Kit for Peroxidase to visualize BrdU-incorporating cell clusters.",
+        "Count BrdU-positive spots with an ELISPOT reader."
+    ]
+}

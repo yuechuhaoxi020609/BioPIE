@@ -1,0 +1,25 @@
+{
+    "id": 3202,
+    "origin_website": "Cell",
+    "title": "Protocol for purification and enzymatic characterization of members of the human macrophage migration inhibitory factor superfamily",
+    "subjectAreas": [
+        "Protein Expression And Purification",
+        "Health Sciences",
+        "High Throughput Screening"
+    ],
+    "protocol": [
+        "Thaw the protein on ice.",
+        "Dilute D-DT to 3.75 \u03bcM and MIF to 0.75 \u03bcM with their respective lysis buffers.",
+        "Make dilutions of the 4-HPP solution ranging from 0-30 mM.",
+        "Pipette 10 \u03bcL of the substrate solution into each well.",
+        "Introduce 130 \u03bcL of borate solution.",
+        "Mix by pipetting.",
+        "Initiate the reaction.",
+        "Pipette 10 \u03bcL of the desired protein solution into a column of the prepared reaction plate.",
+        "Mix well by pipetting.",
+        "Start readings at 306 nm.",
+        "Take readings every 10 seconds for a total of 180 seconds (for MIF) or 300 seconds (for D-DT).",
+        "Repeat steps a-c for all desired replicates/experimental groups.",
+        "Test each experimental group in triplicate."
+    ]
+}

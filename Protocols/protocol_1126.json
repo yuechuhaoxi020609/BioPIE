@@ -1,0 +1,20 @@
+{
+    "id": 46,
+    "origin_website": "Nature",
+    "title": "Culture and expansion of OT-1 TCR transgenic T cells",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Plate out 100,000 SAMBOK APCs per well in a 12 well plate two days prior to your experiment.",
+        "Collect spleen and lymph nodes from CD8+OT-1 TCR transgenic mice on the day of the experiment.",
+        "Make single cell suspensions from collected cells and pool them.",
+        "Keep pooled cells at 2 X 10^7 /ml in complete media for primary splenic cultures.",
+        "Wash SAMBOK APCs once with PBS to remove any residual media and IFN-g.",
+        "Place 1 mL of cell suspension onto the SAMBOK APCs and culture for 48 hours.",
+        "Add an additional 1 ml of media to each well after 24 hours of initial incubation.",
+        "Pool all cells, spin them down in a 50 mL conical tube, and resuspend in complete media supplemented with 200 U/ml IL-2 at 2 X 10^7 /ml.",
+        "Allow the resuspended cells to sit for an additional 48 hours in a 24 well plate (1 ml/well).",
+        "Take some cells after 48 hours for FACs analysis to check purity of the population."
+    ]
+}

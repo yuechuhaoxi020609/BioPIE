@@ -1,0 +1,21 @@
+{
+    "id": 362,
+    "origin_website": "Nature",
+    "title": "Covalent immobilization of proteins onto photoactivated polystyrene microtiter plates for enzyme-linked immunosorbent assay procedures",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Activate polystyrene surface by FNAB under UV light for 15 min at a wavelength of 365 nm.",
+        "In activated and untreated polystyrene microtiter plates, immobilize capture molecule \\(anti-rabbit IgG, anti-human IgE, Epicoccum nigrum antigen) onto the wells.",
+        "Block any remaining reactive sites on the plate.",
+        "Add analyte \\(rabbit IgG, human IgE, Epicoccum nigrum) to the wells and allow binding.",
+        "Wash the plates with washing buffer.",
+        "Add secondary antibody-conjugate to the wells and allow binding.",
+        "Wash the plates with washing buffer.",
+        "Add substrate dye buffer to develop color.",
+        "Incubate for 30 min.",
+        "Stop the colour development by adding 50 \u03bcl of 2 M NaOH.",
+        "Record absorbance at 405 nm in an ELISA reader."
+    ]
+}

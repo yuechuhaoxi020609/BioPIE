@@ -1,0 +1,24 @@
+{
+    "id": 1187,
+    "origin_website": "Nature",
+    "title": "<p>Isolation of small extracellular vesicles from cell culture supernatant</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Seed MDA-MB-231 cells at a density of 5 x 10^6 cells per 150-mm plate in 20mL DMEM with 10% FBS and 1% AA.",
+        "Wash the plates using PBS after 24 hours.",
+        "Change the media to FBS-free, AA-free medium containing vehicle or 100\u00b5M SFX (final DMSO concentration: 0.1%).",
+        "Collect the cell culture supernatant (40mL) after another 24 hours.",
+        "Centrifuge at 300 x g, 4\u00b0C for 3 minutes and transfer the supernatants to a new tube.",
+        "Centrifuge at 2,500 x g, 4\u00b0C for 20 minutes and transfer the supernatants to a new tube.",
+        "Centrifuge at 10,000 x g, 4\u00b0C for 30 minutes and transfer the supernatants to a new tube.",
+        "Filter the supernatants using 0.22 \u00b5m syringe filters and transfer them to Ultra-Clear tubes.",
+        "Ultracentrifuge at 120,000 x g, 4\u00b0C for 90 minutes.",
+        "Resuspend sEV pellets with 30mL PBS and ultracentrifuge again at 120,000 x g, 4\u00b0C for 90 minutes.",
+        "Remove the supernatants and add 1ml PBS to the resuspended pellet.",
+        "Seal the tube with parafilm and store at 4\u00b0C for 1 hour before resuspending the pellet.",
+        "Transfer the samples to e-tubes and analyze using nanosight (Samples were analyzed at camera level of 9 and detection threshold of 4)."
+    ]
+}

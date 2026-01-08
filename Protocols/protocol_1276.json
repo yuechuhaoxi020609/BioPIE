@@ -1,0 +1,38 @@
+{
+    "id": 1046,
+    "origin_website": "Nature",
+    "title": "Rapid and Efficient Induction of Functional Astrocytes from Human Pluripotent Stem Cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Mix 75 \u03bcg of transcription factor plasmids with 30 \u03bcg of PMDLg/pRRE, 22 \u03bcg of pMD2.G, and 15 \u03bcg of pRSV-Rev plasmids for two T175 flasks.",
+        "Transfect HEK 293T cells with the mixture using 2.5 M CaCl2.",
+        "Change medium 16 hours after transfection.",
+        "Harvest viruses 48 hours post-transfection.",
+        "Centrifuge harvested viruses at 20,000 x g for 2 hours at 4\u00b0C.",
+        "Resuspend pelleted viruses in 100 \u03bcl DMEM.",
+        "Aliquot resuspended viruses and store at -80\u00b0C.",
+        "Dissociate hESC or hiPSC with Accutase and replate 5x10^5 cells per well in Matrigel-coated 6-well plates with mTeSR1 containing 10 \u03bcM Rock inhibitor.",
+        "Aspire medium on Day -1 and add 2 ml of fresh mTeSR1 containing 8 \u03bcg/ml Polybrene per well.",
+        "Add 1 \u03bcl of each virus to the wells on Day -1.",
+        "Aspire medium on Day 0 and add 2 ml of fresh mTeSR1 containing 2.5 \u03bcg/ml Doxycycline per well.",
+        "Aspire medium on Days 1 and 2, then add 2 ml of Expansion Medium with 2.5 \u03bcg/ml Doxycycline, 1.25 \u03bcg/ml Puromycin, and 200 \u03bcg/ml Hygromycin per well.",
+        "Aspire medium on Day 3 and add 2 ml of a mixture consisting of 3:4 Expansion Medium to 1:4 FGF Medium with 2.5 \u03bcg/ml Doxycycline and 200 \u03bcg/ml Hygromycin per well.",
+        "Aspire medium on Day 4 and add 2 ml of a mixture consisting of 1:1 Expansion Medium to FGF Medium with 2.5 \u03bcg/ml Doxycycline and 200 \u03bcg/ml Hygromycin per well.",
+        "Aspire medium from each well.",
+        "Add 2 ml of a mixture consisting of 1:4 Expansion Medium and 3:4 FGF Medium containing 2.5 \u03bcg/ml Doxycycline and 200 \u03bcg/ml Hygromycin per well.",
+        "On Day 6, aspire the medium from each well.",
+        "Add 2 ml of FGF Medium containing 2.5 \u03bcg/ml Doxycycline to each well.",
+        "On Day 7, dissociate cells with Accutase.",
+        "Pellet the cells at 300g for 5 minutes.",
+        "Replate the pelleted cells in Matrigel-coated coverslips, petri dishes or wells according to desired output.",
+        "Use FGF Medium containing 2.5 \u03bcg/ml Doxycycline as necessary.",
+        "On Day 8, aspire the medium from each well.",
+        "Add fresh FGF Medium containing 2.5 \u03bcg/ml Doxycycline to each well.",
+        "On Day 10, aspirate half of the medium from each well.",
+        "Add an equal amount of Maturation Medium containing 2.5 \u03bcg/ml Doxycycline.",
+        "Change half of the medium every 2-3 days thereafter."
+    ]
+}

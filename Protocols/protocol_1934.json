@@ -1,0 +1,37 @@
+{
+    "id": 1115,
+    "origin_website": "Nature",
+    "title": "Amino acid analysis by HPLC with FLD detector",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Genetics",
+        "Materials Science",
+        "Synthetic Chemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Hydrolyze purified protein with 6N HCl for 24 hours at 120\u00b0C in an oil bath.",
+        "Derivatize the resultant mixture with OPA for amino acid analysis.",
+        "Use a fluorescent detector (FLD) to analyze the derivatized sample on an Agilent 1260 HPLC system.",
+        "Apply FMOC-Cl to derivatize the sample for proline and hydroxyproline identification.",
+        "Load 50 \u03bcl of the derivatized sample onto a ZORBAX-SB-C-18 column (250\u00d74.6m, 5 micron particle size).",
+        "Elute the column using a gradient elution method with 0.01M Na2HPO4 buffer and acetonitrile as mobile phase solvents.",
+        "Maintain the flow rate at 1 ml/min during elution.",
+        "Collect and evaluate data from the HPLC system using Agilent openLAB control panel software.",
+        "Quantify amino acid content via comparison to retention time and absorbance of standards.",
+        "Reconstitute OPA with 5 mg in methanol.",
+        "Add 50 microliters of sodium borate buffer to the mixture.",
+        "Add 450 microliters of sodium borate buffer to complete the OPA solution.",
+        "Mix an equal volume of hydrolyzed sample with the prepared OPA solution.",
+        "Incubate the mixed solution for two minutes at room temperature.",
+        "Prepare FMOC-Cl solution by diluting in acetone to a concentration of 10 \u00b5mol/mL.",
+        "Hydrolyze collagen sample \\(20 \u00b5L of 1 mg/ml) and mix with 80 \u00b5L borate buffer \\(20 \u00b5mol/mL, pH 10.5).",
+        "Add 100 \u00b5L of FMOC-Cl solution to the mixture.",
+        "Incubate the resultant mixture at room temperature for 30 minutes.",
+        "Add 300 \u00b5L of pentane to the mixture after incubation.",
+        "Extract excess FMOC-Cl and hydrolyzed product using pentane from the mixture.",
+        "Prepare the derivatized COLII sample by removing pentane, leaving it ready for HPLC injection."
+    ]
+}

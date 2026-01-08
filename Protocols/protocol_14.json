@@ -1,0 +1,30 @@
+{
+    "id": 1543,
+    "origin_website": "Nature",
+    "title": "<p>Direct-seq: employing programmed gRNA scaffold for streamlined scRNA-seq in CRISPR screen</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Genetics",
+        "Systems Biology"
+    ],
+    "protocol": [
+        "At the end of CRISPR screening, cells were prepared as single cell suspension and loaded into the Chromium Single Cell B Chip.",
+        "cDNA was generated, purified, and amplified following the manual of Chromium Single-Cell 3\u2032 Reagent Kits v3 User Guide.",
+        "Long cDNA fragments were size-selected by 0.6x AMPure XP beads.",
+        "The \"long cDNA\" was eluted in nuclease-free H2O following the 10x protocol.",
+        "Short cDNA fragments, mostly representing index gRNA, were collected from the supernatant of the 0.6x beads selection.",
+        "A 1.2x size selection followed for short cDNA collection.",
+        "The \"short cDNA\" was eluted in 25 \u03bcl nuclease-free H2O.",
+        "The \"long cDNA\" was used for mRNA library preparation by following the manual of Chromium Single-Cell 3\u2032 Reagent Kits v3 User Guide.",
+        "Conduct eight index gRNA enrichment PCR reactions with 3 \u03bcl template, 25 \u03bcL NEBNext Ultra II Q5 Master Mix (NEB #M0544S), 2.5 \u03bcL tRNA_Read2 primer (10uM), 2.5 \u03bcL P5_read1 primer (10uM) and nuclease-free water up to 50 \u03bcL.",
+        "Set PCR program as: 98 \u00b0C for 30 s, followed by 14 cycles of 98 \u00b0C for 10 s, 60 \u00b0C for 10 s, then 72 \u00b0C for 10 s and finally 72 \u00b0C for 2 min.",
+        "Combine PCR products and purify by 0.7\u20131.0\u00d7 double-sided size selection, collecting supernatant from the 0.7x beads size selection followed by 1.0x beads selection, then eluting in 80 \u03bcl of nuclease-free water.",
+        "Conduct five library preparation PCR reactions with 10 \u03bcL template, 25 uL NEBNext Ultra II Q5 Master Mix, 2.5 uL P7_Read2_Index2 primer (10\u03bcM) and 2.5 uL P5_read1 primer (10uM).",
+        "Set PCR program as: 98 \u00b0C for 30 s, followed by 5 cycles of 98 \u00b0C for 10 s, then 54 \u00b0C for 15 s, then 65\u00b0C for 20 s and finally 72 \u00b0C for 2 min.",
+        "Clean up the PCR product.",
+        "Size select the cleaned PCR product with 0.7\u20131.0x AMPure XP beads.",
+        "Combine all eluted DNA.",
+        "Quantify the combined DNA sample.",
+        "Send an aliquot of the quantified DNA for NGS sequencing using the Illumina platform."
+    ]
+}

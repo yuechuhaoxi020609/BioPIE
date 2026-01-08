@@ -1,0 +1,27 @@
+{
+    "id": 11266,
+    "origin_website": "Jove",
+    "title": "Utilization of Plasmonic and Photonic Crystal Nanostructures for Enhanced Micro- and Nanoparticle Manipulation",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Evaporate gold on a glass coverslip to a thickness of 20 nm using chromium as the adhesion layer.",
+        "Expose the gold-coated substrate to a mixture of EDC, latex sphere suspension, and de-ionized water for one hour to self-assemble a polystyrene sphere monolayer.",
+        "Wash away non-absorbed spheres with copious amounts of water.",
+        "Allow the formed monolayer to air dry.",
+        "Evaporate another 20 nm of gold on the latex sphere monolayer to form the random gold nanoparticle array.",
+        "Obtain 3T3 mouse cell nuclei tagged with Acridine Orange dye from the Tewari group at the Fred Hutchinson Cancer Research Center.",
+        "Add 10% bovine serum albumin (BSA) in phosphate buffered saline (PBS) to the mouse cell nuclei in a concentration of approximately 1:10 (BSA : Mouse Cell Nuclei).",
+        "Mix the solution using sonication.",
+        "Deposit 5 \u03bcL of the solution onto an aluminum grating array coverslip.",
+        "Position two stacks of two 1\" by 1\" coverslips to support a fifth coverslip for viewing the sample.",
+        "Place the sample under the microscope for viewing.",
+        "Construct optical tweezers by sending a 35 mW helium neon laser through a Zeiss Axio Imager.D1M equipped with a GFP 17 filter set modified for 633 nm laser radiation.",
+        "Use a Zeiss LD EC Epiplan - NEOFLAR 50x objective to image cell nuclei approximately 5 microns in diameter.",
+        "Focus the microscope on the gold nanoparticle array or diffraction grating when the sample is placed under the objective.",
+        "Translate the microscope vertically until focus is achieved on the desired nuclei.",
+        "Position the laser trap spot over a particle.",
+        "The particle should maintain its position in the laser spot even when the stage is translated."
+    ]
+}

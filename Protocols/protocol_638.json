@@ -1,0 +1,23 @@
+{
+    "id": 4,
+    "origin_website": "Nature",
+    "title": "Oligofection of small interfering RNAs in senescent human fibroblasts",
+    "subjectAreas": [
+        "Cell Biology",
+        "Biological Techniques",
+        "Genetics",
+        "Molecular Biology",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Prepare poly-D-lysinated coverslips.",
+        "Plate 15-20x10^3 cells per coverslip 2 days before oligofection.",
+        "Mix 175 \u03bcl Optimem + 1-10 \u03bcl siRNA oligos (200 nM) per coverslip.",
+        "Mix 11 \u03bcl Optimem + 4 \u03bcl Oligofectamine per coverslip and leave for 7 minutes.",
+        "Combine solutions from steps 3 and 4, leaving the mixture for 15 minutes.",
+        "Change the medium of senescent cells by removing old medium and adding 800 \u03bcl Optimem per coverslip.",
+        "Add the mix obtained in step 4 to senescent cells already in 800 \u03bcl Optimem.",
+        "Leave cells in the incubator for at least 4 hours.",
+        "Without removing the Optimem medium, add 1 ml of culture medium without antibiotics and with 20% FCS or FBS."
+    ]
+}

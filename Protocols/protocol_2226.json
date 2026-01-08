@@ -1,0 +1,40 @@
+{
+    "id": 3156,
+    "origin_website": "Cell",
+    "title": "Measuring the acidification of the phagosomal lumen in live C. elegans embryos",
+    "subjectAreas": [
+        "Cell Biology",
+        "Model Organisms",
+        "Developmental Biology",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Use a microwave oven to melt the 4% agarose solution.",
+        "Dispense between 100\u2013300 \u03bcL of the melted agarose solution to the center of a slide.",
+        "Immediately flatten the agarose drop by placing another glass slide perpendicular to the one holding the drop and press gently.",
+        "Let it stand for 2 min for the agar to solidify completely.",
+        "Carefully separate the two slides by sliding one against the other.",
+        "Cut the agar pad into an approximately 12 \u00d7 12 mm square using a glass slide as a blade.",
+        "Place 3 \u03bcL of M9 buffer at the center of the agar pad.",
+        "Collect between 50-80 embryos with a worm pick under a microscope and transfer them into the drop of M9 in the agarose pad.",
+        "Squeeze a thin line of high vacuum grease around the agarose pad.",
+        "Place a cover slip over the grease and press the corners first, then remaining grease to seal the slide with a P10 pipette tip.",
+        "Transfer embryos from a mixed staged worm plate to the agar pad while minimizing bacterial transfer.",
+        "Monitor the acidification process of phagosomes in developing embryos.",
+        "Identify C1, C2, and C3 cells on the ventral surface of the embryo using Phis-72 his-72::gfp::mCherry reporter.",
+        "Determine the 0 min time point by identifying the \"bottom-like\" structure under DIC optics.",
+        "Measure mCherry and GFP signal intensities at the center of the phagosome.",
+        "Calculate the acidification index as the ratio of GFP/mCherry signals compared to the T0 value.",
+        "Set up microscope parameters under a 20\u00d7 objective.",
+        "Identify embryos carrying the fluorescent reporter (GFP+ and mCherry+) and in mid-embryonic developmental stage.",
+        "Under the 100\u00d7 objective, identify embryos between 320-330 min post-1st cleavage.",
+        "Observe distinct morphological features for ventral and dorsal sides identification.",
+        "Highlight ventral hypodermal cells in purple.",
+        "Highlight dorsal hypodermal cells in purple.",
+        "Position the embryos with their ventral side facing the microscope objectives.",
+        "Define the Z-position where the z-section recording should start.",
+        "Record serial z-sections from the embryo\u2019s ventral surface, proceeding towards the center of the embryo.",
+        "Capture 12\u201316 sections of 0.5 \u03bcm Z-interval for each embryo.",
+        "Start recording when the embryo reaches 320 min post-1st embryonic cell division."
+    ]
+}

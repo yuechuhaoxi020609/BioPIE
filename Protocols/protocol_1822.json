@@ -1,0 +1,26 @@
+{
+    "id": 1421,
+    "origin_website": "Nature",
+    "title": "<p>Dephosphorylation of epitopes in murine skin sections</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Deparaffinize the tissue sections by submerging them in xylol for 5 minutes.",
+        "Submerge the sections in fresh xylol for 5 minutes.",
+        "Transfer the sections to isopropanol and incubate for 5 minutes.",
+        "Incubate the sections in 96% ethanol for 5 minutes.",
+        "Incubate the sections in 75% ethanol for 5 minutes.",
+        "Incubate the sections in 50% ethanol for 5 minutes.",
+        "Wash the sections with water for 5 minutes.",
+        "Retrieve epitopes by boiling the sections in Dako Antigen Retrieval Agent pH9 for 20 minutes inside a boiling cuvette in a pressure cooker.",
+        "Allow the slides to cool down within the retrieval solution for 1 hour at room temperature.",
+        "Wash the sections twice with PBS++.",
+        "Delimit the tissue sections with a fat pen (Dako pen).",
+        "Incubate the tissue sections with 25U Antarctic Phosphatase in AP buffer for 2 hours at 37\u00b0C in a humidified chamber.",
+        "Alternatively, incubate the tissue sections with AP buffer only as a vehicle control for 2 hours at 37\u00b0C in a humidified chamber.",
+        "Block unspecific binding sites with 5% BSA in PBS++ for 1 hour at room temperature in a humidified chamber.",
+        "Ensure that the blocking solution covers the entire tissue section."
+    ]
+}

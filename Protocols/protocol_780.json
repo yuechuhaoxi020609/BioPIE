@@ -1,0 +1,19 @@
+{
+    "id": 108,
+    "origin_website": "Nature",
+    "title": "Organotypic explant culture of adult rat retina for _in vitro_ investigations of neurodegeneration, neuroprotection and cell transplantation",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Prepare an organotypic adult retinal explant culture.",
+        "Maintain the retinal explant culture with bi-daily medium exchanges.",
+        "Co-culture retinal explants with dissociated cell types such as stem cells.",
+        "Perform a pharmacological screen of neuroprotective drugs using retinal explants.",
+        "Preserve retinal explants for histological analysis.",
+        "Carry out cryostat sectioning of the retinal explants.",
+        "Label sections by fluorescent immunohistochemistry.",
+        "Perform fluorescent immunohistochemical labeling of whole-mount explants."
+    ]
+}

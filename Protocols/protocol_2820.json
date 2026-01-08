@@ -1,0 +1,23 @@
+{
+    "id": 1377,
+    "origin_website": "Nature",
+    "title": "<p>Holotomographic imaging of eukaryotic cells</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Prepare eukaryotic cells of interest in an imaging chamber filled with appropriate media.",
+        "Apply a drop of immersion medium (distilled water) on the inverted objective lens of the microscope.",
+        "Place the imaging chamber on the stage of the microscope.",
+        "Control and align the positions of the objective and condenser lenses using Calibration tab of the microscope control software.",
+        "Control the stage to position a cell of interest in the field-of-view.",
+        "Focus on the sample by adjusting the objective lens.",
+        "Control the stage to find a blank position without any cells.",
+        "Click Calibrate to measure multi-angle holograms of the background.",
+        "Control the stage to position the cell of interest at the center of the field-of-view.",
+        "Click 3D Snapshot to measure the holograms of the cell.",
+        "Click Process to reconstruct the 3D RI tomogram from the measured holograms.",
+        "Repeat steps for positioning, focusing, measuring background, and measuring and processing cells for all cells of interest."
+    ]
+}

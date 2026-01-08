@@ -1,0 +1,31 @@
+{
+    "id": 356,
+    "origin_website": "Nature",
+    "title": "Monitoring extra-vascular migratory metastasis \\(EVMM) of migrating cancer cells using an in vitro co-culture system",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Maintain human umbilical vein endothelial cells in MCDB-131 Complete Media and passage them 1:10 every 72-96 hours at 90% confluency in 10cm\u00b2 tissue culture plates using 2mL of 0.25% Trypsin-EDTA.",
+        "Split HUVEC-2 cells into multiple 15cm\u00b2 plates and freeze them in 10% DMSO/MCDB-131 freezing media at passage four.",
+        "Add 50 \u03bcl of liquefied Basement Membrane Extract or BME to wells of a clear-bottom 96-well tissue culture plate and permit it to solidify for thirty minutes at 37\u00b0C.",
+        "Seed HUVEC-2 cells atop the membrane at a density of 15,000 cells/well in 100 \u03bcl of MCDB-131 enriched with 2 mM L-glutamine, 1 mg/mL hydrocortisone, and 10 ng/mL EGF.",
+        "Culture HUVEC-2 cells overnight at 37\u00b0C in a humidified 5% CO\u2082/95% air atmosphere to allow for tubule formation.",
+        "Observe tubule formation 12-16 hours post-seeding.",
+        "Passage GFP-labeled Human melanoma cancer cells such that they will be ~80% confluent in 24 h.",
+        "Harvest 80% confluent C8161-GFP from a 25-cm2 flask.",
+        "Warm PBS and trypsin\u2013EDTA in the 37 \u00b0C water bath.",
+        "Remove and discard media from the 25-cm2 flask with C8161-GFP cells.",
+        "Rinse cells with PBS.",
+        "Add 1 ml of trypsin\u2013EDTA to the flask, then incubate at 37 \u00b0C for a few minutes.",
+        "Tap the side of the flask to ensure cell detachment.",
+        "Add 1 ml of supplemented growth medium and gently pipette up and down to create a single-cell suspension.",
+        "Transfer the cell suspension into a sterile 15 ml conical tube.",
+        "Mix 5 \u03bcl of cell suspension with 5 \u03bcl of Trypan blue for viability determination using a hemocytometer.",
+        "Centrifuge cells at 200 g for 3 min in a centrifuge with a swing-bucket rotor.",
+        "Aspirate the supernatant and resuspend the cell pellet in MCDB-131 Complete Media.",
+        "Gently pipette up and down to obtain a single-cell suspension.",
+        "Add GFP-transfected C8161 human melanoma cells to wells containing HUVEC-2 tubules and BME at a density of 3500 cells/well using 50 \u03bcl of MCDB-131 Complete Media."
+    ]
+}

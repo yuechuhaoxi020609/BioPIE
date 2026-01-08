@@ -1,0 +1,35 @@
+{
+    "id": 950,
+    "origin_website": "Nature",
+    "title": "Production of polyclonal antibodies against protein antigens purified by electroelution from SDS-polyacrylamide gel",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Transform protease-deficient _E. coli_ strain with a plasmid expression vector carrying cDNA or cDNA fragment of interest.",
+        "Spread transformation on appropriate LB medium plate and incubate overnight at 37\u00b0C.",
+        "Inoculate 5 ml of LB medium with a single colony of _E. coli_ cells and incubate overnight at 37\u00b0C with shaking.",
+        "Inoculate 50 ml of LB medium in 250 ml E-flask with 500 \u03bcl of culture (dilution 1:100) and grow at 37\u00b0C with shaking until the absorbance at 600 nm reaches 0.5-0.7.",
+        "Add the suitable inducer for the expression of the protein of interest according to the plasmid vector used, e.g., 0.5 mM (final concentration) IPTG and incubate for an additional 2 h.",
+        "Centrifuge the cell culture at 7,700g for 10 min at 4\u00b0C, discard the supernatant, and wash the pellet with 1X Phosphate-Buffered Saline (PBS).",
+        "Suspend the cell pellet by adding 50 \u03bcl of 1X PBS per ml of culture.",
+        "Sonicate on ice in short bursts to disrupt the cells until a partial clearing of the suspension is observed.",
+        "Add an appropriate aliquot of SDS-PAGE Loading Buffer to the cell homogenate and load 100-150 \u03bcl per well on a large (e.g., 18 X 20 cm) SDS-polyacrylamide gel.",
+        "Run gel according to standard methods until maximum separation of the protein of interest is obtained.",
+        "Cut two vertical strips on the sides of the gel.",
+        "Stain the cut strips in 0.3% Coomassie Blue/10% acetic acid for 5 minutes.",
+        "Discolour the stained strips in a 30% ethanol/10% acetic acid solution.",
+        "Realign the discoloured strips to the gel sides.",
+        "Cut a long horizontal strip at the level of the band of interest.",
+        "Cut the long strip into 1-cm pieces.",
+        "Place the gel pieces vertically into the mini elution chamber of the S&amp;S BIOTRAP device.",
+        "Perform electroelution at 200 V for 4 hours using 15 mM ammonium bicarbonate as the elution buffer.",
+        "Remove eluate from the trap chamber using a Pasteur pipette after completion.",
+        "Store the eluted product at -80\u00b0C until use.",
+        "Load an aliquot of the eluted product on a mini SDS-polyacrylamide gel along with bovine serum albumin (BSA) of known concentration to evaluate quantity and purity.",
+        "Concentrate purified proteins using suitable centrifugal filters if necessary.",
+        "Lyophilize concentrated proteins and store them at -80\u00b0C."
+    ]
+}

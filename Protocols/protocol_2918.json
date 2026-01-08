@@ -1,0 +1,30 @@
+{
+    "id": 390,
+    "origin_website": "Nature",
+    "title": "A highly-sensitive sandwich ELISA procedure based on one-step antibody immobilization for potential _in vitro_ diagnostics",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Mix anti-HFA capture Ab with APTES in a ratio of 1:1 (v/v).",
+        "Incubate the mixture in desired wells of a 96-well MTP for 30 min at room temperature.",
+        "Wash each well five times with 300 \u03bcL of 0.1M PBS, pH 7.4.",
+        "Block Ab-bound wells with 300 \u00b5L of 1% (w/v) filtered BSA for 30 min at 37\u00b0C.",
+        "Wash extensively with PBS.",
+        "Add 100 \u00b5L of varying HFA concentrations to different BSA-blocked wells.",
+        "Incubate the mixture in each well for 1 h at 37\u00b0C.",
+        "Wash extensively with PBS.",
+        "Add 100 \u00b5L of biotinylated anti-HFA Ab (200 ng/mL) to the HFA-captured wells.",
+        "Incubate for 1 h at 37\u00b0C.",
+        "Wash extensively with PBS.",
+        "Add 100 \u00b5L of streptavidin-HRP conjugate diluted 1:200 to biotinylated anti-HFA Ab treated wells.",
+        "Incubate for 20 min at 37\u00b0C.",
+        "Wash extensively with PBS.",
+        "Add 100 \u00b5L of TMB-H\u2082O\u2082 mixture to each well.",
+        "Incubate at room temperature for color development for 20 min.",
+        "Add 50 \u00b5L of 1 N H\u2082SO\u2084 to each well to stop the reaction.",
+        "Determine the absorbance at a primary wavelength of 450 nm and a reference wavelength of 540 nm in the Tecan Infinite M200 Pro microplate reader.",
+        "Determine the absorbance within 10 min of stopping the enzyme-substrate reaction."
+    ]
+}

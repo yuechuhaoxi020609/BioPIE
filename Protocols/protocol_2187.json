@@ -1,0 +1,30 @@
+{
+    "id": 11246,
+    "origin_website": "Jove",
+    "title": "Planar and Three-Dimensional Printing of Conductive Inks",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Dissolve poly(acrylic acid) blend in a mixture of water and diethanolamine.",
+        "Inject aqueous silver nitrate solution into the polymer solution.",
+        "Obtain a light yellow transparent solution after addition.",
+        "Stir the solution for 24 hours at room temperature.",
+        "Sonicate the solution at 65 \u00b0C in a water bath for 2 hours.",
+        "Transfer the sonicated solution to a 500 ml beaker and cool it to room temperature.",
+        "Titrate 300 ml of ethanol into the solution at a rate of 30 ml/min.",
+        "Centrifuge the precipitate collected after decanting supernatant at 9000 rpm for 20 minutes.",
+        "Add a humectant solution, such as ethylene glycol, to the ink.",
+        "Homogenize the mixture at 2000 rpm for 3 minutes using a Thinky homogenization mixer.",
+        "Load ink into a syringe barrel.",
+        "Attach a deposition nozzle to the syringe barrel.",
+        "Mount the ink-loaded syringe onto the 3-axis printing stage.",
+        "Adjust the nozzle height with a telescope lens at 10x zoom.",
+        "Apply pressure using an air-powered fluid dispensing system.",
+        "Deposit ink onto the substrate with controlled printing speed.",
+        "Print silver microelectrodes in various layouts and sizes.",
+        "Pattern conductive silver grids with center-to-center line spacing of 100 \u03bcm on silicon wafers.",
+        "Create high aspect ratio cylindrical structures by layer-by-layer printing method.",
+        "Print silver microelectrodes between two glass substrates offset by a 1-mm height difference."
+    ]
+}

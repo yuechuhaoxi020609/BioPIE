@@ -1,0 +1,21 @@
+{
+    "id": 1486,
+    "origin_website": "Nature",
+    "title": "<p>Generation of human knock-in organoids by CRISPR-HOT</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biological Techniques",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Identify the gene to target and design sgRNAs preferably in the last exon but preceding the stop codon.",
+        "Clone the sgRNA into the empty pSPgRNA with the reagents and protocol described in (Ran et al., Nature Protocol 2013).",
+        "Determine which frame selector to use according to where the sgRNA cuts in the genome.",
+        "Mix together 5 ug of sgRNA plasmid, 5 ug of the appropriate frame selector plasmid, and 5 ug of the universal NHEJ targeting vector.",
+        "Determine optimal organoid transfection protocol according to the organ type.",
+        "When tagging with a fluorescent tag, signal can be readily seen within 3-4 days in the case of endogenously expressed genes.",
+        "Pick organoids/cell clumps containing positive cells with a P200 pipette under a fluorescent microscope.",
+        "Make single picked organoids into single cells and grow/expand them until a line is generated.",
+        "Genotype by sanger sequencing of PCR fragments to confirm correct integration."
+    ]
+}

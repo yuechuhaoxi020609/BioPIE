@@ -1,0 +1,21 @@
+{
+    "id": 363,
+    "origin_website": "Nature",
+    "title": "Enzyme-linked immunosorbent assay procedure at higher temperature enhances speed of the assay",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Activate the polystyrene surface by coating with FNAB.",
+        "Expose the coated wells to UV light for 15 minutes at a wavelength of 365 nm.",
+        "Immobilize the capture molecule (anti-human IgG or anti-human IgE) onto the activated polystyrene plates.",
+        "Block the plate to prevent non-specific binding.",
+        "Add the analyte (human IgG or human IgE) and allow it to bind.",
+        "Wash the plate after adding the analyte.",
+        "Add a secondary antibody-conjugate to detect bound analyte.",
+        "Wash the plate again after adding the secondary antibody-conjugate.",
+        "Add substrate-dye buffer to develop color.",
+        "Stop the reaction by adding 20 \u03bcl of 5% sulfuric acid.",
+        "Record absorbance at 490 nm."
+    ]
+}

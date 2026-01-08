@@ -1,0 +1,31 @@
+{
+    "id": 439,
+    "origin_website": "Nature",
+    "title": "Microarray analysis of gene expression",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Genetics"
+    ],
+    "protocol": [
+        "Isolate total hippocampal RNA from individual animals using RNA Aqueous, Ambion.",
+        "Determine RNA quality by measuring optical density values at 260/280 nm. Values should be consistently at or over 1.9.",
+        "Use five micrograms of total RNA and reverse-transcribe into cDNA.",
+        "Indirectly label the cDNA using a sensitive fluorescent labeling procedure from Genisphere.",
+        "Hybridize the chip to cDNA overnight following a two-step hybridization protocol.",
+        "Wash the chip stringently to remove nonspecifically bound probe.",
+        "Poststain the chip with fluorescent dendrimers after washing.",
+        "Scan slides using a GenePix scanner (Axon Instruments).",
+        "Import resulting files from GenePix 4.0 analysis into Genespring 5.0 for additional visualization and data mining.",
+        "Consider hybridization spots as positive if there is a signal intensity of twice the background or more in at least one channel of half of the replicates.",
+        "Perform per-chip normalization by dividing expressed genes by the median of two housekeeping control genes, \u03b2-tubulin and cyclophilin.",
+        "Determine gene regulation by taking the log ratio of the median experimental (running) channel signal to the median control (sedentary) channel signal.",
+        "Define up-regulated genes as having an average expression ratio of >1.3.",
+        "Define down-regulated genes as having an average expression ratio of <0.7.",
+        "Perform homotypic hybridizations where the same sample is hybridized in both channels (cy3 & cy5).",
+        "Determine cutoff levels consistent with expected gene regulation levels in brain tissue.",
+        "Perform statistical analysis by an unpaired t test using the cross-gene pooled error method.",
+        "Set significance at p < 0.05.",
+        "Classify significantly regulated genes into relevant functional categories."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 10520,
+    "origin_website": "Jove",
+    "title": "Quantifying Intermembrane Distances with Serial Image Dilations",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Ensure the maximum intensity value of any given pixel is less than 255 in grayscale images using ImageJ or similar software.",
+        "Outline the perinexus in ImageJ or other image-processing software with one-pixel thickness, setting it to the highest intensity value (255 in a grayscale image from 0 to 255).",
+        "Identify the gap junction by its pentalaminar structure and define the beginning of the perinexus as the point at which two opposing cell membrane bilayers diverge.",
+        "Begin outlining approximately 200 nm from the edge of the gap junction, tracing along the inner membrane of the first cell and back along the inner membrane of the second cell in ImageJ.",
+        "Set spatial derivative gradient threshold.",
+        "Set scale in pixels/scale units.",
+        "Set the spatial lower and upper limits for the region of interest.",
+        "Set automatic/manual start to 0 for automatic detection or 1 for manual identification.",
+        "Select desired image from file select folder.",
+        "Crop the image to select the perinexus of interest using the crosshair cursor.",
+        "Adjust the crop box size by dragging corners and sides until it fits around the perinexus accurately.",
+        "Ensure that the \"open\" end of the perinexus is cropped so both membrane outlines reach the edge of the cropped image.",
+        "Make the image full-screen for better visibility.",
+        "Double-click within the perinexus to finalize the crop selection.",
+        "Observe the final centerline after all adjustments for program efficacy evaluation."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 460,
+    "origin_website": "Nature",
+    "title": "Lung Epithelial Cell Prep",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Keep all solutions on ice.",
+        "Anesthetize animal and clean with 70% Ethanol.",
+        "Exsanguinate and remove ventral ribcage.",
+        "Perfuse left then right ventricle with cold sterile PBS until the lungs turn white.",
+        "Expose trachea and nick with scissors.",
+        "Insert 20G catheter and lavage the lungs with 1 ml cold PBS.",
+        "Repeat lung lavage three times.",
+        "Inject 1 ml of dispase down trachea.",
+        "Wait 30 seconds then infuse the lungs with 0.2 ml warm 1% low melt agarose.",
+        "Tie off the trachea using string, remove catheter and pour ice cold PBS over lung.",
+        "Remove the lung carefully without nicking the tissue and place into petri dish containing PBS on ice to allow agarose to harden.",
+        "Cut each lobe from the mainstem bronchi.",
+        "Cut the proximal-most \u00bc of each lobe surrounding the bronchi to minimize inclusion of basal cells in cell preparation.",
+        "Put the cut lobes into a 50 ml tube containing dispase and rock at room temperature for 45 minutes.",
+        "Add 10 ml of sort buffer and 50 U/ml DNAse to the lung tissue.",
+        "Pipette up and down until the lung tissue is dissociated.",
+        "Incubate for 10 minutes rocking at 37 degrees Celsius.",
+        "Transfer the contents through a 100 \u00b5m strainer into a 50 ml tube.",
+        "Transfer filtered suspension to a 15 ml tube.",
+        "Spin the cells for 5 minutes at 550 g at 4 degrees Celsius.",
+        "Suck away as much of the agarose as possible without disturbing the cell pellet.",
+        "Resuspend the cells in 10 ml of sort buffer and let recover shaking for at least one hour at 37 degrees Celsius.",
+        "Centrifuge cells at 550 g at 4 degrees Celsius for 8 minutes.",
+        "Resuspend cells in 1 ml of sort buffer and count.",
+        "Adjust volume to 10^7 cells/ml.",
+        "Stain cells using chosen combination of antibodies and isotype controls for at least 30 minutes at 4 degrees Celsius.",
+        "Wash cells two times with cold PBS."
+    ]
+}

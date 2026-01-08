@@ -1,0 +1,20 @@
+{
+    "id": 313,
+    "origin_website": "Nature",
+    "title": "<em>In vivo</em> antimicrobial assay of the PPO system using horseshoe crab as the model animal",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology",
+        "Chemical Biology",
+        "Drug Discovery"
+    ],
+    "protocol": [
+        "Culture Gram-positive bacterial strains under pyrogen-free conditions as described in protocols #4 and #5.",
+        "Adjust the bacterial population to 10^6-10^7 cfu/ml with pyrogen-free 3% NaCl (isotonic to horseshoe crab hemolymph).",
+        "Inject horseshoe crab intracardially with 10^5-10^6 cfu bacteria/100 gram body using a #23 needle.",
+        "At 30 min post injection, collect hemolymph from the horseshoe crab by cardiac puncture using a #18 needle.",
+        "Immediately after collection, remove hemocytes by centrifuging the hemolymph at 150 x g for 10 min at room temperature.",
+        "Quantify remnant bacterial load in the extracellular milieu by applying 100 \u03bcl of cell-free hemolymph (from step 5) to a nutrient agar plate and incubate at 37\u00b0C overnight.",
+        "Include 5 mM PTU or 5 mM kojic acid in the bacterial injection to block in vivo PO activity, if any."
+    ]
+}

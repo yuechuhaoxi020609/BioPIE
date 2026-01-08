@@ -1,0 +1,20 @@
+{
+    "id": 1410,
+    "origin_website": "Nature",
+    "title": "<p>Evaluation of Dimensional Accuracy of 3D printed mandibular model using two different Additive Manufacturing Techniques based on Ultra-Low Dose Multislice Computed Tomography scan data</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Physics"
+    ],
+    "protocol": [
+        "Recruit mandibular models.",
+        "Place Gutta percha markers.",
+        "Record 10 predetermined linear measurements using a digital calliper.",
+        "Perform MSCT for the models.",
+        "Transform DICOM file to STL format.",
+        "Use STL file for 3D printing models using SLS printer.",
+        "Use STL file for 3D printing models using FFF printer.",
+        "Record same 10 predetermined linear measurements on the printed models.",
+        "Compare recorded measurements of the reference standard with those of the 3D printed models."
+    ]
+}

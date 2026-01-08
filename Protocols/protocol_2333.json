@@ -1,0 +1,18 @@
+{
+    "id": 1254,
+    "origin_website": "Nature",
+    "title": "<p>A Research Protocol on Leap Motion Tracking Device: A Novel Intervention Method for Distal Radial Fracture Rehabilitation</p>",
+    "subjectAreas": [
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Recruit subjects (N=40) by screening them with inclusion and exclusion criteria.",
+        "Obtain informed consent from the subjects.",
+        "Record medical history of the subjects.",
+        "Perform a baseline assessment on all recruited subjects.",
+        "Allocate 20 subjects to the experimental group and 20 subjects to the control group.",
+        "Conduct a 6-week intervention for the experimental group, including Leap motion control rehabilitation for 30 min/day and conventional rehabilitation for 30 min/day.",
+        "Conduct a 6-week intervention for the control group with conventional rehabilitation for 60 min/day.",
+        "Perform a post-treatment assessment on all subjects after the interventions."
+    ]
+}

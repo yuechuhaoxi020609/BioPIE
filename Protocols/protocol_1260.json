@@ -1,0 +1,31 @@
+{
+    "id": 249,
+    "origin_website": "Nature",
+    "title": "Evaluation of antigen binding by CD8+ T cells after _in vivo_ treatment with myeloid derived suppressor cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Isolate T cells from OT-1 mice using a T cell enrichment column.",
+        "Transfer 5-6 X 10^6 isolated T cells intravenously into CD45.1 mice.",
+        "On day 3, isolate MDSC from 3-week tumor-bearing mice (EL4 or MC38) using biotin-Gr-1 and streptavidin beads.",
+        "Transfer 4-5 X 10^6 isolated MDSCs intravenously into mice which have received OT-1 T cells.",
+        "Immunize mice with SIINFEKL peptide at a concentration of 100 ug in 100 ul PBS plus 100 ul incomplete Freund's adjuvant.",
+        "Harvest spleens from mice and prepare a single cell suspension.",
+        "Pellet the cells by centrifugation (1700 RPM for 5 min) at room temperature.",
+        "Resuspend the pellet in 5 ml/spleen of ACK Lysis Buffer.",
+        "Incubate the resuspended cells at room temperature for 4-5 minutes with occasional shaking.",
+        "Stop the reaction by adding 40-50 \u03bcl of PBS to the incubated cells.",
+        "Wash the cells with PBS twice (1700 RPM, 5 min) at room temperature.",
+        "Use Cy5-labeled SIINKb-Ig and SIYKb-Ig dimers as specific and non-specific MHC-Ig ligands, respectively.",
+        "Prepare a serial dilution of 20 \u03bcl of Cy5-labeled MHC-Ig dimer in a FACS tube (2000 nM \u2013 12.5 nM).",
+        "Adjust cells to a concentration of 10^7 cells/ml in FACS wash buffer.",
+        "Add 10 \u03bcl aliquot of adjusted cells to the FACS tube with the prepared MHC-Ig dimer dilution.",
+        "Incubate cells with the MHC-Ig dimers for 60-90 minutes on ice.",
+        "Add FITC labeled anti-CD8 and PE labeled anti-CD45.1 antibodies to each aliquot.",
+        "Incubate cells for an additional 20 min on ice.",
+        "Wash cells two times before flow cytometric analysis."
+    ]
+}

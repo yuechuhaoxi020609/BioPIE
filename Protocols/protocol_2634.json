@@ -1,0 +1,18 @@
+{
+    "id": 56,
+    "origin_website": "Nature",
+    "title": "Drosophila aconitase activity and reactivation",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Sonicate mitochondria four times for 15 seconds in a Branson 450 sonicator in aconitase buffer.",
+        "Monitor the conversion of citrate into alpha-ketoglutarate at 340 nm at 25\u00b0C using isocitrate dehydrogenase in a coupled reduction reaction with NADP to NADPH.",
+        "Incubate aconitase with 2 mM dithiothreitol and 0.2 mM ferrous ammonium sulfate for 5 minutes.",
+        "Repeat the enzymatic activity assay after reactivation of aconitase."
+    ]
+}

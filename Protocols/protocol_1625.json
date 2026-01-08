@@ -1,0 +1,33 @@
+{
+    "id": 3762,
+    "origin_website": "Cell",
+    "title": "Live imaging of microtubule dynamics at excitatory presynaptic boutons in primary hippocampal neurons and acute hippocampal slices",
+    "subjectAreas": [
+        "Cell Biology",
+        "Neuroscience",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Prepare complete HBSS as recording medium and warm it up in a 37\u00b0C water bath.",
+        "Stabilize the temperature and humidity of incubator before imaging.",
+        "Select axons based on morphology (smaller diameter than dendrites and no spine structures along the neurite) and uniformly anterograde movement (toward the distal tip of the neurite) of EB3 comets.",
+        "Determine proximal axonal segments by locating the cell body and tracing the distance from the cell body based on real distance in \u03bcm in a still image taken with the camera.",
+        "Pre-treat neurons with 50 \u03bcM D-AP5 for 6\u201312 hours prior to live imaging in complete neurobasal medium.",
+        "Change the medium to complete HBSS supplemented with 50 \u03bcM D-AP5 before imaging.",
+        "Wash neurons three times with complete HBSS medium.",
+        "Add complete HBSS medium supplemented with 20 \u03bcM bicuculline or DMSO for neuronal activity induction.",
+        "Acquire movies at 1 frame/3\u20134 seconds, capturing 3 z-stacks at a step size of 0.4 \u03bcm for 3 minutes for dual channel acquisition.",
+        "Start movie acquisition 1 minute after inducing neuronal activity to ensure consistency and stabilization of temperature and CO2 flow.",
+        "Perform maximum intensity projections of movies using Image Math within Andor software.",
+        "Export Tiff files from the Andor software.",
+        "Analyze exported Tiff files in ImageJ.",
+        "Transfer acute slices onto millicell membrane upside down in MatTek dishes with 1 mL of warm fresh sterile medium.",
+        "Place the MatTek dish in a temperature-controlled chamber attached to the microscope.",
+        "Maintain temperature at 37\u00b0C and CO2 flow at 5% to promote cell viability and optical stability during live imaging.",
+        "Select electroporated hippocampal neurons from the CA1 region for imaging using an inverted Nikon Ti-E microscope operated by Nikon Elements Software.",
+        "Use 488 and 561 nm lasers as light sources, shuttered by Acousto-Optic Tunable Filters (AOTF).",
+        "Acquire live-imaging of EB3 comets relative to vGlut1 positive stable puncta within 50\u2013100 \u03bcm of cell bodies for 300 s.",
+        "Use a 60\u00d7 oil-immersion objective with NA1.4 during imaging.",
+        "Capture images at 1 frame every 3 seconds."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 470,
+    "origin_website": "Nature",
+    "title": "Induction of IBD by transferring CD4+ CD45RB high cells in to SCID or Rag-/- mice",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Harvest splenocytes from 5 to 8 week old mice.",
+        "Osmotically lyse the erythrocytes.",
+        "Incubate single cell suspensions with FITC-conjugated anti-CD4 and biotin-conjugated anti-CD45RB.",
+        "Incubate the cells with anti-FITC microbeads.",
+        "Purify CD4+ T cells by magnetic isolation using the Auto MACS sorter.",
+        "Incubate purified CD4+ T cell suspension with \u03b1-biotin microbeads for separation of CD4+CD45RB high naive cells.",
+        "Separate the cells using the Auto MACS.",
+        "Inject Thy1.2+ C.B-17 scid mice intra peritoneally with 4 \u00d7 10^5 fresh Thy1.1+CD25\u2013 CD45RBhighCD4+ congenic cells.",
+        "After 6 or 7 days, administer an i.p. injection of PBS or 0.8-1 \u00d7 10^6 freshly isolated Thy1.2+ Treg cells.",
+        "Use C57BL/6 Rag1\u2212/\u2212 or Rag2\u2212/\u2212 mice (CD45.1) as recipients for cell transfers.",
+        "Transfer C57BL/6 donor cells in 100 \u03bcl of PBS per mouse.",
+        "On day 6-10 after Treg cell transfer, isolate mesenteric lymph node cells or lamina propria cells using the protocol from Current Protocols in Immunology.",
+        "Perform Annexin V and Propidium Iodide staining to measure apoptosis by flow cytometry.",
+        "Conduct TUNEL staining on cryo-sections of the gut to measure apoptosis of effector cells in the lamina propria.",
+        "Analyze stained sections with confocal immunofluorescence."
+    ]
+}

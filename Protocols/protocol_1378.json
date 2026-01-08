@@ -1,0 +1,31 @@
+{
+    "id": 1013,
+    "origin_website": "Nature",
+    "title": "NIVA: Numerical Islet Viability Assay Image Processing using OpenCV for LIVE/DEAD Viability/Cytotoxicity kit with Laser Scanning Microscopy",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Set up channels in ZEN with the wavelength values of the fluorescence dye.",
+        "Activate the \u2018Z-stack\u2019 checkbox in the Acquisition dimensions.",
+        "Select \u2018Z-stack tool\u2019 in the Multidimensional Acquisition tool group.",
+        "Open the Z-stack tool.",
+        "Set all values in the tool.",
+        "Click Start Auto Configuration.",
+        "Click on the Start Experiment button to start the experiment.",
+        "Set live-channel with green color and dead-channel with red color.",
+        "Move to Processing tab on the category.",
+        "Find Orthogonal Projection and click on it.",
+        "Change Method Parameters tab to Average for general projection view.",
+        "Click Max/Min button in Display window under the image overview.",
+        "Export the image in proper format.",
+        "Run NIVA.exe on your computer.",
+        "Load your image into the program using supported formats: jpg, jpeg, bmp, png, tif, or tiff.",
+        "Increase LowL value in the trackbar within the Values groupbox to blur and threshold the image.",
+        "Observe the real-time changes in the loaded image as you adjust the LowL value.",
+        "Identify the gray-colored contours that represent potential regions of interest (ROI).",
+        "Increase the Morph value to remove small objects using a morphological process with an n by n matrix.",
+        "Click Calculate button in the groupbox.",
+        "Repeat steps at least 5 times per each islet sample and use the average value to assess islet viability."
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 654,
+    "origin_website": "Nature",
+    "title": "AlignDB: a computational protocol for analyzing the relationship between indels and SNPs in genome sequences",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Install all AlignDB requirement software and dependent Perl modules.",
+        "Read the README file in the AlignDB package root directory.",
+        "Install AlignDB itself.",
+        "Follow the steps in doc/tutorial.pdf for installation.",
+        "Use the example data in data/ directory for a trial run.",
+        "Prepare a set of input data in Blastz .axt file format.",
+        "Start the GUI shell by entering the base directory where AlignDB is installed and typing perl gui\\gui2.pl.",
+        "Do not close the command line window.",
+        "Test your server by clicking on the \"DB Server\" notebook tab and checking MySQL server settings.",
+        "Initiate your database by clicking the \"Init. alignDB\" button to build the skeleton of the database.",
+        "Generate a two-way analysis database by clicking the \"Gene. alignDB\" button to analyze alignments and build the database.",
+        "Update features using Ensembl annotations by clicking the \"Feature\" tab and then the \"Upd. feature\" button.",
+        "Click the \"Misc\" tab.",
+        "Click \"Upd. slippage\" to run init\\update_indel_slippage.pl.",
+        "Click \"Upd. isw\" to run init\\update_isw_indel_id.pl.",
+        "Click the \"Common stat\" button.",
+        "An Excel workbook with 25 worksheets will be generated.",
+        "If running AlignDB on Windows, click the \"Common chart\" button.",
+        "This runs stat\\common_chart_factory.pl that calls Excel to draw charts in .xls files by OLE.",
+        "Build another two-way comparison.",
+        "Load two completed databases into \"first db\" and \"second db\".",
+        "Generate \"goal db\" name with the default naming rule.",
+        "Leave the \"T/Q/R:\" options unchanged.",
+        "Click the \"Ref outgroup\" button.",
+        "Update two-way features in the comparison database.",
+        "Go to the \"Misc\" tab in the \"Three-way\" pane and click the \"Upd. CpG\" button to run extra/update_snp_cpg.pl.",
+        "Do statistics and get results by clicking the \"Three stat\" button, which runs stat/three_stat_factory.pl.",
+        "Chart the data by clicking the \"Three chart\" button, which runs stat/three_chart_factory.pl."
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 676,
+    "origin_website": "Nature",
+    "title": "Detecting Smad-STAT networks using proximity ligation assay",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Harvest freshly sorted or cultured floating cells such as hematopoietic or immune cells.",
+        "Centrifuge at 1500 rpm for 10 min at 4\u00b0C.",
+        "Remove the supernatant carefully and wash cells with 2% FBS PBS by centrifuging at 1500 rpm for 10 min at 4\u00b0C.",
+        "Remove the supernatant and wash again with PBS by centrifuging at 1500 rpm for 10 min at 4\u00b0C.",
+        "Culture adherent cells such as dendritic cells or cancer cells on coverslips in culture dishes.",
+        "Fix the cells (~2x10^6 cells) with fixation buffer (500 \u03bcL) for 15 min at room temperature.",
+        "Wash the cells twice with PBS (1 mL in microcentrifuge tubes, volume 1.5 mL) by centrifuging at 1500 rpm for 10 min at room temperature.",
+        "Permeabilize the cells with permeabilization buffer (500 \u03bcL) for 15 min at room temperature.",
+        "Wash the cells twice with PBS by centrifuging at 1500 rpm for 10 min at room temperature.",
+        "Prepare thin-layers of fixed cells on Poly-L-Lysine coated slides by centrifugation using a cytospin (1-2x10^5 cells/slide, 800 rpm for 10 min at room temperature).",
+        "Draw a circle around the samples with a water-proof pen such as Dako Pen after cytospin centrifugation.",
+        "Block the slides by blocking solution for 30 min at 37\u00b0C in a humidity chamber.",
+        "Tap off the blocking solution carefully from the slides without washing.",
+        "Incubate the slides immediately with primary antibodies diluted by the antibody diluent (1:50) overnight at 4\u00b0C in a humidity chamber.",
+        "Tap off the primary antibody solution from the slides.",
+        "Wash the slides twice carefully for 5 min with the wash solution.",
+        "Incubate the slides with PLA probes diluted by the antibody diluent for 1 hr at 37\u00b0C in a humidity chamber.",
+        "Wash the slides twice carefully for 5 min with the wash solution.",
+        "Add the Ligation-Ligase solution diluted by high purity water and incubate the slides for 30 min at 37\u00b0C in a humidity chamber.",
+        "Wash the slides twice carefully for 5 min with the wash solution.",
+        "Add the Amplification-Polymerase solution diluted by high purity water and incubate the slides for 100 min at 37\u00b0C in the dark humidity chamber.",
+        "Wash the slides twice carefully for 5 min with the wash solution.",
+        "Remove the remaining wash solution completely using a pipette.",
+        "Incubate the slides with the secondary goat anti-rat IgG (H+L) antibody Alexa Fluor\u00ae 488 diluted by the antibody diluent at a ratio of 1:1000 for 1 hour at room temperature in the dark humidity chamber.",
+        "Wash the slides twice carefully for 5 minutes using the wash solution and remove any remaining wash solution completely with a pipette.",
+        "Add the minimal volume of Duolink In Situ Mounting Medium with DAPI for nuclear staining and mounting to the slides.",
+        "Cover the slides with cover slips.",
+        "Remove air bubbles from the slide by pushing the cover slips carefully.",
+        "Store the slide at 4\u00b0C in the dark before acquiring images using a confocal microscope."
+    ]
+}

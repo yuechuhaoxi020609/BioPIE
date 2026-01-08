@@ -1,0 +1,37 @@
+{
+    "id": 11041,
+    "origin_website": "Jove",
+    "title": "In situ Compressive Loading and Correlative Noninvasive Imaging of the Bone-periodontal Ligament-tooth Fibrous Joint",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "House animals under pathogen-free conditions in accordance with the guidelines of the Institutional Animal Care and Use Committee (IACUC) and the National Institute of Health (NIH).",
+        "Provide animals with standard hard-pellet rat chow and water ad libitum.",
+        "Euthanize animals via carbon dioxide asphyxiation followed by bilateral thoracotomy.",
+        "Remove rat mandibles by gently severing membranous tissue and muscle tissue attachments while preserving the entire mandible, including the coronoid process and the condylar process.",
+        "Separate hemimandibles by carefully cutting the fibrous tissue of mandibular symphysis with a scalpel blade.",
+        "Prepare specimens for in situ compressive loading by immobilizing them on a steel stub using a material significantly stiffer than the experimental specimen.",
+        "Align the occlusal surface of the molar(s) parallel with the AFM metal specimen disc using a straight edge in both planes (mesial-distal and buccal-lingual).",
+        "Create a trough surrounding the molars to contain excess liquid and maintain tissue hydration during loading.",
+        "Etch the surface of the tooth of interest with 35% phosphoric acid gel for 15 seconds on the occlusal surface.",
+        "Rinse the etched surface thoroughly with deionized water and dry it using an air/water syringe or a compressed-air canister.",
+        "Spread a drop of bonding agent into open cusps in a thin layer with an explorer.",
+        "Cure the composite with a dental curing light to set the bonding agent.",
+        "Remove excess bonding agent from adjacent teeth with a fine scalpel or razor blade.",
+        "Place flowable dental composite on the surface following preparation and spread it into grooves of the molar(s) of interest using a dental explorer.",
+        "Expose the composite to dental curing light for 30 seconds.",
+        "Mold an occlusal buildup of about 3-4 mm using a dental resin composite from the occlusal plane of the molar(s) and cure with dental curing light for 30 seconds.",
+        "Reduce the top of the composite buildup to a flat surface parallel to the occlusal plane using a straight edge and high-speed hand piece.",
+        "Secure the specimen with the composite buildup on the anvil of the loading stage.",
+        "Place an articulating paper on the surface of the composite.",
+        "Load the specimen to a finite load to check for concentric or eccentric loading.",
+        "Place TBS-soaked Kimwipe around the specimen to ensure hydration.",
+        "Make a trough around the specimen and fill it with TBS to keep the organ hydrated during imaging.",
+        "Input peak load and displacement rate into the Deben software to compress the molar to a desired peak load at a specified displacement rate following immobilization of the hemimandible.",
+        "Backfill PTA staining solution into a clean 1.8 ml glass carpule and place loaded carpule into syringe.",
+        "Inject solution slowly (5 min/carpule) into the PDL-space of adjacent teeth.",
+        "Repeat injection steps until about 5 full carpules (9 ml) of solution are injected.",
+        "Soak prepped specimens overnight in remaining PTA solution (8 hr)."
+    ]
+}

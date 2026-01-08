@@ -1,0 +1,17 @@
+{
+    "id": 721,
+    "origin_website": "Nature",
+    "title": "Immunohistochemistry analysis",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Perform immunohistochemistry for chemokine receptors CXCR1, CXCR3, and CXCR4 on first trimester human placental paraffin-embedded sections.",
+        "Use microwave antigen retrieval with sodium citrate buffer.",
+        "Stain with isotype match controls for each chemokine receptor.",
+        "Prepare NCR-Fc fusion proteins as previously described.",
+        "Perform immunohistochemistry on decidual sections using the prepared NCR-Fc fusion proteins or control-Fc (8 \u03bcg/ml, final concentration).",
+        "Incubate sections with biotinylated-goat-anti-human-Fc.",
+        "Detect using the avidin-biotin peroxidase complex method with a Vectastain kit."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": 231,
+    "origin_website": "Nature",
+    "title": "The protocol for the direct reprogramming therapy of human liver cancer cells with only chemicals",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Chemical Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Obtain human liver cancer samples with informed consent from patients who underwent liver transplantation.",
+        "Evaluate AKR1B10 expression in human HCC samples using an AKR1B10 antibody.",
+        "Incubate the liver cancer cells in a flask coated with collagen gel in a CO2 incubator at 37\u00b0C for 24 hours.",
+        "Collect viable cells adhering to the collagen gel and resuspend them in reconstituted type 1 collagen solution for a final density of 1 \u00d7 10^6 cells/mL.",
+        "Place three drops of the collagen-cell mixture in each well of a 6-well plate in a 60 mm dish.",
+        "Allow the plates to reach 37\u00b0C in a CO2 incubator for 1 hour.",
+        "Add culture medium to each well after allowing the droplets to solidify and settle.",
+        "Incubate the plate in a CO2 incubator at 37\u00b0C overnight.",
+        "Add 10 \u03bcM ACR to the cells for 2 days.",
+        "Add 10 \u03bcM zopolrestat to the cells for 2 days.",
+        "Add 10 \u03bcM ACR and 10 \u03bcM zopolrestat to the cells for 2 days.",
+        "Determine albumin protein concentration in culture media by ELISA using goat anti-human albumin.",
+        "Perform quantitative analysis of AFP secretion with AFP Amerlex-M RIA detection kit.",
+        "Measure oxygen consumption (mean \u00b1 SD, nmol min-1 mg-1 protein) in AKR1B10-positive liver cancer cells 3 days after administration of drugs.",
+        "Measure oxygen consumption (mean \u00b1 SD, nmol min-1 mg-1 protein) in AKR1B10-negative liver cancer cells 3 days after administration of drugs.",
+        "Conduct statistical tests with Dr. SPSS II for Windows.",
+        "Define statistical significance as p<0.05."
+    ]
+}

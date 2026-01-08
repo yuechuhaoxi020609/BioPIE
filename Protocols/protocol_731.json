@@ -1,0 +1,36 @@
+{
+    "id": 1218,
+    "origin_website": "Nature",
+    "title": "<p>Motor Coordination in Space: An Analysis of the Effects of Microgravity on XRCCI DNA Repair Protein Function</p>",
+    "subjectAreas": [
+        "Biochemistry",
+        "Chemical Biology",
+        "Cell Biology",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Culture immature mammalian cerebellar interneurons with a sufficient nutrient medium.",
+        "Maintain the culture at 23\u00b0C.",
+        "Split the interneurons into four groups for different conditions.",
+        "Expose one group to UV radiation and microgravity on the ISS.",
+        "Expose another group to UV radiation but no microgravity on Earth.",
+        "Subject a third group to only microgravity on the ISS without UV radiation.",
+        "Keep a control group neither exposed to UV radiation nor microgravity on Earth.",
+        "Measure the magnitude of UV irradiation on the ISS in J/m\u00b2.",
+        "Replicate the measured UV irradiation magnitude for all samples on Earth.",
+        "Calculate Sample Ct\u2019s (threshold number of cycles) for each condition.",
+        "Determine average Ct\u2019s for each condition.",
+        "Compute \u0394Ct values by comparing avg Ct\u2019s to the control condition.",
+        "Calculate \u0394\u0394Ct values by finding the difference between each condition\u2019s \u0394Ct and control \u0394Ct.",
+        "Assess 2-\u0394\u0394Ct (fold relationship) for statistical analysis.",
+        "Conduct null hypothesis t-tests with a p-value threshold of 0.05 to assess significance.",
+        "Centrifuge the interneurons after exposure to their respective conditions.",
+        "Disrupt the centrifuged interneurons with Buffer RLT Plus.",
+        "Homogenize the disrupted samples via Bead Mill.",
+        "Lysate and purify the homogenized samples using the DNeasy Plus Mini Kit.",
+        "Assess the quality and quantity of extracted DNA using a NanoDrop 2000.",
+        "Expose DNA samples to RNase and protease for further purification if needed.",
+        "Amplify the MAP2 gene with PCR using Taq polymerase.",
+        "Quantify the DNA products using the iTaq\u2122 Universal SYBR\u00ae Green One-Step Kit."
+    ]
+}

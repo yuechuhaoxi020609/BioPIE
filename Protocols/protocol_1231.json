@@ -1,0 +1,36 @@
+{
+    "id": 4181,
+    "origin_website": "Cell",
+    "title": "Analysis of local protein accumulation kinetics by live-cell imaging in yeast systems",
+    "subjectAreas": [
+        "Microscopy",
+        "Cell Biology",
+        "Model Organisms",
+        "Genetics"
+    ],
+    "protocol": [
+        "Streak out the strain(s) of interest on YPD plates.",
+        "Incubate the streaked strains for 1\u20132 days at 25\u00b0C or 30\u00b0C.",
+        "Inoculate cells from a single colony into 4 mL of SC liquid medium in a test tube.",
+        "Shake the inoculated medium at 25\u00b0C for 6\u20138 hours in a water bath shaker (at 210 rpm).",
+        "For fission yeast, inoculate cells from a single colony into 8 mL of YE5S liquid medium in a test tube.",
+        "Shake the inoculated medium at 25\u00b0C for 6\u20138 hours in a water bath shaker (at 210 rpm).",
+        "Transfer preculture to 4 mL of SC medium in a test tube and shake them at 25\u00b0C overnight for 12\u201316 hours in a water bath shaker (at 210 rpm).",
+        "Concentrate cells by centrifugation and remove the supernatant.",
+        "Resuspend the pellet to 150 \u03bcL fresh SC medium.",
+        "Transfer 1 mL of mid-log culture to a low retention microcentrifuge tube for harvesting cells.",
+        "Declump cells by sonication for 5 seconds at 15% power if they form aggregates.",
+        "Centrifuge concentrated cells at 8,000 \u00d7 g and remove the supernatant.",
+        "Resuspend the pellet in fresh SC medium.",
+        "Place the entire cell suspension into the Con A/Lectin-coated glass-bottom dish.",
+        "Mount the dish on the microscope stage and incubate for 5\u201315 minutes to allow cells to sediment.",
+        "Check the cell density on the glass bottom by microscopy during sedimentation.",
+        "Remove the supernatant when an appropriate cell density is reached (50-70% field coverage).",
+        "Wash the cells with 200 \u03bcL of fresh SC medium, repeating 2\u20133 times to remove floating and unattached cells.",
+        "Gently aspirate the supernatant after washing.",
+        "Add 1-1.5 mL of SC medium to the dish.",
+        "Note: Use YE5S medium for fission yeast.",
+        "Leave a small amount of supernatant when changing media to prevent cell drying.",
+        "Critical: Avoid overcrowded fields (90-100% field coverage)."
+    ]
+}

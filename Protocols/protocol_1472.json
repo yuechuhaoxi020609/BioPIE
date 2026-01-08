@@ -1,0 +1,29 @@
+{
+    "id": 644,
+    "origin_website": "Nature",
+    "title": "A Simple and Rapid System for DNA and RNA Isolation from Diverse Plants Using Handmade Kit",
+    "subjectAreas": [
+        "Biotechnology",
+        "Plant Sciences"
+    ],
+    "protocol": [
+        "Add CTAB, EDTA, Tris base, and NaCl to 100 ml autoclaved water to make the extraction buffer.",
+        "Gradually dissolve the components of the extraction buffer by shaking at room temperature.",
+        "Add \u03b2ME to 1 ml of the extraction buffer before use for tissues with high polysaccharides and secondary metabolites.",
+        "Add PVPP to 1 ml of the extraction buffer only for tissues with high polyphenolic pollution.",
+        "Grind samples using 1 ml of the extraction buffer in a mortar and pestle that are sterilized.",
+        "Transfer the resulting solution to a sterile centrifuge tube.",
+        "Mix the sample by briefly vortexing until thoroughly resuspended.",
+        "Incubate samples at 65\u00b0C for 10 min for lysing cells completely.",
+        "Add chloroform: isoamyl alcohol (24:1) to each tube and homogenize them by vortexing.",
+        "Centrifuge at 13700 g at 4\u00b0C for 10 min.",
+        "Transfer the upper aqueous phase to a new tube (size= 1.5 ml).",
+        "Add 700 \u00b5l of cold isopropanol to precipitate RNA or DNA and then invert tubes 3-4 times to mix the solution.",
+        "Centrifuge tubes at 13700 g at 4\u00b0C for 10 min.",
+        "Discard the supernatant and wash the precipitate nucleic acid gently with 70% EtOH.",
+        "After centrifuging at 5400 g at 4\u00b0C for 5 min, remove the supernatant and then air-dry the pellet.",
+        "Dissolve the pellet in 20-30 \u00b5l of RNase free water (commercial) or autoclaved water.",
+        "Incubate at room temperature for a few minutes.",
+        "Keep the solubilized nucleic acid in \u221220\u00b0C for short-term storage or in \u221280\u00b0C for long-term storage."
+    ]
+}

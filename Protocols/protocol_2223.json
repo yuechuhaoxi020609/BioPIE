@@ -1,0 +1,27 @@
+{
+    "id": 1097,
+    "origin_website": "Nature",
+    "title": "ChIP \\(Chromatin Immunoprecipitation)",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Collect approximately 5 \u00d7 10^8 cells from an exponentially growing yeast culture.",
+        "Crosslink the cells by adding formaldehyde 1% (v/v) to the growth medium and incubate for 15 min.",
+        "Stop crosslinking by adding glycine 125 mM and incubate for 5 minutes.",
+        "Collect the cells by centrifugation at 4000xg and wash four times with 25 mL of cold TBS buffer at 4\u00b0C.",
+        "Resuspend the cell pellet in 300 \u03bcL of Lysis buffer.",
+        "Lyse the cells by vortexing with glass beads for 30 min at 4\u00b0C, supplementing with lysis buffer to a final volume of 600 \u03bcL.",
+        "Fragment the chromatin by sonication using a BioRuptor Diagenode with discontinuous pulses for 10 minutes.",
+        "Centrifuge the sample at 13400xg for 15 min at 4\u00b0C.",
+        "Keep 20 \u03bcl from the supernatant as a control of whole-cell extract (Input).",
+        "Incubate the remaining volume with orbital rotation for 2 h at 4\u00b0C with Dynabeads Protein G previously bound to a specific antibody.",
+        "Wash the beads 4 times in PBS containing 0.02% (v/v) Tween 20.",
+        "Elute the bound protein with two times 40 \u03bcL of Elution buffer by heating at 65\u00b0C for 8 min.",
+        "Revert the cross-linking by overnight incubation at 65\u00b0C shaking.",
+        "Digest the eluted sample for 90 min at 37\u00b0C with 0.33 mg/mL proteinase K.",
+        "Purify the DNA using the High Pure PCR product purification kit.",
+        "Analyse the co-immunoprecipitated DNA in triplicate by quantitative PCR in a DNA Engine Peltier Thermal Cycler using the SYBR\u00ae Premix Ex TaqTM Tli RNase H Plus Green with ROX."
+    ]
+}

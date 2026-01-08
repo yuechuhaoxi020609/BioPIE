@@ -1,0 +1,43 @@
+{
+    "id": 1141,
+    "origin_website": "Nature",
+    "title": "Combination of chemical cross-linking and pull-down assay to study transient protein-protein interactions",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Molecular Biology",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Grow 200 ml yeast cells expressing V5-His6 tagged protein in YPG to an A600 of approximately 0.6.",
+        "Incubate cells at 30\u00b0C in the dark for one hour after UV or mock treatment.",
+        "Add formaldehyde directly to the culture to achieve a final concentration of 1%.",
+        "Quench cross-linking by adding 0.5 M glycine to the culture.",
+        "Harvest cells and wash them with cold Tris-buffered saline followed by cold lysis buffer.",
+        "Resuspend approximately 0.5 ml yeast cells in 1 ml of lysis buffer containing 1 mM phenylmethylsulfonyl fluoride and protease inhibitor mixture.",
+        "Disrupt the cells by vortexing in the presence of 0.5 ml glass beads.",
+        "Sonicate the lysate to ensure DNA fragments are less than 1 kb.",
+        "Centrifuge the lysate for 20 min at 10,000 g.",
+        "Incubate 0.5 ml cell-free extracts with 0.1 ml Ni-NTA-Agarose beads overnight at 4 \u00b0C.",
+        "Transfer the beads to a 2 ml tube and wash three times with 1.5 ml lysis buffer.",
+        "Wash the beads three times with 1.5 ml of lysis buffer containing 20 mM imidazole.",
+        "Wash the beads twice with 1.5 ml TE (10 mM Tris-HCl, pH 8.0, 1 mM EDTA).",
+        "Transfer the beads to a 1.5 ml microcentrifuge tube with TE and pellet.",
+        "Add SDS-PAGE sample buffer (2x, 0.1 ml) to the bead pellet.",
+        "Reverse cross-links by boiling for 20 min.",
+        "Analyze samples by Western blotting using antibodies specific for DNA repair proteins Rad4 and Rad23.",
+        "Strip the PVDF membrane and reprobe with V5 antibody.",
+        "Use Snf6-V5His6 and/or LacZ-V5His6 as loading controls.",
+        "Incubate Human IgG-Agarose beads (0.1 ml) with 0.5 ml cell-free extracts overnight at 4\u00b0C.",
+        "Transfer the beads to a 2 ml tube and wash three times with 1.5 ml lysis buffer.",
+        "Wash the beads twice with 1.5 ml of TE (10 mM Tris-HCl, pH 8.0, 1 mM EDTA).",
+        "Resuspend 0.01 ml washed Ni-NTA-Agarose beads in 0.2 ml 1X DNase I buffer.",
+        "Treat the resuspended beads with 5 units of DNase I for 3 hours at 37\u00b0C.",
+        "Wash the treated beads twice with 1.5 ml of TE (10 mM Tris-HCl, pH 8.0, 1 mM EDTA).",
+        "Incubate cell-free extracts (0.5 ml, approximately 20 mg/ml protein) with 0.1 ml Ni-NTA-Agarose beads overnight at 4 \u00b0C in the presence of ethidium bromide (from 0.05 to 0.5 mg/ml).",
+        "Wash Ni-NTA-agarose beads gently three times with buffer containing 25 mM HEPES-KOH, pH 7.5, 50 mM or 200 mM KCl, and 10% glycerol."
+    ]
+}

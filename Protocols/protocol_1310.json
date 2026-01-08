@@ -1,0 +1,21 @@
+{
+    "id": 371,
+    "origin_website": "Nature",
+    "title": "Procedure Development for Identification of Histamine from Chicken Meat",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Add ten grams of chicken meat sample dried powder to 150 mL methyl alcohol in a pyrex flask.",
+        "Place the flask containing the sample and methyl alcohol in an oven at 70\u00b0C for 7 minutes.",
+        "Remove the flask from the oven and place it on a hot plate magnetic stirrer.",
+        "Stir the mixture rapidly (1600 RPM) at 80\u00b0C for 8 minutes.",
+        "Filter the stirred sample using Whatman No.1 filter paper.",
+        "Spot 0.5 \u03bcl of the filter extract on a TLC plate along with standard histamine (0.5 \u03bcl).",
+        "Prepare a 2% ninhydrin solution in acetone.",
+        "Dry the TLC plate in air.",
+        "Spray the dried TLC plate with ninhydrin.",
+        "Air dry the TLC plate sprayed with ninhydrin.",
+        "Visualize the TLC plate using Spectroline (UV long wave) and photograph it."
+    ]
+}

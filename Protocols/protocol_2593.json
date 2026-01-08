@@ -1,0 +1,23 @@
+{
+    "id": 625,
+    "origin_website": "Nature",
+    "title": "MMRA  MicroRNA Master Regulator Analysis",
+    "subjectAreas": [
+        "Biotechnology",
+        "Genetics",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Perform differential microRNA expression analysis using the ks.boot function from the R package \u2018Matching\u2019.",
+        "Estimate the false discovery rate by reshuffling samples 1000 times and computing the mean value of differentially expressed microRNAs.",
+        "Compare the number of differentially expressed microRNAs in the pipeline with those identified during permutation-based FDR estimation.",
+        "Perform network analysis using the ARACNe information-theoretic algorithm.",
+        "Download and include ARACNe software in the pipeline for inferring transcriptional interactions.",
+        "Set up an expression matrix X by row-wise combining the entire mRNA expression TCGA dataset with the expression values of a single microRNA under analysis.",
+        "Generate a linear expression matrix Y by applying the operation Yij=2^Xij to the elements of matrix X.",
+        "Quantile normalize the dataset Y.",
+        "Apply log2 transformation to the normalized dataset Y.",
+        "Filter out genes with a standard deviation lower than 1.2 from the transformed dataset.",
+        "Run ARACNe imposing the microRNA as the only hub of the network to identify interactions between the microRNA and mRNAs."
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 891,
+    "origin_website": "Nature",
+    "title": "FACS-GAL isolation of &#x3B2;-galactosidase expressing cells from mid gestation mouse embryos",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Dissect out mouse embryos in DMEM + 25 mM HEPES.",
+        "Stage embryos by somite counting.",
+        "Incubate embryos in 0.3 mM chloroquine diluted in DMEM + 25 mM HEPES containing 5% FCS at 37\u00b0C, 5% CO2 for 30 minutes.",
+        "Rinse embryos three times in PBS.",
+        "Incubate embryos in 0.25% trypsin in PBS for approximately 30 minutes.",
+        "Dissociate embryos into a single cell suspension by trituration every 5-10 minutes using plastic pipettes.",
+        "Spin down the cell suspension at 300 x g for 3 minutes.",
+        "Resuspend cells in pre-warmed 50 \u03bcM CMDFG, 200 \u03bcM verapamil in 5% FCS/DMEM + 25 mM HEPES and incubate for 30 minutes at 37\u00b0C, 5% CO2.",
+        "Place cells on ice.",
+        "Dilute cells to approximately 1-3 million cells/mL with 5% FCS/DMEM + 25 mM HEPES.",
+        "Add 1 mM PETG to stop the reaction.",
+        "Add 1.5 \u03bcM propidium iodide to identify dead cells.",
+        "Flow sort as soon as possible using standard procedures.",
+        "Collect sorted cells immediately at 300 x g for 4 minutes after FACS.",
+        "Resuspend the collected cells in 800 \u03bcl Trizol (Gibco BRL).",
+        "Add 250 \u03bcg/ml glycogen (Roche) or 50 \u03bcg/mL Glycoblue (Ambion) as an RNA co-precipitant to improve yield.",
+        "Homogenize the cells by passing them twice through a 25-gauge needle.",
+        "Store homogenized cells at -80\u00b0C, or process immediately using standard techniques."
+    ]
+}

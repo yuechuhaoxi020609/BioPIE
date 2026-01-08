@@ -1,0 +1,39 @@
+{
+    "id": 1328,
+    "origin_website": "Nature",
+    "title": "<p>A movement monitoring system for assessing restricted rodents' movements during social interaction tests</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Arrange the 6 piezo-electric disks to fit into the shape of the Plexiglas plate.",
+        "Solder the outer rings of the piezo-electric disks to each other.",
+        "Cut copper foil strips and place them with the isolated part facing down to connect between the inner parts of the piezo-electric disks.",
+        "Solder all edges of the copper foil strips to the inner part of the piezo-electric disks.",
+        "Solder two more wires to one of the piezo-electric disks aimed to be closer to the 90 degrees' corner.",
+        "Position the soldered piezo-electric array in between the laminating films.",
+        "Laminate the piezo-electric array by blowing hot air (~100-150\u2103) using a hot air gun.",
+        "Cut the laminated film around the piezo-electric array in a triangulated shape.",
+        "Tape the edges of the assembled array to the edges of the Plexiglas plate using packaging tape.",
+        "Leave the hole in the plate uncovered.",
+        "Insert the main leading wire into the pipette tube.",
+        "Expose the leading ends of the wires using a wire striper.",
+        "Place shrink tubes on the wires.",
+        "Solder the leads on the back end of the pipette to the piezo-electric array leads.",
+        "Solder the leads on the other side to two pins of the USB female connector.",
+        "Cut a slit of about 2 mm wide and 5 mm height at the flat end of the pipette.",
+        "Insert the flat end of the pipette into the hole in the Plexiglas plate.",
+        "Tape the pipette to the Plexiglas plate to protect the wires.",
+        "Solder a two-lead wire to the corresponding pins on the USB male connector.",
+        "Connect the leads on the other side of the wire to the recording system.",
+        "Connect the movement monitoring device to one of the analog inputs of Intan RHD data acquisition board.",
+        "Start recordings with the data acquisition system.",
+        "Trigger the camera after starting the data acquisition system recordings.",
+        "Record timestamps of each frame acquired from the camera (TTL pulses).",
+        "Record piezo-electric signals during recording.",
+        "Use an Intan RHD data acquisition board for recordings at a sampling rate of 20 kHz.",
+        "Extract recorded data using codes supplied by Intan Technologies.",
+        "Analyze extracted signals using custom-made MATLAB codes written in versions 2017a-2020a."
+    ]
+}

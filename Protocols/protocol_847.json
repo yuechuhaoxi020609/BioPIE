@@ -1,0 +1,38 @@
+{
+    "id": 11169,
+    "origin_website": "Jove",
+    "title": "Nanotopology of Cell Adhesion upon Variable-Angle Total Internal Reflection Fluorescence Microscopy (VA-TIRFM)",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Seed individual cells, e.g., U373-MG or U-251-MG glioblastoma cells at a density of 100 cells/mm\u00b2 on a glass slide.",
+        "Grow cells for 48-72 hours in culture medium (e.g., RPMI 1640 supplemented with 10% fetal calf serum and antibiotics) using an incubator at 37 \u00b0C and 5% CO\u2082.",
+        "Incubate cells with a membrane marker, e.g., 6-dodecanoyl-2-dimethylaminonaphthalene (Laurdan), for 60 minutes at a concentration of 8 \u03bcM in culture medium.",
+        "Wash the cells with culture medium or phosphate-buffered saline (PBS) prior to fluorescence microscopy.",
+        "Incubate cells with a cytoplasm marker, e.g., calcein acetoxymethyl ester, for 40 minutes at a concentration of 5 \u03bcM in culture medium.",
+        "Wash the cells with culture medium or PBS prior to fluorescence microscopy.",
+        "Incubate cells with a membrane-associated photosensitizer, e.g., protoporphyrin IX induced by 4 hours incubation with its precursor 5-aminolevulinic acid (ALA; 1 mM).",
+        "Wash the cells with culture medium or PBS prior to fluorescence microscopy.",
+        "Use an upright microscope, e.g., Zeiss Axioplan.",
+        "Replace the condenser with an illumination device as described in a reference.",
+        "Optically couple a hemispherical or hemicylindrical glass prism to the object slide.",
+        "Use a parallel collimated laser beam which after imaging by the glass prism and further optical components results in a parallel beam on the surface of the sample (telecentric pupil ray).",
+        "Ensure that the electrical field vector is polarized perpendicular to the plane of incidence.",
+        "Calibrate the angular position of the adjustable mirror using the critical angle \u0398c=61.3\u00b0 for a glass-water transition as a fixed value.",
+        "Set the parameters of the camera, including temperature, gain, recording time and shift speed.",
+        "Localize the object slide in the microscope.",
+        "Use immersion oil to assure optical contact of the sample with the glass prism.",
+        "Record fluorescence images of identical samples upon variation of the angle of illumination (\u0398\u2265\u0398c with \u0398c corresponding to 64.5\u00b0 for a cell-glass interface).",
+        "Use an appropriate long pass or band pass filter for fluorescence detection.",
+        "Read images recorded at various angles \u0398 into the evaluation program.",
+        "Input camera settings and excitation wavelength into the evaluation program.",
+        "Calculate penetration depth d(\u0398) automatically using the provided parameters.",
+        "Calculate transmission factor T(\u0398) automatically using the provided parameters.",
+        "Select images for evaluating cell-substrate distances \u0394 according to Equation 5 or Equation 4.",
+        "Exclude images with inhomogeneous illumination, such as those revealing stripes.",
+        "Calculate images of cell-substrate topology and select an appropriate color code for display.",
+        "Display profiles of individual pixels during evaluation as indicators of fit quality.",
+        "Store the evaluation protocol."
+    ]
+}

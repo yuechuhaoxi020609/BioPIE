@@ -1,0 +1,36 @@
+{
+    "id": 1083,
+    "origin_website": "Nature",
+    "title": "Staining the endoplasmic reticulum in combination with antibody staining.",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Seed PNT2 cells on sterile coverslips for 24-48 hours.",
+        "Fix cells in 4% paraformaldehyde in PBS pH 7.4 for 10 minutes at room temperature.",
+        "Wash cells three times with PBS for five minutes each at room temperature.",
+        "Incubate samples with 0.5% w/v saponin in PBS for 15-25 minutes at room temperature.",
+        "Wash cells three times with PBS for five minutes each at room temperature.",
+        "Incubate cells with 1% BSA, in PBST for 30 min at room temperature to block non-specific binding of the antibodies.",
+        "Prepare primary antibody rabbit anti-Cytochrome-C in 1% BSA in PBST at a concentration of 1 \u03bcg/ml.",
+        "Incubate cells in the diluted primary antibody for one hour at room temperature or overnight at 4\u00b0C.",
+        "Remove primary antibody.",
+        "Wash cells three times in PBS for five minutes each.",
+        "Prepare secondary antibody at a concentration of 1/1000 dilution in 1% BSA in PBST.",
+        "Incubate cells with the secondary antibody for one hour at room temperature in the dark.",
+        "Aspirate the secondary antibody.",
+        "Wash cells three times with PBS for five minutes each.",
+        "Prepare 10 mM stock solutions of ReZolve-ER by dissolving powder in DMSO as instructed on the vial.",
+        "Dilute the stock solution in PBS to a final concentration of 20 \u03bcM (1/500 dilution).",
+        "Incubate cells with staining solution for 30 min at room temperature, in the dark.",
+        "Remove coverslips from the staining solution and mount in aqueous mounting media.",
+        "Adhere coverslips to the slide using quick-dry nail polish.",
+        "Image samples by confocal microscopy for best results.",
+        "Use a UV, 385 nm or 400 nm light source for excitation of ReZolve-ER.",
+        "Detect ReZolve-ER with a detector compatible with FITC or tuneable detector set to a detection range of 525 nm - 600 nm.",
+        "Set imaging parameters appropriate for the selected secondary antibody, such as using a 647 nm excitation and a far-red fluorophore-compatible detector.",
+        "Perform sequential imaging to avoid signal bleed through."
+    ]
+}

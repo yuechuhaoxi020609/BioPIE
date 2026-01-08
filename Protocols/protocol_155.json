@@ -1,0 +1,41 @@
+{
+    "id": 1155,
+    "origin_website": "Nature",
+    "title": "<p>A step-by-step protocol for performing LIVE-PAINT super-resolution imaging of proteins in live cells using reversible peptide-protein interactions</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Prepare a stock of synthetic complete media with 6.7 g/L yeast nitrogen base and amino acids, plus 10 g/L raffinose and the desired concentration of galactose.",
+        "Pipette 600 \u03bcL of synthetic complete media into a culture tube.",
+        "Pick one yeast colony from an agar plate into the media.",
+        "Mix to evenly distribute the cells in the media.",
+        "Prepare a second aliquot of 400 \u03bcL synthetic complete media in a culture tube.",
+        "Add 100 \u03bcL of cells from the first suspension to the fresh 400 \u03bcL aliquot, making a 1:5 dilution.",
+        "Grow the cultures overnight at 30\u00b0C in a shaking incubator.",
+        "Use a TIRF microscope equipped with a 488 nm laser and fitted with a \u2018perfect focus\u2019 system.",
+        "Rotate the mirrors in the beamline path to align the laser parallel to the optical axis.",
+        "Mount a 1.49 NA TIRF objective on an inverted Nikon TI2 microscope.",
+        "Use an appropriate camera to collect fluorescence output from the microscope.",
+        "Clean 22 x 22 mm glass coverslips with thickness no. 1 using a 20 minute exposure in a Zepto plasma laboratory unit.",
+        "Secure frame-seal slide chambers to a cleaned coverslip by removing one plastic side and attaching it gently to make a secure seal.",
+        "Prepare the slide surface for yeast cell attachment by coating it with approximately 100 \u03bcL of 2 mg/mL concanavalin A dissolved in PBS pH 7.4.",
+        "Leave the concanavalin A on the slide surface for 30 seconds, then pipette off excess liquid, tilting the slide to ensure all liquid is removed.",
+        "Pipette 150 \u03bcL of yeast overnight culture grown to mid-log phase (OD 0.1-0.5) onto the slide.",
+        "Leave the yeast culture on the slide for approximately 5 minutes.",
+        "Pipette off the culture media, removing cells which are not bound to the slide.",
+        "Wash the surface three times by pipetting 150 \u03bcL of synthetic complete media onto the slide, pipetting up and down a few times, and then discarding the media.",
+        "Add 150 \u03bcL fresh synthetic complete media to the slide before imaging.",
+        "Mount the slide containing yeast cells on the microscope by placing the slide on top of a drop of immersion oil on the objective.",
+        "Set the desired exposure time and laser power for the experiments.",
+        "Bring the sample into focus and then adjust the laser angle to achieve TIRF.",
+        "Image the cells in TIRF for the desired amount of time.",
+        "Ensure individual blinking events can be seen during imaging.",
+        "Vary the TIRF angle, increase laser power, or allow fluorescent proteins to photobleach if single blinking events are not visible.",
+        "Save output as a tiff stack.",
+        "Load a tiff stack into Fiji for image analysis.",
+        "Use Peak Fit function of the Fiji GDSC SMLM plugin to analyze localization events.",
+        "Set typical parameters including signal strength threshold of 30, minimum photon threshold of 100, and precision threshold of 20 nm."
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 1385,
+    "origin_website": "Nature",
+    "title": "<p>Development of a Serial Dilution Technique for Obtaining Monoclonal Cell Populations</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Transfect cells using Lipofectamine 2000.",
+        "Observe Green Fluorescent Protein (GFP) expression approximately 48 to 72 hours post-transfection.",
+        "Monitor cell proliferation and clone formation under a stereomicroscope.",
+        "Wait for single cells in each well to proliferate into a clone of approximately 40 cells over 10-12 days.",
+        "Seed 3.5-4\u00d710^6 cells per well in a 6-well culture plate containing DMEM devoid of any antibiotics the day before transfection.",
+        "Supplement 250 \u03bcl Opti-MEM medium with 10 \u03bcl Lipofectamine in separate 1.5 ml microtubes and incubate for 20-25 minutes at room temperature.",
+        "Gently pipette and mix the vector and Lipofectamine, then transfer the mixture into plates.",
+        "Replace the Opti-MEM medium with complete growth medium (DMEM, 10% FBS, 1% penicillin/streptomycin) 4-6 hours following transfection.",
+        "Trypsinize the cells and transfer them to a sterile 15ml falcon.",
+        "Pellet the cells via centrifugation at 1500 rpm for 5 minutes.",
+        "Resuspend the cells in a 1 ml complete growth media.",
+        "Analyze cellular viability using the Trypan blue method.",
+        "Count viable cells via Neobar chamber.",
+        "Isolate and resuspend 10^6 cells in 1 ml growth medium.",
+        "Transfer 100 \u03bcl of cell suspension to a new flask containing 900 \u03bcl medium to dilute by a ratio of 1:10, resulting in a suspension of 10^5 cells per ml.",
+        "Continue transferring 100 \u03bcl from each subsequent dilution to fresh flasks with 900 \u03bcl medium until reaching a population of 10^3 cells per flask.",
+        "Transfer 100 \u03bcl of the previous step\u2019s result to 96-well plates.",
+        "Incubate the cells at 37\u00b0C for 6-7 days without any disturbance.",
+        "Passage cells into 48-well plates once desired cellular confluency is reached.",
+        "Continue passaging cells step-wise into 24, 12, and 6 well plates as the process progresses.",
+        "Extract DNA from each well.",
+        "Amplify extracted DNA by PCR.",
+        "Ligate PCR product into TOPO cloning vector to separate two alleles of every single cell.",
+        "Screen and analyze DNA fragments by sequencing."
+    ]
+}

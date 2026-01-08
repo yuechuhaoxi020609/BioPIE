@@ -1,0 +1,35 @@
+{
+    "id": 11147,
+    "origin_website": "Jove",
+    "title": "Quantitative FRET (F\u00f6rster Resonance Energy Transfer) Analysis for SENP1 Protease Kinetics Determination",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Amplify the open reading frames of the genes by PCR.",
+        "Clone the PCR products into PCRII-TOPO vector.",
+        "Confirm the products by sequencing.",
+        "Clone cDNA encoding CyPet-(pre-SUMO1)-YPet, CyPet-SUMO1, YPet and catalytic domains of SENP1 into pET28 (b) vector with an N-terminal hexahistidine tag.",
+        "Transform Escherichia coli cells of strain BL21 (DE3) with pET28 (b) vectors encoding the constructs.",
+        "Grow transformed bacteria in 2xYT medium for 3 hr at 37 \u00b0C shaking at 250 rpm to reach an optical density of 0.5 at 600 nm.",
+        "Add 100 \u03bcM IPTG to induce protein expression and shake for 16 hr at 25 \u00b0C at 200 rpm.",
+        "Harvest bacteria by centrifugation at 10,000 rpm at 4 \u00b0C for 5 min.",
+        "Resuspend the bacteria in a buffer of 20 mM Tris-HCl (pH 7.4), 50 mM NaCl, and 5 mM imidazole.",
+        "Sonicate cells for 10 min in 5-sec intervals at a power setting of 25 W using MiSonics 4,000 sonicator.",
+        "Collect the supernatant by centrifugation at 35,000 x g at 4 \u00b0C for 30 min.",
+        "Set up the column with 500 ml Ni-NTA beads for 1 L culture and transfer the supernatant into the column.",
+        "Wash the resin with buffer of 20 mM Tris-HCl (pH 7.4), 500 mM NaCl, and 10 mM imidazole twice.",
+        "Elute protein with buffer of 20 mM Tris-HCl (pH 7.4), 500 mM NaCl, and 500 mM imidazole.",
+        "Dialyze eluted protein into a buffer of 20 mM Tris-HCl (pH 7.4), 50 mM NaCl, and 1 mM dithiothreitol (DTT) at 4 \u00b0C overnight.",
+        "Determine the concentrations of purified proteins by Bradford assay.",
+        "Measure protein concentrations using SDS-PAGE gel electrophoresis followed by staining with Coomassie blue and imaging quantitative analysis.",
+        "Prepare CyPet-SUMO1 at concentrations of 50, 100, 200, 500, and 750 nM and 1 mM.",
+        "Measure emissions at 475 and 530 nm after excitation at 414 nm to determine \u03b1.",
+        "Prepare YPet at concentrations of 50, 100, 200, 500, 750, and 1,000 nM.",
+        "Measure emission at 530 nm when samples are excited by wavelengths of 414 and 475 nm to determine \u03b2.",
+        "Incubate CyPet-(pre-SUMO1)-YPet with the catalytic domain of SENP1 at 37\u00b0C in a buffer containing 20 mM Tris-HCl (pH 7.4), 50 mM NaCl, 0.1% (v/v) Tween-20, and 1 mM DTT to a total volume of 80 \u03bcl.",
+        "Transfer the reaction mixture into a 384-well plate.",
+        "Measure fluorescence emission at 475 nm after excitation at 414 nm using a fluorescence multiwell plate reader for 5 min with 15-sec intervals.",
+        "Measure fluorescence emission at 530 nm after excitation at 414 nm using the same setup as above."
+    ]
+}

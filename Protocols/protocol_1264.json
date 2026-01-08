@@ -1,0 +1,31 @@
+{
+    "id": 469,
+    "origin_website": "Nature",
+    "title": "Isolation of Treg cells and Treg cell suppression/death assay",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Harvest 5 spleens from 5 to 12 week old mice.",
+        "Mash the spleens and pass the cells through a nylon strainer in medium.",
+        "Wash the cells with PBS/BSA.",
+        "Osmotically lyse erythrocytes.",
+        "Incubate single cell suspensions with FITC-conjugated anti-CD4 and biotin-conjugated anti-CD25 for 30 minutes on ice.",
+        "Wash the cells in 40ml of PBS/BSA.",
+        "Resuspend the cells in 2ml of PBS/BSA.",
+        "Incubate resuspended cells with 120 \u03bcl of anti-FITC microbeads for 15 minutes in the refrigerator.",
+        "Purify CD4+ T cells by magnetic isolation using the Auto MACS sorter with POSSELD2 program.",
+        "Wash the purified CD4+ T cells with PBS/BSA.",
+        "Incubate the purified CD4+ T cell suspension with release reagent followed by depletion of cells bound to beads using DEPLETE program in the sorter.",
+        "Incubate 500 \u03bcl of purified CD4+ T cell suspension with 2.5 \u03bcl of \u03b1-biotin microbeads.",
+        "Separate the mixture using POSSELD2 on Auto MACS for isolation of CD4+CD25+ Tregs.",
+        "Culture CD4+CD25- responder T cells (Tresp) (3\u00d710^4) in U-bottom 96-well plates with Tcon (CD4+CD25-) (3\u00d710^4) or Treg (CD4+CD25+) in the presence of soluble 0.5-0.75 \u03bcg/ml \u03b1-CD3 and 2.5 - 4 \u03bcg/ml \u03b1-CD28 for 2-4 days.",
+        "Label Tresp cells with CFSE to distinguish them from Tcon or Treg cells in co-culture.",
+        "Use Treg or Tcon cells in the co-culture with responders directly (fresh) or after pre-activation with plate-bound \u03b1-CD3 (5 \u03bcg/ml) and recombinant IL-2 (100U/ml) for 2-3 days.",
+        "Measure proliferation of T cells by incorporation of 3H-thymidine for the last 6-16 h of culture or by CFSE dilution.",
+        "Measure death at 0 hr and after 1, 2, and 3 days.",
+        "Perform cell death analyses of CFSE+ responders based on forward scatter or Annexin V and propidium iodide staining."
+    ]
+}

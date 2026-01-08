@@ -1,0 +1,30 @@
+{
+    "id": 11133,
+    "origin_website": "Jove",
+    "title": "Anatomical Reconstructions of the Human Cardiac Venous System using Contrast-computed Tomography of Perfusion-fixed Specimens",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Obtain isolated human hearts fresh and subsequently perfusion fix them in 10% buffered formalin in their end-diastolic state.",
+        "Rinse the hearts to be scanned in water the day before scanning to remove the majority of the formalin.",
+        "Cannulate the coronary sinus (CS) vein within each heart with a venogram balloon catheter.",
+        "Inflate the balloon of this venogram catheter to anchor the catheter in the CS.",
+        "Place each heart within a sealable polymer container on top of a sponge designed so that the heart can sit in its anatomical position.",
+        "Position a given heart on the CT scanner bed as if a patient was lying supine and head first.",
+        "Connect the proximal end of the venogram catheter to an injector containing two injection syringes: one for contrast and one for saline.",
+        "Automatically inject 40 ml of contrast into the cardiac venous system at 5 ml/sec.",
+        "CT scan the heart 8 sec after initiating the contrast injection.",
+        "Set the CT scan to a resolution of 512 x 512 pixels with a slice thickness of 0.6 mm.",
+        "Automatically inject 40 ml of saline into the cardiac venous system at 5 ml/sec to flush out the contrast.",
+        "Export the CT dicom images onto an external hard drive.",
+        "Upload CT dicom images into Mimics Software.",
+        "Generate a mask for the CT images that only contains pixels with high Hounsfield units to highlight only the contrast present in the heart.",
+        "Remove contrast that has leaked into the chambers or diffused into the tissue so that the mask only contains the contrast within the major cardiac veins.",
+        "Manually fill in air pockets within a given vein frame by frame.",
+        "Generate a 3D object from the resultant mask.",
+        "Smooth and wrap this object to eliminate rough geometries.",
+        "Generate centerlines for each created 3D model.",
+        "Measure the arc length, branching angle, tortuousity (arc length/linear distance), and diameters for each major vessel in each heart using these centerlines."
+    ]
+}

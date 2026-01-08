@@ -1,0 +1,20 @@
+{
+    "id": 1411,
+    "origin_website": "Nature",
+    "title": "<p>Evaluation of Dimensional Accuracy of 3D printed mandibular model using two different Additive Manufacturing Techniques based on Cone Beam Computed Tomography scan data (A Diagnostic Accuracy Study)</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Physics"
+    ],
+    "protocol": [
+        "Recruit 7 mandibular models.",
+        "Apply radio opaque markers to the models.",
+        "Record predetermined 10 linear measurements.",
+        "Perform CBCT scanning of the model.",
+        "Convert DICOM files into STL format.",
+        "3D print using SLS printer.",
+        "3D print using FFF printer.",
+        "Record the same 10 linear measurements on the printed models.",
+        "Compare recorded values between 3D printed models and reference, as well as among each other."
+    ]
+}

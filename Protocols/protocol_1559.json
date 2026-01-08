@@ -1,0 +1,35 @@
+{
+    "id": 1220,
+    "origin_website": "Nature",
+    "title": "<p>A protocol to generate SPH-OminiCMV-Ents mESCs</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Seed mESCs on a 6-well plate using LIF-supplemented medium.",
+        "Co-transfect 1 \u03bcg of SPH, 1 \u03bcg of OminiCMV-mCherry, and 0.6 \u03bcg of PBase using Lipofectamine 3000.",
+        "Replace with 2 ml of LIF-supplemented medium 12 hours after transfection.",
+        "Digest mESCs with 0.05% trypsin for 4 minutes at 37 \u00b0C.",
+        "Inactivate trypsin and centrifuge the mixture at 1000 rpm for 3 min.",
+        "Seed mESCs to new 6-well plates and treat with puromycin (final concentration 1 \u03bcg/ml) for 4~5 days.",
+        "Digest mESCs with 0.05% trypsin for 4 minutes at 37 \u00b0C.",
+        "Inactivate trypsin and centrifuge the mixture at 1000 rpm for 3 min.",
+        "Seed mESCs to new 6-well plates.",
+        "Digest mESCs with 0.05% trypsin.",
+        "Prepare cells for FACS into 96-well plates.",
+        "Remove single colonies from 96-well plates and place them in 24-well plates.",
+        "Confirm SPH-OminiCMV positive colonies by transient transfection of sgRNAs and PCR analysis using specified primers.",
+        "Seed SPH-OminiCMV mESCs on 12-well plates using LIF-supplemented medium.",
+        "Co-transfect 0.5 \u03bcg SaKKHCas9-GFP-sgRNA and 1 \u03bcg SpCas9 sgRNA precursor using Lipofectamine 3000 (Life Technologies).",
+        "Replace with 1 ml LIF-supplemented medium 12 hours after transfection.",
+        "Digest mESCs with 0.05% trypsin and prepare for FACS, then sort positive cells.",
+        "Seed GFP-positive cells into 12-well plates.",
+        "Digest mESCs with 0.05% trypsin, then seed mESCs to new 12-well plates.",
+        "Sort single cells into 96-well plates by FACS.",
+        "Remove single colonies from 96-well plates to 24-well plates.",
+        "Measure the fluorescent intensity of SPH-OminiCMV-Ents colonies by FACS.",
+        "Take fluorescence images under a confocal microscope (Olympus FV3000)."
+    ]
+}

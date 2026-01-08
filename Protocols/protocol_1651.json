@@ -1,0 +1,23 @@
+{
+    "id": 348,
+    "origin_website": "Nature",
+    "title": "Detection of  L- and E-selectin ligand by ligand blotting using L- and E-selectin-IgM chimeric proteins",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Genetics",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Transfect COS-1 cells with pcDNA1-E/L-selectin-IgM.",
+        "Collect culture supernatant two to three days post-transfection.",
+        "Concentrate the medium using Centriprep YM-30 or YM-100 for 10 to 50 fold.",
+        "Perform SDS polyacrylamide gel electrophoresis of desired materials and transfer proteins onto Immobilon-P by standard procedure.",
+        "Block the blot with 10 mg/ml bovine serum albumin in washing buffer for 30 min.",
+        "Incubate the filter with concentrated culture supernatant containing E/L-selectin-IgM without dilution for 1 hr at 4\u00b0C.",
+        "Wash the blot three times with washing buffer, each wash lasting 20 min.",
+        "Incubate the blot with 10,000 x diluted HRP-anti-human IgM for 1 hr at 4\u00b0C.",
+        "Wash the blot as in blocking step (30 min with bovine serum albumin).",
+        "Detect with chemiluminescent HRP substrate."
+    ]
+}

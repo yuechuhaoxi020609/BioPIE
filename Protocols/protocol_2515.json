@@ -1,0 +1,25 @@
+{
+    "id": 262,
+    "origin_website": "Nature",
+    "title": "A simple, rapid and very efficient protocol for DNA isolation from mosquito species",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Wash preserved mosquitoes in sterile distilled water or PBS to remove excess alcohol.",
+        "Grind mosquitoes directly if fresh, using a micropipette tip in a 1.5 ml Eppendorf tube with 50-100 \u00b5l of 1X STE buffer and 100 mM sucrose.",
+        "Add 1X STE buffer to reach a total volume of 300-500 \u00b5l for single mosquitoes or 1 ml for mosquito pools.",
+        "Add 1% SDS, 1% Triton-X, 10 \u00b5l/ml Rnase A (20 mg/ml), and 20 \u00b5l/ml Proteinase K (20 mg/ml).",
+        "Incubate at 37\u00b0C for 1 hour and 30 minutes, gently mixing every 15 minutes.",
+        "Centrifuge at 12,000g for 10 minutes at 4\u00b0C.",
+        "Transfer the supernatant to a fresh tube.",
+        "Add equal volume of phenol:chloroform (1:1), shake well for 5 minutes, and centrifuge at 12,000g for 10 minutes at 4\u00b0C.",
+        "Repeat the previous step with chloroform:isoamyl alcohol (24:1) and centrifuge under the same conditions.",
+        "Transfer the clear supernatant to a fresh tube, add two-fold volume of cold isopropanol, and incubate at -20\u00b0C for 1 hour.",
+        "Centrifuge at 12,000g for 30 minutes at 4\u00b0C, then remove the supernatant.",
+        "Wash the pellet with 70% ethanol.",
+        "Incubate the dry pellet at 37\u00b0C for 10 minutes.",
+        "Dissolve the dry pellet in nuclease-free water or TE buffer (pH 8.0).",
+        "Store DNA at 4\u00b0C or -20\u00b0C."
+    ]
+}

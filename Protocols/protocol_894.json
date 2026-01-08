@@ -1,0 +1,42 @@
+{
+    "id": 181,
+    "origin_website": "Nature",
+    "title": "FACS of acutely isolated mouse microglia",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Perfuse mouse thoroughly transcardially with pH 7.4 0.1M PBS.",
+        "Remove heads with scissors.",
+        "Strip skulls of soft tissues.",
+        "Remove mandibles.",
+        "Remove all skull material rostral to maxillae.",
+        "With surgical scissors, remove tops of skulls, cutting clockwise, beginning and ending inferior to the right post-tympanic hook.",
+        "Scoop out brain, maintaining tissue integrity.",
+        "Place brains immediately in ice-cold FACS buffer \\(pH 7.4 0.1M PBS, 1mM EDTA, 1% BSA, 50U/ml DNAseI).",
+        "Carefully strip meninges (dura mater, arachnoid mater and pia mater) from the exterior surfaces of brains with Dumont #5 forceps.",
+        "Using a scalpel, separate brain into cerebrum and cerebellum/brainstem with a coronal cut.",
+        "Using forceps, separate cerebellum from brainstem; carefully peel out meningeal lining of the fourth ventricle.",
+        "Using a scalpel, bisect the cerebrum longitudinally and carefully peel out the choroid plexus and associated meningeal tissue.",
+        "Further dissect into desired brain areas for analysis (e.g., hippocampus, neocortex, etc.).",
+        "Transfer brain tissue to a 15mL Tenbroeck homogenizer containing 10 ml ice-cold FACS buffer.",
+        "Break up tissue with three gentle strokes.",
+        "Press crude homogenate through a 70 \u03bcm nylon mesh cell strainer with a plastic plunger, two times in serial.",
+        "Centrifuge cells at 1200 RPM at 4\u00b0C for 10 minutes with no brake.",
+        "Remove supernatant and re-suspend cells in ice-cold FACS buffer.",
+        "Remove myelin using Miltenyi AutoMACS and myelin removal beads according to manufacturer\u2019s instructions.",
+        "Wash cells once with FACS buffer, centrifuge cells at 1100 RPM at 4\u00b0C for 10 minutes with no brake.",
+        "Remove supernatant and re-suspend cells in 100 \u03bcl ice-cold FACS buffer.",
+        "Transfer cells to FACS tubes.",
+        "Label cells for extracellular microglial markers with antibodies each to CD11b, CD45, fixable live/dead dye, and any other desired markers for 30 minutes at 4\u00b0C; keep protected from light.",
+        "Wash cells two times as in the previous washing step.",
+        "Resuspend cells in 100-400 \u03bcl 1% PFA in 0.1M pH 7.4 PBS.",
+        "Vortex and store at 4\u00b0C protected from light.",
+        "Read cells on a multicolor flow cytometer.",
+        "Gate first using LIVE/DEAD, selecting live cells.",
+        "Select singlet cells by pulse width vs. area.",
+        "Eliminate debris by forward scatter vs. side scatter.",
+        "Identify cell type by appropriate markers for cell type (e.g., CD45 Low CD11b High for microglia; high levels of CD45 for peripheral leukocytes)."
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 142,
+    "origin_website": "Nature",
+    "title": "Ovariectomy \\(Oophorectomy)",
+    "subjectAreas": [
+        "Chemical Biology",
+        "Drug Discovery",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Fast the rat for 16 hours.",
+        "Take out sterilized surgical instruments from the autoclave and set up the surgery table.",
+        "Turn on the surgical lights.",
+        "Turn on the hood.",
+        "Pour halothane into the vaporizer and glass desiccator.",
+        "Switch on the pressure regulator on the oxygen tank.",
+        "Set halothane vaporizer to 2% halothane in 2.0 L oxygen/min at 1 ATM, 760 mmHg.",
+        "Use thick gloves to take the rat out of its cage and put it into a container with a lid.",
+        "Put the rat into a glass desiccator with vaporized halothane inside under the hood.",
+        "Watch carefully not to over-anesthetize the rat.",
+        "After the breathing rate of the rat slows down, take out the rat from the desiccator.",
+        "Lay the rat on its ventral surface with its tail towards the investigator on the operating board.",
+        "Insert the mouth and nose of the rat into a syringe tube attached to the halothane vaporizer.",
+        "Dip a folded gauze sponge in D.I. water and place it on the mouth of the rat.",
+        "Shave both sides of flanks near the hump of the rat.",
+        "Wrap the hair with a paper towel and discard it.",
+        "Clean the abdomen and flank with two wet Kimwipers followed by one dry Kimwipe.",
+        "Sterilize both sides of the flanks with Betadine-dipped gauze sponge.",
+        "Wash away the Betadine with D.I. water-dipped and dry Kimwipers.",
+        "Prepare a pair of sterile surgical gloves for the surgeon.",
+        "Cut the left flank skin layer along the abdominal line using Adson forceps in the surgeon\u2019s left hand and 12 cm straight blunt scissors in the right hand.",
+        "Nick cut the muscle layer with 12 cm straight sharp scissors to form a small hole.",
+        "Use Graefe forceps to locate the ovaries surrounded by fat.",
+        "Pull out the ovary through the muscle incision by grasping the periovarian fat, ensuring not to touch the ovary itself.",
+        "Cut the junction between the Fallopian tube and the uterine horn using 12 cm blunt scissors along with accompanying blood vessels and fat.",
+        "Return the uterine horn into the abdominal cavity.",
+        "Close the incision using an Autoclip wound closing system.",
+        "Repeat steps from cutting the left flank to closing the incision on the right side.",
+        "Place the rat back into the cage.",
+        "Check the health status of the rat several hours later.",
+        "Monitor the health status of the rat for the following several days."
+    ]
+}

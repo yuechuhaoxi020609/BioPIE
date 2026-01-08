@@ -1,0 +1,30 @@
+{
+    "id": 714,
+    "origin_website": "Nature",
+    "title": "Improved exosome isolation by sucrose gradient fractionation of ultracentrifuged crude exosome pellets",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Collect ~200 ml of culture medium into 50-ml conical tubes and centrifuge at 4\u00b0C (1,000 g for 10 min) to remove intact cells.",
+        "Pipette off the supernatant, transfer it to fresh 50-ml conical tubes, and centrifuge at 4\u00b0C (2,000 g for 20 min) to remove cell debris.",
+        "Pipette off the supernatant, transfer it to fresh 0.5 ml Eppendorf tubes, and centrifuge at 4\u00b0C (10,000 g for 30 min) to remove microvesicles.",
+        "Pipette off the supernatant, transfer it to Beckman tubes (38.5-ml ultra-clear tubes), and ultracentrifuge at 4\u00b0C (100,000 g for 2 hours) using a SW32 Ti or equivalent rotor to remove crude exosomes.",
+        "Pour out the supernatant and resuspend the crude exosome pellet (100,000 g pellet) with 100 \u03bcl PBS.",
+        "Make 10-90% sucrose stocks using PBS.",
+        "Resuspend the crude exosome preparations (in 100 \u03bcl PBS) with 1 ml 90% sucrose stock solution (final sucrose concentration = 82%) and transfer into 13.2-ml ultra-clear Beckman ultracentrifuge tubes.",
+        "Overlay the gradient on top of the crude exosome preparation starting with 1 ml 70% sucrose solution.",
+        "Place a 200 \u03bcl pipet tip on the end of a 1000 \u03bcl pipet tip containing 1 ml sucrose solution.",
+        "Hold both tips steady using gloved fingers.",
+        "Place the 200 \u03bcl tip in contact with the inside wall of the ultracentrifuge tube and allow gravity to feed the solutions into the tube slowly.",
+        "Repeat step with remaining sucrose stock solutions from highest to lowest concentration.",
+        "Ultracentrifuge at 4\u00b0C (100,000g for 16 hours) in a SW41 Ti rotor or equivalent.",
+        "Collect 2 ml fractions starting from the top of the gradient.",
+        "Touch the side of the tube with the end of a 1000 \u03bcl pipet tip to collect each fraction carefully.",
+        "Transfer collected fraction into a Beckman tube (13.2-ml ultra-clear tube).",
+        "Repeat collection step until six fractions of 2 ml each have been collected.",
+        "Add 9 mL PBS to each of the 2 ml fractions.",
+        "Centrifuge at 4\u00b0C (100,000g for 1 hour) in a SW41 Ti rotor or equivalent.",
+        "Pour out the supernatant and resuspend the pellet in 50 \u03bcl PBS."
+    ]
+}

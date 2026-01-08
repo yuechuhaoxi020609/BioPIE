@@ -1,0 +1,29 @@
+{
+    "id": 10076,
+    "origin_website": "Jove",
+    "title": "Aptamer-Based Target Detection Facilitated by a 3-Stage G-Quadruplex Isothermal Exponential Amplification Reaction",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Collect 5 U of T4 polynucleotide kinase in a PCR tube.",
+        "Add 1 \u00b5L of preprepared 5x ribozyme buffer to each sample tube.",
+        "For specificity testing, add 1.5 \u00b5L of 2 mM theophylline or 2 mM caffeine to each sample tube as test samples.",
+        "Mix each sample tube thoroughly by pipetting 5-10 times.",
+        "Add 2 \u03bcL of 600 nM RNA containing an aptameric domain specific to the target to each sample tube.",
+        "Mix quickly by pipetting to make a final concentration of 240 nM in 5 \u03bcL of test solution.",
+        "Place the samples on a cold block to minimize background signal.",
+        "Incubate each sample (5 \u00b5L) at room temperature (23 \u00b0C) for exactly 3 min using a timer.",
+        "Return the sample tubes to ice (4 \u00b0C) immediately after incubation.",
+        "Add 3.5 \u03bcL of nickase-polymerase enzyme mixture to each sample tube and mix well.",
+        "Add 31.5 \u00b5L of EXPAR reaction mixture containing template, nucleotides, and reaction buffer to each sample tube.",
+        "Pipette to mix thoroughly.",
+        "Incubate each prepared sample (40 \u00b5L) at 55 \u00b0C for exactly 5 min using a timer.",
+        "Return the sample tubes to ice (4 \u00b0C) immediately after the incubation step.",
+        "Add 2 \u00b5L of Hemin solution to each sample tube and mix well.",
+        "Add 58 \u00b5L of TMB solution to each sample tube and mix well.",
+        "Incubate the color development reaction at room temperature for at least 3 min and up to 30 min.",
+        "(Optional) Add 20 \u00b5L of 2 M sulfuric acid to stop the color development.",
+        "Read the samples qualitatively by eye or quantify the results using an absorbance plate reader at 450 nm if sulfuric acid is used."
+    ]
+}

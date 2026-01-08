@@ -1,0 +1,34 @@
+{
+    "id": 605,
+    "origin_website": "Nature",
+    "title": "Enrichment of extracellular vesicles using Millipore membrane filters",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Transfer supernatant media from cell culture flask to a 50 mL conical tube.",
+        "Screw the Steriflip unit onto the top, open end of the sample tube and secure tightly.",
+        "Invert the assembly and secure it in a tube base or rack.",
+        "Attach a regulated vacuum source to the vacuum port on the side of the Steriflip unit. Turn on the vacuum to draw solution through the membrane and into the empty tube.",
+        "Detach the Steriflip device and cap the sample. Store filtered sample at 4\u00b0C or proceed with microvesicles enrichment.",
+        "Add 2 mL PBS to the AU-15 filter, cap it, and centrifuge for 10 minutes at 4000 xg in a swinging bucket rotor.",
+        "Remove unfiltered PBS from the bottom of the filter device. Aspirate filtrate from the collection tube.",
+        "Add 15 mL sample to the AU-15 filter and cap the device.",
+        "Centrifuge for 30 minutes at 4000 xg. There should be ~500 \u03bcl sample remaining in the upper chamber.",
+        "Remove the device from the centrifuge and empty the collection tube.",
+        "Add 14 mL PBS to the filter device and gently pipette the sample multiple times to mix.",
+        "Centrifuge for 30 minutes at 4000 xg.",
+        "Recover concentrated sample from the upper chamber of the filter device.",
+        "Add 500 \u03bcl PBS to the AU-0.5 filter, cap it, and centrifuge for 10 minutes at 14,000 xg.",
+        "Reverse the device and centrifuge for 2 minutes at 1000 xg to remove the residual PBS.",
+        "Aspirate PBS from the collection tube.",
+        "Transfer 200 \u03bcl of sample and 300 \u03bcl of PBS to the AU-0.5 filter and cap the device.",
+        "Centrifuge for 30 minutes at 14,000 xg.",
+        "Remove device from the centrifuge and empty the collection tube.",
+        "Add 0.5 mL of PBS to the filter device and gently pipette sample multiple times to mix.",
+        "Centrifuge for 30 minutes at 14,000 xg.",
+        "Place filter upside down in a fresh microcentrifuge tube.",
+        "Centrifuge for 2 minutes at 2000 xg to transfer the sample to the tube."
+    ]
+}

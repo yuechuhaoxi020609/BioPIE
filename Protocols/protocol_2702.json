@@ -1,0 +1,33 @@
+{
+    "id": 637,
+    "origin_website": "Nature",
+    "title": "Quartz Crystal Micro-balance with Dissipation factor monitoring \\(QCM_D) for Cancer control Protocol",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Nanoscience And Technology"
+    ],
+    "protocol": [
+        "Wash crystal quartzes three times with ethanol.",
+        "Dry quartzes with Argon.",
+        "Incubate quartzes overnight at 4\u00b0C with 2 mM cysteamine.",
+        "Wash quartzes again three times with ethanol to remove unbound cysteamine.",
+        "Dry quartzes with Argon.",
+        "Transform plasmids DNA coding for GST tagged proteins into Escherichia coli.",
+        "Purify DNA using the NucleoPrepII anion exchange resin.",
+        "Prepare NAPPA printing mix with 1.4 \u03bcg/ul DNA, 3.75 \u03bcg/ul BSA, 5 mM BS3 and 66.5 \u03bcg polyclonal capture GST antibody.",
+        "Prepare negative controls by replacing DNA in the printing mix with water.",
+        "Incubate samples at room temperature for 1 hour with agitation.",
+        "Print samples on cysteamine-coated gold quartz using the Qarray II from Genetix.",
+        "Perform in vitro transcription and translation (IVTT) using HeLa lysate mix according to manufacturer\u2019s instructions.",
+        "Incubate the quartz, connected to the nanogravimeter inside the incubator, for 10 min at 30\u00b0C with 40 \u03bcl of HeLa lysate mix for proteins synthesis.",
+        "Acquire the conductance curve (IVTT addition curve) prior to protein expression.",
+        "Decrease temperature to 15\u00b0C for a period of 5-10 min to facilitate proteins binding on capture antibody.",
+        "Acquire the conductance curve (IVTT addition at 10 min) after protein expression.",
+        "Remove quartzes from the instrument.",
+        "Wash quartzes at room temperature in 500 mM NaCl PBS for three times.",
+        "Capture proteins on the quartzes.",
+        "Wash quartzes in PBS at increasing concentrations at 22\u00b0C.",
+        "Acquire the conductance curve \"Post-wash curve\" after the final washing process with PBS."
+    ]
+}

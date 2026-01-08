@@ -1,0 +1,39 @@
+{
+    "id": 218,
+    "origin_website": "Nature",
+    "title": "In vitro enzymatic activity assay for ENOLASE in mammalian cells in culture",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Grow mammalian cells under conventional conditions until around 90% confluence in 10-cm dishes.",
+        "Wash the cells once with PBS.",
+        "Add 0.5 mL of lysis buffer to the cells (RIPA or NP-40 buffer may be used).",
+        "Scrape the cells and transfer them into 1.5 mL Eppendorf tubes.",
+        "Break the cells by sonication.",
+        "Centrifuge the lysate at 20,000g for 30 minutes to clear it.",
+        "Determine protein concentration spectrophotometrically using the Bradford method (Biorad #500-0006).",
+        "Freeze samples at -80\u00b0C until further analysis.",
+        "Prepare two buffers: reaction buffer without 2PG and reaction buffer with 2X (4.5 mM) 2PG for assay procedure.",
+        "Equalize biological samples for protein concentration.",
+        "Pre-mix samples at dilutions from 1:500 to 1:10 with reaction buffer A.",
+        "Prepare a negative control set by adding 2 \u00b5M PhAH to samples.",
+        "Use mammalian blood diluted 1:1 with lysis buffer, sonicated, and centrifuged at 20,000g as a positive control.",
+        "Aliquot 100 \u03bcL of each sample into black-walled, clear-bottom 96 well plates.",
+        "Include wells without added biological specimen (100 \u03bcL buffer A alone) as negative controls.",
+        "Start the reaction by adding 100 \u03bcL of Buffer B to initiate the enolase substrate reaction.",
+        "Record fluorescence readings every 30 seconds (NADH excitation 360nm, emission 460nm).",
+        "Determine the slope of the time-dependent decrease in NADH fluorescence for each sample.",
+        "Subtract the slope of the negative control to account for background drift and non-Enolase mediated oxidation of NADH.",
+        "Express relative enolase activity as relative fluorescent units/mg protein or as a ratio of the average of all samples if protein loading was equalized.",
+        "Prepare fresh reaction buffer and aliquot 0.9 mL in a 1 mL cuvette.",
+        "Monitor the absorbance at 340 nm until reading is constant.",
+        "Add 0.1 mL of sample to the cuvette and mix thoroughly by pipetting up and down.",
+        "Use 0.1 mL of lysis buffer for the blank.",
+        "Record the reduction in absorbance for about 5 min.",
+        "Measure the slope of the linear curve (change in absorbance/min).",
+        "Calculate enzymatic activity using the equation provided."
+    ]
+}

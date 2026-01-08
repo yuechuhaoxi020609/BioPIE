@@ -1,0 +1,33 @@
+{
+    "id": 284,
+    "origin_website": "Nature",
+    "title": "Synthesis and Engineering of Functional Graphene Films for Matrix-Free LDI Mass Spectrometry Detection",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques",
+        "Nanoscience And Technology"
+    ],
+    "protocol": [
+        "Mix concentrated sulphuric acid and fuming nitric acid.",
+        "Cool the mixture in an ice-water bath.",
+        "Add graphite under stirring into the cooled acid mixture.",
+        "Slowly add KClO3 over more than 15 minutes while stirring carefully.",
+        "Pour the resulting mixture into water, filter it completely, and wash to obtain graphite oxides after stirring for 96 hours at room temperature.",
+        "Mix ethylene glycol, water, and PEG-2000.",
+        "Disperse graphite oxide in the mixed solution.",
+        "Sonicate the mixture for two hours to form a homogeneous graphene oxide suspension.",
+        "Transfer the whole suspension into a Teflon-lined stainless steel autoclave.",
+        "React the suspension at 180\u00b0C for 24 hours to perform solvent thermal reduction of graphene oxide to graphene sheets.",
+        "Filter 50 mL of reacted mixture using a commercial vacuum filtration device and dry it for 24 hours at room temperature to form the film product.",
+        "Carefully remove the as-made film from the filtration device to avoid potential damage.",
+        "Place the free-standing graphene film on a commercial MALDI plate from Bruker for laser engineering.",
+        "Use a pulsed nitrogen laser with wavelength of 337 nm and frequency of 200 Hz in the Bruker Autoflex III MS chamber.",
+        "Set up imaging mode, where spot-to-spot distance is set to be 30 \u00b5m and 500 shots were taken at each spot.",
+        "Set the laser intensity to be 50% (about 121.8 \u00b5J for 100%) for laser engineering.",
+        "Prepare diluted analyte solutions in a step-wise manner.",
+        "Stock the diluted analyte solutions at -20\u00b0C before use.",
+        "Deposit 0.4 \u03bcL of analytes on the engineered area for drying.",
+        "Obtain mass spectra via an accumulation of 500 laser shots under a laser intensity of 36% for data collection.",
+        "Use standard peptides, Angiotensin II (M.W. 1046.5) and ACTH-Clip (M.W. 2465.7), for molecular weight calibration."
+    ]
+}

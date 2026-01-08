@@ -1,0 +1,25 @@
+{
+    "id": 1022,
+    "origin_website": "Nature",
+    "title": "GPCR identification in parasitic worm genome assemblies",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Acquire all previously identified GPCR gene IDs from C. elegans, B. malayi, O. volvulus, S. mansoni, and S. mediterranea.",
+        "Use the WormBase ParaSite API to pull out orthologues in the database based on the acquired gene ID seeds.",
+        "Organize pulled orthologous gene IDs and their sequences into gene families.",
+        "Align the sequences of each family using MAFFT (--auto).",
+        "Trim remove columns containing ambiguous sites or poorly aligned characters using trimal (-automated1).",
+        "Create profile Hidden Markov Models (HMMs) for each trimmed alignment using HHsuite (hmmbuild).",
+        "Acquire curated HMM databases from UniProt, SCOPUS, Pfam, and the PDB.",
+        "Search each family HMM against the four acquired databases using HHsuite (hmmsearch).",
+        "Retain the best-hit for each search in each database.",
+        "Manually peruse the best-hits for each family.",
+        "Remove families containing less than 2 GPCR-like best-hits.",
+        "Use blastp to search against the NCBI non-redundant protein database with two or three representative sequences from each family.",
+        "Cross-reference the annotations of significant hits with GPCRdb to categorize the GPCR family.",
+        "Append manually identified GPCR families to the final list of putative GPCR families and their members."
+    ]
+}

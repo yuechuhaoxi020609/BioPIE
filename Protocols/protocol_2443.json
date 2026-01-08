@@ -1,0 +1,31 @@
+{
+    "id": 4093,
+    "origin_website": "Cell",
+    "title": "Protocol for cell preparation and gene delivery in HEK293T and C2C12 cells",
+    "subjectAreas": [
+        "Cell Culture",
+        "Cell Biology",
+        "Cell-Based Assays",
+        "Molecular Biology",
+        "Gene Expression"
+    ],
+    "protocol": [
+        "Seed 4.5 \u00d7 10^5 - 6.0 \u00d7 10^5 HEK293T cells per 3.5 cm dish in 2 mL of complete growth medium.",
+        "Incubate seeded cells overnight at 37\u00b0C in a 5% CO2 incubator.",
+        "Transfect cells with plasmids using Lipofectamine\u2122 3000 Reagent according to manufacturer\u2019s instructions.",
+        "For HEK293 cells, transfect cells with 1 \u03bcg Myc-MG53 plasmid using 2 \u03bcL P3000\u2122 Reagent and 3 \u03bcL Lipofectamine\u2122 3000 Reagent per 3.5 cm dish.",
+        "Incubate transfected cells for 6 h.",
+        "Switch to fresh culture medium after the incubation period.",
+        "Harvest cells 24\u201336 h after transfection.",
+        "Lysate cells in lysis buffer for further experimentation such as co-immunoprecipitation.",
+        "Perform Western blotting to determine the amount of target protein overexpressed.",
+        "Seed myoblasts in dishes to reach 70%\u201380% confluence.",
+        "Replace complete growth medium with differentiation medium (DMEM with 2% donor equine serum).",
+        "Add adenovirus into the medium and swirl briefly to distribute uniformly.",
+        "Determine M.O.I. of adenovirus empirically for each experiment based on biological effects.",
+        "Change medium (fresh differentiation medium) 24 hours after infection.",
+        "Culture myoblast cells in differentiation medium for at least 4 days to induce their differentiation into myotubes.",
+        "Change medium every 2 days during the differentiation process.",
+        "Harvest cells after differentiation for at least 4 days."
+    ]
+}

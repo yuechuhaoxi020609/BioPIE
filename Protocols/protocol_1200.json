@@ -1,0 +1,41 @@
+{
+    "id": 1451,
+    "origin_website": "Nature",
+    "title": "<p>Urothelial organoids originate from mouse cells display differentiation capacity</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Turn the mouse bladder inside-out to expose the urothelial surface.",
+        "Digest the urothelium with collagenase P in HBSS at 37 \u00baC for 20 minutes with gentle shaking.",
+        "Inactivate collagenase P using 2 mM EDTA and 50% FBS.",
+        "Collect the cell suspension and use a scrapper to extract remaining cells on the urothelium.",
+        "Filter the cell suspension through a 70 \u03bcm strainer and centrifuge at 1200 rpm for 5 minutes at 4 \u00baC.",
+        "Resuspend the pellet in washing medium and clean twice with Advanced DMEM F12 medium + HEPES + GlutaMAX.",
+        "Embed cells in growth factor-reduced, phenol red-free Matrigel.",
+        "Plate 20 \u03bcL drops of Matrigel-cell suspension onto 6-well plates and allow to settle at 37 \u00baC, 5% CO\u2082.",
+        "Overlay the Matrigel-cell suspensions with complete medium (Advanced DMEM/F12 + supplements).",
+        "Replace the medium every 2-3 days.",
+        "Expand cultures at a ratio of 1:4 to 1:6 every 7-10 days as needed for maintenance.",
+        "For organoid maintenance, aspirate the medium from wells and wash once with PBS.",
+        "Add Cell Recovery Solution to the wells and place plates on ice for 5 minutes.",
+        "Collect and transfer Matrigel and cells to a tube for 30 min on ice.",
+        "Wash the cell suspension with PBS, then with washing medium.",
+        "Centrifuge the suspension at 1200 rpm for 5 min at 4 \u00baC.",
+        "Digest organoids chemically with Dispase II solution at room temperature for 15-20 min in a rotating wheel.",
+        "Neutralize the reaction with 2 mM EDTA.",
+        "Disrupt organoids mechanically with a 21G needle syringe until no macroscopically floating organoids are observed.",
+        "Clean the pellet twice with washing medium.",
+        "Embed cells in fresh ice-cold 100% Matrigel and seed in 7 drops of 20 \u03bcL each per 6-well plate, then cover with 2 mL CM unless otherwise specified.",
+        "Culture NMU-o for the first 7 days in CM.",
+        "Reseed NMU-o (without disaggregation) in fresh Matrigel after the initial culture period.",
+        "Cultivate NMU-o with either CM or differentiation medium (DM) lacking WNT3A, RSPO-1 conditioned medium, EGF, LY-2157299, and Noggin for the following 7 days.",
+        "Remove Matrigel from 7-day cultures using Cell Recovery Solution.",
+        "Resuspend organoids in freezing medium (10% DMSO in Advanced DMEM/F12 supplemented with Y-27632).",
+        "Store cryovials containing resuspended organoids at -80\u00b0C.",
+        "Place cryovials in a 37\u00b0C water bath to thaw.",
+        "Wash contents of the vials twice with Advanced DMEM/F12.",
+        "Reseed washed organoids in Matrigel at the required density."
+    ]
+}

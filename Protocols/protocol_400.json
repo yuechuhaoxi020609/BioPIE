@@ -1,0 +1,26 @@
+{
+    "id": 125,
+    "origin_website": "Nature",
+    "title": "Voluntary oral administration of drugs in mice",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Make the vehicle jelly.",
+        "Fast singly housed mice overnight.",
+        "Remove food from mouse cages at 5 pm.",
+        "Next morning between 8:30 to 9:00 am, scoop out vehicle jelly and cut into equal 8 pieces.",
+        "Place one piece of jelly on the cage floor and put lid back on.",
+        "Wait until mouse finishes the jelly then re-feed the mouse.",
+        "Give one piece of vehicle jelly to each mouse in the morning for the following three days without fasting them overnight.",
+        "If drug treatment will be given at a particular time, place the jelly on the cage floor at that time instead of the morning.",
+        "If drug treatment will be given multiple times per day, give the piece of vehicle jelly at those times.",
+        "Make fresh vehicle and drug jellies every 2-3 days.",
+        "Give about 1/8th of vehicle jelly to mice in the control group.",
+        "Give about 1/8th of treatment jelly to mice in the treatment group.",
+        "Calculate the amount of glucose jelly each mouse needs based on its body weight.",
+        "Prepare the glucose jelly the day before the test day for oral glucose tolerance test.",
+        "Give the calculated amount of glucose jelly to each corresponding mouse.",
+        "Record the 0 time point when the mouse finishes the entire piece of glucose jelly."
+    ]
+}

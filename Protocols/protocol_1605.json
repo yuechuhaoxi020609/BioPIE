@@ -1,0 +1,37 @@
+{
+    "id": 58,
+    "origin_website": "Nature",
+    "title": "EphB2-Fc precipitates from rat hippocampal neurons in culture and from brain lysates",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Homogenize a murine brain in 2 ml LBA lysis buffer.",
+        "Spin down at 16,000 g for 10 minutes at 4\u00b0C.",
+        "Take the supernatant and measure protein concentration.",
+        "Incubate 1.5 mg of protein with protein-G sepharose beads for 30 minutes at 4\u00b0C.",
+        "Spin samples down at 6,000 g for 5 minutes at 4\u00b0C.",
+        "Incubate pre-cleared supernatants overnight at 4\u00b0C with protein-G Sepharose beads and 5 \u03bcg EphB2-Fc or Fc to precipitate unspecific proteins.",
+        "Spin them down at 6,000 g for 5 minutes at 4\u00b0C.",
+        "Wash beads three times with HNTG buffer.",
+        "Add 20 \u03bcl loading buffer.",
+        "Boil samples for 5 minutes and load in a 9% SDS-PAGE gel.",
+        "Develop the gel by Western blot using the desired antibodies.",
+        "Cluster EphB2-Fc or Fc one hour prior to stimulation at room temperature: Mix EphB2-Fc/Fc at 1 \u03bcg/ml with anti-hFc at 0.1 \u03bcg/ml.",
+        "Wash neurons twice with HBSS.",
+        "Add pre-warmed EphB2-Fc/Fc clusters in NB medium to the neurons and incubate at 37\u00b0C for 1 hour.",
+        "Place plates on ice and wash cells twice with cold PBS.",
+        "Lyse cells in PLC buffer, incubate at 4\u00b0C for 10 minutes, then spin down samples at 16,000 g for 10 minutes at 4\u00b0C.",
+        "Take the supernatant and measure protein concentration.",
+        "Incubate 3 mg total protein from neuron lysates with protein-G Sepharose beads for 1 hour at 4\u00b0C.",
+        "Add 10 \u03bcg of EphB2-Fc or Fc to the appropriate sample.",
+        "Incubate overnight at 4\u00b0C.",
+        "Spin samples down at 6,000 g for 5 minutes at 4\u00b0C.",
+        "Wash beads three times with HNTG buffer.",
+        "Add 20 \u03bcl loading buffer.",
+        "Boil samples for 5 minutes.",
+        "Resolve samples in a 7.5% SDS-PAGE gel.",
+        "Develop the Western blot using the desired antibodies."
+    ]
+}

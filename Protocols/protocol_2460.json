@@ -1,0 +1,24 @@
+{
+    "id": 239,
+    "origin_website": "Nature",
+    "title": "Procedure for reductive methylation of protein to improve crystallizability",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Structural Biology",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Pipette out 1ml of 10mg/ml protein sample in two 1.5ml eppendorf tubes.",
+        "Cover the tubes with aluminum foil.",
+        "Label one tube as \"control\".",
+        "Add 20 \u03bcl of 1M DMAB solution followed by 40 \u03bcL of 1M formaldehyde solution to the \"methylated\" tube.",
+        "Shake both the tubes at 4 \u00b0C in dark on a gel shaker maintained at 100 rpm for 2 h.",
+        "Add 20 \u03bcl of 1M DMAB solution followed by 40 \u03bcL of 1M formaldehyde solution to the \"methylated\" tube again.",
+        "Shake both the tubes at 4 \u00b0C in dark on a gel shaker maintained at 100 rpm for 2 h again.",
+        "Add 10 \u03bcL of DMAB and incubate for 12 h at 4 \u00b0C in the dark while shaking.",
+        "Run size exclusion chromatography on \"control\" and \"methylated\" protein using 20mM Tris, 150mM NaCl, pH8.0 for buffer exchange.",
+        "Concentrate \"control\" and \"methylated\" protein to ~ 10-15 mg/ml.",
+        "Analyze proteins using SDS PAGE and mass spectroscopy.",
+        "Screen control and methylated protein for crystallization under identical conditions."
+    ]
+}

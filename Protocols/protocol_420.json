@@ -1,0 +1,41 @@
+{
+    "id": 969,
+    "origin_website": "Nature",
+    "title": "Primary isolation of vascular cells from murine brain for single cell sequencing",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Molecular Biology",
+        "Cell Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Mix 2850 \u00b5l of buffer 2 with 75 \u00b5l of buffer 1 for 600 mg of tissue.",
+        "Warm the enzyme mix 1 for 10 minutes at 37 \u00baC.",
+        "Kill the mouse using an approved method of euthanasia.",
+        "Remove the brain from the skull.",
+        "Transfer the brain to a Petri dish and chop it with sharp scissors for about 30 seconds, or until no large pieces are visible.",
+        "Transfer the brain pieces to a 5 ml tube and mix them with enzyme mix 1.",
+        "Use a p1000 with cut tip and wash the petri dish.",
+        "Incubate for 17 minutes at 37 \u00baC with slow rotation.",
+        "Prepare enzyme mix 2: Mix 30 \u00b5l of buffer 3 with 15 \u00b5l of buffer 4.",
+        "Take the suspension from the rotator and add enzyme mix 2.",
+        "Mix the solution with a Pasteur pipette and a rubber bulb 10 times.",
+        "Incubate for 12 minutes at 37 \u00baC with slow rotation.",
+        "Pass the brain suspension through a 20 G needle at least 10 times without creating bubbles or foam.",
+        "Incubate the suspension for 10 minutes at 37 \u00baC.",
+        "Transfer the suspension to a 50 ml tube and add 20 ml of cold PBS with Mg and Ca.",
+        "Pass the mixture through a 70 \u00b5m mesh.",
+        "Spin down the suspension at 300g for 5 minutes at 4 \u00baC.",
+        "Resuspend the pellet in 1800 \u00b5l of MACS buffer and 200 \u00b5l of Myelin removal beads.",
+        "Incubate the mixture at 4 \u00baC for 15 minutes without agitation.",
+        "Add 18 ml of MACS buffer to a total volume of 20 ml.",
+        "Spin down the mixture at 300g for 5 minutes at \u00a04 \u00baC.",
+        "Rinse each LS column with 3 ml of MACS buffer and discard eluent.",
+        "Resuspend the pellet in 3 ml of MACS buffer.",
+        "Add 1 ml of cell suspension to each LS column and collect the eluent containing cells.",
+        "Wash each column twice with 1 ml of MACS buffer, collecting the eluent each time.",
+        "Spin down the collected eluents at 300g for 5 minutes.",
+        "Dissolve the pellet in 500 \u00b5l of FACS buffer.",
+        "Incubate the mixture with FACS antibodies or proceed directly to FACS analysis."
+    ]
+}

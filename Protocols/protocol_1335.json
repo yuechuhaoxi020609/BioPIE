@@ -1,0 +1,38 @@
+{
+    "id": 1262,
+    "origin_website": "Nature",
+    "title": "<p>Preparation of live cell samples for fluorescence spectroscopy and computational super-resolution imaging</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology",
+        "Biophysics"
+    ],
+    "protocol": [
+        "Wipe the biosafety cabinet thoroughly with 70% ethanol.",
+        "Spray and wipe down all items taken inside the cabinet with 70% ethanol.",
+        "Warm all media and solutions to 37\u00b0C in a water bath before use.",
+        "Culture CHO-K1 cells in DMEM supplemented with 1% penicillin-streptomycin and 10% FBS at 37 \u00b0C in a 5% CO\u2082 environment.",
+        "Remove the spent media from the culture flask and discard.",
+        "Wash the flask twice with 5 ml PBS (without Ca\u00b2\u207a and Mg\u00b2\u207a).",
+        "Add 2 ml Trypsin-EDTA (1X) to the flask and incubate at 37\u00b0C for 5-15 minutes.",
+        "Add 5 ml of culture media containing serum to the flask to inhibit trypsin.",
+        "Collect the media containing the detached cells in a falcon tube.",
+        "Centrifuge the collected media at 200 \u00d7 g for 3 minutes.",
+        "Discard the supernatant and resuspend the cell pellet in 5 ml PBS.",
+        "Count the cells using a cell counter.",
+        "Aliquot the required number of cells into falcon tubes and centrifuge at 200 \u00d7 g for 3 minutes.",
+        "Discard the supernatant and resuspend the cell pellet in R buffer.",
+        "Mix suitable amounts of plasmids with the cells for transfection.",
+        "Electroporate the cells using Neon Transfection system according to the manufacturer\u2019s protocol (pulse voltage = 1,000 V, pulse width = 30 ms, and pulse no. = 2).",
+        "Seed the cells onto glass bottom culture dishes containing DMEM supplemented with 10% FBS; no antibiotics.",
+        "Incubate the cells at 37\u00b0C and 5% CO\u2082 for 36-48 hours before experiments.",
+        "Observe the cells under a fluorescence microscope to check for fluorescence and determine whether the transfection was successful.",
+        "Remove the spent media from the cells.",
+        "Wash the cells 2-3 times with 1X HBSS.",
+        "Add DMEM not containing phenol red (Imaging DMEM) to reduce background fluorescence.",
+        "If cell starvation is required, do not supplement the Imaging DMEM with FBS.",
+        "If a 5% CO\u2082 environment cannot be maintained on the microscope setup, supplement the Imaging DMEM with HEPES.",
+        "The transfected cells can now be used for experiments.",
+        "Prepare suitable concentration of the drug or ligand in Imaging DMEM and add the solution to the cell culture dish."
+    ]
+}

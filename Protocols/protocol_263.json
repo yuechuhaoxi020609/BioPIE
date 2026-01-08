@@ -1,0 +1,42 @@
+{
+    "id": 1047,
+    "origin_website": "Nature",
+    "title": "Extracting high molecular weight genomic DNA from Saccharomyces cerevisiae",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biological Techniques",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Resuspend a yeast pellet in 4 ml Sorbitol 1M.",
+        "Add 250 \u03bcl Zymolyase 1000U/ml.",
+        "Invert gently 5 times.",
+        "Incubate 30 min at 30\u00b0C (thermomixer program: 10 sec at 300 rpm each 10 min).",
+        "Centrifuge for 2 min and 30 seconds at 3000g.",
+        "Discard the supernatant.",
+        "Let the tube upside down to remove most of the liquid.",
+        "Resuspend the pellet in 3.5 ml lysis buffer.",
+        "Add 500 \u03bcl SDS 10%.",
+        "Add 4 \u03bcl RNAse A 100 mg/ml.",
+        "Invert gently 10-15 times.",
+        "Incubate 30 min at 50\u00b0C.",
+        "Add 10 ml TE.",
+        "Add 5 ml KAc 5M pH7.5.",
+        "Invert gently 15 times.",
+        "Place on ice for 5 min.",
+        "Centrifuge 10 min at 5000g at 4\u00b0C.",
+        "Transfer the supernatant in two 15 ml tubes and repeat the last centrifugation.",
+        "Transfer the two supernatants in one 50 ml tube.",
+        "Add 1 volume of Isopropanol at room temperature.",
+        "Invert gently about 15 times.",
+        "Centrifuge 5 min at 500g at 4\u00b0C.",
+        "Discard supernatant and dislodge pellet with 20 ml ethanol 70%.",
+        "Place on ice for at least 5 min.",
+        "Centrifuge 5 min at 500g at 4\u00b0C.",
+        "Discard supernatant, remove as much ethanol as possible.",
+        "Let the pellet air dry for 5 min.",
+        "Add 200 \u03bcl TE at 50\u00b0C.",
+        "Incubate 10 min at 50\u00b0C without cap to evaporate remaining ethanol.",
+        "Transfer carefully with wide bore tip into a 1.5 ml tube."
+    ]
+}

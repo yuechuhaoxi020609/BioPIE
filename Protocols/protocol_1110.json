@@ -1,0 +1,43 @@
+{
+    "id": 11234,
+    "origin_website": "Jove",
+    "title": "In vitro Assembly of Semi-artificial Molecular Machine and its Use for Detection of DNA Damage",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Place the sections in a slide rack.",
+        "Dewax in xylene for 15 minutes.",
+        "Transfer to a fresh xylene bath for an additional 5 minutes.",
+        "Rehydrate by passing through 96% ethanol -2x5min.",
+        "Rehydrate by passing through 80% ethanol - 5min.",
+        "Rehydrate by passing through water - 2x5 min.",
+        "Digest section with Proteinase K using 100\u03bcL of a 50\u03bcg/mL solution per section.",
+        "Incubate for 15 minutes at room temperature in a humidified chamber.",
+        "Rinse in distilled water for 2x10 min.",
+        "Apply 100 \u03bcL per section of 2% BSA for preblocking.",
+        "Incubate for 15 minutes at room temperature.",
+        "Combine bidistilled water in a small plastic tube for molecular machines assembly.",
+        "Add 15% polyethylene glycol-8000 to the mixture.",
+        "Add a solution of 66 mM-Tris HCl, pH 7.5, 5 mM MgCl2, 0.1 mM dithioerythritol, and 1 mM ATP (T4 DNA ligase buffer) to the tube.",
+        "Add 70 pmoles of Oligonucleotide 1 to the mixture.",
+        "Add 215 pmoles (1.76 - 7.1 \u03bcg) VACC TOPO to the solution.",
+        "Add 10 units T4 DNA ligase (500 U/mL) to the tube.",
+        "Mix gently by pipetting for molecular machines assembly.",
+        "Increase temperature to 37\u00b0C if needed to block the T4 DNA ligase-based component of labeling.",
+        "Aspirate the preblocking solution.",
+        "Apply 25 \u03bcL of the full reaction mix containing 70 pmoles of Oligonucleotide 1, 53 - 215 pmoles (1.76 - 7.1 \u03bcg) VACC TOPO and 10 units T4 DNA ligase in a solution of 66 mM-Tris HCl, pH 7.5, 5 mM MgCl2, 0.1 mM dithioerythritol, 1 mM ATP, and 15% polyethylene glycol-8000.",
+        "Incubate for 1 hour at room temperature (23\u00b0C) in a humidified chamber with a plastic coverslip.",
+        "Protect from light during incubation.",
+        "Remove coverslips by gently immersing the slides vertically in a Coplin jar containing water at room temperature.",
+        "Aspirate excess water.",
+        "Apply 25 \u03bcL of reaction mix without VACC TOPO and Oligonucleotide 1, but containing Oligonucleotide 3: 66 mM-Tris HCl, pH 7.5, 5 mM MgCl2, 0.1 mM dithioerythritol, 1 mM ATP, and 15% polyethylene glycol-8000, 5 units T4 DNA ligase, 35 mg/mL Oligonucleotide 3.",
+        "Incubate for 18 hr at room temperature (23\u00b0C) in a humidified chamber with a plastic coverslip.",
+        "Remove coverslips by gently immersing the slides vertically in a Coplin jar containing water at room temperature.",
+        "Wash sections 3 times, each for 10 min, in distilled water.",
+        "Rinse with sodium bicarbonate buffer.",
+        "Alkaline solution rinse enhances FITC fluorescence.",
+        "Cover section with an antifading solution (Vectashield with DAPI).",
+        "Analyze the signal using a fluorescent microscope."
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 1020,
+    "origin_website": "Nature",
+    "title": "Kinase annotation for helminths",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Download the Kinase domain models file from the Kinomer website.",
+        "Determine kinome-specific score thresholds by adjusting initial values until an hmmpfam search identifies all known _C._ _elegans_ kinases using the Kinomer allPK.hmm profile database.",
+        "Use hmmpfam with default settings to map user-provided gene protein sequences against the Kinomer models.",
+        "Annotate genes with 'hits' meeting the kinase class specific custom cutoffs as putative kinases of the given class."
+    ]
+}

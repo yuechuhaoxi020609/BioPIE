@@ -1,0 +1,43 @@
+{
+    "id": 10609,
+    "origin_website": "Jove",
+    "title": "A Paired Bead and Magnet Array for Molding Microwells with Variable Concave Geometries",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Prepare two 50 mm x 50 mm aluminum plates.",
+        "Form a 30 x 30 through-hole array on one plate with \u03a6550-\u00b5m holes, spaced 1 mm apart.",
+        "Form a 30 x 30 array of \u03a6750-\u00b5m through-holes on the second plate using the same procedure.",
+        "Attach the two plates together using sticky tape and form \u03a63 mm alignment holes at each corner.",
+        "Soak the aluminum plates in 15% sulfuric acid for 12 hours to clean their surfaces.",
+        "Form a 30 x 30 array of 1 x 1 x 1 mm neodymium magnets with opposite polarity neighbors.",
+        "Attach a 30 x 30 mm aluminum plate to the bottom of the magnet array using double-sided tape.",
+        "Align and stack the two aluminum plates using the prepared alignment holes at the four corners of each plate.",
+        "Insert M3 bolts into the alignment holes to lock the two plates together.",
+        "Secure the bolts with nuts.",
+        "Stack the aluminum plate assembly on the prepared magnet array, aligning the array of magnets and the array of through holes in the aluminum plate during stacking.",
+        "Fix the position of the magnet array using a sticky tape.",
+        "Place sufficient number of \u03a6600 mm SUJ2 steel beads on the plate assembly.",
+        "Manipulate the beads with an acryl (or non-metallic) plate to trap one bead in each hole while removing excess beads.",
+        "Carefully remove the top plate to avoid unwanted scattering and dislocation of the trapped beads.",
+        "Move the concave microwell mold, produced in steps 2.1 to 2.5, to a Petri dish.",
+        "Mix polydimethylsiloxane (PDMS) monomer and curing agent according to the manufacturer's instructions with a PDMS monomer:curing agent ratio of 10:1.",
+        "De-gas the PDMS mixture by using a desiccator and vacuum pump to remove any bubbles trapped in the PDMS mixture.",
+        "Pour the PDMS mixture into the concave microwell mold.",
+        "De-gas the PDMS mixture again using the same procedure.",
+        "Bake the PDMS mixture at 80 \u00b0C for 2 hours.",
+        "Remove the cured PDMS substrate from the mold.",
+        "Spray methanol using a washing bottle to detach the PDMS substrate from the mold.",
+        "Use a \u03a615 mm x 2 mm magnet to remove trapped steel beads from the PDMS substrate.",
+        "Cut the concave microwell-patterned PDMS substrate using a \u03a614 mm biopsy punch.",
+        "Sterilize the resulting \u03a614 mm PDMS substrate in an autoclave at 121 \u00b0C and 15 psi.",
+        "Place the sterilized PDMS substrate into a 24-well plate.",
+        "Coat the entire PDMS substrate with 4% (w/v) pluronic F-127 solution overnight.",
+        "Remove any air bubbles entrapped in the concave microwells by pipetting or using an ultrasonic cleaner.",
+        "Flush the F-127 solution three times with phosphate-buffered saline (PBS).",
+        "Seed 1 mL of cell-medium containing 2 x 10^6 cells on the PDMS substrate.",
+        "Aspirate 1 mL of medium using a 1000 \u00b5L pipette to remove excess cells not trapped in microwells.",
+        "Incubate the cells at 36.5 \u00b0C, humidity greater than 95%, and 5% CO2 conditions."
+    ]
+}

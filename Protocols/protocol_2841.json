@@ -1,0 +1,24 @@
+{
+    "id": 741,
+    "origin_website": "Nature",
+    "title": "Trans-well migration assay",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Place 150 x 10^3 isolated human trophoblasts in the upper chamber of 8 micron Transwells on 100 \u03bcl of solid growth factor reduced Matrigel.",
+        "Place 100 x 10^3 different NK cell subsets in the lower chamber with Bio-MPM-1 medium supplemented with 5 U/ml IL-15 and 5% pen-strep and non-essential amino acids for five days.",
+        "Add neutralizing antibodies for chemokines to the lower chambers at a concentration of 5 \u03bcg/ml each when required.",
+        "Induce NK subset ability to induce HUVECs migration by placing NK derived supernatants or control media in the lower chamber of Transwell inserts with 6.5 \u03bcm pores.",
+        "Plate 5 x 10^4 HUVECs in the upper chamber and allow them to migrate for 4 hours at 37\u00b0C.",
+        "At the end of trophoblast or HUVEC migration assays, cleanse the filter side of the upper chamber with a cotton swab.",
+        "Stain the filter for one hour with crystal violet in 2% ethanol.",
+        "Rinse the stained filter in water.",
+        "Gently cut the filter from the chamber and count cells that have migrated through the filter pores from the underside of the filter.",
+        "Count the number of cells that migrated across the filters in 4 high-power fields per insert.",
+        "Average the values obtained from the high-power fields for each insert.",
+        "Perform three identical replicate experiments for each migration condition."
+    ]
+}

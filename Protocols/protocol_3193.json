@@ -1,0 +1,33 @@
+{
+    "id": 1645,
+    "origin_website": "Cell",
+    "title": "Simultaneous analyses of clutch coupling and actin polymerization in dendritic spines of rodent hippocampal neurons during chemical LTP",
+    "subjectAreas": [
+        "Cell Culture",
+        "Cell Biology",
+        "Neuroscience",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Dilute 1 \u03bcL of TMR ligand in 200 \u03bcL of PBS as a working stock.",
+        "Collect 180 \u03bcL of conditioned medium from cultured neurons.",
+        "Mix collected conditioned medium with 20 \u03bcL of TMR ligand working stock.",
+        "Replace conditioned medium of cultured neurons with the TMR ligand-medium mixture.",
+        "Incubate at 37\u00b0C with 5% CO2 for 1 h.",
+        "Wash TMR ligand 3 times with pre-warmed PBS.",
+        "Incubate neurons with 500 \u03bcL of pre-warmed ACSF containing MgCl2, 0.5 \u03bcM tetrodotoxin, 1 \u03bcM strychnine, and 20 \u03bcM bicuculline at 37\u00b0C with 5% CO2 for 1 h.",
+        "Perform time-lapse imaging of dendritic spines before and after chemical long-term potentiation (cLTP).",
+        "Set the stage-top incubator of the microscope at 37\u00b0C.",
+        "Transfer TMR ligand-treated neurons into the incubator.",
+        "Select neurons that are strongly expressing Lifeact and weakly expressing HaloTag-actin.",
+        "Adjust the optimum exposure times of Lifeact and HaloTag-actin filter channels.",
+        "Close the field of the microscope diaphragm to illuminate only a minimum area including a dendritic spine.",
+        "Illuminate the target spine without using neutral density filters to increase the signal-to-noise ratio.",
+        "Acquire single plane time-lapse images of a spine for both HaloTag-actin and Lifeact every 2 seconds for 100 seconds.",
+        "Replace ACSF solution containing MgCl2 with freshly prepared glycine stimulation solution and incubate for 4 minutes to induce cLTP.",
+        "Avoid touching the dish when replacing solutions to prevent a shift in spine location.",
+        "Pre-warm glycine stimulation solution and ACSF without MgCl2 before replacement to minimize focus drift due to thermal changes.",
+        "Replace the glycine stimulation solution with ACSF without MgCl2 immediately after inducing cLTP.",
+        "Acquire time-lapse images every 2 seconds for 100 seconds following the replacement of solutions."
+    ]
+}

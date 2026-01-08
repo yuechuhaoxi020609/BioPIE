@@ -1,0 +1,20 @@
+{
+    "id": 351,
+    "origin_website": "Nature",
+    "title": "Critical functions of L-selectin-mediated lymphocyte homing and recruitment",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Fix lymph node frozen sections with acetone for 15 min at room temperature.",
+        "Wash the sections with PBS three times.",
+        "Incubate the fixed lymph node frozen sections with 100 mU/ml N-glycosidase F in a solution containing 10 mM HEPES-NaOH, pH 7.4, 0.1% Triton X-100, 0.1 M 2-mercaptoethanol and complete protease inhibitor at 37\u00b0C for 2 h.",
+        "Incubate the sections with 0.1 to 1 mg/ml O-sialoglycoprotein endopeptidase in 10 mM HEPES-NaOH, pH 7.4, at 37\u00b0C for 2 h.",
+        "Incubate the sections with 25 mU/ml Heparitinase I and II and heparinase in a solution containing PBS, 1 mg/ml BSA, 1 mM CaCl\u2082 and protease inhibitor at 37\u00b0C for 2 h.",
+        "Wash the digested sections with PBS containing 0.1 mg/ml BSA at least three times.",
+        "Perform standard immunostaining technique using antibodies specific for appropriate glycans to evaluate the digestions.",
+        "Conduct lectin staining including L/E/P-selectin-IgM staining as applicable."
+    ]
+}

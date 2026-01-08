@@ -1,0 +1,37 @@
+{
+    "id": 688,
+    "origin_website": "Nature",
+    "title": "A protocol for lentiviral infection of primary patient pancreatic tumors",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Euthanize tumor-bearing mouse.",
+        "Spray mouse and surgical tools with 70% Ethanol.",
+        "Remove pancreatic tumor and immediately place into ice cold RPMI 1640 (no additives).",
+        "In RPMI 1640 (no additives), dissect and discard necrotic tissue.",
+        "In 1 ml freshly prepared Miltenyi tissue dissociation media, finely mince tumor into 2-4 mm pieces.",
+        "Place minced tumor tissue into remaining 4 ml of dissociation medium in a gentleMACS C-tube.",
+        "Follow Miltenyi protocol 2.2.3 for the dissociation of tough tumors.",
+        "Re-suspend cells in culture media (RPMI 1640 media supplemented with 20% FBS, 1x non-essential amino acids, 100 IU/ml penicillin, 100 \u03bcg/ml streptomycin, 1x Glutamax).",
+        "Count single cells using a hemocytometer.",
+        "Dilute cells to a concentration of 2.5 x 10^5 cells per 200 ul of culture media.",
+        "Plate 200 ul of cells per well into an Ultra-Low attachment 24 well plate.",
+        "Add polybrene to each well for a final concentration of 5 ug/ml.",
+        "Add shRNA lentivirus at an MOI >10 (~25 ul virus per condition).",
+        "Culture cells for 24 hours at 37\u00b0C in a 5% CO2 environment.",
+        "Collect cells after 24 hours and spin for 5 minutes at 300g.",
+        "Wash collected cells twice with culture media.",
+        "Suspend cells in 50 \u03bcl of RPMI 1640 media (no additives).",
+        "Stain 5 ul of uninfected/infected cells with anti-mouse EpCAM-PE antibody and analyze for GFP expression by flow cytometry on a FACSAria III machine.",
+        "Mix the remaining 45 ul of uninfected/infected cells with 45 ul of BD Matrigel Matrix Growth Factor Reduced.",
+        "Place the mixture on ice until transplantation.",
+        "Inject the cell mixture subcutaneously into the left or right flank of 5-8 week-old NOD/SCID Il2ry-/- (NSG) recipient mice.",
+        "Euthanize mice at 3 months post-transplant.",
+        "Collect and weigh tumors from euthanized mice.",
+        "Dissociate collected tumors as described above.",
+        "Stain tumor cells with anti-mouse EpCAM-PE antibody and analyze for GFP expression by flow cytometry on a FACSAria III machine.",
+        "Calculate the weight of EpCAM+;GFP+ tumor cells (g) using the formula: Tumor wet weight (g) x EpCAM+;GFP+ (%) = Weight EpCAM+;GFP+ tumor cells (g)."
+    ]
+}

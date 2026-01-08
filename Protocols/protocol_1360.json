@@ -1,0 +1,30 @@
+{
+    "id": 1091,
+    "origin_website": "Nature",
+    "title": "A computational protocol for sample selection in biological-derived infrared spectroscopy datasets using Morais-Lima-Martin \\(MLM) algorithm",
+    "subjectAreas": [
+        "Chemistry",
+        "Biochemistry",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Mathematics And Computing"
+    ],
+    "protocol": [
+        "Download and extract the \u201cMLM.zip\u201d file to a folder of choice.",
+        "Start MATLAB.",
+        "Navigate within MATLAB to the folder where the \u201cMLM.zip\u201d file was extracted.",
+        "Within MATLAB, right click on the folder \u201cMLM\u201d and select \u201cAdd to Path > Selected Folders and Subfolders\u201d.",
+        "Go to the folder \u201cMLM > DATASET\u201d within MATLAB and double-click on the file \u2018DATASET.mat\u2019 to execute the example dataset.",
+        "For running the algorithm with another dataset, navigate within MATLAB to the \u201cwork\u201d folder containing the dataset of interest and double-click on it.",
+        "Calculate how many samples must be assigned to the training set (70%) and test set (30%).",
+        "Divide class 1 into 98 samples for training and 42 samples for testing.",
+        "Divide class 2 into 70 samples for training and 30 samples for testing.",
+        "Apply the MLM algorithm by typing the commands depicted in Figure 2b in the MATLAB Command Window.",
+        "Split samples for class 1 into training and test sets with 98 training samples and 42 test samples.",
+        "Split samples for class 2 into training and test sets with 70 training samples and 30 test samples.",
+        "Combine the training samples from class 1 and class 2 to form the overall training set.",
+        "Combine the test samples from class 1 and class 2 to form the overall test set.",
+        "Create a group category representing the training samples from both classes.",
+        "Create a group category representing the test samples from both classes."
+    ]
+}

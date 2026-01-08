@@ -1,0 +1,43 @@
+{
+    "id": 13,
+    "origin_website": "Nature",
+    "title": "Quantification of ARF-GTP in HepG2 by pulldown with GST-GGA3\\(1-316)",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Biological Techniques",
+        "Chemical Biology",
+        "Drug Discovery",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Seed 10^7 cells into five 120 mm cell culture dishes.",
+        "Incubate overnight at 37\u00b0C, 5% CO\u2082 in full medium (EMEM/10% FCS).",
+        "Wash cells twice with PBS and exchange the medium for EMEM without FCS.",
+        "Grow cells overnight under the same conditions.",
+        "Add inhibitors to dishes: dishes 1 and 2 receive 0.2% DMSO; dish 3 receives SecinH3 at 12.5 \u03bcM; dish 4 receives SecinH3 at 6.25 \u03bcM; dish 5 receives D5 at 25 \u03bcM.",
+        "Incubate dishes with inhibitors for 3 hours at 37\u00b0C, 5% CO\u2082.",
+        "Stimulate cells with 100 nM insulin for 10 minutes at 37\u00b0C.",
+        "Wash cells twice with ice-cold PBS.",
+        "Harvest cells with a rubber policeman in 1.5 mL lysis buffer.",
+        "Incubate the cell lysates on ice for 20 minutes.",
+        "Sonicate samples for 7 seconds, 40% intensity, cycle 50.",
+        "Centrifuge the mixture at maximum speed for 10 minutes at 4\u00b0C.",
+        "Collect 1200 \u03bcL of supernatant and incubate with GST-GGA3 beads (50 \u03bcg GST-GGA3 per tube) for 2 hours at 4\u00b0C under mild agitation.",
+        "Centrifuge samples for 1 minute at 500 x g, discard the supernatant.",
+        "Wash pellets three times with lysis buffer.",
+        "Add 50 \u03bcL Laemmli loading buffer to each pellet and incubate at 95\u00b0C for 5 minutes.",
+        "Separate proteins by 15% SDS-PAGE; normalize protein loading based on cell lysates' protein content.",
+        "Transfer proteins onto nitrocellulose using a semi-dry blotting method.",
+        "Block the nitrocellulose membrane with 5% milk powder in TBS/0.1% Tween-20 for 20 minutes.",
+        "Wash the nitrocellulose twice with TBST.",
+        "Dilute anti-ARF6-antibody to a 1:100 dilution in 5% BSA/TBST.",
+        "Incubate the diluted antibody overnight at 4\u00b0C.",
+        "Wash nitrocellulose three times with TBST.",
+        "Dilute goat-anti-mouse-HRP conjugate to a 1:20,000 dilution in 5% milk powder/TBST.",
+        "Incubate the HRP conjugate for one hour at room temperature.",
+        "Wash nitrocellulose with TBST.",
+        "Cover nitrocellulose with ECL solution and incubate for three minutes at room temperature.",
+        "Visualize luminescence using VersaDoc 5000 (BioRad)."
+    ]
+}

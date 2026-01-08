@@ -1,0 +1,40 @@
+{
+    "id": 10631,
+    "origin_website": "Jove",
+    "title": "Proper Positioning and Restraint of a Rat Hind Limb for Focused High Resolution Imaging of Bone Micro-architecture Using In Vivo Micro-computed Tomography",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Prepare the acrylic glass incubation chamber with high-quality O2 at a continuous flow rate of approximately 1-2 L/min.",
+        "Transfer the rat to the incubation chamber tail first and close the lid to create an airtight seal.",
+        "Begin filling the chamber with veterinary-grade isoflurane at 3-4% v/v dissolved in O2 at a continuous flow rate of 1-2 L/min.",
+        "When the rat can no longer stand, transfer it to a face mask or nose cone receiving 1-3% isoflurane dissolved in O2 at a flow rate of 1-2 L/min.",
+        "Apply ophthalmic lubrication without antibiotic to protect the delicate membranes of the eyes.",
+        "Measure palpebral reflex by gently stimulating palpebral opening.",
+        "Measure pedal reflex by pinching hind limbs.",
+        "Monitor anesthesia depth until both palpebral and pedal reflexes are absent.",
+        "Maintain rat on 0.5-2% isoflurane dissolved in O2 at a flow rate of 1-2 L/min.",
+        "Continuously monitor breathing rate throughout the procedure.",
+        "Position rat in supine position on carbon-fiber scanner bed.",
+        "Restrain right foot in malleable, foam tube with toes extending out.",
+        "Apply dental wax to hold foot tightly within foam.",
+        "Tape foam tube closed tightly.",
+        "Ensure diameter of foam tube fits firmly into plastic tube.",
+        "Slide plastic tube into X-ray scanner bed.",
+        "Extend rat hind limb until it is taut.",
+        "Do not over-extend leg to avoid causing harm.",
+        "Pull the left leg along with the tail out of the scanning field of view and toward the torso.",
+        "Secure the left leg and the tail in position using masking tape.",
+        "Secure the rat body into position at the hips, shoulders, and head with masking tape.",
+        "Blot the adhesive side of the masking tape to remove its ability to stick to the rat fur.",
+        "Secure the face mask or nose cone to the rat.",
+        "Wrap the rat in vet-wrap to limit heat loss.",
+        "Continuously monitor the breathing rate of the rat throughout the procedure.",
+        "Stop the flow of isoflurane to the rat but maintain a 1-2 L/min flow of O2.",
+        "Remove the rat from the respirator when it regains motor control (1-2 min).",
+        "Place the rat in a cage on a general-purpose heating pad at low heat for recovery.",
+        "Do not leave the rat unattended until it can maintain sternal recumbency.",
+        "Ensure food and water are available to the rat during recovery."
+    ]
+}

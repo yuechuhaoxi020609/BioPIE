@@ -1,0 +1,24 @@
+{
+    "id": 1027,
+    "origin_website": "Nature",
+    "title": "A MAKER pipeline for prediction of protein-coding genes in parasitic worm genomes",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Generate a repeat library for the genome of interest using RepeatModeler.",
+        "Mask repetitive elements in the genome using RepeatMasker by scanning scaffolds for matches to the repeats in the repeat library.",
+        "Train SNAP using CEGMA gene models for KOGs, as well as NOGs, TROGs, or CEOGs.",
+        "For the second MAKER run, train SNAP using the MAKER gene models obtained from the first MAKER run.",
+        "For the third MAKER run, train Augustus using the MAKER gene models obtained from the second MAKER run.",
+        "Generate _ab initio_ gene models using Augustus, GeneMark-ES 2.3a, and SNAP.",
+        "Generate further gene models using comparative algorithms genBlastG and RATT.",
+        "Align species-specific ESTs and cDNAs from INSDC against the genomes using BLASTN.",
+        "Align proteins from related species against the genomes using BLASTX.",
+        "Integrate and filter EST and protein homology alignments, comparative gene models, and _ab initio_ gene predictions using MAKER to produce a gene set for the species, ensuring one transcript per gene.",
+        "Discard any MAKER gene models based on exonerate or BLASTX alignments that do not overlap with Augustus, genBlastG, or RATT gene models.",
+        "Remove MAKER gene models encoding proteins shorter than 30 amino acids.",
+        "If two different MAKER gene models overlap in coding sequence, discard the model with the worse AED score."
+    ]
+}

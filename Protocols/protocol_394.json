@@ -1,0 +1,29 @@
+{
+    "id": 408,
+    "origin_website": "Nature",
+    "title": "Quantitative Procedure to Analyze Nuclear \u03b2-Catenin Using Immunofluorescence Tissue Staining",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Perform a standard double immunofluorescent staining of the samples.",
+        "Stain \u03b2-catenin in red.",
+        "Stain alpha-catenin in green.",
+        "Counterstain nuclei with Hoechst 33342.",
+        "Take confocal images (at least five frames for each sample).",
+        "Define Regions of Interest using the Polygon or Freehand selection tool, delimiting tumor tissue from stroma or adjacent regions.",
+        "Split the image into three color channels to obtain one image per channel.",
+        "Use the Measure option in the ROI Manager to assess the integrated density value for the blue channel (Hoechst 33342).",
+        "Mark at least ten representative nuclei using the Elliptical selection tool, covering different sizes and intensities throughout the ROI.",
+        "Determine the IDV for all selected nuclei and calculate the mean nucleus value.",
+        "Divide the blue channel IDV by the mean nucleus value to determine the average number of cells present in each respective ROI.",
+        "Subtract the signal that colocalizes between \u03b2-catenin and alpha-catenin using Image calculator from the Process menu.",
+        "Create a merged image by combining the subtracted image with the blue channel image using the operator AND.",
+        "Measure the IDV of the respective ROI in the newly created merged image.",
+        "Divide the measured IDV by the average number of cells calculated before to determine \u03b2-catenin content per nucleus.",
+        "Represent the obtained values in scattered plots as relative units (r.u.), indicating mean and 95% confidence interval.",
+        "Perform non-parametric Kruskal-Wallis test to compare three or more groups of unpaired values that do not follow a particular distribution.",
+        "Conduct Dunn\u2019s multiple comparison post-test to identify significant P-values of differences in the sum of ranks between each pair of groups."
+    ]
+}

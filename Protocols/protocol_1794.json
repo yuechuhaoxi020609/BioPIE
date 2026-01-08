@@ -1,0 +1,31 @@
+{
+    "id": 386,
+    "origin_website": "Nature",
+    "title": "Laboratory validation of enzyme-immunoassays for the non-invasive quantification of reproductive and stress hormone in amphibians",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Determine concentrations of urinary corticosterone using polyclonal anticorticosterone antiserum CJM06 diluted 1:45,000.",
+        "Use horseradish peroxidase conjugated corticosterone label diluted 1:120,000 for the assay.",
+        "Utilize corticosterone standards ranging from 1.56 to 400 pg/well for calibration.",
+        "Coat 96 well Nunc maxi-SorpTM plates with 50 \u00b5L of antibody in ELISA coating buffer.",
+        "Incubate the coated plates overnight at 4\u00b0C.",
+        "Dilute standards, internal controls, and urine samples in enzyme immunoassay buffer.",
+        "Add 50 \u00b5L of diluted standards, controls, and samples to each well according to the assay plate map.",
+        "Add 50 \u00b5L of horseradish peroxidase label to each well.",
+        "Incubate the plates at room temperature for 2 hours.",
+        "Wash the plates.",
+        "Add 50 \u00b5L of substrate solution to each well.",
+        "Incubate the plates until the optical density of zero wells reads between 0.7 and 1, typically after at least 10 minutes at room temperature.",
+        "Add 50 \u00b5L of stopping solution based on visual inspection of the plates.",
+        "Subtract blank absorbance from each reading to account for non-specific binding.",
+        "Generate frog urine samples.",
+        "Fit a regression line using the method of least squares.",
+        "Determine hormone metabolite concentrations in the frog urine samples using the regression line.",
+        "Determine creatinine concentrations in frog urine using the Jaffe method.",
+        "Calculate urinary hormone metabolite concentrations in relation to urinary creatinine concentrations.",
+        "Present all steroidal concentrations as mean \u00b1 standard error (SE) pg/\u03bcg Cr."
+    ]
+}

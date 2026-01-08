@@ -1,0 +1,34 @@
+{
+    "id": 126,
+    "origin_website": "Nature",
+    "title": "NKT cells and CD8+ T cells are dispensable for T cell dependent allergic airway inflammation",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Chemical Biology",
+        "Drug Discovery"
+    ],
+    "protocol": [
+        "Induction of AAI should be carried out as described elsewhere.",
+        "Sensitise six to eight-week-old male mice with intraperitoneal injections of OVA plus 1 mg aluminum hydroxide in 0.2 ml PBS on days 0 and 7.",
+        "Give mice 50 \u03bcl of 2 mg/ml OVA in sterile PBS via the intranasal route on days 14-17.",
+        "Harvest bilateral BAL with 2 aliquots of 1 ml PBS containing 0.6 mM EDTA, 24 hours after the last intranasal challenge.",
+        "Collect tissues for histological analysis.",
+        "Mice can be challenged via the intranasal route on days 19, 21, 24 and 26 using a second protocol.",
+        "Euthanize animals 24 hours after the last challenge.",
+        "Collect BAL fluid to determine cellular infiltration and cytokine levels.",
+        "Harvest perfused lungs for histological studies.",
+        "For depletion of CD8+ T cells or NKT cells from specified mouse strains, inject 100 \u03bcg/mouse/week of specific antibody for 4 weeks.",
+        "Confirm effectiveness by staining splenocytes with CD1d:Ig dimer and CD8-specific antibody.",
+        "Measure inflammatory mediators in cell-free BAL fluid by ELISA for IL-4, IL-5 and IL-13.",
+        "Resuspend cells in HBSS and enumerate using a hemocytometer.",
+        "Concentrate cells onto microscope slides by cytocentrifugation.",
+        "Stain cells with Wright\u2013Giemsa stain to determine leukocyte differentials after counting 200 cells.",
+        "Euthanize mice by CO\u2082 inhalation.",
+        "Remove lungs and embed in paraffin.",
+        "Cut sections into 5 to 6 \u03bcm using a cryostat.",
+        "Stain the sections with hematoxylin/eosin (H&E) for examination under a microscope.",
+        "Perform mucus staining with PAS.",
+        "Score disease severity based on cellular infiltration observed microscopically.",
+        "Stain paraffin sections with Alcian blue/periodic acid-Schiff stain to observe mucus-producing cells."
+    ]
+}

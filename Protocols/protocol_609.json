@@ -1,0 +1,19 @@
+{
+    "id": 436,
+    "origin_website": "Nature",
+    "title": "Investigating histone deubiquitination: _Xenopus_ manipulations",
+    "subjectAreas": [
+        "Cell Biology",
+        "Biological Techniques",
+        "Genetics",
+        "Molecular Biology",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Inject 300-600 pg of IgG or anti-Ubp-M antibody into both blastomeres of two-cell stage embryos.",
+        "Collect the embryos at tailbud stages for in situ hybridization with HoxD10, Sox2, Otx2, En2 and Krox20 antisense RNA probes.",
+        "Collect the embryos at tadpole stages for morphological assessment.",
+        "Mix an equal amount of Ubp-M antigen peptide with the antibody on ice for at least 30 min before coinjection into the embryos.",
+        "Perform whole-mount in situ hybridization as described."
+    ]
+}

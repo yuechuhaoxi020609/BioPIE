@@ -1,0 +1,24 @@
+{
+    "id": 544,
+    "origin_website": "Nature",
+    "title": "Somatic cell reprogramming using NF-\u03baB inhibitory strategies",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Transfect retroviral vectors expressing human OCT4, SOX2, KLF4 and c-MYC in HEK-293T cells along with packaging plasmids to produce retrovirus.",
+        "Seed human primary fibroblasts at a density of 1x10^5 cells per well in 6-well plates.",
+        "Infect cells with retroviral supernatants 24 hours after plating, repeating the procedure every 12 hours for two days (total four additions).",
+        "Replace medium with fibroblast medium on day three post last infection and add NF-\u03baB inhibitors at this point (IKK-VII, 0.5 \u00b5M and sodium salicylate, 0.2 mM).",
+        "Trypsinize cells at day seven and reseed them onto feeder plates.",
+        "Change the medium to human iPSC medium on day eight.",
+        "Maintain cultures with daily medium changes for four weeks.",
+        "Isolate colonies from the culture and expand them on a feeder layer or stain them with Tra-1-60 for evaluating reprogramming efficiency.",
+        "Seed human primary fibroblasts at a density of 1x10^5 cells per well in 6-well plates.",
+        "Infect the seeded cells with retroviral supernatants 24 hours after plating.",
+        "Repeat infection procedure every 12 hours for two days (a total of four additions).",
+        "Trypsinize the cells at day 7 and reseed them on feeder plates.",
+        "Change the medium to human iPSC medium on day 8.",
+        "Maintain cultures with daily medium changes for four weeks."
+    ]
+}

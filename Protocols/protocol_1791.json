@@ -1,0 +1,34 @@
+{
+    "id": 1277,
+    "origin_website": "Nature",
+    "title": "<p>A Comprehensive 3D-Molded Bone Flap Protocol for Patient-Specific Cranioplasty</p><p><br></p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Neuroscience",
+        "Materials Science"
+    ],
+    "protocol": [
+        "Patients should lie in a supine position with their head first into the gantry.",
+        "Maintain teeth occlusion during the imaging acquisition process.",
+        "Avoid swallowing or chewing during the scan.",
+        "Center the table height such that the external auditory meatus (EAM) is at the center of the gantry.",
+        "Adjust the patient\u2019s head position within the field of view (FOV) to ensure the region of interest (ROI) lies within the FOV boundaries.",
+        "Use a vertical occlusal plane by positioning the lowest available head rest.",
+        "Acquire images using a larger FOV for higher quality imaging of specific ROIs.",
+        "Position the scan angle parallel to a line created by the supraorbital ridge and the inner table of the posterior margin of the foramen magnum when possible.",
+        "Utilize radiopaque markers to determine the orientation of CT scan images.",
+        "Adjust gantry tilt for sequence scanning as available, but note that it is not available for spiral or dual source scanners.",
+        "Download CT scan data from scanner workstations.",
+        "Save files in DICOM format for subsequent editing.",
+        "Transfer DICOM files to an Additive Manufacturing Unit.",
+        "Ensure sufficient RAM and read performance for processing large DICOM files.",
+        "Segment the bone from other tissues in the CT scan images.",
+        "Convert segmented 2D images into a 3D mesh to generate volumetric reconstruction.",
+        "Establish a relationship between the \u2018glued\u2019 contact surfaces of the skull and the prosthesis using Hypermesh\u00ae software, with the skull as the \u201cmaster\u201d and the prosthesis as the \u201cslave\u201d.",
+        "Evaluate prostheses resistance under three different static loading conditions: 50 N, 600 N, and 1200 N.",
+        "Apply a 50 N load perpendicularly to a circular region defined in the center of the PMMA prostheses, based on an approximation of the reaction force induced in the skull when resting on a flat surface (\u2248 5 kg).",
+        "Simulate extreme impact conditions by applying a 1200 N load perpendicularly to the same circular region.",
+        "Apply a 600 N load as an intermediate value between 50 and 1200 N, perpendicularly to the specified circular region of the PMMA prostheses.",
+        "Fix the contour of half of the skullcap to prevent translation and rotation on an xyz-coordinate axis."
+    ]
+}

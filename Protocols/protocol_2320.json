@@ -1,0 +1,35 @@
+{
+    "id": 971,
+    "origin_website": "Nature",
+    "title": "Preparation of single cell suspensions from the adult mouse lung",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Molecular Biology",
+        "Cell Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Weigh two aliquots of 10 mg of collagenase type 2 powder.",
+        "Store the collagenase at -20\u00b0C until use.",
+        "Kill the mouse using an approved method of euthanasia.",
+        "Remove the lungs from the mouse.",
+        "Transfer the lungs to a Petri dish.",
+        "Chop the lungs with sharp scissors for about 30 seconds.",
+        "Dissolve 10 mg of collagenase powder in 2 ml of DMEM.",
+        "Transfer lung pieces to a 5 ml tube.",
+        "Mix lung pieces with the collagenase solution using a p1000 with cut tip.",
+        "Wash the Petri dish and add to the 5 ml tube.",
+        "Incubate the suspension for 10 minutes at 37\u00b0C with fast rotation.",
+        "Prepare Neural Tissue dissociation enzyme mix by mixing buffer 3 with buffer 4.",
+        "Add the Neural Tissue dissociation enzyme mix to the suspension after incubation.",
+        "Mix the solution with a Pasteur pipette and rubber bulb 10 times.",
+        "Remove any clogs from the Pasteur pipette tip by tapping it on the bottom.",
+        "Incubate for 5 minutes at 37 \u00b0C with fast rotation.",
+        "Pass the lung suspension firmly through a 20 G needle using a 1 ml syringe, repeating this process a minimum of 10 times.",
+        "Incubate for 10 minutes at 37 \u00b0C.",
+        "Transfer the suspension to a 15 ml tube and add 8 ml of cold FACS Buffer.",
+        "Pass the suspension through a 70 \u03bcm mesh.",
+        "Centrifuge at 300g for 5 minutes at 4 \u00b0C.",
+        "Resuspend the cells in 500 \u00b5l of FACS buffer."
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 28,
+    "origin_website": "Nature",
+    "title": "Simplified behavioural tests for transient social memory in male mice and dams",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Transfer mice from group housing to individual housing at age 40-50 days for 5 days.",
+        "Introduce a stimulus female into the home cage of a male mouse for a 1-minute interaction.",
+        "Remove the stimulus animal after the 1-minute trial and return the male to an individual holding cage.",
+        "Score behavior during the experiment and record on videotape.",
+        "Wait 10 minutes before introducing the same stimulus female again for another 1-minute interaction with the male.",
+        "Remove the stimulus animal after the second 1-minute trial and return the male to the individual holding cage.",
+        "Wait 10 minutes and introduce the same stimulus female for a third 1-minute interaction with the male.",
+        "Remove the stimulus animal after the third 1-minute trial and return the male to the individual holding cage.",
+        "Wait 10 minutes and introduce the same stimulus female for a fourth 1-minute interaction with the male.",
+        "Introduce a new stimulus female for another 1-minute interaction with the male.",
+        "Introduce a different stimulus female to the same male mouse for 1 min.",
+        "Wait for a 10-min inter-exposure interval before introducing the stimulus female.",
+        "Record the investigation time of the female by the male during each trial.",
+        "Remove the stimulus animal and place it in an individual holding cage after the interaction.",
+        "Observe each new dam for 5 min to confirm births on Day 1.",
+        "Confirm that the dam is capable of building a typical nest with pups present on Day 1.",
+        "Remove all of the pups from the nest and keep them temporarily in a holding cage on Day 2.",
+        "Return five of the dam's own pups to the dam's cage, placing them at the opposite side from the nest on Day 2.",
+        "Observe the dam continually for up to 3 min to record latency to retrieve each pup to the nest on Day 2.",
+        "Repeat step 4 three times to ensure accurate recording of retrieval behavior on Day 2."
+    ]
+}

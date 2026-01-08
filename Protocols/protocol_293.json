@@ -1,0 +1,43 @@
+{
+    "id": 11228,
+    "origin_website": "Jove",
+    "title": "Preparation of Intact Bovine Tail Intervertebral Discs for Organ Culture",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Obtain whole bovine tail from local abattoir, preferably without skin.",
+        "Prepare sterile work station and instruments on cutting board under sterile laminar flow hood.",
+        "Moisten sterile gauze with 0.9% sodium chloride containing 55 mM sodium citrate for each well of the 6-well plate.",
+        "Dilute Betadine solution to a concentration of 1% using tap water in a basin.",
+        "Immerse bovine tail in the diluted Betadine solution for 5 minutes.",
+        "Dry tail briefly with sterile gauze and place on sterile work station.",
+        "Remove muscle around tail carefully with scalpel blade #22.",
+        "Chop away unnecessary parts of the tail, typically both ends containing large and very small IVDs.",
+        "Trim remaining muscle and tendons around IVD using scalpel blade #10, being careful not to cut outer annulus.",
+        "Optionally mark anterior side of IVD with surgical skin marker.",
+        "Locate connection point between IVD and vertebra by gently moving the tail.",
+        "Feel border between IVD and bone using dull side of scalpel blade.",
+        "Place cleaving site 1-2 mm away from IVD towards vertebra.",
+        "Position custom-made industrial blade holder on the cleaving site.",
+        "Cleave IVD and vertebra by hammering on top of the custom-made industrial blade holder.",
+        "Repeat cleaving on the other side of the IVD-vertebra connection.",
+        "Wrap isolated IVD with sterile gauze moistened with 0.9% sodium chloride containing 55 mM sodium citrate.",
+        "Isolate additional IVDs to reach the desired sample number, typically around six discs with diameters between 10-20 mm.",
+        "Connect the jet lavage system with sterile Lactated Ringer's solution.",
+        "Hold the IVD with forceps and jet-lavage both sides of the endplate surface using Zimmer Pulsavac jet-lavage system.",
+        "Shoot the jet gun on the endplate surface at an angle between 30 - 60\u00b0 for about 30 seconds on each side.",
+        "Place the IVD back into a 6-well plate and wrap with moistened gauze while preparing another disc sample.",
+        "IVDs are ready for organ culture and downstream applications such as cell viability, mechanical loading, or further culturing.",
+        "Prepare a 1% solution of procion red in PBS2.",
+        "Place the intervertebral disc in at least 100 mL of dye solution.",
+        "Allow the dye to diffuse into the IVD for 24 hours under free swelling conditions.",
+        "Flash-freeze the IVD in liquid nitrogen and thaw it back to room temperature.",
+        "Dehydrate the IVD by transferring it through acetone baths pre-cooled at -80\u00b0C, then -20\u00b0C, then 4\u00b0C, and finally at room temperature.",
+        "Embed the IVD in poly-methyl-acrylate (PMMA).",
+        "Cut PMMA-embedded IVD into 100 \u03bcm thick sections with a sharp blade.",
+        "View the sections using fluorescence microscopy to observe procion red fluorescence.",
+        "Measure disc height and overall integrity using histological sections stained with safranin O/fast green or Meyer's Hematoxilin.",
+        "Scan cell viability in 3D using confocal laser scanning microscope and live/dead staining kit."
+    ]
+}

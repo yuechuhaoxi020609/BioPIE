@@ -1,0 +1,43 @@
+{
+    "id": 189,
+    "origin_website": "Nature",
+    "title": "Sample preparation for 2b-RAD genotyping",
+    "subjectAreas": [
+        "Biotechnology",
+        "Genetics",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Prepare intact, high-quality genomic DNA samples each containing 1 \u00b5g at a concentration of at least 250 ng/\u03bcl.",
+        "Dilute all samples to the same volume of 4 \u03bcl with nuclease-free water.",
+        "Combine 0.6 \u03bcl 10X Buffer R, 0.4 \u03bcl 150 \u03bcM SAM, and 1.0 U AlfI in a single tube for restriction digest master mix.",
+        "Add nuclease-free water to the master mix to achieve a total volume of 2.0 \u03bcl.",
+        "Combine 2 \u03bcl master mix with each 4 \u03bcl DNA sample.",
+        "Incubate the combined samples at 37\u00b0C for 1 hour.",
+        "Inactivate the enzyme by incubating the samples at 65\u00b0C for 20 minutes and then hold on ice.",
+        "Prepare two partially double-stranded adaptors by combining sld-ada1-AlfI and anti-sld-ada1 to form adaptor 1.",
+        "Combine sld-ada2-AlfI and anti-sld-ada2 to form adaptor 2.",
+        "Prepare a master mix for ligation by combining 0.5 \u03bcl 10 mM ATP, 2.0 \u03bcl 10X T4 ligase buffer, 2.5 \u03bcl 5 \u03bcM Adaptor 1, and 2.5 \u03bcl 5 \u03bcM Adaptor 2 in a single tube.",
+        "Add nuclease-free water to the ligation master mix to achieve the total volume needed for the reaction.",
+        "Combine 20 \u00b5l master mix with 5 \u00b5l of digested DNA.",
+        "Incubate for 1 hour (16\u00b0C for heat-inactivatable enzymes e.g., AlfI, or at 4\u00b0C for enzymes that cannot be inactivated, e.g., BsaXI).",
+        "Hold on ice after incubation.",
+        "Conduct a test-scale PCR to determine the minimum number of cycles required to produce a visible product and evaluate relative yield across samples.",
+        "Prepare a master mix for PCR by combining NFW, dNTPs, primers, buffer, and polymerase in a single tube and mixing thoroughly.",
+        "Combine 16 \u00b5l master mix with 4 \u00b5l ligation from each sample.",
+        "Amplify on the profile of 98\u00b0C for 5 sec, 60\u00b0C for 20 sec, and 72\u00b0C for 10 sec for 12 cycles.",
+        "Sample 5 \u03bcl from each reaction at two-cycle intervals (n = 6, 8, 10, & 12 cycles).",
+        "Visualize PCR products using standard gel electrophoresis methods on a 2% agarose TBE gel including a low-molecular weight marker.",
+        "Select the minimum number of cycles required to produce a visible product at ~130 bp.",
+        "Combine 32.5 \u00b5l NFW, 12.5 \u00b5l 2.5 mM dNTP, 2.0 \u00b5l 10 \u00b5M sld-p5, 2.0 \u00b5l 10 \u00b5M sld-p6, 5.0 \u00b5l 1 \u00b5M sld-p3, 5.0 \u00b5l 1 \u00b5M sld-p4 (barcode), 20.0 \u00b5l 5X HF buffer, and 1.0 \u00b5l Phusion polymerase to prepare a master mix.",
+        "Combine 80 \u00b5l master mix with 20 \u00b5l ligation and amplify using the optimal cycle number determined in step 4.",
+        "Resolve samples on 2% agarose gels using standard electrophoresis methods and reagents.",
+        "Excise the target band (~130 bp) from each lane, limiting UV exposure to no more than 30 seconds.",
+        "Extract preparations from excised gel slices either by using a commercial gel-extraction kit or eluting directly from the gel slice into water (40 \u00b5l NFW in a 1.5 ml microcentrifuge tube).",
+        "Hold gel slices overnight at 4\u00b0C, and collect the eluent the following morning.",
+        "Collect a small aliquot (~2-10 \u03bcl) from each preparation.",
+        "Combine the collected aliquots in a multiplex pool for sequencing.",
+        "Store remaining preparations for 6 months at -20\u00b0C.",
+        "Sample stored preparations again for sequencing if additional coverage is required."
+    ]
+}

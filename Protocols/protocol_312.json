@@ -1,0 +1,33 @@
+{
+    "id": 1420,
+    "origin_website": "Nature",
+    "title": "<p>Immunohistochemistry for phospho-myosin light chain 2 in adult murine skin</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Deparaffinize tissue sections by submerging them in xylol for 5 minutes.",
+        "Submerge the sections in fresh xylol for 5 minutes.",
+        "Transfer the sections into isopropanol for 5 minutes.",
+        "Soak the sections in 96% ethanol for 5 minutes.",
+        "Immerse the sections in 75% ethanol for 5 minutes.",
+        "Place the sections in 50% ethanol for 5 minutes.",
+        "Rinse the sections with H\u2082O for 5 minutes.",
+        "Boil the sections in Dako Antigen Retrieval Agent pH9 for 20 minutes inside a boiling cuvette.",
+        "Allow slides to cool down within the retrieval solution for 1 hour at room temperature.",
+        "Wash the tissue sections twice with PBS++ for 5 minutes each.",
+        "Delimit the tissue sections with a fat pen.",
+        "Block unspecific binding sites with 5% BSA in PBS++ for 1 hour at room temperature in a humidified chamber.",
+        "Incubate tissue sections with pMLC2 Ser19 primary antibody diluted at 1:200 overnight at 4\u00b0C in a humidified chamber.",
+        "Incubate tissue sections with ppMLC2 Thr18/Ser19 primary antibody diluted at 1:100 overnight at 4\u00b0C in a humidified chamber.",
+        "Incubate tissue sections with secondary antibodies and DAPI (2 \u00b5g/ml) for 1 hour at room temperature in a humidified chamber in the dark.",
+        "Wash the tissue sections 2 times with PBS++ for 5 minutes each.",
+        "Briefly wash the tissue sections 1 time with H2O.",
+        "Mount tissue sections in Mowiol. Ensure that the Mowiol solution covers the entire tissue section. Remove any air bubbles.",
+        "Cover with coverslip.",
+        "Let the Mowiol solidify for 24 hours (store dry in the dark at room temperature).",
+        "Seal slides with quick-dry nail polish.",
+        "Store samples in the cold and dark until further analysis."
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 10021,
+    "origin_website": "Jove",
+    "title": "High-Performance Graphene-Modified Sensing Chip for SARS-CoV-2 Detection",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Clean the DIDC chip surface with piranha solution (H2SO4:H2O2 in a 3:1 ratio).",
+        "Place the cleaned chip on the hot plate at 80 \u00b0C for 15 min.",
+        "Rinse the sensor surface with distilled water drop by drop using a pipette.",
+        "Rinse the surface with four to five drops of ethyl alcohol.",
+        "Dry the sensor surface at room temperature to obtain a hydrophilic sensor surface.",
+        "Cover the clean sensor chip electrode pads with polyimide tape.",
+        "Place the chip on the center of the spin-coating machine in the horizontal position.",
+        "Add 4 \u00b5L of an aqueous solution of commercially available single-layer graphene oxide (GO) onto the chip surface.",
+        "Close the spin-coating chamber and run for 2 min at 1,300 rpm.",
+        "Keep the chip on the hot plate horizontally for 40 min at 80 \u00b0C for annealing.",
+        "Perform cross-linking of EDC and NHS with the thin-film GO chip.",
+        "Add 4 \u00b5L each of 0.4 M EDC and 0.1 M NHS to the thin-film GO chip.",
+        "Dissolve commercially available anti-SARS-CoV-2 Abs using dilution buffer (0.01 M PBS containing 0.1% BSA and 0.86% NaCl).",
+        "Add 1 mL of diluted PBS to 1 \u00b5g of purified antibody.",
+        "Drop cast 4 \u00b5L of the antibody solution onto the cross-linked activated GO-DIDC chip.",
+        "Leave the chip in the closed chamber for 2 h at room temperature to bind the Abs onto functionalized chip surface.",
+        "Drop-cast 4 \u00b5L of bovine serum albumin (BSA) onto the chip to block non-specific sites of the immuno-capacitive sensing chip.",
+        "Place the chip horizontally in the closed chamber for 20 min at room temperature.",
+        "Wash the immuno-capacitive sensing chip with DI water.",
+        "Dry the chip at room temperature.",
+        "Prepare different concentrations of virus spike antigen from 1.0 mg to 1.0 fg for detection."
+    ]
+}

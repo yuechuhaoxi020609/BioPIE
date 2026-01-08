@@ -1,0 +1,43 @@
+{
+    "id": 757,
+    "origin_website": "Nature",
+    "title": "Optimized immunofluorescence staining protocol to detect the nucleoporin Nup98 in different subcellular compartments",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Fix HeLa cells on poly-lysine coated coverslips in methanol/acetone (1:1 vol/vol) for 30 min at -20\u00b0C.",
+        "Dry the fixed cells for 15 min and rehydrate with PBS for 15 min.",
+        "Block non-specific binding sites with PBS containing 2 mg/ml BSA for 1 h.",
+        "Incubate overnight with anti-Nup98 (0.5 \u03bcg/ml) in blocking solution.",
+        "Wash three times for 10 min each with PBS/2 mg/ml BSA after overnight incubation.",
+        "Incubate for 2 h with secondary antibodies (2 \u03bcg/ml) in blocking solution.",
+        "Wash three times for 10 min each in blocking solution; then incubate with DAPI (1 \u03bcg/ml) in blocking solution for 2 min.",
+        "Mount specimen in Vectashield and seal with nail polish.",
+        "Wash HeLa cells once with PBS at room temperature and fix with 3.7% formaldehyde in PBS for 25 min.",
+        "Rinse fixed cells with PBS, then permeabilize with 0.1% Triton X-100 in PBS/2 mg/ml BSA/1 mM NaN\u2083 for 5 min.",
+        "Block with 0.05% Tween 20 in PBS/2 mg/ml BSA/1 mM NaN\u2083 (blocking solution) for 1 h.",
+        "Incubate overnight with anti-Nup98 (0.5 \u03bcg/ml) in blocking solution.",
+        "Wash three times for 10 min each with blocking solution after overnight incubation.",
+        "Incubate for 2 h with secondary antibodies (2 \u03bcg/ml) in blocking solution.",
+        "Wash specimen three times for 10 minutes with blocking solution.",
+        "Incubate with 1 \u03bcg/ml DAPI in blocking solution for 2 minutes.",
+        "Mount specimen in Vectashield and seal with nail polish.",
+        "Wash once with PBS.",
+        "Fix with 4% formaldehyde in PBS for 10 minutes at room temperature.",
+        "Rinse with PBS.",
+        "Permeabilize with PBS/0.2% Triton X-100/2 mg/ml BSA/1 mM NaN\u2083 on ice for 10 minutes.",
+        "Block with PBS/0.02% Triton X-100/3% BSA/1 mM NaN\u2083 (blocking solution) for 30 minutes.",
+        "Incubate with anti-Nup98 (2 \u03bcg/ml) in blocking solution for 30 minutes.",
+        "Wash four times with PBS/0.02% Triton X-100/1.5% BSA/1 mM NaN\u2083.",
+        "Incubate with secondary antibodies (20 \u03bcg/ml) in blocking solution for 30 minutes.",
+        "Wash four times with PBS/0.02% Triton X-100/1.5% BSA/1 mM NaN\u2083.",
+        "Incubate with 1 \u03bcg/ml DAPI in washing solution for 2 minutes.",
+        "Mount specimen in Vectashield and seal with nail polish.",
+        "Process images with appropriate software such as Adobe Photoshop 8.0."
+    ]
+}

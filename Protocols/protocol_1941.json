@@ -1,0 +1,18 @@
+{
+    "id": 623,
+    "origin_website": "Nature",
+    "title": "Human Umbilical Vein Endothelial Cells \\(HUVEC) Label Free Single Cell Photonic Fingerprinting",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques",
+        "Cell Biology",
+        "Nanoscience And Technology"
+    ],
+    "protocol": [
+        "Place the device in a vacuum for at least 30 minutes to ensure complete and bubble-free filling.",
+        "Load PBS buffer with 1% BSA via the loading chamber on the top right section of the biochip to prime it.",
+        "Introduce cells via the loading chamber on the top left section of the biochip after priming.",
+        "Perform cell capture tests using 20-\u03bcm polystyrene beads to emulate cell behavior.",
+        "Repeat cell capture tests using HUVEC and EA.hy926 cells."
+    ]
+}

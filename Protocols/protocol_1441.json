@@ -1,0 +1,43 @@
+{
+    "id": 422,
+    "origin_website": "Nature",
+    "title": "Studying effect of hypergravity on cleavage timings in developing embryos of _Limnaea_",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Include the ANSI C++ algorithm in Turbo C++ v.3.0 software for calculating correlation between real time hypergravity values and centrifugal speed (RPM).",
+        "Enter the program \"Program for Calculation of Centrifugal RPM with respect to Hypergravity\" into Turbo C++ v.3.0.",
+        "Input the average radius (r) of the centrifugal tube in the algorithm.",
+        "Calculate the constant b using the formula e*r, where e = 0.00001119.",
+        "Enter the value of hypergravity (RCF) required for the experiment into the algorithm.",
+        "Compute revolutions per minute (rpm) using the calculated RCF and constant b.",
+        "Output the calculated RPM value from the program.",
+        "Repeat the process until all necessary RPM values are calculated for different RCF inputs.",
+        "Enter the algorithm into the software.",
+        "Run the program.",
+        "Input the average radius \\(r\\) of the centrifugation rotors provided by the manufacturer.",
+        "Input the required value of hypergravity based on the type of investigation.",
+        "Use specific values for hypergravity such as +9G, +8G, +4G, or +20G depending on the nature of the investigation.",
+        "The program calculates and provides the corresponding RPM value.",
+        "Run the ultracentrifuge at the calculated RPM.",
+        "Visit freshwater ponds with floating lotus or water lily leaves.",
+        "Turn the leaves upside-down and observe for presence of transparent egg masses attached on the leaves under surface.",
+        "Identify and confirm the taxonomic status of _Limnaea_ snails.",
+        "Bring these _Limnaea_ snails and the leaves along with the pond water to laboratory.",
+        "Filter the pond water and fill it into troughs.",
+        "Lay down the lotus leaves on the water's surface.",
+        "Allow the snails to lay eggs under the leaves.",
+        "Detach egg masses carefully from the leaf\u2019s under-surface using a scalpel or forceps.",
+        "Transfer detached egg masses into a Petri dish containing filtered pond water.",
+        "Observe various eggs under the light microscope.",
+        "Segregate each of them into specific groups depending upon the developmental stage in which the embryo exists.",
+        "Note the time intervals between various cleavages.",
+        "Put the eggs into the centrifuge tube once the cleavage stage is identified.",
+        "Centrifuge the eggs in an ultracentrifuge at the calculated RPM speed.",
+        "Note the time of exposure to centrifugation for the eggs.",
+        "Remove the eggs from the centrifuge when the expected cleavage stage should be reached based on previous timings.",
+        "Immediately observe the eggs under a light microscope to check if the expected cleavage stage has occurred.",
+        "Record the timings and analyze the values for each cleavage stage in both normal and hypergravity conditions."
+    ]
+}

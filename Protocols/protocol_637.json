@@ -1,0 +1,17 @@
+{
+    "id": 1255,
+    "origin_website": "Nature",
+    "title": "<p>Impact of Virtual Reality on Rehabilitation of Distal Radial Fracture with head mounted device</p><p><br></p>",
+    "subjectAreas": [
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Recruit subjects (N=40).",
+        "Obtain informed consent and medical history from subjects.",
+        "Perform baseline assessment.",
+        "Allocate subjects to Experimental Group or Control Group.",
+        "Experimental group undergoes 6 weeks of intervention: Leap motion control rehabilitation for 30 min/day and conventional rehabilitation for 30 min/day.",
+        "Control group undergoes 6 weeks of intervention: Conventional rehabilitation for 60 min/day.",
+        "Perform post-treatment assessment."
+    ]
+}

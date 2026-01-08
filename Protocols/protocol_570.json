@@ -1,0 +1,28 @@
+{
+    "id": 150,
+    "origin_website": "Nature",
+    "title": "Whole Mount X-gal Staining",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Genetics"
+    ],
+    "protocol": [
+        "Isolate the intestine and flush with cold PLP fixative.",
+        "Cut the intestines longitudinally and wash in PBS.",
+        "Cut the intestines into sixths and pin in a dish with villi facing up.",
+        "Incubate in cold PLP fix for 1 hour shaking at room temperature.",
+        "Wash in PBS and incubate in DTT solution for 45 minutes shaking at room temperature.",
+        "Wash in PBS and incubate in \u03b2-gal staining solution overnight shaking in the dark at 4\u00b0C.",
+        "Wash the pinned intestines in PBS.",
+        "Use the stained intestines for whole mount analysis or further processing for sectioning.",
+        "Stain the intestines for \u03b2-gal.",
+        "Score the number of positive villi under a Leica MZ6 dissecting microscope at 20X power.",
+        "Use a 25mm\u00b2 field of view to score the positive villi.",
+        "Each field of view represents 1/28 of each strip of small intestine.",
+        "Each field of view represents 1200 villi in the entire small intestine, which extrapolates to 201,600 villi.",
+        "Count at least 20 \u03b2-gal+ foci for each third of the small intestine.",
+        "Consider nearby \u03b2-gal+ foci independent if not arising from the same crypt and surrounded by non-staining crypts.",
+        "Score adenomas involving multiple villi by whole mount and in cross sections.",
+        "Determine microadenomas involving a single villus by scoring cross sections."
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 1490,
+    "origin_website": "Nature",
+    "title": "<p>Measurement of Trans-Epithelial Electrical Resistance with EVOM2 and Chopstick Electrode</p>",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Sterilize and soak probe in cell culture medium.",
+        "Add 1 mL of cell culture medium to the apical side of each 24 mm Transwell insert.",
+        "Add 500 \u03bcL of cell culture medium to the apical side of each 12 mm Transwell insert.",
+        "Connect the electrode to the meter by inserting the RJ plug into the Input port on the meter.",
+        "Set the Function switch to Ohms and turn the Power on (I).",
+        "Place the electrode in a blank insert with cell media in the basal compartment and PBS in the apical compartment to measure the blank resistance.",
+        "Insert the electrode into the blank cup to obtain a steady reading of the solution resistance.",
+        "Measure the blank resistance.",
+        "Take three resistance readings per insert.",
+        "Subtract the blank resistance from each reading to obtain the tissue resistance value.",
+        "Clean and store the electrode dry when finished.",
+        "Rinse the electrode with distilled water and dry it.",
+        "Make a 1% solution of Tergazyme according to the manufacturer's instructions.",
+        "Suspend the tips of the electrodes in the Tergazyme solution, fully immersing them.",
+        "Soak overnight if not cleaned regularly.",
+        "Soak for 30\u201360 minutes if on a weekly cleaning schedule.",
+        "Soak for 5 minutes if on a daily cleaning schedule.",
+        "Rinse well with distilled or de-ionized water after soaking.",
+        "Allow electrode to air dry and store dry away from sunlight.",
+        "Resurface the probe occasionally by lightly sanding with 600-grit ultra-fine sandpaper."
+    ]
+}

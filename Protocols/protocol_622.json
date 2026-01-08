@@ -1,0 +1,35 @@
+{
+    "id": 736,
+    "origin_website": "Nature",
+    "title": "A protocol for the differentiation of brown adipose progenitors derived from human induced pluripotent stem cells at a high efficiency with no gene transfer",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Maintain undifferentiated hiPSC cells in hiPSC growth medium on 6-well-tissue-culture-grade plates.",
+        "Initiate differentiation of hiPSCs by floating cultivation to form embryoid bodies (EBs).",
+        "Change the hiPSC growth medium without FGF2 at day 3 and then change it daily until day 10.",
+        "Collect the medium containing EBs in a 15 ml conical tube for 15 minutes under the hood.",
+        "Spin the tubes briefly at low speed to increase the number of collected EBs.",
+        "Gently remove the supernatant, add fresh medium, and seed EBs back onto the 6-well-ultra-low attachment plates.",
+        "At day 10, plate EBs from one well of a 6-well-ultra-low-attachment plate onto one gelatin-coated well of a 6-well-tissue-grade-culture plate in hiPSC growth medium.",
+        "Change the medium every day.",
+        "Wash EB outgrowths twice with PBS at day 17.",
+        "Replace the washing solution with hiPSC growth medium after removing PBS.",
+        "Change the medium every day for a week following step 6.",
+        "Passage the cells using trypsin at day 24.",
+        "Split one well of a 6-well plate into a 10 cm tissue culture grade plate.",
+        "Maintain cells in adipose progenitor proliferation medium post-passage, marking this as passage number 1.",
+        "Split cells with a 1:3 split ratio when reaching 80% confluence.",
+        "Repeat the splitting step until achieving a cell population with homogenous CD73 labelling determined by FACS analysis.",
+        "Characterize BAPs in detail using FACS analysis for CD105+/CD90+/CD140a+/CD31-/CD45- markers and real-time PCR for PAX3, DIO2, absence of HOXC8, HOXC9, and HOXA5 expression.",
+        "Plate BAPs at a high density of 1-5x10^4 cells/cm^2 in adipose progenitor proliferation medium.",
+        "When cells reach confluence, determine it as day 0 for differentiation.",
+        "Wash cells once with PBS when cells are confluent.",
+        "Change the adipose progenitor proliferation medium to hiPSC-BAP differentiation medium.",
+        "Change the hiPSC-BAP differentiation medium three days after initiation, omitting IBMX and dexamethasone.",
+        "Change the BAP differentiation medium weekly, omitting IBMX and dexamethasone."
+    ]
+}

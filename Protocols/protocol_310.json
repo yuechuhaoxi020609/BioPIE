@@ -1,0 +1,33 @@
+{
+    "id": 1026,
+    "origin_website": "Nature",
+    "title": "Comparative analysis of metabolism in parasitic worms",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Run Pathway Tools pipeline for each species using Biocyc database.",
+        "Analyze biosynthesis pathways for vitamins and amino acids.",
+        "Compare identified biosynthetic capabilities to identify auxotrophies.",
+        "Remove KEGG pathways not relevant to helminths.",
+        "Include only KEGG pathways with at least one reference pathway for a nematode or platyhelminth species.",
+        "Exclude pathways such as \u2018Carbon fixation in photosynthetic organisms\u2019 even if some enzymes are found in helminths.",
+        "Manually exclude pathways deemed irrelevant, like caffeine metabolism for most helminths studied.",
+        "Define coverage as the fraction of all reference pathway ECs annotated in a given species.",
+        "Calculate coverage for every helminth-relevant KEGG metabolic pathway.",
+        "Compare coverage separately among different groups of worms at the phylum level (platyhelminths and nematodes).",
+        "Compare coverage among subsets within platyhelminths (cestodes and trematodes).",
+        "Compare coverage among subsets within nematodes from different clades.",
+        "Define specific groups such as \u2018Clade IVa-\u2019 for comparisons.",
+        "Perform Wilcoxon tests to compare coverage between worm groups.",
+        "Correct P-values using the Benjamini-Hochberg procedure for significance assignment (P<0.05).",
+        "Measure coverage diversity by calculating the coefficient of variation of pathway coverage among different worm groups.",
+        "Compare coverage diversity across all worms between different \u2018superpathways\u2019 (e.g., combining all \u2018amino acid metabolism\u2019 pathways together).",
+        "Perform Wilcoxon tests over the distribution of coefficient of variation for these comparisons.",
+        "Generate a phylogenetic tree using Ward-linkage based on the Jaccard similarity index for species clustering based on presence/absence of modules.",
+        "Generate a phylogenetic tree using Ward-linkage based on the Jaccard similarity index for species clustering based on lenient presence/absence of modules.",
+        "Species clustering based on presence/absence of ECs is performed using Ward-linkage based on the Jaccard similarity index.",
+        "Generate a phylogenetic tree to identify potential peculiarities in metabolic potential evolution among closely related species."
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 118,
+    "origin_website": "Nature",
+    "title": "Improved genotyping of the dysferlin null mouse",
+    "subjectAreas": [
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Add 0.5 ml Lysis buffer to a 1.5 ml tube containing mouse ear or tail clip and incubate for a minimum of 3 hours to overnight at 55 \u00baC while shaking at 200 rpm.",
+        "After lysis, vortex the tube to disrupt the tissue.",
+        "Spin the mixture at 20,000 g for 10 minutes with hinges oriented to the outside.",
+        "Pipette 500 \u00b5l of isopropanol into a new tube.",
+        "Decant the lysis supernatant into the isopropanol-containing tube after centrifugation.",
+        "Invert the tube several times to mix and incubate at room temperature for at least 5 minutes.",
+        "Spin the mixture at 20,000 g for 10 minutes to pellet the DNA.",
+        "Pour off the supernatant.",
+        "Wash the pellet by adding 0.5 ml of 70% ethanol and vortex briefly.",
+        "Spin the tube at 20,000 g for 5 minutes.",
+        "Pour off the 70% ethanol, invert the tubes and air-dry for 5 minutes.",
+        "Remove residual ethanol with an aspirator.",
+        "Resuspend the DNA in 500 \u00b5l of 10 mM Tris, pH 8.0.",
+        "Shake at 200 rpm at 55 \u00baC for 20 minutes to overnight to facilitate DNA resuspension.",
+        "Vortex all reagents after thawing and spin briefly.",
+        "Keep all reagents on ice until use.",
+        "Prepare the reaction mixture on ice.",
+        "Preset a thermal cycler ready to start the designated program.",
+        "Prepare a Master Mix of PCR reagents for all samples plus two additional reactions, excluding mouse DNA template.",
+        "Mix the components of the Master Mix in the order listed, except for LA Taq enzyme (add last).",
+        "Gently flick the Master Mix tube to mix and spin briefly.",
+        "Dispense 9.5 \u03bcl of Master Mix into each PCR tube for every sample.",
+        "Add 0.5 \u03bcl of DNA samples and controls to corresponding PCR tubes.",
+        "Spin PCR tubes to mix the DNA and PCR Master Mix.",
+        "Place PCR tubes in thermal cycler and run the program shown below.",
+        "Prepare a 0.8% agarose gel using TAE buffer.",
+        "Add 2 \u03bcl Orange G Loading dye to each reaction.",
+        "Electrophorese 4 \u03bcl of amplified product per 5mm wide gel lane with 0.4 ug/ml EtBr in running buffer.",
+        "Run the gel slowly at 100 volts for 30 to 45 minutes to resolve the 4846 bp and 3904 bp bands.",
+        "Document the gel image to interpret genotype.",
+        "Determine the length of the amplified product using the marker standard."
+    ]
+}

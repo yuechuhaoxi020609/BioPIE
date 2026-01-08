@@ -1,0 +1,34 @@
+{
+    "id": 495,
+    "origin_website": "Nature",
+    "title": "Isolating and culturing dendritic cells \\(Dendritic Cell J558 Protocol)",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Expand cells in selection medium without exceeding 1.5 \u2013 2 x 10^6 cells.",
+        "Wash cells twice in medium without G418.",
+        "Freeze cells at 5 x 10^6 per ampoule with 90% FCS and 10% DMSO.",
+        "Thaw a vial by washing in medium without G418 once.",
+        "Inoculate a 175 cm\u00b2 flask in 50 ml of medium with 5% FCS without G418.",
+        "Seed cells into 500 ml of medium with 5% FCS without G418 at 2 x 10^5 cells/ml when enough cells are present, approximately after 3 days.",
+        "Collect conditioned medium by centrifuging culture for 5 min at 1300 rpm after 3 more days.",
+        "Filter the supernatant through a 0.22 \u03bcm filter.",
+        "Re-seed cells at 2 x 10^5 cells/ml in about 3 L of medium with 5% FCS without G418 for further conditioned medium production.",
+        "Collect conditioned medium as above after another 3 days.",
+        "Rebuild a 3-day conditioned medium with cells recovered.",
+        "Discard the cells after use.",
+        "Keep the conditioned medium at 4\u00b0C for up to 4 months.",
+        "Aliquot and freeze the conditioned medium at -80\u00b0C for longer storage.",
+        "Ensure GM-CSF concentration in ELISA is more than 20 ng/mL.",
+        "Do not filter the supernatant more than once.",
+        "Prepare Complete Iscove\u2019s Modified Eagle's Medium (IMEM) by adding:",
+        "5 mL of Pen/Strep.",
+        "5 mL of L-glutamine.",
+        "0.5 mL of \u03b2-mercaptoethanol.",
+        "Heat inactivate Special DC FCS from South American origin, tested best for DCs.",
+        "Add 50 mL of the heat-inactivated FCS to IMEM.",
+        "Combine with GM-CSF as required.",
+        "Use Ike's frozen FBS aliquots for the preparation."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 32,
+    "origin_website": "Nature",
+    "title": "Method for full protein sequence mapping: LC-MS sample preparation",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biological Techniques",
+        "Biochemistry",
+        "Structural Biology"
+    ],
+    "protocol": [
+        "Denature protein samples prior to protease digestion.",
+        "Treat the denatured protein with DTT to break disulfide linkages between cysteine residues.",
+        "Modify reactive cysteine -SH groups with iodoacetamide to prevent disulfide bond reformation.",
+        "Digest proteins using endoproteinase Lys-C to cleave on the c-terminal side of lysine.",
+        "Digest proteins using trypsin to cleave on the c-terminal side of lysine and arginine amino acids.",
+        "Since maximal amino acid coverage of the protein is required, it is best to digest the sample with several proteases.",
+        "Determine the appropriate cleavage sites for Glu-C protease on the c-terminal side of glutamic acid and aspartic acid residues.",
+        "Select chymotrypsin protease to cleave specifically on the c-terminal side of tyrosine, phenylalanine, and tryptophan amino acids.",
+        "Consider that chymotrypsin will less frequently act on leucine, methionine, alanine, aspartic acid, and glutamic acid residues.",
+        "Choose proteases to yield peptides from 600-6000 Da.",
+        "Maximize the coverage of potential phosphorylation sites in the protein."
+    ]
+}

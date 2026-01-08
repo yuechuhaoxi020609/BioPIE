@@ -1,0 +1,40 @@
+{
+    "id": 1106,
+    "origin_website": "Nature",
+    "title": "<p>Plating and imaging of yeast colonies for segmentation and classification with neural networks</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Genetics",
+        "Molecular Biology",
+        "Computational Biology And Bioinformatics",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Mix 1.0 l ddH\u2082O, 5.0 g Yeast Extract, 30.0 g \u03b1-D-Glucose, and 20.0 g Agar until all powder clumps disperse.",
+        "Autoclave the mixture at 121\u00b0C for 20 min.",
+        "Cool down the autoclaved mixture to 50\u00b0C under constant stirring.",
+        "If desired, add antibiotics and stir for 2 min to ensure a homogeneous mixture.",
+        "Pour 20 ml of autoclaved agar media into each 10 cm plate.",
+        "After solidification (approximately 20 min at room temperature), transfer plates upside down into plastic bags.",
+        "Store the plates in a cold room until use or up to two months.",
+        "Measure optical density (OD) of liquid culture.",
+        "Dilute samples to 100 cells/ml.",
+        "Pipette 1 ml onto a cover slip and recount under a microscope.",
+        "Dilute to 500 cells/100 ml (per plate).",
+        "Homogeneously distribute 100 ml/plate with glass beads.",
+        "Transfer cells from a plate into a 1 ml H2O containing Eppendorf tube using a pipette tip.",
+        "Mix well by vortexing.",
+        "Dilute 1:100.",
+        "Pipette 1 ml onto a cover slip and count cells under the microscope.",
+        "Dilute to 500 cells/100 ml (per plate).",
+        "Homogeneously distribute 100 ml/plate with glass beads.",
+        "Incubate plates upside down at 30\u00b0C for 5-7 days.",
+        "Place plate on a dark black background.",
+        "Adjust camera height or zoom so the entire plate fits into one image.",
+        "Run the classification pipeline as described in (Carl et al; bioRxiv, doi: https://doi.org/10.1101/801845).",
+        "Download and install the required python packages.",
+        "Download the classification pipeline script.",
+        "Place all images that you would like to classify into the same folder.",
+        "Run the pipeline as described on the github page."
+    ]
+}

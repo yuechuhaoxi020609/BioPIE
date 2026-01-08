@@ -1,0 +1,21 @@
+{
+    "id": 677,
+    "origin_website": "Nature",
+    "title": "Isolation of human NK subsets",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Isolate peripheral blood lymphocytes from different healthy donors using Ficoll gradients.",
+        "Isolate NK cells using the NK isolation kit II (Miltenyi Biotec).",
+        "Sort 100 X 10^6 cells enriched for CD56+CD3-NK cells to purify CD56dimCD16+CD3- and CD56brightCD16-CD3- subsets.",
+        "Subject isolated pbNK cells to the same isolation protocol used for dNK cells to rule out methodological differences.",
+        "Wash cells in PBS supplemented with 2% FCS.",
+        "Incubate cells with mAb on ice for 30 min.",
+        "Wash cells twice.",
+        "Cell sort and measure fluorescence on a MoFlo high performance cell sorter.",
+        "Collect data from single cell events using a standard FACScaliburTM flow cytometer.",
+        "Highly purify peripheral blood NK subsets to obtain CD56dimCD16+CD3- (pbCD16+ NK) and CD56brightCD16-CD3- (pbCD16-) subsets.",
+        "Perform intracellular staining with a Cytoperm-Cytofix Intracellular Staining kit according to the manufacturer\u2019s instructions."
+    ]
+}

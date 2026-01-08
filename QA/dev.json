@@ -1,0 +1,1502 @@
+[
+    {
+        "question": "When performing the Cloning BRD4 long isoform experiment, after running the digestion product at 100 V for 35\u201340 minutes, what substance should have the 0.8% concentration?",
+        "answer": "agarose gel",
+        "sentence": "Run the digestion product in a 0.8% agarose gel using 100 V for 35\u201340 minutes.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Simple, Affordable, and Modular Patterning of Cells using DNA experiment, if we need to prepare a solution containing 2% DNase, what property or characteristic does the intended culture application have?",
+        "answer": "optional",
+        "sentence": "Prepare hydrogel precursor solution containing 2% DNase for 3D culture (optional).",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Isolation of human and mouse myeloid-derived suppressor cells for metabolic analysis experiment, given that the KHB Assay Working Solution is at 1\u00d7 concentration, what should be left in order to achieve machine calibration?",
+        "answer": "well",
+        "sentence": "Leave one well at each corner of the plate blank, containing only 180 \u03bcL of the 1\u00d7 KHB Assay Working Solution without any cells for machine calibration.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Generation and application of TGF\u03b2-educated human V\u03b39V\u03b42 T cells experiment, before resuspending cells into Ut tube 1 with 250 \u03bcL PBS, what step should be performed first?",
+        "answer": "Discard",
+        "sentence": "Discard PBS and resuspend cells in Ut tube 1, Ut tube 2, and Td tube 1 in 250 \u03bcL PBS.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Metabolic analysis of mouse bone-marrow-derived dendritic cells experiment, after placing the LS column into the magnetic field, what device or equipment does this magnetic field originate from?",
+        "answer": "MACS Separator",
+        "sentence": "Place an LS column in the magnetic field of the MACS Separator.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Identifying novel p53-target genes experiment, given that we have females with confirmed pregnancy and males that have been co-housed, what operation should be performed on the pregnancy rate?",
+        "answer": "Calculate",
+        "sentence": "Calculate pregnancy rate as the ratio of females with confirmed pregnancy to total number of female mice co-housed with males.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Identification of genes directly regulated by a transcription factor in rice experiment, after preparing Buffer A by mixing 3.2 ml of 2-methyl-2,4-pentanediol and 17.7 \u00b5l of \u03b2-mercaptoethanol, what concentration of sodium phosphate buffer should be mixed together with the 500 \u00b5l NaCl?",
+        "answer": "10 mM",
+        "sentence": "Prepare Buffer A by mixing 250 \u00b5l sodium phosphate buffer (10 mM, pH7), 500 \u00b5l NaCl (100 mM), 3.2 ml of 2-methyl-2,4-pentanediol, and 17.7 \u00b5l of \u03b2-mercaptoethanol.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Fabrication and Implementation of a Reference-Free Traction Force Microscopy Platform experiment, if we use media containing antibiotics and then rinse with normal media, what procedure is being done to achieve sterility of the hydrogel?",
+        "answer": "concern",
+        "sentence": "(Optional) Incubate the hydrogel for 24 h in media containing antibiotics followed by rinsing with normal media if sterility of the hydrogel is a concern.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Efficient generation of site-specific point mutations experiment, after centrifugation, when carefully decanting the supernatant into a beaker, what property or condition should the bleach have?",
+        "answer": "inside the tissue culture hood",
+        "sentence": "After centrifugation, carefully decant the supernatant into a beaker with bleach inside the tissue culture hood.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the GENPLAT experiment, if we want to produce proteins from Pichia pastoris by transforming them into P. pastoris, what kind of nucleic acid structure should the genes be cloned into before the transforming step?",
+        "answer": "pPICZ\u03b1",
+        "sentence": "Produce proteins in Pichia pastoris by cloning genes into vectors pPICZ or pPICZ\u03b1 and transforming them into P. pastoris.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Optimized protocol for live imaging of overnutrition-elicited interactions between immune cells and \u03b2 cells in zebrafish experiment, given that we need to follow the reference manual, what should we track according to it?",
+        "answer": "movement",
+        "sentence": "Track the movement of macrophages or neutrophils according to the reference manual.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for preparing sensor molecules and analyzing heterotypic endomembrane fusion experiment, after obtaining the diluted DNA-P3000 mixture, to what should it be added?",
+        "answer": "Lipofectamine 3000 reagent",
+        "sentence": "Add the diluted DNA-P3000 mixture to the diluted Lipofectamine 3000 reagent.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Easy-DHPSF 2.0 experiment, if the process is prompted by the program, what should be used during this step?",
+        "answer": "different calibration",
+        "sentence": "A different calibration may be used during this step if prompted by the program.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Spatiotemporal characterization of endothelial cell motility experiment, given that cells are detached using phase contrast imaging, what process or action is being verified through this imaging method?",
+        "answer": "Ensure",
+        "sentence": "Ensure cells have detached from the surface of the hydrogel through phase contrast imaging.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Imaging-Guided Bioreactor for Generating Bioengineered Airway Tissue experiment, if we use optical cage system components that include the cage cube and threaded cage plate, to what kind of device should we mount the components?",
+        "answer": "dual-edge super-resolution dichroic mirror",
+        "sentence": "Mount a filter lens on a dual-edge super-resolution dichroic mirror and a laser to the device using optical cage system components, including assembly rod, threaded cage plate, and cage cube.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for high-throughput electron tomography experiment, given that the main window contains the buffer control menu, what should be clicked from the buffer control menu?",
+        "answer": "\u2018 New window \u2019",
+        "sentence": "Click \u2018 New window \u2019 in the buffer control menu of the main window.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Integrative analysis of mitochondrial metabolic dynamics experiment, after determining Ay (the amount of metabolite in samples) and knowing that samples contain metabolite and have been added, what else needs to be determined?",
+        "answer": "Sy",
+        "sentence": "Determine Ay (amount of metabolite in samples) and Sy (amount of samples added).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Library construction and imaging for high-throughput image-based screening using multiplexed FISH experiment, given that we need to normalize for each color channel and round, what property or state should the intensity have that we are normalizing?",
+        "answer": "observed",
+        "sentence": "Normalize intensity observed for each color channel and round by the mean intensity observed for that color channel and round across all fields of view.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Multiplexed imaging and effluent analysis to monitor cancer cell intravasation experiment, given that we leave about 100 \u03bcL of supernatant in each tube, what is the purpose or goal of leaving this amount?",
+        "answer": "cell resuspension",
+        "sentence": "Leave about 100 \u03bcL of supernatant in each tube for cell resuspension.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Fabrication of a Biomimetic Nano-Matrix experiment, after filtering the volatiles, what substance is obtained as the goal of the evaporation step?",
+        "answer": "crude product",
+        "sentence": "Filter and evaporate the volatiles under vacuum to obtain the crude product.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Manganese Oxide Nanoparticle Synthesis experiment, given that we need to add 200 proof ethanol to the nanoparticle mixture, what parameter or ratio should be used for this addition?",
+        "answer": "volume ratio of 2:1",
+        "sentence": "Add 200 proof ethanol to the nanoparticle mixture using a volume ratio of 2:1.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Modified Drop Tower Impact Tests for American Football Helmets experiment, what should the configuration of the data acquisition system be based on?",
+        "answer": "manufacturer's specifications",
+        "sentence": "Configure the data acquisition system according to manufacturer's specifications.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Microfluidic platform experiment, given that the inverted microscope contains a 10\u00d7 objective lens and using an attached high-speed camera, what property should the microdroplets have in order to be recorded?",
+        "answer": "highly homogeneous",
+        "sentence": "Record highly homogeneous microdroplets with a high-speed camera attached to an inverted microscope with a 10\u00d7 objective lens.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the intravital microscopy protocol for imaging Trypanosoma brucei-host interactions, given that loose adherence to the lung surface is achieved via 20\u201325 mmHg of reversible vacuum, what structure should be made using the 15\u201320 mm diameter round coverslip?",
+        "answer": "window",
+        "sentence": "Use a round coverslip (#1.5, 15\u201320 mm diameter) to make a window allowing loose adherence to the lung surface via 20\u201325 mmHg of reversible vacuum.",
+        "hopnum": 3
+    },
+    {
+        "question": "When performing the Microbial Control and Monitoring Strategies for Cleanroom Environments and Cellular Therapies experiment, given that the materials are terminally sterilized and contained in multiple bags, what should be removed?",
+        "answer": "outer bag/pouch",
+        "sentence": "Remove the outer bag/pouch if the materials have been terminally sterilized and are in multiple bags.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Direct Conversion of Adult Human Fibroblasts into Induced Neural Precursor Cells experiment, after adding fibroblast proliferation media, what state or condition should the cells be in?",
+        "answer": "loose",
+        "sentence": "As soon as all cells are loose, add fibroblast proliferation media.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the In vitro and in vivo assay of the ER lipid scramblase TMEM41B experiment, given that we have recombinant FLAG-TMEM41B protein and use 1\u00d7 EDTA-free Roche complete protease inhibitor cocktail, if the elution process involves rotating at 10 rpm, what concentration of FLAG peptide should be used?",
+        "answer": "0.1 mg/mL",
+        "sentence": "Elute recombinant FLAG-TMEM41B protein from the ANTI-FLAG M2 beads using 500 \u03bcL of 0.1 mg/mL FLAG peptide in buffer B supplemented with 1\u00d7 EDTA-free Roche complete protease inhibitor cocktail at 4\u00b0C for 2 h rotating at 10 rpm.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Automation of Bio-Atomic Force Microscope Measurements experiment, given that we have extracted information, what operation should be performed on the .tsv files?",
+        "answer": "Load",
+        "sentence": "Load .tsv files containing extracted information from data processing software.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Tandem affinity purification protocol experiment, after mixing the 2 mL flow-through fraction, what concentration of CaCl2 should be used to titrate the EDTA that is present?",
+        "answer": "1 M",
+        "sentence": "Mix 2 mL of flow-through fraction and 6 \u03bcL of 1 M CaCl2 to titrate the EDTA present in TCB.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Superior Auto-Identification of Trypanosome Parasites experiment, to commence model training by clicking on the GenTrain button, which tool contains this button?",
+        "answer": "ClassifTrain tool",
+        "sentence": "Commence model training by clicking on the GenTrain button of the ClassifTrain tool.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Robotic Mirror Therapy System experiment, after establishing the chosen reference, what should be reset based on it?",
+        "answer": "other sensor coordinate frames",
+        "sentence": "Reset other sensor coordinate frames based on the chosen reference.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Cellular Affinity of Particle-Stabilized Emulsion experiment, after clicking on the Acquisition toolbar, what action should be performed on Setup Measurement?",
+        "answer": "select",
+        "sentence": "Click on the Acquisition toolbar and select Setup Measurement.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the genome-scale analysis of replication timing experiment, after outputting \"Current window:\" and a new line character, what else should be output?",
+        "answer": "x value",
+        "sentence": "Output \"Current window:\" followed by x value and a new line character.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Monitoring the Wall Mechanics During Stent Deployment experiment, if we spray the area of interest as part of the preparation method, what object are we preparing?",
+        "answer": "latex vessel",
+        "sentence": "Prepare the latex vessel by spraying the area of interest with a stochastic pattern of white and black spray paint or marking it with random dots using permanent marker.",
+        "hopnum": 3
+    },
+    {
+        "question": "When performing the Generation of recombinant vaccinia virus experiment, if we use an incubator with 0.05% CO2 to incubate the cells, what parameter should we set for the incubation process?",
+        "answer": "24 hours",
+        "sentence": "Incubate the cells in a 37\u00b0C, 0.05% CO2 incubator for 24 hours.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the High-throughput Protein Expression Generator experiment, after closing the 'button' valve, what substance should be flowed in the next step?",
+        "answer": "rest",
+        "sentence": "Close the 'button' valve and flow the rest of the biotinylated-BSA (as described above).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the High-throughput Identification of Bacteria Repellent Polymers experiment, after extending the depth of field, what object should the single image created from flattening Z-stacked images represent?",
+        "answer": "catheter piece",
+        "sentence": "Flatten the Z-stacked images in the Z plane using an analysis software to extend depth of field and create a single image of a catheter piece.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Tunable Hydrogels from Pulmonary Extracellular Matrix for 3D Cell Culture experiment, given that the incubation temperature is 37 \u00b0C and the hydrogels are in a formed state, what volume of media should be added before incubation?",
+        "answer": "100 \u00b5l",
+        "sentence": "Add 100 \u00b5l of media to the top of formed hydrogels and incubate at 37 \u00b0C.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Formation of blastoids from mouse embryonic and trophoblast stem cells experiment, after starting the blastoid experiment and defrosting the vial, what material should be used for plating?",
+        "answer": "medium #3",
+        "sentence": "Defrost one vial when starting a blastoid experiment and plate it on Matrigel\u00ae in medium #3.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Protocol for using artificial lipid droplets to study the binding affinity of lipid droplet-associated proteins experiment, using the Coomassie Brilliant Blue Staining method, what should be detected?",
+        "answer": "protein expression",
+        "sentence": "Detect protein expression by Coomassie Brilliant Blue Staining.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Detection of membrane-anchoring lipid modifications experiment, if we need to carefully monitor the orientation of top vs. bottom sides during the air drying process, what substance should we be air drying?",
+        "answer": "PVDF membrane",
+        "sentence": "Air dry the PVDF membrane on filter paper, carefully monitoring the orientation of top vs. bottom sides.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Tandem affinity purification experiment, after rapidly adding 275 \u03bcl of 36.5% formaldehyde (Sigma, ref. F8775) directly to each dish and mixing well, into what should the formaldehyde be added?",
+        "answer": "culture medium",
+        "sentence": "Rapidly add 275 \u03bcl of formaldehyde 36.5% (Sigma, ref . F8775) to each dish directly into the culture medium and mix well.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Microfluidic Chip for ICPMS Sample Introduction experiment, after measuring the ions and aiming to obtain the detection efficiency, what should be used as the basis for the division calculation?",
+        "answer": "number of atoms",
+        "sentence": "Divide the number of measured ions per droplet by the number of atoms to obtain the detection efficiency.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Handling and Assessment of Human Primary Prostate Organoid Culture experiment, after re-suspending the organoid pellet, what volume or property should the liquid histology gel have?",
+        "answer": "30\u201350 \u03bcL",
+        "sentence": "Re-suspend the organoid pellet in 30\u201350 \u03bcL of liquid histology gel.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Sonication-based Circular Chromosome Conformation Capture experiment, where should the 5 \u00b5l End-Repair Enzyme Mix be added to?",
+        "answer": "end-blunting reaction mix",
+        "sentence": "Add 5 \u00b5l of End-Repair Enzyme Mix to the end-blunting reaction mix.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Long-term SCN calcium signal recording in freely moving mice experiment, given that sodium pentobarbital is administered via intraperitoneal injection, what procedure should be performed on the mice?",
+        "answer": "Anesthetize",
+        "sentence": "Anesthetize mice by intraperitoneal injection of sodium pentobarbital.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Novel Process for 3D Printing Decellularized Matrices experiment, after setting the temperature to 65-70 \u00b0C and preparing to deposit the custom filament layer-by-layer using the machine, at what speed should we begin the print?",
+        "answer": "linear speed",
+        "sentence": "Begin the print at 65-70 \u00b0C and 300 mm/min linear speed as the custom filament is deposited layer-by-layer by the machine.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Agonist and antagonist TRUPATH assays experiment, given that the average ratio-value comes from the minimum signal wells containing DMSO, what is the purpose of using this average ratio-value?",
+        "answer": "normalize",
+        "sentence": "Using the average ratio-value from the minimum signal wells (DMSO only) as 0%, normalize the change in BRET ratio with compound treatment.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for constructing large size human antibody heavy chain variable domain (VH) library experiment, if the phage yields less than 10^12 after purification, what number or quantity of phage should be used?",
+        "answer": "> 10^11",
+        "sentence": "Use> 10^11 phage if previous purification yields less than 10^12 phage.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Microfluidic Synthesis of Microgel Building Blocks experiment, if we use filtered air as one of the reagents, what method or technique should be applied for the removal process?",
+        "answer": "tape",
+        "sentence": "Remove dust from the glass slides using tape, filtered air, or isopropyl alcohol (IPA) washes.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Protocol to package and concentrate adeno-associated virus serotype 8 experiment, after calculating the AAV8 physical titer, what substance or tool should have the plotted property?",
+        "answer": "standard curve",
+        "sentence": "Calculate the AAV8 physical titer using the plotted standard curve.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Molecular Entanglement and Electrospinnability of Biopolymers experiment, given a gap of 0.053 mm, what object should be lowered to set the position for the 25 mm cone?",
+        "answer": "probe",
+        "sentence": "Lower the probe to set the position with a 0.053 mm gap for the 25 mm cone.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the SEQUIN imaging and analysis platform experiment, after identifying the new batch that contains images from the folder to be processed, what action should be taken after right-clicking on the batch?",
+        "answer": "select",
+        "sentence": "Right click the new batch and select \u201c Run Batch \u201d to run on all images in the folder.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Automated Lipid Bilayer Membrane Formation experiment, to formulate a lipid solution using 0.1% DPhPC lipid, what proportion or property should the squalene have in the mixture used for dissolving?",
+        "answer": "2:8",
+        "sentence": "Dissolve 0.1% DPhPC lipid in a mixture of 2:8 squalene and hexadecane to formulate lipid solution for membrane formation.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Qualitative growth potential test for brackish Vaucheria species experiment, after placing the tissue culture flask in the climate room for at least 6 weeks, what is the purpose or goal of this placement step?",
+        "answer": "incubation",
+        "sentence": "Place the tissue culture flask in the climate room for incubation for at least 6 weeks.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Metabolic Glycoengineering of Sialic Acid experiment, after using liquid nitrogen for the freezing step and knowing the material should be completely dried, what substance should be lyophilized in the next step?",
+        "answer": "it",
+        "sentence": "Rapidly freeze the solution using liquid nitrogen and lyophilize it for 48 hours or until completely dried.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Efficient Generation and Editing of Feeder-free IPSCs from Human Pancreatic Cells experiment, after the clones have grown and undergone duplication (or expansion), what is the next step to perform?",
+        "answer": "Extract",
+        "sentence": "Extract genomic DNA from grown clones after duplication or expansion.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Experimental Investigation of Secondary Flow Structures Downstream of a Model Type IV Stent Failure experiment, after combining or assembling the curved left and right turning helices about a common axis, what should be subtended at the origin?",
+        "answer": "angle",
+        "sentence": "Generate a curved stent geometry combining or assembling the left and right turning helices curved about a common axis (R) and subtending an angle at the origin (Figure 1B).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Characterizing interaction between juxtamembrane region and membrane experiment, after preparing ddH2O, what concentration of TFA should be contained in the HPLC grade acetonitrile?",
+        "answer": "0.1% v/v",
+        "sentence": "Prepare ddH2O containing TFA (0.1% v/v) and acetonitrile (HPLC grade) containing TFA (0.1% v/v).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Two-group comparison of gene signatures experiment, after activating the 'Input' window, what is the purpose or outcome that entering data is meant to ensure?",
+        "answer": "proper comparison",
+        "sentence": "Activate the 'Input' window before entering data to ensure proper comparison.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the live imaging of mammalian retina ex vivo experiment, after arranging the small pool over the immersion objective, what object should be immersed into it?",
+        "answer": "whole semi-cup",
+        "sentence": "Alternatively, immerse the whole semi-cup in a small pool arranged over the immersion objective of the microscope.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Analyzing mouse neural stem cell and progenitor cell proliferation experiment, if we want to set the thresholds for positively stained cells, what should we use to accomplish this?",
+        "answer": "isotype control tube",
+        "sentence": "Use the isotype control tube to set the thresholds for positively stained cells for NG2, CD140a, CD15, and CD133.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Real-time intravital microscopy experiment, using 3\u00d7 digital zoom for sampling, what type of structures or regions should have the vascularized property?",
+        "answer": "FOVs",
+        "sentence": "Sample all vascularized FOVs within the field at 3\u00d7 digital zoom.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Production and purification of recombinant monoclonal antibodies experiment, if we collect something at a rate of 1 mL/min into a sterile glass bottle, what substance should we be collecting?",
+        "answer": "flow-through",
+        "sentence": "Collect the flow-through at a rate of 1 mL/min into a sterile glass bottle.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Bioinspired Soft Robot with Incorporated Microelectrodes experiment, for the coated glass slides that need to be stored, what parameter or condition should be applied during storage?",
+        "answer": "room temperature",
+        "sentence": "Store coated glass slides wrapped in aluminum foil at room temperature.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Agarose-based Tissue Mimicking Optical Phantoms experiment, while avoiding bubble formation, during what action should this precaution be taken?",
+        "answer": "Inject",
+        "sentence": "Inject the mixture slowly into the dermal phantom mold, avoiding any bubble formation.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Three-dimensional Printing experiment for microfluidic applications, given that a stereomicroscope contains eye-pieces, what should be attached to the eye-pieces?",
+        "answer": "Attach",
+        "sentence": "Attach a camera module made for the single-board computer to one of the eye-pieces of a stereomicroscope.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Immunofluorescence microscopy-based detection of ssDNA foci experiment, what method or protocol should be followed to prepare the Click-iT reaction mixture?",
+        "answer": "manufacturer \u2019 s protocol",
+        "sentence": "Prepare Click-iT reaction mixture according to the manufacturer \u2019 s protocol.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Correlative Light Electron Microscopy experiment, with cells placed facing upwards, what type of object should have the patterned property?",
+        "answer": "sapphire disc",
+        "sentence": "Place a patterned sapphire disc with alphanumeric etchings on the flat side of a \"B\" carrier, cells facing upwards.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the mRNA Synthesis and Encapsulation in Ionizable Lipid Nanoparticles experiment, when adding lithium chloride to the reaction, what concentration should the lithium chloride have?",
+        "answer": "6 M",
+        "sentence": "Add half the sample volume of 6 M lithium chloride to the reaction.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Library Preparation for small RNA sequencing using 4N adapters experiment, given that we need to add to a 12.5 \u03bcL RT reaction, what volume of RNA/primer should be added?",
+        "answer": "7 \u03bcL",
+        "sentence": "Add 7 \u03bcL denatured RNA/primer to a total of 12.5 \u03bcL RT reaction.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Live-cell imaging and analysis of actin-mediated mitochondrial fission experiment, after adding the combined mixture to the incubated cells on the 35 mm glass-bottom dish, what is the next step to perform?",
+        "answer": "swirl",
+        "sentence": "Add 250 \u03bcL of the combined mixture to the cells incubated on a 35 mm glass-bottom dish, and gently swirl for 2 seconds to mix solutions.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Experimental Methods to Study Human Postural Control experiment, what properties or specifications should the Butterworth low-pass filter have?",
+        "answer": "8th order",
+        "sentence": "Design an 8th order Butterworth low-pass filter with a corner frequency of 50 Hz.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Scalable generation of 3D pancreatic islet organoids experiment, for the last set of 24-well plates that need to be pre-filled, what volume or property should the TrypLE reagent have?",
+        "answer": "1 mL/well",
+        "sentence": "Pre-fill the last set of 24-well plates with TrypLE (1 mL/well).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the FACS protocol for direct comparison of cell populations isolated from mice experiment, after making adjustments, what should be re-run to ensure the gates are correctly established?",
+        "answer": "samples",
+        "sentence": "Re-run samples after making adjustments to ensure gates are correctly established.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Creating Adhesive and Soluble Gradients for Imaging Cell Migration experiment, after setting the row and column separation to 10-15 \u03bcm, where should the dots be printed?",
+        "answer": "line",
+        "sentence": "Print dots in a line with row and column separation set to 10-15 \u03bcm.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Hybrid \u00b5CT-FMT imaging experiment, if we are working with a small number of animals, what reagent should we use to test tolerance on new mouse strains?",
+        "answer": "hair removal cream",
+        "sentence": "Test tolerance of new mouse strains with hair removal cream on a small number of animals.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the in vitro bovine embryo production experiment, using a hemostat to hold the ovary tightly, what structure should be clamped?",
+        "answer": "utero-ovarian ligament",
+        "sentence": "Clamp the utero-ovarian ligament using a hemostat so that the ovary is held tightly.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Surgically produced, controllable immunocompromised pigs experiment, given that we need to prevent the tube from coming out of the stomach, what operation should be performed on the purse-string suture?",
+        "answer": "Perform",
+        "sentence": "Perform purse-string suture to prevent the tube from coming out of the stomach.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Global Run-On sequencing experiment, after we need to perform PCR amplification, what reagent or conditions should be used?",
+        "answer": "conditions",
+        "sentence": "Perform PCR amplification using conditions specified in table: files/protocols_protocol_1210_13.csv.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Co-culture of primary human T cells with leukemia cells experiment, given that the IgG1 isotype control is used at 40 \u03bcL, what outcome or parameter is the treatment aiming to reach?",
+        "answer": "final concentration of 20 \u03bcg/mL",
+        "sentence": "Treat each cell line with 40 \u03bcL of a 0.5 \u03bcg/\u03bcL working solution of neutralizing \u03b1-ICOSLG antibody or IgG1 isotype control to reach a final concentration of 20 \u03bcg/mL.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for extracting live blastoderm cells from embryos of annual killifish experiment, if we want to ensure adhesion and squeeze out air bubbles, what method or tool should be used during the pressing step?",
+        "answer": "Gently",
+        "sentence": "Gently press the slab against the surface of the dish using tweezers to ensure adhesion and squeeze out air bubbles between the two layers.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Rodent EAE model experiment, after stirring the fixative, at what temperature should the heating step be carried out?",
+        "answer": "60\u00b0C",
+        "sentence": "Stir and heat the fixative at 60\u00b0C for approximately 1.5 hours on a magnetic hotplate.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Tissue-Engineered Graft for Circumferential Esophageal Reconstruction experiment, to create an orifice with the 3 mm specification, what device or instrument should be used?",
+        "answer": "scalpel blade",
+        "sentence": "Create a 3 mm orifice in the anterior gastric wall with a scalpel blade.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Construction of Modular Hydrogel Sheets experiment, after spraying the cross-linking reagent for 30 sec, onto what target should the spray be directed?",
+        "answer": "multi-layer construct",
+        "sentence": "Spray a mist of the cross-linking reagent for 30 sec onto the multi-layer construct.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Cell-Free Protein Synthesis from Exonuclease-Deficient Cellular Extracts experiment, during the K-glu calibration process, what range of values does the 200 concentration belong to?",
+        "answer": "120",
+        "sentence": "Proceed to K-glu calibration for a range of concentrations (20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, and 240 mM) using the same volumes indicated in step.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Interfacing Microfluidics with Microelectrode Arrays experiment, in order to confine the dissection area, what property should the disposable diaper have?",
+        "answer": "clean",
+        "sentence": "Use a clean disposable diaper to confine the dissection area.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Patch clamp recording from bipolar cells experiment, given that we use a large transfer pipette and the dish is 35 mm containing HEPES solution, what property or form should the tissue have when being transferred?",
+        "answer": "piece",
+        "sentence": "Transfer a piece of tissue onto a coverslip with grease rails in a 35 mm dish with HEPES solution using a large transfer pipette.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Long-term Live Imaging Device experiment, to release the PDMS pull tab from the mold, what device or tool should be used?",
+        "answer": "flat-tipped tweezers",
+        "sentence": "Release the PDMS pull tab from the mold using flat-tipped tweezers.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for mouse trophoblast stem cell isolation experiment, after removing the TS medium, what is the next step that should be performed?",
+        "answer": "add",
+        "sentence": "Remove TS medium from wells on the day of passaging and add 1.5 mL TS + 1.5\u00d7 F4H medium.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Sensitive Detection of Proteopathic Seeding Activity with FRET Flow Cytometry experiment, after adjusting the voltages, from which sources should the median cell population values fall between 0 and 1?",
+        "answer": "FRET histograms",
+        "sentence": "Adjust voltages such that the median cell population in the CFP, YFP, and FRET histograms are between 0 and 1.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for evaluating CD8+ T cell-mediated immunity experiment, after preparing the 1 \u00d7 Perm/wash buffer in the required volume, where should we add it to?",
+        "answer": "tube",
+        "sentence": "Add required volume of 1 \u00d7 Perm/wash buffer to a new tube labeled with intracellular staining solution.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Optimized protocol for quantification of mitochondrial iron content experiment, given that we normalize values by dividing the iron amount in 1 \u03bcL of sample by the protein amount in 1 \u03bcL, what procedure or measurement uses the BCA method?",
+        "answer": "assessed",
+        "sentence": "Normalize values by dividing the amount of iron in 1 \u03bcL of sample by the amount of protein in 1 \u03bcL assessed by BCA method.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Ultrahigh-throughput Microfluidic Platform for Single-cell Genome Sequencing experiment, if syringes containing HFE need to be connected to the microfluidic device inlets, what device or material should be used to make this connection?",
+        "answer": "PE tubing",
+        "sentence": "Connect syringes loaded with HFE and PCR mix to the microfluidic device inlets using PE tubing.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Agarose-based Tissue Mimicking Optical Phantoms experiment, given that we need to place something at the sample port and the slide glasses are two in number, what condition or state should the epidermal phantom be in when placed there?",
+        "answer": "sandwiched",
+        "sentence": "Place the epidermal phantom sandwiched by two slide glasses at the sample port.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Cell Patterning on Photolithographically Defined Parylene-C: SiO2 Substrates experiment, what operation should be applied to the parylene in its unprotected state?",
+        "answer": "Etch",
+        "sentence": "Etch off the unprotected parylene using an oxygen plasma etch system.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Purification of Recombinant Galectins experiment, while keeping the sample in place, what action should be performed?",
+        "answer": "tube",
+        "sentence": "Perform a 30-second sonication cycle on the first tube while keeping it on ice.",
+        "hopnum": 1
+    },
+    {
+        "question": "",
+        "answer": "Make",
+        "sentence": "Make fresh daily a 25 mg/mL nalidixic acid stock by dissolving the powder into 0.3 M NaOH.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Earthworm Microinjection Vasculature Model experiment, after adding saline onto the wick, what process or action does the reference wire serve as a goal for?",
+        "answer": "acts",
+        "sentence": "Add saline onto the wick, which acts as a reference wire for the impedance meter.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for in vitro lysine deacetylation experiment, given that we need to demonstrate the deacetylation of the substrate of interest using four reactions, what action should be taken to achieve this demonstration?",
+        "answer": "Prepare",
+        "sentence": "Prepare four reactions below to demonstrate deacetylation of the substrate of interest.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Registered Bioimaging of Nanomaterials experiment, given that the completion of the acquisition depends on respiration rate, how long should the acquisition process take?",
+        "answer": "approximately 20-40 minutes",
+        "sentence": "Complete the acquisition in approximately 20-40 minutes, depending on respiration rate.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Isolation of Total RNA with the Life Technologies PureLink Kit experiment, after preparing fresh lysis buffer immediately before use, to what should the 1% 2-mercaptoethanol be added?",
+        "answer": "it",
+        "sentence": "Prepare fresh lysis buffer immediately before use by adding 1% 2-mercaptoethanol to it.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the RNA SPOTs experiment, given that the RNA Binding Buffer contains 40mM pH7.5 Tris-HCl, 2mM EDTA, and 20U SUPERase from RNase Inhibitor, and also contains 1M LiCl, what concentration or property should the Triton X-100 in this buffer have?",
+        "answer": "0.1%",
+        "sentence": "Prepare RNA Binding Buffer containing 1M LiCl, 40mM pH7.5 Tris-HCl, 2mM EDTA, and 0.1% Triton X-100, with 20U of SUPERase IN RNase Inhibitor.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Long-term live cell imaging during differentiation of human iPSC-derived neurons experiment, once the cells are in a detached state and need to be collected into 10-mL Falcon tubes, how many times should the pipetting action be repeated?",
+        "answer": "three times",
+        "sentence": "Pipette up and down three times to collect detached cells into 10-mL Falcon tubes.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Alginate Microcapsule as a 3D Platform for hESC Propagation and Differentiation experiment, after filtering the neutralized cells using a 40 \u03bcm filter, into what kind of state or condition should the centrifuge tube be for collection?",
+        "answer": "fresh",
+        "sentence": "Filter the neutralized cells using a 40 \u03bcm filter and collect in a fresh 50 ml centrifuge tube.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Engineering a Bilayered Hydrogel to Control ASC Differentiation experiment, once a stable water-in-oil emulsion is obtained, what action should be performed continuously to achieve this result?",
+        "answer": "Stir",
+        "sentence": "Stir the mixture continuously for approximately 1 hour until a stable water-in-oil emulsion is obtained.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the dTBI experiment in Drosophila, given that the buck converter contains the -OUT terminal, what part of the black wire should be connected to complete this connection?",
+        "answer": "one end",
+        "sentence": "Connect one end of a black wire from position B18 of Breadboard #2 (-INPUT of the proportional voltage booster) to the -OUT terminal of the buck converter.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the SAFE Hi-C experiment, after resuspending the beads using the 1X Quick ligation reaction buffer (NEB, B6058) at 200 \u03bcl, into what kind of state or condition of low-bind tube should the contents be transferred?",
+        "answer": "new",
+        "sentence": "Add 200 \u03bcl 1X Quick ligation reaction buffer (NEB, B6058) to resuspend the beads and transfer to a new 1.5 ml low-bind tube.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Microfluidic Production of Liposomes experiment, after mixing the liposomes and the Triton X-100 solution with their specified volumes, how many wells should the 170 \u00b5L substance be mixed for?",
+        "answer": "three",
+        "sentence": "Mix 10 \u00b5L of the liposomes with 170 \u00b5L of HBS and 20 \u00b5L of 1% (v/v) Triton X-100 solution for three wells in a black 96-well plate after 10 min.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for reconstitution of oligomeric assembly of NAIP5-NLRC4 inflammasome experiment, using an Ultrasonic Homogenizer set at 35% intensity with on/off pulses, at what temperature should the sonication be performed?",
+        "answer": "4\u00b0C",
+        "sentence": "Sonicate the bacteria on ice using Ultrasonic Homogenizer (35% intensity, 3 s pulses on/off, for 5 min) at 4\u00b0C.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Scaffold-supported Transplantation of Islets experiment, given that the dispensing should be completed within 1 min, what substance should be dispensed during this time period?",
+        "answer": "rest",
+        "sentence": "Dispense the rest of the 2 mL of collagenase solution at a slow and constant rate within 1 min.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Combining low-density cell culture, single-cell tracking, and patch-clamp experiment, using the Export menu to export cell data to the tTt export folder, what other data should also be exported?",
+        "answer": "lineage tree",
+        "sentence": "Export cell data and lineage tree through the \"Export menu\" to the tTt export folder.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Time lapse recording of cortical interneuron migration experiment, if we observe disintegrated cell processes, what signs or properties should we monitor in the cells themselves?",
+        "answer": "dying",
+        "sentence": "Monitor cells for signs of dying cells, such as large vacuoles or fluorescent protein aggregation and disintegrated cell processes.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for live imaging of transferred mouse bone marrow cells experiment, using the proximodistal direction method and surgical scissors, what should be cut?",
+        "answer": "skin",
+        "sentence": "Cut the skin in a proximodistal direction from the top of the head to the side of the ears using surgical scissors.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Video-rate Scanning Confocal Microscopy and Microendoscopy experiment, if we use the resonant galvo mirror to center the laser beam, where should the beam be centered to?",
+        "answer": "second iris",
+        "sentence": "Use the resonant galvo mirror to center the laser beam on the second iris.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Monitoring cell fate in 3D organotypic human squamous epithelial cultures experiment, once the water is inside, what equipment should be preheated as the step before handling the water?",
+        "answer": "pressure cooker",
+        "sentence": "Preheat the pressure cooker until the water inside comes to a boil.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Isolation of single cells from individual mouse ovaries experiment, after identifying the ovary and preparing to dissect carefully from both uterine horns, what structure should be dissected?",
+        "answer": "it",
+        "sentence": "Identify the ovary and carefully dissect it from both uterine horns.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for in vitro sonoporation validation experiment, after mixing with Cal Green at its specified volume, what other substances should be mixed together with the 5 \u03bcL activated microbubbles?",
+        "answer": "PI",
+        "sentence": "Mix with 2 \u03bcL of PI, 0.2 \u03bcL of Cal Green and 5 \u03bcL of activated microbubbles.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Full protein sequence mapping using mass spectrometry experiment, after preparing the high voltage at 1.8-2kV, from what equipment should this high voltage be applied?",
+        "answer": "mass spectrometer",
+        "sentence": "Apply high voltage (1.8-2kV) from the mass spectrometer to the stainless steel union on the HPLC waste line for electrospray mass spectrometry.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Fluorescent Protein Production experiment, after picking a single colony from the transformed plate, what size of baffled flask should be used for inoculation to form the starter culture with the 300 ml LB medium containing 2% glucose and 100 \u00b5g/ml ampicillin?",
+        "answer": "2-L",
+        "sentence": "Pick a single colony from the transformed plate and inoculate into 300 ml LB medium supplemented with 2% glucose and 100 \u00b5g/ml ampicillin in a 2-L baffled flask to form a starter culture.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for designing and bioprinting multi-layered constructs experiment, after selecting the object that is positioned below, what should be clicked on as the next step?",
+        "answer": "export",
+        "sentence": "Select only the object below and click on export (right corner at the top of the screen).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Fabricating Degradable Thermoresponsive Hydrogels experiment, given that the extraction should be repeated three times using the bottom layer, what specific process or procedure should be repeated?",
+        "answer": "extraction",
+        "sentence": "Repeat extraction three times with the bottom layer as raw material for each cycle.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Constructing plasmid under GT DNA assembly standard experiment, given that the duration can be either 15 min or 60 min, what process or procedure should be carried out for the 60 min duration?",
+        "answer": "assembly reaction",
+        "sentence": "Perform the assembly reaction at 50 \u00b0C for 15 min (for 2-3 fragments) or 60 min (for 4-6 fragments).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Detecting Smad-STAT networks using proximity ligation assay experiment, after diluting the PLA probes with the antibody diluent, what should be incubated with these diluted probes?",
+        "answer": "slides",
+        "sentence": "Incubate the slides with PLA probes diluted by the antibody diluent for 1 hr at 37\u00b0C in a humidity chamber.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the High-Throughput Cardiotoxicity Screening experiment, after aspirating the medium, where should the 2 mL of basal medium be added to?",
+        "answer": "D6",
+        "sentence": "Aspirate the medium and add 2 mL of basal medium per well (for both atrial and ventricular differentiation) on D6.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the High-throughput generation of midbrain dopaminergic neuron organoids experiment, using StemFlex stock at 0.5 mL/well, what type of equipment should be prepared in the desired number?",
+        "answer": "12-well plates",
+        "sentence": "Prepare desired number of uncoated 12-well plates with 0.5 mL/well StemFlex stock.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Purification of specific cell populations from Drosophila tissues experiment, after adding 10 \u03bcl of MACS CD8a microbeads to the suspension, what process requires the use of a refrigerator set at 8-12\u00b0C?",
+        "answer": "incubate",
+        "sentence": "Add 10 \u03bcl of MACS CD8a microbeads to the suspension and incubate tubes in a refrigerator (8-12\u00b0C) for 15 minutes.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the intravital microscopy protocol for imaging Trypanosoma brucei-host interactions, after making a small cut, what is the purpose of retracting the skin?",
+        "answer": "generate",
+        "sentence": "Make a small cut on the skin only and retract the skin to generate a small field of view.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Low-Cost, Volume-Controlled Dipstick Urinalysis for Home-Testing experiment, given that 3.146 in corresponds to W x L dimensions, where should we draw the specified shape?",
+        "answer": "top plate",
+        "sentence": "Draw a second through-hole sized 0.075 in x 3.146 in (W x L) in the top plate.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Isolating and culturing dendritic cells experiment, given that we expand cells in selection medium without exceeding, what is the threshold property or limit that the cells should not exceed?",
+        "answer": "1.5 \u2013 2 x 10^6",
+        "sentence": "Expand cells in selection medium without exceeding 1.5 \u2013 2 x 10^6 cells.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Direct Bioprinting of 3D Multicellular Breast Spheroids onto Endothelial Networks experiment, for each well containing MCF10A spheroids, what substance should be added?",
+        "answer": "antifade solution",
+        "sentence": "Add a small drop of antifade solution to each well containing MCF10A spheroids.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for engineering and validating a synthetic mitochondrial intermembrane bridge experiment, if we need to use G418 antibiotic at 2 mg/mL concentration, what substance should we add that contains this antibiotic?",
+        "answer": "DMEM medium",
+        "sentence": "Add 10% FBS-containing DMEM medium with 2 mg/mL G418 antibiotic.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the CSNK1G3 gene knockout and recombinant gene expression experiment, after mixing the 100 \u03bcL substance with the 3 \u03bcL FuGENE6 Transfection Reagent, for how long should the mixture be incubated?",
+        "answer": "5 minutes",
+        "sentence": "Mix 100 \u03bcL of Opti-MEM with 3 \u03bcL of FuGENE6 Transfection Reagent (Promega) and incubate at 20\u00b0C\u201325\u00b0C for 5 minutes.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Determination of structural ensembles experiment, given that each measurement requires at least 30 minutes, and considering that cofactor is one of the conditions to vary, how many single molecule events should be recorded for each condition?",
+        "answer": "at least 1000",
+        "sentence": "For each FRET pair and condition (nucleotide, cofactor, salt concentration), record at least 1000 single molecule events (at least 30 minutes per measurement at a sample concentration of about 50 pM).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Culturing Mammalian Cells in Three-dimensional Peptide Scaffolds experiment, given that 10X or 20X magnification options are available, what operation should be performed on the samples?",
+        "answer": "Visualize",
+        "sentence": "Visualize the samples under a fluorescence microscope using 10X or 20X magnification.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Fabrication of Engineered Vascular Flaps experiment, after moving the cube using the mouse, what method should be used to place a copy in each desired virtual well?",
+        "answer": "clicking",
+        "sentence": "Place a copy of the cube shape in each desired virtual well by clicking on the cube and moving it using the mouse.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Recreating mouse cortico-hippocampal neuronal circuit experiment, if we use 200 \u03bcL of growth medium for dilution, what volume of DXM should be used in this dilution process?",
+        "answer": "1 \u03bcL",
+        "sentence": "Prepare DXM at 50 \u03bcM by diluting 1 \u03bcL of 10 mM DXM in 200 \u03bcL growth medium.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Real Time Monitoring of Intracellular Bile Acid Dynamics experiment, given that the complete culture medium contains 10% Fetal Bovine Serum, 1% L-glutamine, and 1% pen/strep suitable for a specific cell line, what substance should be diluted using this medium?",
+        "answer": "pellet",
+        "sentence": "Dilute pellet in complete culture medium suitable for the specific cell line (10% Fetal Bovine Serum, 1% L-glutamine, 1% pen/strep for U2OS and Huh7 cells) to a concentration of 150,000 cells per ml.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Generating Human Gastruloids from Human Embryonic Stem Cells experiment, after plating cells using a ratio between 1:4 to 1:20 based on original cell density and cluster size, what volume of Nutristem should each well contain?",
+        "answer": "3 mL",
+        "sentence": "Plate cells in 3 mL of Nutristem per well of a vitronectin-coated 6-well plate, using a ratio between 1:4 to 1:20 based on original cell density and cluster size.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Fabrication of Three-dimensional Paper-based Microfluidic Devices for Immunoassays experiment, given that the blocking agent contains 1x PBS and non-fat milk at 5 mg/ml, what is the concentration of Tween 20 in the blocking agent?",
+        "answer": "v/v",
+        "sentence": "Add 2 \u00b5L of blocking agent (5 mg/ml non-fat milk and 0.1% (v/v) Tween 20 in 1x PBS).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Accelerated protocol for the differentiation of podocytes from human pluripotent stem cells experiment, after blocking the samples using 1 mL of 5% BSA, what procedure or step uses PBS as a reagent?",
+        "answer": "adding",
+        "sentence": "Block the samples by adding 1 mL of 5% BSA in PBS for 30 min.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the DNA-based tension probe experiment, after preparing the reaction solution for labeling DNA strand I with cRGDfK using DMSO, ascorbic acid, Cu-TBTA complex, and azide-cRGDfK at their specified concentrations, what substance should be added at a concentration of 0.2M?",
+        "answer": "triethylammonium acetate buffer",
+        "sentence": "Prepare the reaction solution for labeling DNA strand I with cRGDfK as follows: 50% DMSO; 0.5 mM ascorbic acid; 0.5 mM Cu-TBTA complex; alkyne-modified DNA strand I-Cy3B; 1.5-fold azide-cRGDfK; 0.2M triethylammonium acetate buffer, pH 7.0.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Ventral Abdominal Hernia Repair experiment using a scalpel, what size should the vertical incision be made?",
+        "answer": "approximately 3 - 4 cm",
+        "sentence": "Using a scalpel, make an approximately 3 - 4 cm vertical incision along the ventral midline down to the level of the abdominal musculature.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Decellularization and Recellularization of Whole Livers experiment, given that we need to transfer the harvested liver to a PBS-filled 10-cm petri dish, what should be reduced before transferring the liver?",
+        "answer": "flow rate",
+        "sentence": "Carefully transfer the harvested liver to the PBS-filled 10-cm petri dish after reducing the flow rate to 1 mL/min.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Optimized protocol for live imaging of overnutrition-elicited interactions between immune cells and \u03b2 cells in zebrafish experiment, if we are treating larvae and using a stock at \u22651000x concentration in 5% egg yolk medium, what property should the working concentration have?",
+        "answer": "desired",
+        "sentence": "If treating larvae with an inhibitor, dilute the compound in the appropriate solvent as a stock (\u22651000x) and then to the desired working concentration in the 5% egg yolk medium.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for the generation of murine bronchiolospheres experiment, if we need to instill dispase through the trachea for Scgb1a1Cre-ERT; tdTomatoflox mice, what volume of dispase should be used?",
+        "answer": "1.5 ml",
+        "sentence": "Instill 1.5 ml of dispase through the trachea for Scgb1a1Cre-ERT; tdTomatoflox mice.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Immunostaining of tumor-infiltrating immune-cell-related markers experiment, after adding the 1 mL FACS buffer to wash the cells, what substance should be removed in the subsequent centrifugation step?",
+        "answer": "supernatant",
+        "sentence": "Add 1 mL FACS buffer to each tube to wash the cells, and centrifuge at 400 g for 5 min to remove the supernatant.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Defined conditions for long-term expansion of murine and human alveolar epithelial stem cells experiment, after the initial 20-minute incubation period, when vigorously mixing approximately 30 times using a P1000 pipette in a tissue culture hood, what should be mixed?",
+        "answer": "samples",
+        "sentence": "Vigorously mix samples with a P1000 pipette approximately 30 times in a tissue culture hood after the initial 20-minute incubation period.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Microfluidic Genipin Deposition Technique experiment, after the removal step that leads to disposal, and considering the thin strips contained within vMTFs, what property does the tissue being removed have?",
+        "answer": "loose strip",
+        "sentence": "Remove and dispose of the loose strip of tissue between these cuts and the thin strips in between vMTFs.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Purification and cryo-EM structure determination of Arabidopsis thaliana GLR3.4 experiment, given that we need to use a prechilled tube, during what operation should we avoid possible protein precipitation?",
+        "answer": "Transfer",
+        "sentence": "Transfer supernatant to a prechilled tube, avoiding any possible protein precipitation.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Video-rate imaging of luminescent tumour cells in freely moving unshaved mice experiment, given that the pointed end should be cut off, what operation requires using a 1-mL pipette tip?",
+        "answer": "Mix",
+        "sentence": "Mix well the cell suspension using a 1-mL pipette tip with the pointed end cut off.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Rodent Behavioral Testing experiment, given that bupivacaine is prepared at 0.3 mL of 0.125% concentration diluted from stock solution, what type of analgesia should be provided using this bupivacaine via SQ injection?",
+        "answer": "at the top of the animal's head",
+        "sentence": "Provide a local analgesia with an SQ injection of bupivacaine (0.3 mL of 0.125% bupivacaine diluted from stock solution) at the top of the animal's head in the area of the incision.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Obtaining patient-derived cancer organoid cultures experiment, if the goal includes other uses along with freezing, what substance with a volume of 2,100 \u03bcL should be transferred to separate tubes?",
+        "answer": "remaining",
+        "sentence": "Transfer the remaining 2,100 \u03bcL to separate tubes for freezing or other uses.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the FACS and immunomagnetic isolation of early erythroid progenitor cells experiment, given that the EasySep PE Selection Cocktail has a volume of 10 \u03bcL, what action should be performed on this cocktail?",
+        "answer": "add",
+        "sentence": "If less than 10,000,000 cells total, add 10 \u03bcL EasySep PE Selection Cocktail.",
+        "hopnum": 1
+    },
+    {
+        "question": "",
+        "answer": "analysis",
+        "sentence": "Exclude aggregates and doublets indicated by multiple bacteria from the analysis.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Outdoor mesocosm experiments, if we need to mix fine and coarse gravel gently in each replicate stream, what method should we use to perform the mixing?",
+        "answer": "by hand",
+        "sentence": "Mix fine and coarse gravel gently by hand in each replicate stream.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocols for evaluating local bacterial viscoelastic environment experiment, if we need to transfer something to the optical tweezer sample cell using a pipette, what should be transferred?",
+        "answer": "sample",
+        "sentence": "Transfer sample to the optical tweezer sample cell with a pipette.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for generating human induced neural progenitor cells experiment, after splitting the cells, onto what type of container should they be seeded?",
+        "answer": "dishes",
+        "sentence": "Split the cells at a ratio of 1:3 and seed them onto Matrigel-coated dishes or plates.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Purification and functional validation of LtCas12a protein experiment, after sealing the dialysis apparatus, what chemical component\u2014besides Tris, NaCl, and Glycerol with their specified properties\u2014should be present in the dialysis buffer used for incubation?",
+        "answer": "\u03b2-Mercaptoethanol",
+        "sentence": "Seal the dialysis apparatus at both ends and incubate in a 2 L beaker filled with dialysis buffer (20 mM Tris (pH 7.5), 250 mM NaCl, 5% Glycerol, and 2 mM \u03b2-Mercaptoethanol) for 24 hours at 4\u00b0C.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol to image and analyze hippocampal network dynamics in non-anesthetized mouse pups experiment, if cotton swabs are available, what should be applied using them?",
+        "answer": "substances",
+        "sentence": "Have cotton swabs available for cleaning or applying substances.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for in vitro establishment of heterogeneous stem-like cultures from glioblastoma tumors experiment, given that the resuspension will be transferred to subsequent tubes, what quantity or property should the pellets have before using 5 mL PBS to resuspend them?",
+        "answer": "up to 4",
+        "sentence": "Add up to 4 pellets together and resuspend each pellet in 5 mL PBS 1X, sequentially transferring the resuspension to subsequent tubes.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Mouse kidney nuclear isolation and library preparation for single-cell combinatorial indexing RNA sequencing experiment, if we use 4.3 mL NIB for resuspension, what method or technique should be applied?",
+        "answer": "thoroughly",
+        "sentence": "Resuspend nuclei pellet from step 6.k with 4.3 mL NIB thoroughly.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Methylation Specific Multiplex Droplet PCR experiment, given that discarding the flow-through is the next step after performing a certain action, what procedure should be performed?",
+        "answer": "centrifugation",
+        "sentence": "Perform centrifugation as described previously and discard the flow-through.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Propagation of Dental and Respiratory Cells and Organs in Microgravity experiment, after collecting the media and cells from the culture plate, what specification of pipette should be used to transfer them into the 50 mL conical tube?",
+        "answer": "25 mL",
+        "sentence": "Collect the media along with the cells from the culture plate and transfer via a 25 mL pipette to a 50 mL sterile conical tube.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Targeting the Rat's Small Bowel experiment, in order to identify the mesentery, what anatomical structure or feature should we follow?",
+        "answer": "natural disposition of the small intestine",
+        "sentence": "Follow the natural disposition of the small intestine to identify the mesentery.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Size Exclusion Chromatography experiment, after adding the one-step solution (which contains TMB) and observing that a blue color develops, what is the time parameter for the incubation step?",
+        "answer": "15-30 min",
+        "sentence": "Add 100 \u00b5L of the 3,3',5,5'-tetramethylbenzidine (TMB) one-step solution and incubate for 15-30 min or until a blue color develops.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Uptake of New Lipid-coated Nanoparticles experiment, given that the number of acquisitions is set to 30 and the auto-attenuation function is On, if the auto-attenuation time limits is set to 0, what parameter value should be assigned to the data acquisition time?",
+        "answer": "4 s",
+        "sentence": "Set the instrument parameters as follows: data acquisition time = 4 s, number of acquisitions = 30, auto-attenuation function = On, and the auto-attenuation time limits = 0.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the neutrophil isolation and flow cytometry characterization experiment, after staining the cells with antibodies at the appropriate volume, what method should be used to determine the staining conditions?",
+        "answer": "titration",
+        "sentence": "Stain the cells with appropriate volume of antibodies based on titration.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Differentiation of functional astrocytes from human-induced pluripotent stem cells experiment, after using a cell scraper, what size or type of dish should be used to cut the iPSC colonies?",
+        "answer": "35 mm",
+        "sentence": "Use a cell scraper to draw successive vertical lines in the 35 mm dish to cut iPSC colonies into squares.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Enzyme-free isolation of mesenchymal stem cells experiment, to acquire at least 10,000 events, what device should be used?",
+        "answer": "BD LSRFortessa Cell Analyzer flow cytometer",
+        "sentence": "Acquire at least 10,000 events on BD LSRFortessa Cell Analyzer flow cytometer.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Measuring Laplace pressure and imaging the actin cortex during cytokinesis experiment, after positioning to the target position using the micromanipulator, what object should be positioned?",
+        "answer": "micropipette",
+        "sentence": "Position the micropipette to the target position using the micromanipulator.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Ultrasound Probe Performance Assessment experiment, given that the real-time visualization procedure is implemented in Python, what should be transferred into the folder?",
+        "answer": "files",
+        "sentence": "Transfer these files into the folder of the real-time visualization procedure implemented in Python.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for analysis of mouse neutrophil NETosis by flow cytometry experiment, using the MACSQuant10 flow cytometer to measure, what unit or container should the measurement be performed for each of?",
+        "answer": "well",
+        "sentence": "Measure the fraction of cells positive for SYTOX Green in each well using the MACSQuant10 flow cytometer.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the scGR-seq experiment, what specific product or substance should be used to wipe the instruments?",
+        "answer": "RnaseAway",
+        "sentence": "Wipe all instruments used for the experiment with RNase remover (RnaseAway).",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Microfluidic platform experiment with E. coli, given that the growth media has a volume of 5 or 10 mL, what method should be used to select and add samples to the test tubes?",
+        "answer": "Randomly",
+        "sentence": "Randomly select a single colony to add to each test tube containing 5 or 10 mL of sterile growth media using a sterile loop or swab.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Endogenous protein interactomes resolved through immunoprecipitation-coupled quantitative proteomics experiment, if we incubate the nitrocellulose membrane for 5 min, what reagent should be used for this incubation step?",
+        "answer": "Ponceau S Stain",
+        "sentence": "Incubate the nitrocellulose membrane with Ponceau S Stain for 5 min.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Macrophage Reporter Cell Assay experiment, after removing the lid and covering with a single-ply wipe to prevent other debris, into what location should the falling be prevented?",
+        "answer": "wells",
+        "sentence": "Remove the lid and cover with a single-ply wipe to prevent other debris from falling into the wells.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Methods for next generation three-dimensional histology experiment, after the tracing step is complete and we need to blot off the excess liquid, where should this blotting action be directed?",
+        "answer": "tissue",
+        "sentence": "Blot off excess liquid on the tissue after tracing is deemed sufficient.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for generating airway organoids experiment, after feeling mild resistance and knowing that the brush needs to be removed from the nose, into which part should the brush initially be inserted before turning it?",
+        "answer": "inferior turbinate",
+        "sentence": "Insert the brush horizontally into the nostril and inferior turbinate until mild resistance is felt, then turn the brush twice and remove it from the nose.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the lysosomal Zn2+ release measurement experiment, after adding 4 \u03bcL of Lipofectamine 2000 to one tube, at what temperature should the incubation be performed?",
+        "answer": "room temperature",
+        "sentence": "Add 4 \u03bcL Lipofectamine 2000 to one tube; incubate at room temperature for 5 min.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Optimized protocol for stable isotope tracing and steady-state metabolomics experiment, if we need to manually curate something for improved consistency, what tool or software contains the peak integration results that should be curated?",
+        "answer": "Profinder",
+        "sentence": "Manually curate peak integration results in Profinder for improved consistency.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Stratifying ferroptosis sensitivity experiment, if we need to affix something to the specimen disc using ultrapure water, what should be affixed?",
+        "answer": "tissue",
+        "sentence": "Affix the tissue to the specimen disc using ultrapure water in the cryostat chamber.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Dissection and Isolation of Region-Specific Decellularized Lung Tissue experiment, given that the ends should be intact, identifiable, and easily located for further dissection, under what condition should we be confident about the ends before proceeding?",
+        "answer": "Sever",
+        "sentence": "Sever regions of the airway once confident that the intact ends will remain identifiable and easily located for further dissection.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Improving Reproducibility experiment for Nanoparticle Tracking Analysis, if we need to use NTA-characterized diluents for all measurements, what specific substance do these diluents contain?",
+        "answer": "DPBS",
+        "sentence": "Use NTA-characterized diluents such as DPBS for all measurements.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the CRISPR Plasmids Construction experiment, after obtaining plasmids with their purity property, what kind of instruments should be used to evaluate the purity?",
+        "answer": "suitable instruments",
+        "sentence": "Evaluate the purity and concentration of plasmids using suitable instruments.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Monitoring extra-vascular migratory metastasis (EVMM) experiment, given that the humidified environment contains air atmosphere, what is the purpose or outcome that culturing HUVEC-2 cells is meant to allow?",
+        "answer": "tubule formation",
+        "sentence": "Culture HUVEC-2 cells overnight at 37\u00b0C in a humidified 5% CO\u2082/95% air atmosphere to allow for tubule formation.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Biaxial Basal Tone and Passive Testing of the Murine Reproductive System experiment, after selecting the same region on the outer diameter, what should be dropped into the same document?",
+        "answer": "data",
+        "sentence": "Select the same region on the outer diameter and drop the data into the same document.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Correlative confocal and scanning electron microscopy experiment, for a large-FOV image that is approximately 2 mm wide and will be used for comparison with the look-up map, what action should be performed on this image?",
+        "answer": "Acquire",
+        "sentence": "Acquire a large-FOV image that is approximately 2 mm wide and around 50x magnification for comparison with the look-up map.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for the production and purification of an i-Motif-specific nanobody experiment, given that we need to ensure the side with attached cells is properly handled, what action should be performed on the paper towel within the biosafety cabinet to achieve air drying?",
+        "answer": "touch",
+        "sentence": "Place the coverslip onto a paper towel to air dry within a biosafety cabinet, ensuring the side with attached cells does not touch the paper towel.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Human Neural Organoids experiment, to prepare the dual-SMAD inhibition cocktail by mixing the 0.5 \u00b5M bone morphogenic protein (BMP) inhibitor, what concentration should the TGF\u03b2/Activin/Nodal inhibitor have?",
+        "answer": "10 \u00b5M",
+        "sentence": "Prepare dual-SMAD inhibition cocktail by mixing 10 \u00b5M TGF\u03b2/Activin/Nodal inhibitor and 0.5 \u00b5M bone morphogenic protein (BMP) inhibitor.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the RELACS ChIP-seq experiment, given that the cycle number suggestion is x12 and the annealing step is performed at 65 \u00b0C for 75 seconds, what is the duration parameter for the 98 \u00b0C denaturation step in the repeated PCR cycles?",
+        "answer": "10 seconds",
+        "sentence": "Repeat PCR cycles: 98 \u00b0C for 10 seconds followed by 65 \u00b0C for 75 seconds, according to cycle number suggestions (x10 or x12).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Methods Development for Blood Borne Macrophage Carriage of Nanoformulated Antiretroviral Drugs experiment, after measuring 1.25 g of drug crystals, to what solution should they be added?",
+        "answer": "dichloromethane/PLGA solution",
+        "sentence": "Measure 1.25 g of drug crystals and add to dichloromethane/PLGA solution.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Bioprintable Alginate/Gelatin Hydrogel 3D Model Systems experiment, after clicking the step Measurement, what action should be performed on the variable Oscillation strain?",
+        "answer": "click",
+        "sentence": "Click the step Measurement in the workflow, then click the variable Oscillation strain.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Purification of recombinant huntingtin proteins experiment, if we need to avoid disturbing something while adding the M2 elution buffer at 1 column volume, what is the equivalent volume measurement for that column volume?",
+        "answer": "CV",
+        "sentence": "Add 1 column volume (CV, 10 mL) of the M2 elution buffer slowly on top of the resin without disturbing it and incubate for 10 minutes.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Preparation of 3D Collagen Gels and Microchannels experiment, after flipping the PDMS, what component should be oriented facing down toward the coverglass?",
+        "answer": "channels",
+        "sentence": "Flip the PDMS so that channels are facing down toward the coverglass.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Guided Differentiation of Mature Kidney Podocytes experiment, what form or preparation should the BM matrix 1 be made into?",
+        "answer": "aliquots",
+        "sentence": "Prepare aliquots of BM matrix 1 as suggested by the manufacturer.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for enrichment, purification, and cytocentrifugation of mouse liver endothelial cells experiment, after inserting into the metal cytocentrifugation apparatus following the pipetting of the 100 \u03bcL cell suspension, what device should be used in the securing step that precedes pipetting?",
+        "answer": "cytoclip",
+        "sentence": "Gently pipette the cell suspension of 100 \u03bcL into the cytofunnel after both the funnel and slide are secured with the cytoclip, and insert into metal cytocentrifugation apparatus.",
+        "hopnum": 3
+    },
+    {
+        "question": "When performing the Protocol for detection of ferroptosis in cultured cells experiment, given that we treat cells on day 2 using cell death inducers, what other type of reagent should also be used in the treatment?",
+        "answer": "inhibitors",
+        "sentence": "Treat cells with cell death inducers and inhibitors on day 2.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol for Immuno-Enrichment of FLAG-Tagged Protein Complexes experiment, if we need to lose cells from each plate into 300 \u03bcl Lysis Buffer, what device should we use to perform this action?",
+        "answer": "cell scraper",
+        "sentence": "Lose cells off each plate using a cell scraper into 300 \u03bcl Lysis Buffer.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Generation of mixed murine organoids experiment, once the drop of BME2 is completely dissolved, what substance should be aspirated?",
+        "answer": "Fixation solution",
+        "sentence": "Aspirate the Fixation solution once the drop of BME2 is completely dissolved.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the In situ detection of protein-protein interaction by proximity ligation assay experiment, after removing PBS immediately, what concentration of PBS should be used when repeating the wash once more?",
+        "answer": "1\u00d7",
+        "sentence": "Remove PBS immediately and repeat wash once more with 200 \u03bcL 1\u00d7 PBS.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Ratiometric Biosensors experiment, after imaging several cells, what should be determined as a result of this imaging process?",
+        "answer": "appropriate exposure time",
+        "sentence": "Image several cells to determine an appropriate exposure time.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Generating Controlled, Dynamic Chemical Landscapes experiment, after determining the dynamic viscosity, what quantity or measurement has the parameter value of 10^-3 Pa s?",
+        "answer": "23 \u00b0C",
+        "sentence": "Determine the dynamic viscosity of artificial seawater at salinity 36 g/kg and 23 \u00b0C (10^-3 Pa s).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Longitudinal quantification of mouse gastric tumor organoid viability experiment, given that the MT Cell Viability Substrate has a 1000\u00d7 concentration, at what temperature should the reagent be equilibrated?",
+        "answer": "37\u00b0C",
+        "sentence": "Equilibrate MT Cell Viability Substrate (1000\u00d7) reagent to 37\u00b0C in an incubator for approximately 10 minutes or until thawed.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Light-mediated Formation and Patterning of Hydrogels experiment, what should be attached to the end of the liquid-filled light guide?",
+        "answer": "collimating lens",
+        "sentence": "Attach a collimating lens to the end of the liquid-filled light guide.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Subdural Soft ECoG Array Implantation experiment, if we inject intradermally a mix containing midazolam at 0.75 mg/kg and atropine at 0.25 \u00b5g/kg, what dosage should the haldol in the mix have?",
+        "answer": "0.1 mg/kg",
+        "sentence": "Inject a mix of midazolam at 0.75 mg/kg, atropine at 0.25 \u00b5g/kg, and haldol at 0.1 mg/kg intradermally.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Bioluminescent optogenetic (BL-OG) activation of neurons experiment, given that we need to reconstitute water-soluble CTZ along with the vehicle, and the vial contains 500 \u03bcg of powder, what state or property should the water have that is used in the adding process?",
+        "answer": "sterile",
+        "sentence": "Reconstitute water-soluble CTZ or vehicle by adding 500 \u03bcL sterile water to a vial containing 500 \u03bcg of powder.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Sample Preparation Strategies for Mass Spectrometry Imaging of 3D Cell Culture Models experiment, after applying the appropriate matrix to slices using a suitable method, what undesirable outcome should be avoided when selecting matrices?",
+        "answer": "co-crystalize",
+        "sentence": "Apply appropriate matrix to slices using a suitable method, avoiding matrices known to co-crystalize with gelatin such as ferulic acid.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Muscle Cuff Regenerative Peripheral Nerve Interface experiment, given that the bilateral lower limbs need to be processed, what body part should be shaved using an electric razor?",
+        "answer": "lateral portion",
+        "sentence": "Shave the lateral portion of the bilateral lower limbs extending from the hip joint, over the thigh, and to the dorsal surface of the paw using an electric razor.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the human embryo growth and imaging experiment, once the content is completely thawed after about 60-90 seconds, what property should the water bath have when placing the tube into it?",
+        "answer": "37\u00b0C",
+        "sentence": "Place the tube in a 37\u00b0C water bath until the content is completely thawed (about 60-90 seconds).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Spatial Temporal Analysis of Fieldwise Flow in Microvasculature experiment, after typing in the numbers of the beginning and end frames to duplicate, what property or characteristic should the sequence have?",
+        "answer": "selected",
+        "sentence": "Duplicate the selected portion of the sequence by typing in the numbers of the beginning and end frames under Image> Duplicate.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Layer Microdissection of Tricuspid Valve Leaflets experiment, what substance in the separated state should be placed on the cutting mat?",
+        "answer": "A/S composite layer",
+        "sentence": "Place the separated A/S composite layer flat on the cutting mat.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Implantation of a Permanent Window for High-Resolution Imaging of the Murine Lung experiment, given that corneal damage is possible, what property should the ophthalmic ointment have when applied to both eyes to prevent this damage?",
+        "answer": "sterile",
+        "sentence": "Apply sterile ophthalmic ointment in both eyes to prevent drying and possible corneal damage.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the 3D Tissue Engineered Lung Tumor Model experiment, given that the washing buffer contains a 0.5 M component along with 0.5% Tween, what should be transferred into this washing buffer?",
+        "answer": "slides",
+        "sentence": "Transfer slides to washing buffer (0.5 M PBS buffer + 0.5% Tween).",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Purification and Sequencing of Large Circular DNA experiment, after preparing the Plasmid-Safe 10x Reaction Buffer at 10 \u00b5L, to what should this buffer be added?",
+        "answer": "reaction",
+        "sentence": "Add 10 \u00b5L of Plasmid-Safe 10x Reaction Buffer to the reaction.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Fabrication of Three-dimensional Paper-based Microfluidic Devices for Immunoassays experiment, after the wicking process is completed, what action should be performed on the aliquot of wash buffer?",
+        "answer": "add",
+        "sentence": "After the first aliquot of wash buffer has wicked completely into the device, add a second 15 \u00b5l aliquot of wash buffer.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Hippo pathway phosphorylation measurement experiment, given that we need to prepare for pYAP (S127), pLATS1 (T1079), and pMST1 (T183) analyses, what substance should we prepare?",
+        "answer": "regular gel",
+        "sentence": "Prepare regular gel for pYAP (S127), pLATS1 (T1079) and pMST1 (T183) analyses.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Isolation of neural progenitors and immature neurons experiment, using a pipette attached to a P200 or P1000 Pipetman, how many times should the mixing be repeated?",
+        "answer": "~20 times",
+        "sentence": "Mix with a pipette (~20 times) attached to a P200 or P1000 Pipetman (Gilson).",
+        "hopnum": 1
+    },
+    {
+        "question": "",
+        "answer": "Drain",
+        "sentence": "Drain liquid carbon dioxide so that its level remains visible just above the prongs on the boat through the apparatus window.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Isolation of tumor-resident CD8+ T cells from human lung tumors experiment, after emptying the reservoir, what should be removed in order to place it into a 15 mL tube?",
+        "answer": "LS column",
+        "sentence": "Remove the LS column from the magnet and place it in a new collection 15 mL tube after emptying the reservoir.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Reconstitution of Actin-Based Motility experiment, in order to collect the solution, what should be subjected to the pulse centrifuge operation?",
+        "answer": "centrifuge",
+        "sentence": "Pulse centrifuge the tube again to collect the solution at the bottom of the tube.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Assessing Functional Metrics of Skeletal Muscle Health experiment, given that additional hMMTs remain to be analyzed, where should the plate be returned to for the 10 min duration?",
+        "answer": "incubator",
+        "sentence": "Return the plate to the incubator for 10 min if additional hMMTs within the MyoTACTIC plate portion remain to be analyzed.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Detecting RNA\u2013Protein Interactions With EGFP-Cy3 FRET by Acceptor Photobleaching experiment, before setting the PMT gain to 650-750V (using 650V to avoid signal saturation after photobleaching), what step should be performed first?",
+        "answer": "photobleaching",
+        "sentence": "Set the PMT gain to 650-750V, using 650v to avoid signal saturation after photobleaching.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Development, Expansion, and In vivo Monitoring of Human NK Cells experiment, given that the incubator is set at 37 \u00b0C, how should the plates be transferred?",
+        "answer": "carefully",
+        "sentence": "Transfer the plates carefully from the centrifuge to a 37 \u00b0C incubator.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Paper-Based Toehold Switch Diagnostics experiment, after preparing the 2.55 \u00b5L master mix, what is the purpose or goal of adding this master mix?",
+        "answer": "primer set screening",
+        "sentence": "Add 2.55 \u00b5L of master mix without primers for primer set screening.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Co-fractionation/mass spectrometry experiment, after mixing using several aspirate cycles, what device should be used to dispense the cycles?",
+        "answer": "pipette",
+        "sentence": "Mix using several aspirate and dispense cycles with a pipette.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Enhanced fluorescent imaging of proteins in live yeast cells experiment, after obtaining resuspended cells, where should they be transferred before the 2 h incubation step?",
+        "answer": "falcon tube",
+        "sentence": "Transfer resuspended cells to a 50 mL falcon tube and incubate for 2 h.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Subcellular Euclidean distance measurements experiment, after marking the respective indexes, from which step was the table that should be used for this marking created?",
+        "answer": "step 6 g iii",
+        "sentence": "Mark the respective indexes in the table made in step 6 g iii.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Protocol to identify amino acids bound to tRNA experiment, given that we have purified tRNAArg samples, what volume of biotinylation solution should be added to each sample?",
+        "answer": "50 \u03bcl",
+        "sentence": "Add 50 \u03bcl of the biotinylation solution to each purified tRNAArg sample.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Measuring trogocytosis between ovarian tumor and natural killer cells experiment, given that we use 2 mL unsupplemented RPMI-1640 with centrifuging at 300g for 5 min at 4\u00b0C each time, what is being washed with this reagent?",
+        "answer": "cells",
+        "sentence": "Wash cells twice with 2 mL unsupplemented RPMI-1640, centrifuging at 300g for 5 min at 4\u00b0C each time.",
+        "hopnum": 1
+    },
+    {
+        "question": "",
+        "answer": "5",
+        "sentence": "Increase peristaltic pump speed to setting 5 or as needed to keep pressure gauge at a maximum of 3 bar.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Mapping of domain-mediated protein-protein interaction by SPOT peptide assay experiment, in order to prepare blotting samples, what property or amount should the lysates have when adding them along with purified protein into the 12 \u03bcL total volume?",
+        "answer": "10\u201350 \u03bcg",
+        "sentence": "Add 10\u201350 \u03bcg of lysates or purified protein into 12 \u03bcL total volume of Non-Reducing Sample Buffer to prepare blotting samples.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the cryo-focused ion beam lift-out experiment, given that the piezo motors are at their maximum range, what method should be used to move the gripper that contains these piezo motors?",
+        "answer": "Slowly",
+        "sentence": "Slowly moved the gripper up in Z to the maximum range of the gripper \u2019 s piezo motors.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Decellularization and Recellularization of Whole Livers experiment, while connecting to the perfusion system through the portal vein cannula with the pump running at 5 mL/min, what should be connected?",
+        "answer": "DLM",
+        "sentence": "Connect the DLM to the perfusion system through the portal vein cannula while the pump is running at 5 mL/min.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Ratiometric Single-Molecule FRET Measurements experiment, given that we have a reflected beam, what action should be directed toward the APD face?",
+        "answer": "Adjust",
+        "sentence": "Adjust the position of the reflected beam toward the APD face if necessary.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Live imaging Arabidopsis thaliana embryos experiment, if we prepare NaCl at 29.22 g and aim for a final volume of 500 mL, what concentration of NaCl solution will we obtain?",
+        "answer": "1M",
+        "sentence": "For NaCl preparation, add MS medium to the 29.22 g of NaCl for a final volume of 500 mL to obtain a 1M NaCl solution.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Atomic Force Microscopy-Based Micro-Indentation on Human Articular Cartilage Explants experiment, once we have sections in the mounted state, what should be placed over them?",
+        "answer": "coverslips",
+        "sentence": "Place coverslips suitable for fluorescence microscopy over the mounted sections.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Bioinspired Soft Robot with Incorporated Microelectrodes experiment, after fabricating the photomask, what is the target structure or layer that should be created through the design process?",
+        "answer": "CNT-GelMA hydrogel layer",
+        "sentence": "Design and fabricate another photomask to create the CNT-GelMA hydrogel layer.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Zeta Potential Determination experiment, given that something remains from the system, what action should be taken to prevent cross contamination between samples?",
+        "answer": "Ensure",
+        "sentence": "Ensure there are no residual particles remaining in the system to prevent cross contamination between samples.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Detection of m6A in single cultured cells experiment, after labeling the wells, what device should be used to identify them?",
+        "answer": "inverted microscope",
+        "sentence": "Identify and label wells containing only a single cell using an inverted microscope.",
+        "hopnum": 1
+    },
+    {
+        "question": "",
+        "answer": "software",
+        "sentence": "Upload the STL file to software capable of defining print parameters.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Human 3D Extracellular Matrix-Adipocyte Culture Model experiment, after incubating at 25 \u00b0C for 15 min, what property should the PBS have that needs to be extruded from the fragments?",
+        "answer": "excess",
+        "sentence": "Incubate at 25 \u00b0C for 15 min to allow excess PBS to extrude from fragments.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the SMiLE-seq experiment, given that we need to maintain a 5:1 ratio and use 30g of Base in a clean plastic cup, what other substance should be mixed together?",
+        "answer": "6g curing agent",
+        "sentence": "Mix 30g Base with 6g curing agent in a clean plastic cup, maintaining a 5:1 ratio.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the High-Throughput Kinase Activity Mapping system experiment, given that we are working with 228 peptides, what method should be applied to analyze the kinases' phospho-catalytic activity signatures?",
+        "answer": "unsupervised or semi-supervised hierarchical clustering",
+        "sentence": "Apply unsupervised or semi-supervised hierarchical clustering to kinases' phospho-catalytic activity signatures across all 228 peptides.",
+        "hopnum": 2
+    },
+    {
+        "question": "When performing the Immunoprecipitation of protein lysate from culture cells experiment, given that we harvest NSC34 cells to 80-100% in a 6 well plate, what other cells should also be harvested?",
+        "answer": "C2C12 cells",
+        "sentence": "Harvest NSC34 or C2C12 cells up to 80-100% in a 6 well plate.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Isolation of small extracellular vesicles from cell culture supernatant experiment, given that we need to collect the cell culture supernatant with a volume of 40mL, what step should be performed before this collection?",
+        "answer": "another 24 hours",
+        "sentence": "Collect the cell culture supernatant (40mL) after another 24 hours.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the CRISPR generation of microglia experiment, after discarding the remaining cells, into what kind of state or condition should the 500,000 iPSCs be transferred?",
+        "answer": "clean",
+        "sentence": "Discard remaining cells after transferring 500,000 iPSCs to a clean 15 mL conical vial.",
+        "hopnum": 3
+    },
+    {
+        "question": "When performing the Protocol for constructing a versatile tiling light sheet microscope experiment, after collimating the excitation continuous wave (CW) laser beams, what other operation should be performed on these laser beams?",
+        "answer": "Combine",
+        "sentence": "Combine and collimate excitation continuous wave (CW) laser beams.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Electrospinning Growth Factor Releasing Microspheres into Fibrous Scaffolds experiment, once the solution becomes visible, what action should be performed on the polymer pumping?",
+        "answer": "Start",
+        "sentence": "Start the polymer pumping when the solution is visible at the end of the syringe.",
+        "hopnum": 1
+    },
+    {
+        "question": "When performing the Characterization of Intra-Cartilage Transport Properties of Cationic Peptide Carriers experiment, after pipetting 300 \u03bcL of the CPC solution into the wells of a 96-well plate to prevent evaporation, what should be avoided during this pipetting process?",
+        "answer": "edge wells",
+        "sentence": "Pipette 300 \u03bcL of each 30 \u03bcM CPC solution into separate wells of a 96-well plate, avoiding the edge wells to prevent evaporation.",
+        "hopnum": 3
+    }
+]

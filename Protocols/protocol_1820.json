@@ -1,0 +1,41 @@
+{
+    "id": 122,
+    "origin_website": "Nature",
+    "title": "Transfection Protocol for Human Umbilical Vein Endothelial Cells \\( HUVEC) and Human Microvascular Endothelial Cells \\( HMVEC )  in Targefect Handbook of Transfection Protocols",
+    "subjectAreas": [
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Seed endothelial cells so that they are approximately 70% confluent at the time of experiment.",
+        "Prepare complexes for transfection using Targefect-HUVEC reagent and Virofect enhancer in media containing at least 10% serum.",
+        "Perform transfection by adding prepared complexes to cells in the presence of serum.",
+        "Gently mix the Targefect-F2 solution upon receipt if it has frozen during shipping.",
+        "Store the Targefect-F-2 reagent at 4\u00b0C.",
+        "Avoid vortexing the Targefect-HUVEC reagent.",
+        "Store the Peptide Enhancer at 4\u00b0C.",
+        "Store the Virofect Enhancer at -20\u00b0C or -70\u00b0C.",
+        "Add Targefect to the mixture and mix well by flicking the tube.",
+        "Incubate the tubes at 37\u00b0C for 25 minutes to form transfection complexes.",
+        "Aspirate cell culture media completely from the dish.",
+        "Add transfection complexes to the cells, ensuring they cover the cells sufficiently for a 3-hour incubation period.",
+        "Swirl the dish gently to mix transfection complexes with the cell culture medium.",
+        "Incubate overnight at 37\u00b0C.",
+        "Assay for gene expression 24-48 hours after transfection.",
+        "Incubate cells with transfection complexes at 37\u00b0C for 3 hours.",
+        "Aspirate complexes and add complete media with at least 10% serum.",
+        "Replace the media with fresh complete media the next morning.",
+        "Assay at 36-48 hours post-transfection.",
+        "Culture bovine lung microvessel endothelial cells \\(BLMVEC) from passage 4 in DMEM supplemented with 20% fetal bovine serum, 15 \u03bcg/ml endothelial cell growth supplement, and 1% nonessential amino acids.",
+        "Maintain BLMVEC in 5% CO2 + humidified air at 37\u00b0C until confluent pulmonary microvessel endothelial cell monolayer \\(PMEM) is reached within 2\u20133 population doublings, taking 3\u20134 days.",
+        "Form transfection complex by adding Targefect F2 and Virofect to serum-free DMEM with enhanced yellow fluorescent protein \\(EYFP-beta-actin) plasmids.",
+        "Measure transfection efficiency similar among groups such as in the wild-type EYFP-beta-actin (78.0% \u00b1 0.02%) and the mutant Y198F isoform (79.9% \u00b1 0.06%).",
+        "Formulate the volume of reagents to achieve a final ratio of 1 \u00b5g of DNA to 2 \u00b5l of Targefect F2 and 5 \u00b5l/ml Virofect, providing treatment concentrations of 0.25\u20130.35 \u00b5g of DNA/ml of media.",
+        "Incubate complexes in 5% CO2 + humidified air at 37\u00b0C for 25 min.",
+        "Add the complexes to subconfluent PMEM.",
+        "Remove complex and media after 2 h, replace with normal growth medium.",
+        "Incubate cells for 24 h until confluent.",
+        "Plate BLMVEC (0.7 x 10^5 cells in 0.5 ml DMEM) on collagen-coated Transwell-COL permeable supports (12 mm diameter, 0.4 \u03bcm pore size).",
+        "Incubate the cells for 24 hours at 37\u00b0C and 5% CO2.",
+        "Transfect the cells by adding 500 \u03bcl of transfection complex to the top well (i.e., luminal) and 1.5 ml of serum-free DMEM to the bottom well (i.e., abluminal)."
+    ]
+}

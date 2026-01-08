@@ -1,0 +1,37 @@
+{
+    "id": 4188,
+    "origin_website": "Cell",
+    "title": "Quantification of adipocyte numbers in transgenic mice via the Cre-LoxP recombination sites",
+    "subjectAreas": [
+        "Cell Separation/Fractionation",
+        "Metabolism",
+        "Cell Isolation",
+        "Cell Culture",
+        "Cell-Based Assays",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Add two stainless steel metal beads per sample to the 2 mL Eppendorf tube.",
+        "Add 1 mL of NaOH (50 mM) to the samples.",
+        "Lysate the samples for 5\u201310 minutes with the TissueLyser LT.",
+        "Check that the tissue is fully lysed.",
+        "Repeat lysis for another 5 minutes if necessary.",
+        "Shake the samples in a thermoshaker for 1 hour at 1000 rpm and 92\u00b0C.",
+        "Spin the tubes to remove condensation from the lid.",
+        "Add 250 \u03bcL of Tris-HCl (1 M, pH 8) to neutralize the pH.",
+        "Centrifuge the samples at 13000 rcf for 5 minutes at 4\u00b0C.",
+        "Carefully move through the layer of fat and transfer part of the aqueous phase to a fresh tube.",
+        "Transfer 200 \u03bcL of the aqueous phase to a fresh tube.",
+        "If fat is sticking to the outside of the pipet tip, carefully remove the fat with a paper tissue before transferring the aqueous phase to a fresh tube.",
+        "Centrifuge the samples again at 13000 rcf for 5 min at 4\u00b0C.",
+        "Carefully transfer 2 \u03bcL of the aqueous phase from the samples to 58 \u03bcL of H2O to obtain a 1:30 dilution of the genomic DNA.",
+        "Prepare a standard curve from the pUC57recloxPRed-ApoB plasmid.",
+        "Conduct qPCR testing of the standard curve before assaying samples.",
+        "Mix 2 \u03bcL of sample or standard with the primer mix.",
+        "Add 1 \u03bcL of primer mix to each well.",
+        "Pipette 2 \u03bcL of H2O into each well.",
+        "Dispense 5 \u03bcL of Fast SYBR Green Mastermix into each well.",
+        "Run the Fast SYBR Green program on the qPCR machine.",
+        "Set the threshold for LoxPRed samples and ApoB samples at the same value within the geometric phase of amplification."
+    ]
+}

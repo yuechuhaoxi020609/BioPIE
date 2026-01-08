@@ -1,0 +1,43 @@
+{
+    "id": 3544,
+    "origin_website": "Cell",
+    "title": "Time-lapse live-cell imaging of pyroptosis by confocal microscopy",
+    "subjectAreas": [
+        "Cell Biology",
+        "Cell-Based Assays",
+        "Immunology",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Digest exponentially growing HEK293T cells with trypsin-EDTA to single cells.",
+        "Plate approximately 5 \u00d7 10^5 cells in 35-mm glass-bottomed culture dishes for 12\u201317 hours to reach 60%\u201370% confluency before transfection.",
+        "Discard the medium and add fresh DMEM supplemented with 10% FBS to the cells at 30 minutes before transfection.",
+        "Gently dilute the plasmid DNA (1 \u03bcg) with 50 \u03bcL serum-free DMEM.",
+        "Dilute PolyJet transfection reagent (3 \u03bcL) with 50 \u03bcL serum-free DMEM.",
+        "Mix diluted plasmid DNA and diluted PolyJet gently to prepare the transfection complex.",
+        "Incubate the mixture for 15 minutes to form the transfection complex.",
+        "Add the prepared transfection complex drop-wise to the cells and gently swirl the cell culture dishes.",
+        "Check the expression level of GSDME-NT using a fluorescence microscope after 24 hours post-transfection.",
+        "Dilute Sytox Green and Annexin V-Alexa Fluor 647 in the cell culture medium to the final concentration of 1 \u03bcM (Sytox Green) or add one drop Annexin V-Alexa Fluor 647 solution per 105 cells according to manufacturer\u2019s instructions.",
+        "Incubate the cells with Sytox Green and Annexin V-Alexa Fluor 647 at 37\u00b0C in dark for 15 min.",
+        "Add sterile CaCl2 stock solution to the cell culture medium to reach a final concentration of 2.5 mM before Annexin V staining.",
+        "Start LSM710 confocal microscope, and pre-warm laser source.",
+        "Equip microscope with environmental control chamber.",
+        "Warm up environment chamber to 37\u00b0C, and maintain supply of humidified 5% CO2.",
+        "Place cell culture dish into the environmental control chamber.",
+        "Choose desired objective for cell imaging. Typically, 40 \u00d7 (NA1.2) magnification objective is preferred.",
+        "Locate a view field of interest.",
+        "Go to the software operation panel.",
+        "Choose fluorescence channels and pseudo-colors that match the dyes used in the experiment.",
+        "Select the channel corresponding to brightfield for viewing.",
+        "Adjust the z-axis to get a clear view of interest.",
+        "Set the excitation laser power.",
+        "Optimize the gain of fluorescence to avoid low fluorescent intensity or overexposure.",
+        "Set the \u201cPinhole\u201d for each fluorescent channel at 1 Airy Unit (AU).",
+        "Adjust the gain and offset of each fluorescent channel as required before imaging.",
+        "Take 512 \u00d7 512 time-lapse images at 3\u20135 min intervals for a total of 7 h or longer.",
+        "Save the time series images.",
+        "Represent the images as \u201cContents of Image window-series\u201d or \u201cFull resolution image window-series\u201d.",
+        "Adjust frames per second and export the time-lapse imaging video."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": 695,
+    "origin_website": "Nature",
+    "title": "Microarray analysis of highly purified human decidual NK cells",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Genetics"
+    ],
+    "protocol": [
+        "Perform microarray analysis on highly purified CD56brightCD16- decidual NK (dNK) cells pooled from healthy elective first trimester terminations (6-10 weeks).",
+        "Pool each purified subset from all donors and use to obtain a total RNA extract.",
+        "Verify the quality of total RNA used and the cRNA prepared afterwards, by using an Agilent Bioanalyzer.",
+        "Confirm that the cRNA samples were fragmented to uniform size before continuing with sample labeling and hybridization procedures.",
+        "Perform gene expression profiling on the dNK subset by using a CodeLinkTM Uniset Human 20K I Bioarray.",
+        "Hybridize the labeled cRNA samples in duplicate.",
+        "Use global normalization for data obtained from the Amersham array.",
+        "Calculate mean intensities for each array (Mi).",
+        "Calculate the mean intensity across all arrays (Ma).",
+        "Determine scale factors (Fi) as Ma/Mi.",
+        "Normalize individual intensities by multiplying measured intensities with Fi.",
+        "Exclude transcripts demonstrating differences greater than 2-fold in duplicate analysis.",
+        "Set a minimal normalized hybridization intensity value of 20.",
+        "Bring up all intensities below 20 to this minimal value."
+    ]
+}

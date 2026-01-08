@@ -1,0 +1,43 @@
+{
+    "id": 291,
+    "origin_website": "Nature",
+    "title": "Reprogramming efficiency of mouse embryonic fibroblasts using pMX-based retroviral expression vectors: testing factors that enhance efficiency.",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Plate 2.2 x 10^6 293T cells per 10 cm dish in MEF medium.",
+        "Ensure even distribution of cells over the plate.",
+        "Transfect 293T cells with 2 \u03bcg pMX vector containing factor of interest.",
+        "Include an empty pMX vector transfection to adjust for additions during infection.",
+        "Add 2 \u03bcg pClEco packaging plasmid to the mixture.",
+        "Mix by flicking and let stand at room temperature for 15 minutes.",
+        "Add the mixture to the cells.",
+        "Replace the medium of transfected 293T cells with 10 ml MEF medium/10 cm dish.",
+        "Passage P2 or P3 of OG2MEFs in MEF medium in a 1 x 15 cm dish.",
+        "Ensure the plate is gelatinized before plating.",
+        "Wait until the next morning when the plate should be 70-80% confluent.",
+        "Split OG2MEFs at 50,000 cells per well of a gelatinized 6-well plate.",
+        "Ensure MEFs are evenly distributed over each well.",
+        "Harvest the supernatant of transfected 293T plates using a syringe.",
+        "Filter sterilize the harvested supernatant through a 0.45 \u03bcm low protein binding filter.",
+        "Add fresh MEF medium (10 ml/10 cm dish) to the transfected 293T cells for a second harvest after 24 hours.",
+        "Prepare the infection mix in 15 ml tubes.",
+        "Use 250 \u03bcl viral supernatant per factor.",
+        "Add empty pMX viral supernatant when infecting with fewer factors to maintain consistent amounts of viral supernatant across experiments.",
+        "Add protamine sulphate to achieve a final concentration of 5 \u03bcg/ml.",
+        "Infect in triplicate using a combination of viral supernatants.",
+        "Combine 250 \u03bcl viral supernatant each of the OSKM reprogramming factors oct4, sox2, klf4, c-myc.",
+        "Add 250 \u03bcl of each TFIID-12 factors (TBP, TAF3, TAF4, TAF4b, TAF5, TAF6, TAF7, TAF9, TAF10, TAF11, TAF12, TAF13).",
+        "Mix gently to achieve a total volume of 4 ml.",
+        "Add protamine sulfate from a 5 mg/ml stock solution at a ratio of 1:1000.",
+        "Replace the medium of OG2 MEFs with the infection mix, using up to 4 ml per well in a 6-well plate.",
+        "Repeat the infection once more on day 5 using new viral supernatant formed in the last 24 hours.",
+        "Discard the 293T cells after repeating the infection.",
+        "Change the medium of infected OG2 MEFs to ES medium on day 6, refreshing daily thereafter.",
+        "Trypsinize infected MEFs and plate all cells from a 3.5 cm dish into a 10 cm gelatinized dish when confluency reaches ~90-95%."
+    ]
+}

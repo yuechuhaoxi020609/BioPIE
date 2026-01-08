@@ -1,0 +1,43 @@
+{
+    "id": 11073,
+    "origin_website": "Jove",
+    "title": "High Throughput Microfluidic Rapid and Low Cost Prototyping Packaging Methods",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Mix PDMS and curing agent with a ratio of 10:1.",
+        "Ensure the oven temperature is stabilized at 80 \u00b0C.",
+        "Clean the Petri dish thoroughly with ethanol.",
+        "Clean the surface of the microfluidic access holes where the PDMS interconnector will be placed.",
+        "Pour a thin layer (approximately 2 mm) of the PDMS into the Petri dish.",
+        "Let the PDMS slightly polymerize in an oven at 80 \u00b0C for 12-15 min.",
+        "Place the microfluidic chip to which the connection will be made in the oven simultaneously with the PDMS.",
+        "Remove the PDMS from the curing oven when it starts to polymerize.",
+        "Use a biopsy punch to form holes of the desired diameter in the microfluidic chip surface.",
+        "Cut a piece of PDMS larger than required.",
+        "Remove excess PDMS from Petri dishes and place it onto the microfluidic chip.",
+        "Ensure no dust is present on both PDMS and chip surfaces.",
+        "Align holes on the microfluidic chip with those of PDMS.",
+        "Insert Teflon tubes through PDMS interconnector using a micropositioner.",
+        "Ensure tubes are 110% of microfluidic access hole diameter to prevent liquid leakage.",
+        "Connect tubes to liquid injection system if needed for user's application.",
+        "If necessary, add epoxy between the tube and PDMS for better adherence.",
+        "Cut the edge of the microtube straight using a new sharp blade.",
+        "Place the microtube in the access hole of the microfluidic chip carefully with the micropositioner.",
+        "Deposit epoxy on the access holes using an epoxy dispenser or manually place it.",
+        "Expose UV curable epoxy to a UV source for 3-10 minutes, depending on the quantity used.",
+        "Allow standard epoxy to cure at room temperature for 24 hours if the substrate is not exposed to high temperatures.",
+        "Rapidly solidify standard epoxy by exposing it to 100 \u00b0C if the microfluidic substrate needs to withstand high temperatures.",
+        "Solder surface-mount multipin electrical connectors to the PCB.",
+        "Clean the microfluidic chip's electrical pads with plasma oxygen if there is surface contamination; otherwise, clean with ethanol.",
+        "Cut conductive tape into small pieces matching the dimensions of the microfluidic chip's electrical pads using a sharp blade.",
+        "Place the cut conductive tape on the PCB electrical pads using forceps.",
+        "Align and place the microfluidic chip onto the PCB.",
+        "Attach an insulation layer (such as paper) to avoid short circuits before installing metal brackets depending on the location of PCB traces.",
+        "Use machine screws and nuts to attach the metal bracket.",
+        "Remove machine screws, nuts, and metal brackets for disassembly.",
+        "Gently separate the microfluidic chip from the PCB during disassembly.",
+        "Use ethanol to remove conductive tape adhesive from electrical pads prior to reassembly."
+    ]
+}

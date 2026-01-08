@@ -1,0 +1,39 @@
+{
+    "id": 196,
+    "origin_website": "Nature",
+    "title": "Assay of phagocytic function in primary murine microglia",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Dissociate neural progenitor cells in 0.1M PBS + 2mg/ml papain at 37\u00b0C for 30 minutes.",
+        "Treat dissociated neural progenitor cells with UV light for 15-20 minutes in a thin plastic petri dish.",
+        "Wash neural progenitor cells in 40 ml PBS at room temperature, spin at 1200 RPM for 7 minutes at room temperature with low brake.",
+        "Decant the supernatant.",
+        "Resuspend neural progenitor cells in 5 ml of room temperature 0.1M PBS.",
+        "Add 5 \u03bcl sta 5(6)-TAMRA, SE to neural progenitor cells, vortex immediately and incubate at 37\u00b0C in the dark for 15 minutes.",
+        "Wash three times with 40 ml ice-cold 0.1M PBS as described in step 3.",
+        "Resuspend in 1 ml DMEM/F12 + Anti-anti.",
+        "Count cells using a hemacytometer and dilute or concentrate to achieve a concentration of 5 X 10^6 per ml.",
+        "Feed microglial cells onto glass cover slips in DMEM/F12 + 10% fetal bovine serum + Anti-anti at a ratio of 10 NPC:1 microglial cell.",
+        "Place the plates in an incubator at 37\u00b0C and 5% CO\u2082.",
+        "Remove plates from the incubator at desired timepoints (e.g., one, two, and five hours).",
+        "In a sterile hood, remove cover slips with forceps and dip them briskly in warm 0.1M PBS to remove non-phagocytosed NPC.",
+        "Place cover slips in 1 ml of 4% PFA in a 24-well plate for fixation.",
+        "Fix cells on cover slips in the dark for 20 minutes.",
+        "Wash cover slips three times with 0.1M PBS at room temperature (RT).",
+        "Block cover slips in 10% serum in PBS containing 0.3% Triton X-100 and 0.5% BSA, incubating for one hour at RT in the dark.",
+        "Incubate cover slips with anti-CD11b (eBioscience) diluted 1:100 for one hour at RT in the dark.",
+        "Wash cover slips three times with 0.1M PBS at RT.",
+        "Incubate cover slips with secondary antibody (diluted 1:1000, Invitrogen) for one hour at RT.",
+        "Wash cover slips once with 0.1M PBS at RT.",
+        "Incubate cover slips in DAPI diluted 1:20,000 for five minutes.",
+        "Wash cover slips three times with 0.1M PBS at RT.",
+        "Mount cover slips on slides using Aqua-Mount (Lerner Laboratories).",
+        "Let the slides dry overnight before imaging.",
+        "Calculate the \"phagocytic index\" by dividing the total area of microglial cells (CD11b+) by the total area of labeled neural progenitor cells (NPC).",
+        "Alternatively, quantify phagocytosis using the number of phagocytosed targets per cell.",
+        "Image Z-stacks on a confocal microscope to distinguish between internalized and adhered targets."
+    ]
+}

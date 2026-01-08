@@ -1,0 +1,36 @@
+{
+    "id": 316,
+    "origin_website": "Nature",
+    "title": "A protocol for isolation of target proteins of natural compounds",
+    "subjectAreas": [
+        "Chemistry",
+        "Biochemistry",
+        "Chemical Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Incubate Magnetic FG beads with 10 mM 1-hydroxybenzotriazole, 10 mM 1-ethyl-3-(3-demethyaminopropyl)-carbodiimide HCl, and various concentrations of **1** in N,N-dimethylformamide for 4 hours at room temperature.",
+        "Mask unreacted residues using 20% carbonic anhydride in N,N-dimethylformamide.",
+        "Store beads at 4 \u00b0C.",
+        "Extract PC-3 cell fractions using ProteoExtract subcellular proteome extraction kit \\(S-PEK).",
+        "Equilibrate Compound 1-immobilized beads and FG beads with 0.5% NP-40 lysis buffer.",
+        "Incubate cell protein fractions with beads for 4 hours at 4 \u00b0C.",
+        "Wash Beads five times with 100 mM KCl.",
+        "Wash beads with 1M KCl.",
+        "Perform SDS-PAGE on a 10% gel.",
+        "Stain the gel with silver staining.",
+        "Cut and treat the cutting gel with trypsin.",
+        "Analyze recovered peptides with electrospray ion trap mass spectrometer coupled online with nano-scale HPLC on a C18 column to acquire MS/MS spectra.",
+        "Use peptide mass fingerprinting for protein identification from tryptic fragment sizes using the Mascot search engine querying to the entire NCBI database of theoretical human peptide masses.",
+        "Use paclitaxel and vinblastine sulfate salt as stabilizing and destabilizing controls.",
+        "Fix tubulin on one electrode (ch1) for the assay.",
+        "Block another electrode absolutely with BSA (ch2) for reference.",
+        "Investigate compound affinity with tubulin using NAPiCOS QCM system.",
+        "Stabilize baseline with PBS/50% EtOH, flow rate set to 20 \u03bcl/min.",
+        "Inject one hundred microliters of each compound into the system to react with fixed tubulin to obtain differential frequency shift between ch1 and ch2.",
+        "Calculate Kd values by standard Scatchard analysis using frequency changes from several concentrations of compound.",
+        "Use Tubulin Polymerization Assay Kit to test tubulin polymerization on each compound.",
+        "Paclitaxel (Wako Co., Japan) and vinblastine were used as positive and negative controls, respectively.",
+        "Measure fluorescence using FlexStation3 (Molecular Devices, USA)."
+    ]
+}

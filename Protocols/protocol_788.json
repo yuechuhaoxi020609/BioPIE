@@ -1,0 +1,21 @@
+{
+    "id": 905,
+    "origin_website": "Nature",
+    "title": "Rapid, high-throughput homogenization of embryonic or larval zebrafish \\(<em>Danio rerio</em>)",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Biological Techniques",
+        "Genetics",
+        "Molecular Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Place 10-300 mg of zebrafish into microcentrifuge tubes.",
+        "Add two masses of zirconium oxide grinding beads for each mass of sample.",
+        "Add 2 volumes of buffer for every mass of zebrafish.",
+        "Close the microcentrifuge tubes and place them into the Bullet Blender\u2122 (no need to balance).",
+        "Set controls for SPEED 8 and TIME 3 minutes, then start the run.",
+        "Remove tubes and proceed with your downstream application."
+    ]
+}

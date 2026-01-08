@@ -1,0 +1,40 @@
+{
+    "id": 1159,
+    "origin_website": "Nature",
+    "title": "<p>A protocol for reconstructing the dynamics of real-world systems from observational data: Application for establishing a digital proxy of a bioreactor (DIYBOT)</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Chemical Biology",
+        "Environmental Sciences",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Collect continuous sensor data at 15-minute intervals for a 60-day period.",
+        "Transition the bioreactor to steady state operation over the first 40 days, characterized by less than 5% deviation in treatment and dampened oscillatory behavior.",
+        "Add a pulse of 1.0 mg/L AgNP on day 40.",
+        "Incrementally add pulses of AgNP at subsequent 30-day intervals (2.0 mg/L on day 70; 3.0 mg/L on day 100).",
+        "Store time series data each week and back up on an external hard drive for subsequent processing.",
+        "Use R version 3.6.1 and the forecast v8.12 package to conduct Fourier spectrum analysis.",
+        "Conduct singular spectrum analysis using the Rssa 0.13-1 package.",
+        "Utilize tseriesChaos package for further data analysis as needed.",
+        "Signal process the three AgNP pulses for the O\u2082 and pH records as described.",
+        "Perform Fourier frequency spectrum analysis on the raw data.",
+        "Plot the raw O\u2082 data with a 15-minute time scale.",
+        "Plot the raw pH data with a 60-second time scale.",
+        "Generate Fourier spectra using the forecast v8.12 package.",
+        "Plot the generated Fourier spectra.",
+        "Remove the mean and divide by the standard deviation for each sensor time series to standardize the data.",
+        "Rerun the Fourier Spectrum on the resampled 2-hour blocks to ensure that it reproduces the dominant 50-hour oscillation in 25 two-hour blocks.",
+        "Compare empirical attractor characteristics to corresponding surrogate attractor characteristics.",
+        "Test the null hypothesis that there is no significant difference in the measured characteristics.",
+        "Prepare summary tables of surrogate data testing for rapid analysis.",
+        "Compute the maximum Lyapunov Exponents from the empirical and phenomenological attractors.",
+        "Use numerical partial derivatives computed from the phenomenological models to measure the marginal response of a response variable to an incremental change in a driving variable.",
+        "Quantify interactions detected with CCM using numerical partial derivatives.",
+        "Observe that when AgNP concentrations are at or below 2.0 mg/L, pH has a negative marginal impact on O\u2082.",
+        "Note that when AgNP concentration is 3.0 mg/L, pH has a detrimental impact on O\u2082 and this relationship decays over time.",
+        "Determine that positive values of the curve indicate a positive marginal impact between variables.",
+        "Identify that negative values of the curve indicate a negative marginal impact between variables.",
+        "Recognize that if the curve decays to zero, it indicates that over time the impact decays (is non-persistent)."
+    ]
+}

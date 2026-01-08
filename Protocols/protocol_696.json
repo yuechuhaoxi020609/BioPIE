@@ -1,0 +1,42 @@
+{
+    "id": 11084,
+    "origin_website": "Jove",
+    "title": "Cell Squeezing as a Robust, Microfluidic Intracellular Delivery Platform",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Store the reservoirs, holders, O-rings, and microfluidic devices in 70% ethanol.",
+        "Use a container with a lid for each type of component (container 1 for devices, container 2 for reservoirs and O-rings, container 3 for holders).",
+        "Change the ethanol solution in containers 2 and 3 before each use to prevent cross-contamination.",
+        "Place containers 2 and 3 in an ultrasound bath for 5-10 minutes before each use.",
+        "Clean the workspace in the biosafety cabinet with a 70% ethanol solution.",
+        "Spray all materials (containers, tweezers) with a 70% ethanol solution before placing them inside the biosafety cabinet.",
+        "Set down 2-3 low-lint wipes in the work area for assembly.",
+        "Remove plastic reservoirs from container 2 using tweezers and place on wipes to allow evaporation of ethanol.",
+        "Gently tap the reservoirs or blow air through them to facilitate removal of ethanol solution.",
+        "Insert O-rings into their appropriate slots on the reservoirs.",
+        "Remove holder and chips from respective containers and allow ethanol to evaporate (~1-2 min).",
+        "Use tweezers to place the desired chip face-up (i.e., access holes up) in the holder.",
+        "Raise the holder with the chip to eyelevel to ensure the chip is lying flat and adjust if necessary.",
+        "Gently place the reservoirs on the holder and align them with the clips.",
+        "Press down on the reservoirs until they click into place.",
+        "Ensure both sides of the reservoirs are secure and that the chip appears to be in the correct position.",
+        "Plate cells 1-2 days prior to the experiment such that they are no more than 80% confluent on the day of the experiment.",
+        "Place cells in suspension (in PBS or relevant media) aiming for an operating concentration of 1.0 x 10^6 cells/ml to 1.0 x 10^7 cells/ml.",
+        "Mix cells with the desired delivery material in a separate tube to obtain the desired concentration for the experiment.",
+        "Pipette the mixture of cells and delivery material into a reservoir (maximum capacity 150 \u03bcl).",
+        "Attach pressure tubing to the filled reservoir and tighten it securely (finger tight is often sufficient).",
+        "Adjust the pressure on the regulator to control the speed at which cells travel through the device.",
+        "Press the button to pressurize the reservoir and start cell flow.",
+        "Turn the regulator to 0 psi when the liquid level is approximately 2 mm from the bottom of the reservoir.",
+        "Collect treated cells from the appropriate reservoir and place them in the desired collection tube or plate.",
+        "Do not dilute collected cells at this stage as porated cells will continue to uptake material for up to 10 minutes.",
+        "Dilute the cells in the desired media or buffer after 10 minutes have passed.",
+        "Repeat steps 5.1 - 5.7 if more treated cells are needed or alternative experimental conditions are required.",
+        "Exchange chips as needed if they clog and discard any clogged devices.",
+        "Gently disconnect the reservoirs from the main holder by pushing aside the clip arms.",
+        "Place each part in the appropriate storage container.",
+        "Place used chips in a separate container for disposal."
+    ]
+}

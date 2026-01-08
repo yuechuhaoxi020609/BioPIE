@@ -1,0 +1,33 @@
+{
+    "id": 11173,
+    "origin_website": "Jove",
+    "title": "In vitro Synthesis of Native, Fibrous Long Spacing and Segmental Long Spacing Collagen",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Combine 6 \u03bcl of water, 20 \u03bcl of 200 mM Na2HPO4 adjusted to pH 7 with HCl and 10 \u03bcl of 400 mM KCl in a microfuge tube and mix.",
+        "Add 4 \u03bcl of collagen monomer (~3 mg/ml in 0.01 N HCl) to the microfuge tube and mix.",
+        "Place the microfuge tube containing the reaction mixture in a heat block pre-warmed to 37 \u00b0C for 3 to 4 hr.",
+        "Dialyze 1 ml of collagen monomer (~3 mg/ml in 0.01 N HCl) using a 12-14 kDa MWCO membrane against 400 ml of water, changing the water four times over 24 hr at room temperature.",
+        "Combine 20 \u03bcl of water, 20 \u03bcl of 3 mg/ml \u03b11-acid glycoprotein in water and 20 \u03bcl of dialyzed collagen monomer in a microfuge tube.",
+        "Leave the microfuge tube containing the reaction mixture at room temperature for 30 min.",
+        "Combine 67 \u03bcl of water, 60 \u03bcl of 100 mM glycine-HCl buffer at pH 3.3 and 40 \u03bcl of 10 mg/ml ATP in water in a microfuge tube and mix.",
+        "Add 33 \u03bcl of collagen monomer (~3 mg/ml in 0.01 N HCl) to the microfuge tube and mix.",
+        "Leave the microfuge tube containing the reaction mixture at room temperature for 2 hr.",
+        "Cleave the surface of a piece of mica attached to an AFM substrate by covering the mica surface with a piece of sticky tape and then peeling it away.",
+        "Check the tape afterwards to confirm that an entire layer of mica was cleaved.",
+        "Apply 20 \u03bcl of the collagen fibril solution to the freshly cleaved mica substrate.",
+        "Leave for 5 min.",
+        "Gently rinse off solution of collagen fibril with water, applying the water at the edge of the mica substrate and allowing it to flow across the sample.",
+        "Dry the surface under a gentle stream of nitrogen gas, directing the stream at the edge of the mica substrate.",
+        "Under an optical microscope at 200\u00d7 magnification, observe native and FLS collagen samples for clumps of fibrils.",
+        "Observe SLS collagen under the same conditions; it should not be visible.",
+        "Image native collagen fibrils with an AFM in intermittent contact mode using silicon AFM probes.",
+        "Image FLS and SLS collagen fibrils with an AFM in contact mode using silicon nitride AFM probes.",
+        "Scan samples initially at 100 \u00d7 100 \u03bcm\u00b2 to show several collagen constructs.",
+        "Zoom into a 10 \u00d7 10 \u03bcm\u00b2 scan size for detailed observations of banding periodicity or finer features.",
+        "Further zoom into a 2 \u00d7 2 \u03bcm\u00b2 scan size to observe banding periodicity in native and FLS collagen, or fine features in SLS collagen.",
+        "Check at least two other regions on the collagen sample to verify representativeness."
+    ]
+}

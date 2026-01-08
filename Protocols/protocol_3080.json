@@ -1,0 +1,23 @@
+{
+    "id": 27,
+    "origin_website": "Nature",
+    "title": "Generation of deletion and insertion mutants",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Biological Techniques",
+        "Genetics",
+        "Molecular Biology",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Clone AtAMT1;1 into pDRf1-GW using GATEWAY\u2122 technology.",
+        "Generate all amino acid substitutions by site-directed mutagenesis of the wild type AtAMT1;1 sequence.",
+        "Generate AtAMT1;1 variants by site-directed mutagenesis.",
+        "Use single strand DNA of pDRf1-AtAMT1;1 as a template to insert a short DNA fragment coding for a stop codon and carrying XhoI restriction site (5\u2019tgagtcgac).",
+        "Remove the remaining part of the Cterminus by XhoI digestion.",
+        "Use single stranded DNA from pDRf1-AtAMT1;1 carrying a 3x cmyc-tag at the very end of the AtAMT1;1 C-terminus as template.",
+        "Insert the C-terminal insertion of 5\u2019atcgatggacgt, encoding IDGR, at positions 443, 444, 445, 446, 448, 455 or 456 into the AMT1;1 protein.",
+        "Insert a 5\u2019ggttggagctcccgggggcgcc DNA fragment, encoding GGAPGGA, at position 150 or 231 into the AMT1;1 protein for L3-4 (Ins150) and L5-6 (Ins231) insertions."
+    ]
+}

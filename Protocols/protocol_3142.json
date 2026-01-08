@@ -1,0 +1,20 @@
+{
+    "id": 1338,
+    "origin_website": "Nature",
+    "title": "<p>Immune landscape evaluation of NSCLC clinical samples</p>",
+    "subjectAreas": [
+        "Cancer",
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Collect formalin-fixed paraffin-embedded samples for histology.",
+        "Evaluate the collected FFPE samples with hematoxylin and eosin staining by a certified pathologist.",
+        "Construct tumor microarrays (TMAs) from 1.0 mm punches of the FFPE lung cancer blocks using a manual arrayer.",
+        "Perform immunohistochemistry (IHC) for PD-L1 on TMAs using the Ventana Benchmark Ultra system.",
+        "Pre-treat the tissue with Cell Conditioning 1 before IHC for PD-L1.",
+        "Incubate the section with anti-PD-L1 antibody at a dilution of 1:100.",
+        "Employ an OptiView DAB IHC Detection kit for detection in PD-L1 staining.",
+        "Perform immunohistochemistry (IHC) for CD3 and CD8 on TMAs using a PT-Link Module.",
+        "Pre-treat the tissue with high pH Envision FLEX Target retrieval solution before IHC for CD3 and CD8."
+    ]
+}

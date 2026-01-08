@@ -1,0 +1,20 @@
+{
+    "id": 365,
+    "origin_website": "Nature",
+    "title": "Rapid enzyme-linked immunosorbent assay technique by ultrasound waves in a sonicator bath",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Activate the polystyrene surface by coating with FNAB.",
+        "Photoactivate the coated wells using UV light for 15 minutes at a wavelength of 365 nm.",
+        "Immobilize capture molecules onto activated and untreated polystyrene microtiter plates using ultrasound waves in a sonicator bath.",
+        "Block the immobilized capture molecule-coated wells.",
+        "Add human IgG or human IgE analyte to the blocked wells.",
+        "Incubate the plates with secondary antibody-conjugate.",
+        "Wash the plates after each step.",
+        "Develop color by adding 100 \u00b5l of substrate-dye buffer to each well.",
+        "Stop the reaction by adding 20 \u00b5l of 5% sulfuric acid.",
+        "Record absorbance at 490 nm."
+    ]
+}

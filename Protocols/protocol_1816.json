@@ -1,0 +1,16 @@
+{
+    "id": 61,
+    "origin_website": "Nature",
+    "title": "Mass spectrometric analysis of 3&#8217;-terminal nucleosides of non-coding RNAs",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Structural Biology"
+    ],
+    "protocol": [
+        "Dissolve more than 0.8 \u03bcg of yeast tRNA<sup>Phe</sup> or mouse piRNAs in 13.4 \u03bcl of Milli-Q water.",
+        "Add 1.6 \u03bcl of 500 mM ammonium acetate buffer (pH 5.3) and mix gently.",
+        "Add 5 \u03bcl of RNase T<sub>2</sub> at a concentration of 5 units/ml and mix gently.",
+        "Incubate the mixture at 37\u00b0C for 3 hours.",
+        "Analyze the hydrolysate by using the LC/MS system."
+    ]
+}

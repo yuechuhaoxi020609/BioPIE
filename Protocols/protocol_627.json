@@ -1,0 +1,42 @@
+{
+    "id": 811,
+    "origin_website": "Nature",
+    "title": "Single-Cell Multiple Displacement Amplification \\(SCMDA)",
+    "subjectAreas": [
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Isolate single cells and deposit into 0.2-ml PCR tubes containing 2.5 \u03bcl PBS.",
+        "Place the tubes on dry ice and store at -80\u00b0C.",
+        "Add 1 \u03bcl exo-resistant random primers to the PCR tube.",
+        "Add 3 \u03bcl lysis buffer to the PCR tube.",
+        "Flick the mixture several times.",
+        "Spin down the mixture quickly.",
+        "Keep the mixture on ice for 10 min.",
+        "Add 3 \u03bcl stop buffer to neutralize the lysis buffer.",
+        "Keep the neutralized solution on ice for 2 min.",
+        "Add 32 \u03bcl of master mix containing MDA reaction buffer and Phi29 polymerase.",
+        "Mix by pipetting gently.",
+        "Incubate at 30\u00b0C for 1.5 hr.",
+        "Incubate at 65\u00b0C for 3 min.",
+        "Purify amplified product with 75.6 \u03bcl AMPureXP-beads.",
+        "Mix the beads and purified product by pipetting.",
+        "Leave the mixture at room temperature for 5 min.",
+        "Place the mixture on a magnetic separator until clear.",
+        "Remove the clear liquid by pipetting.",
+        "Wash beads twice with fresh 80% ethanol.",
+        "Air-dry beads for about 5 min to avoid cracking.",
+        "Elute beads using 32 \u03bcl nuclease-free water.",
+        "Put back the tube to magnetic separator and keep it at room temperature for 5 min until the solution is clear and a pellet is formed again.",
+        "Transfer 30 \u00b5l clear liquid from the tube to a clean tube.",
+        "Store the purified product at 4\u00b0C for short-term storage or -20\u00b0C for long-term storage.",
+        "Dilute the purified product 10-20 times and quantify the samples using Qubit.",
+        "Check the product size by agarose gel electrophoresis using 1.0% agarose gel, 1.0% TBE solution, and incubate at 100V for 40 min.",
+        "Dilute the purified product and unamplified genomic DNA to 1 ng/\u00b5l using nuclease-free water.",
+        "Prepare a 96-well plate with PCR mixture including 5 \u00b5l Fast Sybr green master mix, 1 \u00b5l locus-specific primers, 2 \u00b5l nuclease-free water, and 2 \u00b5l diluted DNA for each well.",
+        "Seal the plate and spin down.",
+        "Incubate under qPCR program: 95\u00b0C for 20s, followed by 40 cycles at 95\u00b0C for 3 s and 60\u00b0C for 30 s.",
+        "Calculate the relative uniformity values (RUVs) for 8 loci.",
+        "Select samples with RUV values of at least 6 of the 8 loci between 0.25-4 for library construction."
+    ]
+}

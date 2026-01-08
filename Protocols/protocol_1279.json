@@ -1,0 +1,29 @@
+{
+    "id": 1010,
+    "origin_website": "Nature",
+    "title": "Contamination screening of parasitic worm genome assemblies",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Split each scaffold of the initial genome assembly into 50 kb chunks.",
+        "Run BLASTX for each chunk against two in-house sequence databases.",
+        "One database consists of all invertebrate proteins from GenBank.",
+        "The other database consists of all proteins in the full proteomes of representative species from major non-invertebrate taxa.",
+        "Use the \u2013dbsize BLAST option to ensure comparable E values from different sized databases.",
+        "If the e-value for a chunk's top non-invertebrate hit is 1E+10 fold lower than its top invertebrate hit, classify the chunk as contaminant.",
+        "Remove scaffolds if more than half of their chunks are classified as contaminant.",
+        "Run BLASTP searches of predicted proteins from genes on remaining scaffolds against the search databases listed in Step A.",
+        "For each protein, if its top BLASTP hit is to a non-invertebrate protein and has an e-value that is 1E+50 times lower than that of the best invertebrate hit, then classify the gene as a putative contaminant gene.",
+        "Conversely, if the top hit is to an invertebrate protein and its e-value is 1E+50 times lower than that of the best non-invertebrate hit, classify the gene as non-contaminant.",
+        "If more than half of the classified genes on a scaffold are considered contaminant, remove the scaffold from the assembly.",
+        "Output a genome assembly from which any additional likely contaminant scaffolds have been removed.",
+        "Mix predicted protein sequences from non-contaminant scaffolds with the database of non-invertebrate proteins and either nematode or flatworm protein sequences from GenBank using BLASTP.",
+        "Record the top ten BLASTP hits in nematodes/non-invertebrates and in the flatworm database for each query gene.",
+        "Identify a query gene as a contaminant if the top five hits are to nematodes/non-invertebrates and the e-value of the worst hit is at least 5 orders of magnitude lower than that of the best flatworm hit.",
+        "Consider a query gene as non-contaminant if the top five hits are to flatworms, and the e-value of the worst flatworm hit is 5 orders of magnitude lower than that of the best nematode/non-invertebrate hit.",
+        "If a scaffold has one or more contaminant genes and no non-contaminant genes, remove it from the genome assembly.",
+        "Remove any additional likely contaminant scaffolds from the genome assembly."
+    ]
+}

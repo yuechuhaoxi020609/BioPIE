@@ -1,0 +1,36 @@
+{
+    "id": 519,
+    "origin_website": "Nature",
+    "title": "Graphene-based C-reactive protein immunoassay with smartphone readout",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques",
+        "Biochemistry",
+        "Nanoscience And Technology"
+    ],
+    "protocol": [
+        "Incubate the MTP well surface with 100 \u03bcL of 1% \\(w/v) KOH in DIW for 10 min.",
+        "Wash the MTP wells five times with 300 \u03bcL DIW per well.",
+        "Mix EDC-activated Ab with GNPs (1 mg mL\\(^{-1}\\)) in 0.25% APTES in a ratio of 1:1 \\(v/v).",
+        "Incubate for 30 min at room temperature.",
+        "Wash the resulting Ab-bound and GNPs-functionalized MTP wells five times with 300 \u03bcL of PBST.",
+        "Block the MTP wells by incubating with 300 \u00b5L of 5% \\(w/v) BSA for 30 min at 37 \u00b0C.",
+        "Wash the MTP wells with 300 \u00b5L of wash buffer five times.",
+        "Dispense 100 \u03bcL of biotinylated anti-CRP detection Ab at a concentration of 0.17 \u00b5g mL\\(^-1\\) to the Ab-bound and BSA-blocked MTP wells.",
+        "Incubate for 15 min at 37 \u00b0C.",
+        "Wash the resulting sandwich immune complex-bound MTP with 300 \u00b5L of PBST five times.",
+        "Add 100 \u00b5L of the TMB-H\\(_2\\)O\\(_2\\) mixture to each MTP well and incubate at RT for 4 min.",
+        "Stop the enzymatic reaction by adding 50 \u03bcL of 2N H\\(_2\\)SO\\(_4\\) to each MTP well.",
+        "Perform the colorimetric readout of the MTP by smartphone imaging using the developed SBCR setup.",
+        "Place the iPad mini in the designated groove of the base holder.",
+        "Place the 96-well MTP on the iPad mini\u2019s screensaver, which provides white light-based bottom illumination to specific regions corresponding to the wells\u2019 bottoms.",
+        "Put the dark box on top of the base holder into the alignment groove.",
+        "Perform imaging of the colorimetric reaction in the MTP using the Samsung SIII mini\u2019s back camera by placing it inside the designated groove on top of the dark hood.",
+        "Determine the desired pixel intensity (PI) of the captured smartphone image using ImageJ.",
+        "Split the color channel of the image.",
+        "Identify the pixel coordinate of individual MTP well\u2019s center using the red channel image.",
+        "Calculate a mean of neighboring pixels from the center for all channels individually.",
+        "Derive the composite mean PI (CMPI) using the formula: CMPI = 0.7 MPI\\_Blue + 0.2 MPI\\_Green + 0.1 MPI\\_Red.",
+        "Determine the desired PI as 255 \u2013 CMPI_Test Conc \u2013 CMPI_Blank."
+    ]
+}

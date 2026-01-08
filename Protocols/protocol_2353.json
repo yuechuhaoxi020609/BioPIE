@@ -1,0 +1,35 @@
+{
+    "id": 10452,
+    "origin_website": "Jove",
+    "title": "Colorimetric Analysis of Alkaline Phosphatase Activity in S. aureus Biofilm",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Prepare 1 L of Tryptic Soy Broth (TSB) by adding 15 g of pancreatic digest of casein, 5 g of papaic digest of soybean meal, 3 g of sodium chloride, 2.5 g of dextrose, and 2.5 g of dipotassium phosphate to 1 L of distilled water.",
+        "Sterilize TSB before use.",
+        "Prepare Tryptic Soy Agar (TSA) by adding 15 g of agar to 1 L of TSB.",
+        "Autoclave TSA.",
+        "Allow TSA to cool down to room temperature.",
+        "Pour 20 mL of cooled TSA into Petri dishes (100 mm x 15 mm).",
+        "Sterilize 1 L of autoclaved TSB by adding 10 g of glucose and filtering through a 0.2 \u03bcm filter.",
+        "Inoculate one individual colony of S. aureus from TSA in 10 mL of TSB and grow overnight at 37 \u00b0C.",
+        "Dilute the overnight culture into 10 mL of TSB/glucose (10 g/L) at a ratio of 1:100 (v/v).",
+        "Vortex gently to ensure consistent concentration.",
+        "Transfer 200 \u03bcL of diluted culture into each of 18 wells in a 96 well plate, using triplets for each time point: 0 min, 15 min, 30 min, 45 min, 60 min, and 75 min.",
+        "Incubate the 96 well plate at 37 \u00b0C for 24 h to allow biofilm formation.",
+        "Decant the supernatant by aspiration after incubation.",
+        "Wash each well with 1x phosphate buffered saline (PBS) at pH 7.4.",
+        "Centrifuge plates for 5 min at 15,000 x g.",
+        "Decant the supernatant by aspiration after centrifugation.",
+        "Add 75 \u03bcL of buffered ALP substrate to each well from step 2.6 and begin recording the time.",
+        "Record each time point in triplicate.",
+        "Incubate for 0 min (control), 15 min, 30 min, 45 min, 60 min, and 75 min respectively.",
+        "Add 75 \u00b5L of 5 M NaOH to stop the reaction at each time point.",
+        "Centrifuge the plate for 5 min at 15,000 x g after stopping the reaction.",
+        "Transfer 100 \u03bcL of supernatant into a new 96 well plate for colorimetric measurement.",
+        "Measure the absorbance of each well at 405 nm using a 96 well plate reader.",
+        "Use the 0 min time point wells to control for 405 nm background noise.",
+        "Repeat the entire experiment in three individual 96 well plates."
+    ]
+}

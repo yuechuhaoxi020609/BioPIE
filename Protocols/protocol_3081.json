@@ -1,0 +1,33 @@
+{
+    "id": 758,
+    "origin_website": "Nature",
+    "title": "Dendritic aggregation of the postsynaptic cell adhesion molecule NGL-3 by pre-clustered antibodies to induce postsynaptic protein clustering",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Transfect cultured hippocampal neurons at DIV 14 with EGFP-NGL-3.",
+        "Incubate transfected neurons for 2 days at 37\u00b0C.",
+        "Mix 1 \u03bcg of EGFP antibodies and 0.1 \u03bcg of FITC-conjugated secondary antibodies in a ratio of 10:1 in 500 \u03bcl complete neurobasal media (CNB).",
+        "Incubate the antibody mixture for 2 hours at 4\u00b0C.",
+        "Transfer DIV 16 transfected neurons to a 12-well plate containing ~400 \u03bcl prewarmed CNB per well.",
+        "Add 100 \u03bcl of preclustered antibody solution to achieve a final concentration of 400 ng/ml in each well.",
+        "Incubate the neurons for 1 hour at 37\u00b0C.",
+        "Wash the neurons three times with pre-warmed PBS.",
+        "Transfer the coverslip with neurons back to the conditioned culture media.",
+        "Incubate the neurons for 24 hours.",
+        "Fix and immunostain the neurons with primary antibodies against various postsynaptic proteins.",
+        "Incubate with Cy3-conjugated secondary antibodies.",
+        "Add FITC-conjugated secondary antibodies during incubation of Cy3 secondary antibodies.",
+        "Capture Z-stacked images of the stained neurons by confocal microscopy.",
+        "Trace the boundaries of each NGL-3 cluster on dendrites.",
+        "Quantify the percentage of NGL-3 clusters that are positive for postsynaptic marker proteins.",
+        "Quantify the average immunofluorescence intensities of coclustered postsynaptic proteins.",
+        "Normalize the average immunofluorescence intensities to those in nearby dendrites."
+    ]
+}

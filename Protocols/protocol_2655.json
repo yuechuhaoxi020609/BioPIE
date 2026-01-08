@@ -1,0 +1,33 @@
+{
+    "id": 3541,
+    "origin_website": "Cell",
+    "title": "A pipeline for STED super-resolution imaging and Imaris analysis of nanoscale synapse organization in mouse cortical brain slices",
+    "subjectAreas": [
+        "Cell Biology",
+        "Neuroscience",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Select 485 nm excitation laser line for GFP IUE cell fill.",
+        "Select 561 nm excitation laser line for Abberior STAR Orange for GluR1.",
+        "Select 640 nm excitation laser line for Abberior STAR Red for LAMP1.",
+        "Select 775 nm STED depletion laser line for Abberior STAR Orange and Abberior STAR Red.",
+        "Localize ROIs to L1 apical dendritic tufts from L2/3 pyramidal cells in the mPFC.",
+        "Maintain strict selection criteria when imaging the morphology and density of dendritic spines in the cerebral cortex.",
+        "Select regions that are away from the dendritic tuft end or the branching region.",
+        "Find a dendritic shaft segment at least 30 \u03bcm long, parallel to the horizontal plane.",
+        "Ensure that much of the segment is located within a few Z-steps.",
+        "Choose dendritic segments isolated from other cells.",
+        "Set the Z stack according to the cell fill channel.",
+        "Add a few sections of space above and below the dendrite.",
+        "Acquire images from dendritic shafts and synaptic markers localized to apical dendritic tufts in L1 as stacks of approximately 20\u201360 optical sections.",
+        "Maintain an X/Y resolution of 40 px/\u03bcm.",
+        "Double the confocal excitation power value for STED excitation.",
+        "Set the STED depletion laser power setting so that it does not detract from signal intensity compared to the confocal test and does not degrade image quality.",
+        "Stain transfected GFP-positive cells and processes with an anti-GFP primary antibody at a 1:500 dilution.",
+        "Apply Abberior STAR Orange secondary antibody at a 1:300 dilution for the cell fill signal compatible with STED imaging.",
+        "Use Abberior STAR Red secondary antibody at a 1:1000 dilution when necessary.",
+        "Consider the power to counts ratio for resolving small structures such as necks without bleaching the sample during STED imaging.",
+        "Reduce optical aberrations by combining STED with hollow Bessel beams or adaptive optics techniques."
+    ]
+}

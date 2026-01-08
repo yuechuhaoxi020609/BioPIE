@@ -1,0 +1,28 @@
+{
+    "id": 289,
+    "origin_website": "Nature",
+    "title": "Spectral pattern of urinary water as a biomarker of estrous",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Centrifuge urine sample for four minutes at 650\u00d7g immediately after collection.",
+        "Store supernatant at \u221240\u00b0C until estrogen assay and spectral analysis.",
+        "Maintain urine samples under constant temperature \\(37\u00baC) in a water bath.",
+        "Acquire transmittance spectra of urine samples using a full-range spectrometer with a quartz cuvette having a 1-mm optical path length.",
+        "Measure transmittance spectra in the range of 680-2500 nm with 2-nm step intervals.",
+        "Record 10 consecutive spectra of each urine sample.",
+        "Daily-averaged spectra in the first overtone region of water \\(1300-1600 nm) are analyzed.",
+        "Obtain the difference spectrum by subtracting the average spectrum of all days except for the previous, next day, and the day of estrogen peak from the average spectrum of these three estrous state days for each year.",
+        "Pre-treat data using a Savitzky-Golay second derivative polynomial filter (window size=9) with smoothing.",
+        "Use the second derivative plot of all-year samples to identify water absorbance bands showing strong response to changes in estrous state.",
+        "Select 12 characteristic wavelength ranges specific for the estrous state as WAMACs by reference to the 12 characteristic water wavelength ranges reported.",
+        "Transform spectra of daily-averaged urine by multiplicative scatter correction.",
+        "Normalize the transformed values by auto-scaling.",
+        "Apply normalized values at WAMACs to data analysis.",
+        "Calculate distances between pairs of samples using Hierarchical cluster analysis.",
+        "Employ dendrogram classification with Euclidean distance and complete-link clustering algorithm.",
+        "Display normalized values at WAMACs on axes originating from the center of an Aquagram.",
+        "Estimate relationship between estrous state and absorbance change at WAMACs by comparing aquagrams for days of high and low estrogen values."
+    ]
+}

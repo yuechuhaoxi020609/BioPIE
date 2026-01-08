@@ -1,0 +1,26 @@
+{
+    "id": 159,
+    "origin_website": "Nature",
+    "title": "Three-dimensional colocalization analysis in immunostained sections of human pancreas",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Structural Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Create Volocity libraries from raw data files.",
+        "Drag raw data file(s) into pre-created library(s) to import calibrated images.",
+        "Select a raw image from the library and switch to the \u201cMeasurements\u201d view by clicking the \u201cMeasurements\u201d tab.",
+        "Build the analysis algorithm sequence under the \u201cMeasurements\u201d view from the list of existing protocols.",
+        "Drag the appropriate protocols from the list of protocols and stack them in the specified sequence.",
+        "Select the appropriate channel for the marker to be analyzed.",
+        "Set the threshold to 3x standard deviations (SD).",
+        "Display the threshold popup window by clicking the cog icon.",
+        "Change \u201cThreshold using\u201d to \u201cSD\u201d and set the \u201cLower Limit\u201d value to 3.",
+        "Click \u201cUpdate Feedback\u201d under the \u201cMeasurement\u201d tab or select \u201cAutomatically Update Feedback\u201d.",
+        "The results of the analysis are displayed automatically, with found objects highlighted.",
+        "Switch to the \u201cColocalization\u201d view by clicking the \u201cColocalization\u201d tab.",
+        "Select the appropriate channels for analysis (only 2 channels can be selected at any given time).",
+        "Use the same threshold values as in Step 4 (i.e., 3x SD) to set the minimum intensity value for each channel."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 260,
+    "origin_website": "Nature",
+    "title": "Direct imaging furin-controlled intracellular condensation with two-photon laser microscope",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Culture MDA-MB-468 human breast adenocarcinoma epithelial cells in Dulbecco\u2019s modified eagle medium supplemented with 10% fetal bovine serum in an incubator supplied with 5% carbon dioxide humidified air at 37 \u00b0C.",
+        "Seed the healthy cells on coverslips in each well of a 24-well plate at about 60% density, then incubate overnight.",
+        "Suck off the culture medium and add 500 \u03bcL DMEM containing 100 \u03bcM **2** or **2-Scr** by mixing 5 \u03bcL of PBS stock solution of **2** or **2-Scr** at 10 mM with 495 \u03bcL DMEM into different wells respectively, then incubate for 8 h.",
+        "Suck off the medium and wash the cells with PBS three times at room temperature.",
+        "Add 500 \u03bcL of 4% paraformaldehyde in PBS to each well to fix the cells at room temperature for 30 min, wash the cells with PBS a further three times.",
+        "Drop 1 \u03bcL of 50% glycerol PBS solution on a glass slide and then pick up the coverslip in a 24-well plate, mount the coverslip on the glycerol drop with the cells facing to the glass slide, fix the edges of coverslip with glass slide using nail enamel."
+    ]
+}

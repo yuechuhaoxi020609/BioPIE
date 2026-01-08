@@ -1,0 +1,30 @@
+{
+    "id": 35,
+    "origin_website": "Nature",
+    "title": "Assay of cell adhesion molecules in transfected cells grown in suspension",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Prepare an exponential culture of Jurkat cells in complete medium (RPMI, 10% fetal bovine serum, gentamycin).",
+        "Seed 2 ml from a 5x10^5 cells/ml Jurkat cell suspension in 12 well-plates (i.e., 1x10^6 cells per well).",
+        "Combine 4.5 \u03bcg of each expression construct (or empty vector control) with 0.5 \u03bcg of EGFP plasmid.",
+        "In separate reactions, combine another 4.5 \u03bcg of each expression construct (or controls as appropriate) with 0.5 \u03bcg of Ds-Red plasmid.",
+        "Prepare Fugene6 dilution by combining 12 \u03bcl of Fugene6 (per transfected well) with 160 \u03bcl of serum- and antibiotic-free RPMI medium, leave to activate at room temperature for 5 min.",
+        "Add 170 \u03bcl of Fugene6 dilution to each DNA mix, leave 15 min at room temperature.",
+        "Add each transfection mix drop-wise to a well with Jurkat cells.",
+        "Incubate in CO2 incubator overnight.",
+        "Prepare a 48-well plate with 100 \u03bcl of serum-free RPMI containing antibiotics in each well.",
+        "Combine 100 \u03bcl of cell suspensions from the green and red series.",
+        "Add combined cell suspension to each of quadruplicate wells on the prepared 48-well plate.",
+        "Mix well and incubate in a CO\u2082 incubator for 2 days.",
+        "Resuspend cells by carefully shaking the plate side-to-side.",
+        "Spin the plate at low speed for 1 minute to pellet the cells.",
+        "Count manually under epifluorescence illumination (FITC and Rhodamine channels) the number of green and red cells.",
+        "Determine the proportion of each forming part of cell aggregates containing both green and red cells."
+    ]
+}

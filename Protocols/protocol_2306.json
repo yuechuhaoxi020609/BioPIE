@@ -1,0 +1,22 @@
+{
+    "id": 859,
+    "origin_website": "Nature",
+    "title": "Determination of antibodies binding specificities by printed glycan array technology",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Incubate glycochips in an incubation chamber for 15 min at 25 \u00b0C with PBS plus 0.1% (v/v) Tween-20.",
+        "Remove buffer from the microchip surface using Whatman\u00ae filter paper.",
+        "Dilute \u03b1Gal-KO mouse serum 1:15 in PBS plus 1% (w/v) bovine serum albumin and 1% (v/v) Tween-20.",
+        "Spread diluted serum over the slide surface.",
+        "Incubate with agitation at 37 \u00b0C for 1.5 h.",
+        "Wash glycochips with buffer 3, buffer 4, and distilled water.",
+        "Drain glycochips by mild centrifugation.",
+        "Incubate glycochips with goat anti-mouse IgG+IgM (H+L) conjugated to biotin at 37 \u00b0C for 1 h.",
+        "Repeat the washing steps to remove unbound fraction.",
+        "Incubate glass slides in darkness at 25 \u00b0C for 45 min with streptavidin labeled with Cy5 dye diluted 1:500 in buffer 2.",
+        "Wash glycochips and dry by airflow in darkness."
+    ]
+}

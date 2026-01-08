@@ -1,0 +1,41 @@
+{
+    "id": 174,
+    "origin_website": "Nature",
+    "title": "Cell volume and geometric parameters determination in living cells using confocal microscopy and 3D reconstruction",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Harvest cells growing in monolayer in T-75 ml cell culture flasks.",
+        "Add 5.0 ml of trypsin-EDTA to each plate and incubate at room temperature for 4 min.",
+        "Transfer the cell suspension into a 15 ml conical tube using 5.0 ml of RPMI 1640 with 10% FBS and 25 mM HEPES cell culture medium.",
+        "Pellet suspended cells in 15 ml conical tubes using a centrifuge for 5 min at 500g.",
+        "Re-suspend each cell pellet in 2-3 ml of media and perform cell counts.",
+        "Place a coverslip inside culture plates \\(6 well-plate) with sterilized tweezers.",
+        "Add complete media to culture plates \\(2 ml) without dropping media over the coverslips.",
+        "Seed cells at an appropriate final density \\(50,000 cells/ml but may vary depending on cell type/size).",
+        "Shake plates slowly to homogenize cell distribution.",
+        "Add 2 ml of fresh RPMI medium with 0.2% FBS in new 6 well plates.",
+        "Use three wells for washing with PBS-glucose solution.",
+        "Shake to homogenize a mixture of 20 \u00b5l AO solution and RPMI medium from three plates.",
+        "Place each coverslip containing cells into one of the wells with washing solution for 1 minute.",
+        "Transfer coverslips into wells containing staining solution for 10 minutes at room temperature.",
+        "Pipette 100 \u03bcl of RPMI medium with 0.2% FBS onto a clean slide.",
+        "Place coverslips with cells upside-down over the medium on the slide using mounting medium only along the external limits to avoid auto-fluorescence.",
+        "Immediately place the mounted slide under the confocal microscope with one drop of immersion oil.",
+        "Run the software with the settings indicated for equipment setup.",
+        "Search an area of interest including as many individual cells as possible.",
+        "Indicate coordinates to create 1 \u00b5m depth slices for analysis.",
+        "Store images captured from the slices for further processing.",
+        "Repeat the process described until a number over 100 cells is reached.",
+        "Run the \u2018Imaris\u2019 program for processing images.",
+        "In the menu \u2018File\u2019, select \u2018Open\u2019 and click on the first section image to open all section images taken.",
+        "Select \u2018volume\u2019, then \u2018surface\u2019, and click the `blend` button.",
+        "Press \u2018Ctrl+D\u2019 in the keyboard, a new window will pop up. Select \u201cauto blend\u201d and close this window.",
+        "Select \u2018surface\u2019 and press the blue bottom of play two times.",
+        "Click on the \u2018play\u2019 button to open a new window filled with several lines corresponding to different cell volumes.",
+        "Move the threshold line up to eliminate objects that correspond to incomplete cells or cut-off cells.",
+        "Select tab labeled as \u2018pencil\u2019, then click on \u2018select\u2019 for selecting all incomplete cells.",
+        "Delete those selected incomplete cells."
+    ]
+}

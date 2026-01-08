@@ -1,0 +1,24 @@
+{
+    "id": 405,
+    "origin_website": "Nature",
+    "title": "A rapid one-step kinetics-based immunoassay procedure for the highly-sensitive detection of C-reactive protein",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Block the MTP wells by incubating with 300 \u03bcL of 5% (w/v) BSA for 30 min at 37 \u00b0C.",
+        "Wash the wells five times with 300 \u03bcL of wash buffer.",
+        "Filter the BSA solution prior to use to remove contaminants.",
+        "Dispense in the BSA-blocked MTP wells sequentially 2 \u00b5L of the diluted stock solution of anti-CRP capture Ab-bound Dynabeads (diluted 1:10 in binding buffer).",
+        "Add 38 \u03bcL of the binding buffer and 40 \u03bcL of biotinylated anti-CRP detection Ab (0.17 \u03bcg mL^-1^) pre-conjugated to SA-HRP (diluted 1:3000) sequentially.",
+        "Incubate at 37 \u00b0C for 15 min on a magnetic holder so that magnets capture the Dynabead-bound sandwich immune complex.",
+        "Remove excess reagents by sucking back the solution using a 300 \u00b5L multi-channel pipette.",
+        "Wash magnetically-captured sandwich immune complex-bound Dynabeads twice with washing buffer using a multi-channel pipette.",
+        "Suspend washed Dynabeads in 50 \u00b5L of binding buffer.",
+        "Add 100 \u00b5L of TMB-H2O2 mixture to each MTP well and incubate at room temperature for 4 min.",
+        "Stop the enzymatic reaction by adding 50 \u00b5L of 2N H2SO4 to each MTP well.",
+        "Measure absorbance at a wavelength of 450 nm with 540 nm as reference in Tecan Infinite M200 Pro microplate reader.",
+        "Determine the absorbance within 10 min of stopping the enzymatic reaction."
+    ]
+}

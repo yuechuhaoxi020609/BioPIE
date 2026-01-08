@@ -1,0 +1,37 @@
+{
+    "id": 336,
+    "origin_website": "Nature",
+    "title": "High throughput HIV-1 microneutralization assay",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Select two strains that are most potently neutralized by the donor\u2019s serum or easy-to-neutralize strains such as HIV-1-BaL and HIV-1-MN.",
+        "Titer pseudovirus stock in a mock neutralization assay using medium as a substitute for antibody.",
+        "Prepare 11 2-fold serial dilutions of each virus.",
+        "Prepare 11 5-fold serial dilutions of each virus.",
+        "Include DEAE-dextran to facilitate viral entry if necessary.",
+        "Choose a dilution that gives a signal of 40,000 to 100,000 RLU, which is 50-100 fold above background.",
+        "Thaw supernatants and dilute virus in complete DMEM using the concentration titered in step 2.",
+        "Transfer 20 \u03bcl of virus to each of the 2 plates harvested at step 48.",
+        "Mix 20 \u03bcl of supernatant with each transferred virus on the plates.",
+        "Incubate at 37\u00b0C for 45-90 minutes.",
+        "Discard TZM-bl culture media during incubation.",
+        "Remove adherent cells by slowly adding 5 ml of 0.25% Trypsin-EDTA.",
+        "Incubate at 37\u00b0C for 10 minutes.",
+        "Add 10 ml of complete DMEM and suspend the cells by gentle pipet action.",
+        "Transfer the suspension to a 50 ml conical tube.",
+        "Spin, resuspend in complete DMEM, and count the cells.",
+        "Dilute TZM-bl cells in complete DMEM to a concentration of 1.5 x 10^5.",
+        "Add DEAE\u2013dextran at an optimized concentration of approximately 7.5 \u00b5g/ml.",
+        "Dispense cells to each well of the assay plate at a total of 3x10^3 cells per well.",
+        "Incubate for 48-54 hours at 37\u00b0C.",
+        "Remove 30 \u03bcl from each assay well.",
+        "Lyse the cells with the addition of 30 \u00b5l of Britelite Plus substrate.",
+        "Read in a luminometer capable of accurately reading 384-well plates.",
+        "Subtract the average signal from cells-only wells from all wells.",
+        "Average the signal from wells with feeders but no B cells.",
+        "Calculate % neutralization using the formula: (Vo - Vn) / Vo * 100, where Vn is the RLU in virus plus antibody wells and Vo is the RLU in virus only wells."
+    ]
+}

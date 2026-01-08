@@ -1,0 +1,42 @@
+{
+    "id": 10732,
+    "origin_website": "Jove",
+    "title": "Magnetic Levitation Coupled with Portable Imaging and Analysis for Disease Diagnostics",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Prepare a 50 mM solution of gadobutrol in Hank's Balanced Salt Solution (HBSS).",
+        "Dissolve 10 mM sodium metabisulfite in the gadolinium solution.",
+        "Obtain blood sample via fingerstick or venipuncture.",
+        "Draw blood using a lancing device with a clean, disposable lancet.",
+        "Apply pressure near the pierced site and wipe the blood droplet formed three to four times before collecting blood using a pipette.",
+        "Add less than 1 \u03bcL of blood to 100 \u03bcl of the gadolinium-sodium metabisulfite solution.",
+        "Lyse RBCs with an RBC lysis buffer.",
+        "Pipette 5 \u00b5L of blood into 500 \u00b5L of RBC lysis buffer.",
+        "Incubate the mixture at room temperature for 3 - 5 min.",
+        "Dilute whole blood 1:1,000 in 25 mM Gd in HBSS.",
+        "If cell lysis was performed, dilute the lysed sample 9:1 lysed sample:250 mM Gd to obtain a sample containing 25 mM Gd.",
+        "Start the magnetic levitation device by plugging it into an outlet and allowing it to power up.",
+        "Place the device on a flat, level surface for use.",
+        "Load the prepared sample into a square glass microcapillary tube by dipping the end into the solution and allowing the sample to fill via capillary action.",
+        "Seal one end of the capillary with a tube sealant by slowly pushing it in.",
+        "Insert the sealed capillary between the magnets so that only 1 cm remains visible.",
+        "Wait 10 min without disturbing the device or the capillary.",
+        "Load the sample into the sample tube.",
+        "Connect the inlet tubing between the sample container and microcapillary.",
+        "Connect the outlet tubing between the microcapillary and waste container.",
+        "Set the LED intensity and flow parameters.",
+        "Ensure that cells are visible in the field of view, then press the capture button to capture an image.",
+        "If a USB is used to store the images, create a folder called \"images\" and insert the USB prior to turning on the device.",
+        "Capture several images by moving the capillary in or out about \u00bd cm between each capturing.",
+        "If the number of cells within the field of view is too high or too low, shift the capillary in or out of the device or prepare another sample.",
+        "Remove the sample and discard it according to institutional or local regulations.",
+        "Observe the output of the analysis displayed on-screen.",
+        "Record the width of confinement for cell distribution analysis, such as sickle cell disease diagnosis.",
+        "For cell type separation, such as WBC identification, record an image with the WBC population identified.",
+        "Calculate the number of cells per microliter by multiplying the average number of WBCs per image by a factor of 2,000.",
+        "Repeat the analysis by moving the sample tube in or out of the device about \u00bd cm and capturing another image for analysis.",
+        "Repeat the analysis 5 - 6 times per sample to avoid errors."
+    ]
+}

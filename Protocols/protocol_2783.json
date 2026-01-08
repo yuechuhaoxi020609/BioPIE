@@ -1,0 +1,23 @@
+{
+    "id": 504,
+    "origin_website": "Nature",
+    "title": "Immunofluorescence of Cultured Cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Wash cells with PBS.",
+        "Fix cells in 4% PFA for 15 minutes at room temperature.",
+        "Wash cells with PBS (2 times, 5 minutes each).",
+        "Permeabilize cells with PBS + 0.1% TritonX-100 for 5 minutes at room temperature.",
+        "Wash cells with PBS (2 times, 5 minutes each) at room temperature.",
+        "Block cells with 10% serum from the species of secondary antibody for 1 hour at room temperature.",
+        "Drain cells and incubate with primary antibody diluted in 5% serum overnight at 4\u00b0C.",
+        "Wash cells in PBS (3 times, 5 minutes each) at room temperature.",
+        "Detect primary antibody with Alexa Fluor secondary antibody diluted 1:400 in 5% serum for 1 hour at room temperature in the dark.",
+        "Wash cells in PBS (3 times, 5 minutes each) at room temperature.",
+        "Add mounting media with DAPI and apply coverslip.",
+        "Store slides in the dark at 4\u00b0C."
+    ]
+}

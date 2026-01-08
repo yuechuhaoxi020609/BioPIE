@@ -1,0 +1,13 @@
+{
+    "id": 370,
+    "origin_website": "Nature",
+    "title": "Quantifying chromogen intensity in immunohistochemistry via reciprocal intensity.",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Measure the intensity of chromogen stain in IHC under bright field microscopy.",
+        "Acquire standard RGB color images from bright field microscopy.",
+        "Subtract the intensity of stained regions from 250 to derive reciprocal intensities directly proportional to chromogen amount."
+    ]
+}

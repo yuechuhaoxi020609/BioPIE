@@ -1,0 +1,28 @@
+{
+    "id": 659,
+    "origin_website": "Nature",
+    "title": "Isolation of murine lamina propria CD11c+ cells",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Anesthetize mice with 10x-diluted pentobarbital (250 \u03bcl/mouse).",
+        "Open peritoneal and pleural cavities of anesthetized mice.",
+        "Perfuse mice systemically with 10 ml HBSS containing 20 mM EDTA via the left ventricle using a 21-gauge butterfly needle connected to a Peristaltic pump set at a very slow rate, gradually increasing to high speed until the liver loses color completely.",
+        "Collect entire colon or small intestine excluding cecum after perfusion.",
+        "Wash collected tissue in PBS to remove fecal contents.",
+        "Open longitudinally washed tissues and wipe with paper towel.",
+        "Place cleaned tissues into a 2 ml screw cup tube containing 2 ml of HBSS with 2 mM EDTA.",
+        "Shake at 4,800 rpm for 50 seconds using the Mini Beadbeater.",
+        "Wash tissue pieces with PBS.",
+        "Remove muscle layers by tweezers under stereomicroscope.",
+        "Cut tissue into small pieces.",
+        "Incubate tissue pieces in 25 ml of RPMI1640 containing 4% FBS, 1 mg/ml collagenase type II, 1 mg/ml dispase, 40 \u03bcg/ml DNase-I and antibiotics for 1 hour at 37\u00b0C in a shaking water bath.",
+        "Centrifuge samples at 1800 rpm for 5 minutes at 4\u00b0C after digestion.",
+        "Remove supernatant from centrifuged samples.",
+        "Suspend pellet in 10 ml of HBSS containing 5 mM EDTA and incubate at 37\u00b0C for 5 minutes.",
+        "Filter digested tissue with a 40 \u03bcm cell strainer.",
+        "Wash isolated cells twice with MACS buffer.",
+        "Purify CD11c-positive cells twice using CD11c MicroBeads according to the manufacturer\u2019s instructions."
+    ]
+}

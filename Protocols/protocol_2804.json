@@ -1,0 +1,28 @@
+{
+    "id": 182,
+    "origin_website": "Nature",
+    "title": "Virus Cryopreservation Protocol",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Follow the laboratory protocol for viral growth and purification.",
+        "Maintain non-enveloped viruses and some DNA viruses at 4\u00b0C for long-term storage.",
+        "Store RNA and most enveloped viruses by snap-freezing and keeping them at -80\u00b0C.",
+        "Place the viral preparation in a reagent reservoir on a thermo-conductive CoolSink BX50 module for cooling.",
+        "Alternatively, rest the CoolSink on a ThermalTray LP platform in an ice pan to minimize contact with ice.",
+        "Dispense 1 ml of virus preparation into a pre-labeled TruCool cryovial.",
+        "Maintain vials at 4\u00b0C in a CoolBox CFT30 ice-free cooling station.",
+        "Place a second CoolRack CFT30 module on dry-ice and let it equilibrate to -78\u00b0C for five to ten minutes.",
+        "Place the cryo vials directly into the pre-equilibrated CoolRack CFT30 wells to snap-freeze the samples.",
+        "Transfer frozen samples to a storage box.",
+        "Store the storage box in the -80\u00b0C freezer for long-term storage.",
+        "Transfer cryo vials from the -80\u00b0C freezer into a pre-equilibrated CoolBox CFT30 containing a green freezing cartridge.",
+        "Place the vials directly in a 37\u00b0C water bath and manually agitate to enable thawing.",
+        "Remove the vial from the 37\u00b0C water bath once the liquid is almost completely thawed.",
+        "Place the vial on a CoolRack CFT30 that has been previously equilibrated on ice.",
+        "Samples are now ready for desired experimental procedures or titer assessment."
+    ]
+}

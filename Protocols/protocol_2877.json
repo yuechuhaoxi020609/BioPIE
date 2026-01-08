@@ -1,0 +1,42 @@
+{
+    "id": 2784,
+    "origin_website": "Cell",
+    "title": "Live-cell imaging and analysis of actin-mediated mitochondrial fission",
+    "subjectAreas": [
+        "Molecular Biology",
+        "Cell Biology",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Prepare the cells for imaging.",
+        "Rinse the glass-bottom dish with 1.5 mL of PBS three times.",
+        "Seed the cells with 2.0 \u00d7 10^5 cells per dish in 2 mL of total medium volume.",
+        "Incubate the cells at 37\u00b0C, 5% CO2 for 16 hours.",
+        "Knock down DRP1 expression using siRNA transfection according to manufacturer instructions.",
+        "Dilute siRNA by mixing 3 \u03bcL of siRNA (10 \u03bcM in stock) with 150 \u03bcL of OptiMEM for each 35 mm glass-bottom dish.",
+        "Dilute Lipofectamine RNAiMAX by mixing 9 \u03bcL of Lipofectamine RNAiMAX with 150 \u03bcL of OptiMEM for each 150 \u03bcL of diluted siRNA solution prepared in step 2-a and 150 \u03bcL of diluted Lipofectamine RNAiMAX from step 2-b, then incubate the mixture for 5 minutes at 20\u00b0C.",
+        "Add 250 \u03bcL of the combined mixture to the cells incubated on a 35 mm glass-bottom dish, and gently swirl for 2 seconds to mix solutions.",
+        "Incubate the treated cells at 37\u00b0C, 5% CO2 for 16 hours.",
+        "Add 125 \u03bcL of the plasmid solution (GFP-GJA1-20K and LifeAct-mCherry) per dish with incubated cells.",
+        "Gently swirl the mixture for 2 seconds.",
+        "Incubate the transfected cells at 37\u00b0C, 5% CO2 for 16 hours.",
+        "Warm up the culture media and imaging media at 37\u00b0C in a water bath.",
+        "Dilute Mitotracker to a final concentration of 200 nM with warmed culture media.",
+        "Incubate the dish at 37\u00b0C and 5% CO2 for 20 minutes.",
+        "Gently wash out Mitotracker by rinsing twice with imaging media.",
+        "Final volume of imaging media should be 2 mL per dish.",
+        "Set up the imaging incubator connected to the stage of the confocal microscope.",
+        "Set the incubator at 37\u00b0C and 5% CO2.",
+        "Set the excitation laser power at 50% of 488 nm for GFP.",
+        "Set the excitation laser power at 80% of 561 nm for LifeAct-mCherry.",
+        "Set the excitation laser power at 40% of 647 nm for Mitotracker Deep Red.",
+        "Set the exposure time for 100 ms for all channels.",
+        "Focus a 100\u00d7 oil immersion objective on a cell with well-distributed mitochondria.",
+        "Capture image stacks at the same z-depth over time.",
+        "Obtain time-lapse images every 3 seconds, capturing three 100 ms images per acquisition.",
+        "Image for a total duration of 3 to 5 minutes.",
+        "Capture approximately 10 to 20 areas containing one to three cells each per dish.",
+        "Maintain channel settings (laser power and exposure time) between different samples.",
+        "Confirm the focal plane is at the fission point to capture full fission events."
+    ]
+}

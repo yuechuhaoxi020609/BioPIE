@@ -1,0 +1,37 @@
+{
+    "id": 407,
+    "origin_website": "Nature",
+    "title": "Phosphatase assays using ligated phosphoprotein substrates",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Mix the carrier protein and phosphopeptide in a molar ratio of at least 1:25 (CP: peptide).",
+        "Conduct the intein-mediated protein ligation reaction at 4\u00b0C for 16 hours or at 25\u00b0C for 4 hours.",
+        "Evaluate the ligation efficiency by observing a shift in mobility of the LPP compared to unligated CP on Coomassie Blue stained SDS-PAGE.",
+        "Store excess free peptide by dialysis using a nitrocellulose filter or Slide-a-lyzer.",
+        "Remove excess unligated free peptide through dialysis.",
+        "Store ligated phosphoprotein products at -20\u00b0C for up to one month or at -80\u00b0C for at least six months.",
+        "Dilute the ligated phosphoprotein \\(LPP) substrates in PBS buffer.",
+        "Apply the diluted LPP samples to a polystyrene 96-well microtiter plate.",
+        "Coat each well with 100 \u03bcl of a diluted LPP sample containing 2 \u03bcg CP and approximately 1.5 \u03bcg peptide or a 13 \u03bcM peptide solution (~1.5 \u03bcg peptide).",
+        "Incubate the plate at 37\u00b0C overnight.",
+        "Wash each well coated with LPP substrate three times (each with 100 \u03bcl PBS).",
+        "Add phosphatase and 10X buffer to each well.",
+        "Incubate the plate at room temperature for 1 hour or as recommended by the manufacturer.",
+        "Mix 5 \u03bcl of 10X TC PTP reaction buffer, 0.25 \u03bcl of TC PTP (10,000 unit/ml), and 44.75 \u03bcl dH2O to prepare the TC PTP reaction mixture.",
+        "Mix 5 \u03bcl of 10X PP1 reaction buffer, 5 \u03bcl of 10X MnCl2, 0.4 \u03bcl of PP1 (2,500 unit/ml), and 39 \u03bcl dH2O to prepare the PP1 reaction mixture.",
+        "Wash each well three times with 100 \u03bcl PBST.",
+        "Add 100 \u03bcl of PBST containing 4% non-fat milk.",
+        "Incubate the plate at room temperature for 1 h.",
+        "Wash each well with PBST three times.",
+        "Add 100 \u03bcl of phospho-specific antibody prepared in PBST containing 2% non-fat milk.",
+        "Incubate at 37 \u00b0C for 1 h with mild shaking.",
+        "Wash three times with 100 \u03bcl PBST.",
+        "Incubate with HRP-conjugated secondary antibody prepared in PBST containing 2% non-fat milk at room temperature for 1 h.",
+        "After three washes with PBST, add 100 \u03bcl of ABTS developing solution.",
+        "Measure the colorimetric signal at OD<sub>415</sub>."
+    ]
+}

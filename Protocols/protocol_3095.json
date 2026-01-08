@@ -1,0 +1,28 @@
+{
+    "id": 160,
+    "origin_website": "Nature",
+    "title": "Generation of stem/progenitor cultures from mouse lungs",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Mechanical disruption of mice lungs passing the homogenates through a 70 \u03bcm strainer to obtain single cells.",
+        "Plate the cells in DMEM supplemented with 20% FBS and 30 \u03bcg/ml Insulin.",
+        "Incubate at 37\u00b0C in a 5% CO\u2082 atmosphere.",
+        "After 4 hours, add FibrOutTM to eliminate fibroblasts.",
+        "Keep the cells under these conditions for 2 weeks, changing the media every 3 days and splitting them when needed.",
+        "Change the cells to serum-free DMEM supplemented with FGF (10 ng/ml) and EGF (20 ng/ml).",
+        "After 2 or 3 weeks, analyze the resulting cell population by flow cytometry.",
+        "Fix an aliquot of these cells, permeabilize them, and label with SPC and CC-10 antibodies to confirm the percentage of double positive cells (SPC+/CC10+).",
+        "Sort the remaining cells for Sca-1+/CD45\u2212/PECAM\u2212 using a FACS Aria cytometer.",
+        "After re-plating, maintain the sorted cells in serum-free media plus FGF and EGF.",
+        "Analyze an aliquot of these cells again by flow cytometry to confirm they are SPC+/CC10+.",
+        "The final population in culture should be SP-C+/CC-10+/Sca1+/CD45\u2212/PECAM\u2212.",
+        "Mix serial dilutions of the cells with plating medium for 96 well plates.",
+        "Plate diluted cells to obtain wells with single cells.",
+        "Expand six isolated clones in serum-free media.",
+        "Test expanded clones for differentiation potential.",
+        "Maintain stem/progenitor cells in serum-free media, noting aggregation tendency.",
+        "Culture cells in the presence of 20% FBS to form single cell layers and initiate differentiation."
+    ]
+}

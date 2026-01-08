@@ -1,0 +1,27 @@
+{
+    "id": 494,
+    "origin_website": "Nature",
+    "title": "A Rising Multiple-Dose Tolerability, Safety, and Pharmacokinetic Study of Intravenous Tildrakizumab in Patients With Psoriasis",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Take baseline assessments the evening before dosing.",
+        "Give study medication after an overnight fast and 2 hours before the first meal.",
+        "Randomize subjects at a 3 active to 1 placebo ratio.",
+        "Administer tildrakizumab IV over 1 hour in doses of 0.1 mg/kg, 0.5 mg/kg, 3 mg/kg, or 10 mg/kg according to cohort assignment.",
+        "Observe an 8-week safety period between drug administrations for each subject.",
+        "Perform safety assessments and obtain PK samples on Day 2.",
+        "Administer Dose 2 on Day 56.",
+        "Administer Dose 3 on Day 84.",
+        "Conduct a closeout visit within 14 days of the last safety and PK assessment.",
+        "Enroll up to 40 subjects with psoriasis in Part 2.",
+        "Assign subjects into two dose cohorts (Cohorts 5 and 6).",
+        "Give 3 doses of 3 mg/kg tildrakizumab IV at Week 0, 4, and 8 for Cohort 5 subjects.",
+        "Randomize subjects in a 3:1 ratio of active to placebo.",
+        "Administer 3 doses of 10 mg/kg tildrakizumab IV to subjects in Cohort 6 at Week 0, 4, and 8.",
+        "Obtain serum pharmacokinetic samples predose and at the intervals specified.",
+        "Subjects receive Dose 2 and 3 of tildrakizumab during visits on Days 28 and 56.",
+        "Schedule a closeout visit within 14 days of the last PK assessment."
+    ]
+}

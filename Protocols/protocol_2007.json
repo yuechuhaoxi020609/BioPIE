@@ -1,0 +1,38 @@
+{
+    "id": 3088,
+    "origin_website": "Cell",
+    "title": "Fluorescence-based protocol for revealing cellular arrangement in biofilms",
+    "subjectAreas": [
+        "Cell-Based Assays",
+        "Microbiology",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Grow biofilms using 96-well microtitre plate static assays.",
+        "Fill wells of microtitre plates with 200 \u03bcL of fresh LB containing a 1:10 dilution of overnight cultures, mixed in a 1:10 ratio of green and red fluorescent cells.",
+        "Carefully break 18 \u00d7 18 mm cover glass into pieces big enough to fit inside the wells of a microtitre plate.",
+        "Break cover glass into pieces by taking 3-4 cover glass squares and using a glass slide as support.",
+        "Sterilize cover glass pieces by autoclaving.",
+        "Insert sterilized cover glass pieces perpendicularly inside the wells for biofilm growth.",
+        "Incubate plates overnight (16\u201324 h) or for desired duration for biofilm formation without shaking at 37\u00b0C.",
+        "Use tweezers to carefully remove the cover glass piece from a well for biofilm imaging.",
+        "Lay the cover glass piece flat on a fresh glass slide.",
+        "Label the glass slide with any necessary cell names or conditions being tested.",
+        "Wait for at least one minute before placing a fresh cover glass over the biofilm-covered glass piece.",
+        "Apply the 22 \u00d7 50 mm cover glass at approximately a 45\u00b0 angle, starting from the air to the liquid portion of the covered glass piece.",
+        "Set up glass slide, prepared in steps 6\u20139, on the microscope for imaging.",
+        "Focus on the biofilms formed on the cover glass pieces.",
+        "Capture a wide-field view of the biofilms using red and green fluorescence channels.",
+        "Image biofilms at high magnification to resolve their structures at the cellular level.",
+        "Use LASX software to overlay images captured using the red and green fluorescence channels.",
+        "Use tweezers to remove a cover glass containing biofilm from the microtitre plate well.",
+        "Hold the cover glass perpendicularly over an agarose pad made of phosphate-buffered saline (PBS).",
+        "Wash the biofilm by pipetting approximately 50 \u03bcL of PBS over the cover glass.",
+        "Allow the liquid runoff from washing to fall on the agarose pad.",
+        "Cover the agarose pad with a fresh piece of microscope cover glass.",
+        "Image using DIC and fluorescence (red and green channels) imaging modalities to analyze the washed biofilm.",
+        "Excite and emit for green fluorescence at 470 nm and capture images between 500\u2013550 nm.",
+        "Excite and emit for red fluorescence at 510 nm and capture images between 592\u2013668 nm.",
+        "Set fluorescent exposures to 30 ms at 30% intensity."
+    ]
+}

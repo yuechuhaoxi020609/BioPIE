@@ -1,0 +1,34 @@
+{
+    "id": 4159,
+    "origin_website": "Cell",
+    "title": "A zygote-based assay to evaluate intranuclear shuttling in S.\u00a0cerevisiae",
+    "subjectAreas": [
+        "Microscopy",
+        "Cell Biology",
+        "Model Organisms",
+        "Genetics"
+    ],
+    "protocol": [
+        "Grow two strains of cells, one MAT a and the other MAT \u03b1.",
+        "Combine 100 \u03bcL aliquots of each parental cell strain.",
+        "Vortex the combined cell mixture.",
+        "Sediment the cell mixtures and resuspend in synthetic medium with 2% glucose at OD600 \u2248 1.",
+        "Apply 25 \u03bcL samples of mating mixtures to the surface of Petri dishes containing solid 2% agar in synthetic medium.",
+        "Cover the Petri dishes after liquid absorption, which should occur within 15 minutes.",
+        "Recover the cell mixture by washing with synthetic medium and gentle pipetting up and down 4\u20135 times after 2 hours at room temperature.",
+        "Sediment the cells.",
+        "Without removing the supernatant, recover 0.5\u20131.0 \u03bcL samples of the cell pellet.",
+        "Apply the sample volume to the surface of freshly-opened Agarose pads.",
+        "Cover with a coverslip and observe.",
+        "For imaging lasting more than 15 min, trim the pads to the dimensions of the coverslip after adding the cells.",
+        "Seal the trimmed pads with vaseline to minimize drying.",
+        "Pregrow one or both parental cells that express a tagged protein of interest from a repressible promoter using a medium that allows expression (e.g., with galactose or lacking methionine).",
+        "Adjust the composition of the plate used for the cross to repress transcription when preparing the mating mixture, e.g., by adding glucose or methionine.",
+        "Pipette the mating mixture off the plate with complete medium.",
+        "Add 1/10 volume of formaldehyde from a 37% stock in water, shaking for 5 min at room temperature.",
+        "Wash once with growth medium to quench free aldehydes.",
+        "Store samples in water at this point for 1\u20132 days at 4\u00b0C before examination.",
+        "Transform cells with a centromeric plasmid encoding GFP-HDEL or an integrating plasmid encoding mRFP-HDEL.",
+        "Include HDEL marker in both [wt x wt] and [kar1 x wt] crosses."
+    ]
+}

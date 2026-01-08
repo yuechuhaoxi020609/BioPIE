@@ -1,0 +1,32 @@
+{
+    "id": 10026,
+    "origin_website": "Jove",
+    "title": "Quantitative Characterization of Liquid Photosensitive Bioink Properties for Continuous Digital Light Processing Based Printing",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Define three parameters: liquid absorbance (Al), solid absorbance (As), and threshold time (tT).",
+        "Rewrite the traditional Jacobs working curve using these three parameters according to Equation 1.",
+        "Measure the threshold time of the bioink using a rheometer equipped with an element for temperature control.",
+        "Use a 365 nm light source to expose the testing platform of the rheometer.",
+        "Set the rheometer to get the Time-Moduli data during a period of 300 s, taking each data point every 0.3 s through the Time Settings options in the rheometer software.",
+        "Click the Start Test button of the rheometer and simultaneously click the Start Button of the light source.",
+        "Count from the start of exposure; when the storage modulus data equals the loss modulus data, recognize the corresponding time as the threshold time.",
+        "Record manually the threshold time.",
+        "Build the absorbance test equipment using two upper and lower glass slides to clamp a ring-shaped printed structure.",
+        "Place the clamped ring on the test area of the light intensity meter.",
+        "Measure the incident light intensity (Ii) when the test chamber is empty.",
+        "Fill the test chamber with 10 \u00b5L of bioink.",
+        "Expose the test chamber containing bioink to UV light at 365 nm.",
+        "Obtain the light intensity (Ilh) from the absorbance test equipment after exposure.",
+        "Obtain the light intensity (Ish) when the bioink is fully cured and the value no longer changes.",
+        "Obtain the Jacobs working curve according to the obtained parameters.",
+        "Set the exposure time of the first single layer as the threshold time (tT) in the DLP software's parameter settings.",
+        "Calculate the exposure time for curing 10 \u00b5m thick materials using Equation 1.",
+        "Subtract the threshold time from the calculated exposure time to obtain the real exposure time for a single layer.",
+        "Set the time interval between adjacent layers to 0 s in the DLP software's parameter settings.",
+        "Start the printer by clicking the Start button in the printing software.",
+        "Finish printing by clicking the Stop button in the printing software when the process ends."
+    ]
+}

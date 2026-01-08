@@ -1,0 +1,26 @@
+{
+    "id": 425,
+    "origin_website": "Nature",
+    "title": "Enzymatic measurements for the detection of trypsin and carboxypeptidase A inhibitory activity",
+    "subjectAreas": [
+        "Biochemistry",
+        "Biological Techniques",
+        "Chemical Biology",
+        "Drug Discovery",
+        "Computational Biology And Bioinformatics",
+        "Structural Biology"
+    ],
+    "protocol": [
+        "Incubate in a quartz cell 10 \u03bcl of biological sample with 50 \u03bcl trypsin (33 \u03bcg ml^-1 in 20 mM CaCl2, 0.1 M Tris, pH 8.0) and 790 \u03bcl activity buffer (20 mM CaCl2, 0.1 M Tris, pH 8.0) for 3 min at room temperature.",
+        "Repeat Step 1 in another quartz cell and add 10 \u03bcl activity buffer instead of biological sample to obtain the control sample.",
+        "Add 150 \u03bcl of the substrate N-benzoyl-arginine ethyl ester hydrochloride to each quartz cell.",
+        "Gently mix all the quartz cells and measure the absorbance change at 254 nm and 25 \u00b0C over 2 min, producing 240 time points (signal averaging time = 0.5 s).",
+        "Incubate in a quartz cell 10 \u03bcl biological sample (from each re-dissolved chromatographic fraction) with 2 \u03bcl carboxypeptidase A (35 \u03bcg ml^-1 in 20 mM Tri-HCl buffer, 0.5 M NaCl, pH 7.5) and 978 \u03bcl activity buffer (20 mM Tri-HCl buffer, 0.5 M NaCl, pH 7.5) for 3 min at room temperature.",
+        "Repeat Step 1 in another quartz cell.",
+        "Add 10 \u03bcl of activity buffer to the quartz cell.",
+        "Add 10 \u03bcl of the substrate N-(4-methoxyphenylazoformyl)-Phe-OH to each quartz cell.",
+        "Gently mix all quartz cells.",
+        "Measure absorbance change at 350 nm and 25\u00b0C over 3 min, producing 360 time points with a signal averaging time of 0.5 s.",
+        "Biological samples yielding slopes below 0.060 U.Abs. per min are taken for 'intensity fading MS' assays."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 10598,
+    "origin_website": "Jove",
+    "title": "Simulating the Mechanics of Lens Accommodation via a Manual Lens Stretcher",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Obtain an eye sample from local slaughterhouse or tissue bank.",
+        "Cut and remove all excess tissue surrounding the sclera using disinfected surgical scissors and forceps.",
+        "Make a small incision along the side of the eye 3 mm away from the cornea using a razor blade.",
+        "Carefully cut further along the incision around the circumference of the eye using scissors, avoiding puncturing the lens.",
+        "Remove the posterior tissue of the eye using forceps.",
+        "Isolate the lens, zonules, ciliary body, and attached vitreous with forceps.",
+        "Remove excess vitreous to allow the lens to lay flat on the MLS.",
+        "Insert the 10 mm shoe bottoms and the corresponding shoe tops into the bottom plate of the MLS so there remains a 5 mm gap between the back wall of the shoe indent and the shoe itself.",
+        "Align the top and bottom plates, snapping the plates together; the device is now in the unstretched position.",
+        "Insert the plates into the plate case and the stopper screw into the hole located on the side of the bottom plate.",
+        "Insert the plate case into the base and place the wrench into the aligned indents.",
+        "Twist the wrench clockwise until it reaches the stopping screw to contract the shoes, and twist back counter-clockwise to return the shoes to the original unstretched position.",
+        "Insert the 10 mm shoe bottoms into the bottom plate in the MLS so that a 5 mm gap between remains the back wall of the shoe indent and the shoe itself.",
+        "Using curved forceps, place the extracted lens face up on the middle of the bottom plate so that the shoes are supporting the lens over the central hole.",
+        "Snap the corresponding top of the shoes into place, clipping only the zonules and the vitreous.",
+        "Visually ensure that the lens stays as centered as possible on the bottom plate.",
+        "Place an imaging system directly above the apparatus in order to capture videos and pictures of the stretching process.",
+        "Include a ruler in the frame of the picture to accurately size and scale images in post-processing.",
+        "Rotate the wrench in the clockwise direction to stretch the lens.",
+        "Photograph the stretched lens.",
+        "Rotate the wrench in the counter-clockwise direction to restore the sample to its resting state.",
+        "Photograph the final resting state of the lens.",
+        "Upload the image to ImageJ.",
+        "Select at least 40 points around the circumference of the lens using the \"point\" feature.",
+        "Use the \"Analyze\" \u2192 \"Measure\" option to yield the location of each selected point.",
+        "Fit the location points using software (e.g., MATLAB) to yield a radius and chi-square of the fit.",
+        "Convert the pixel radius and error into metrics using the photographed ruler.",
+        "Perform a paired two-tailed t-test to compare an individual lens before and after stretching from the MLS."
+    ]
+}

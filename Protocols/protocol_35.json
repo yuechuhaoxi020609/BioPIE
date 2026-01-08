@@ -1,0 +1,37 @@
+{
+    "id": 193,
+    "origin_website": "Nature",
+    "title": "Probabilistic mapping and image clustering for quantitative assessment of fluorescent protein localizations in Arabidopsis guard cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Plant Sciences",
+        "Cell Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Prepare the target stack image from the LIPS database.",
+        "Run the ImageJ software.",
+        "Open the target image using the \"File-Open\" option in ImageJ.",
+        "Draw the major stomatal pore line on the bright field image using the \"Straight Line Selection Tool\".",
+        "Copy the segmented straight line from the bright field image to the fluorescence images using the \"Edit-Selection-Restore Selection\" menu.",
+        "Rotate the fluorescence image using the \"Plugins-kbi-Kbi_registration (mode: horizoner)\" option.",
+        "Get the maximum intensity projection image using ImageJ menu \u201cImage-Stacks-Z project\u2026\u201d.",
+        "Put a bounding box around the cell using the ImageJ tool bar menu \u201cRectangular Selection Tool\u201d.",
+        "Crop the boxed cell region using the ImageJ menu \u201cImage-Crop\u201d.",
+        "If the pore is located in the upper half of the cropped image, rotate the image 180 degrees using the ImageJ menu \u201cImage-Transform-Rotate\u2026\u201d.",
+        "Resize the images to the same size using the ImageJ menu \u201cImage-Adjust-Size\u2026\u201d.",
+        "Run the ImageJ software.",
+        "Make a stack image using the ImageJ menu \u201cPlugins-kbi-Kbi_StkJoin (mode: all axis: z)\u201d.",
+        "Run the macro hig_Pdmapping.ijm.",
+        "Save the probability map image using the ImageJ menu \u201cFile-Save\u201d.",
+        "Run the \u2018ImageJ\u2019 software.",
+        "Open the stack image of the probability maps using the ImageJ menu \u201cFile-Open\u201d.",
+        "Shrink the image size using the ImageJ menu \u201cImage-Adjust-Size\u2026\u201d to 70\u00d727 pixels.",
+        "Run the macro hig_Lineprofile.ijm.",
+        "Save the raster-scanned intensity profiles as a csv file using the Results table menu \u201cFile-Save As\u2026\u201d.",
+        "Select 'sampleZ_featureCsv_patchImg' in the somMode drop-down list.",
+        "Load the csv file of the raster-scanned intensity profiles.",
+        "Observe the SOM image.",
+        "In cases where multiple images are allocated to the same node in the SOM, allocate these images to the next slice of the stack image."
+    ]
+}

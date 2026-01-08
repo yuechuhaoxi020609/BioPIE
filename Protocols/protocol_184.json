@@ -1,0 +1,22 @@
+{
+    "id": 1425,
+    "origin_website": "Nature",
+    "title": "<p>Using ProteoCombiner to integrate bottom-up and top-down proteomics data to improve proteoform identification</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Computational Biology And Bioinformatics",
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Install ProteoCombiner by downloading it from https://proteocombiner.pasteur.fr.",
+        "Execute the ProteoCombiner tool.",
+        "Specify the directory containing result files from bottom-up proteomics experiments, including database and RAW files in mzML 1.1.0, MS2, MGF, ABSciex\u00ae, Agilent\u00ae, Waters\u00ae or Thermo\u00ae formats.",
+        "For PatternLab for Proteomics and Comet output files, use SEPro tool for filtering results.",
+        "Use the resulting *.sepr file(s) as input for ProteoCombiner.",
+        "Load results in ProteoCombiner format (*.pcmb).",
+        "Open the Results Browser window and click on Load option from the File menu.",
+        "Alternatively, open the main window and select Load Results from the File menu.",
+        "Export all combined results to Excel ( *.xlsx ) by selecting Excel file from the File menu \u00de Export results.",
+        "Export all combined results to PDF by selecting PDF file from the File menu \u00de Export results."
+    ]
+}

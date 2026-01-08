@@ -1,0 +1,26 @@
+{
+    "id": 936,
+    "origin_website": "Nature",
+    "title": "An Imaging Protocol to Quantitate Microvilli Ultrastructure Induction by Epithelia.",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Fix cell monolayers to be analyzed with either TAG or Karnovsky, without a PBS rinse step, for 2 hours at room temperature and overnight at 4\u00b0C.",
+        "Osmicate samples in 1% (wt/vol) aqueous osmium tetroxide for 2 hours.",
+        "Dehydrate sample by incubating once each in 50%, 70%, and 90% solutions, then three times in 100% solution, with each step lasting 10 minutes at room temperature.",
+        "Pass samples through two successive 5-minute changes of hexamethyldisilazane and air dry in a fume hood.",
+        "Cut out specimens from the original culture plate and stick them to an aluminum stub using sticky sellotape tabs. Use copper tape to make continuous contact between the upper surface of the specimen and the underlying aluminum stub, and use silver paint to create a continuous bridge between the cells and the copper tape. Allow to dry in a dust-free environment.",
+        "Coat specimens with approximately 1 nm platinum using a CR 108 coater (Cressington Scientific).",
+        "Acquire TIFF images from the in-lens SE1 electron detector of Zeiss Sigma Field Emission scanning electron microscope using SmartSEM software at 3-5 KV and a working distance of 4 mm, with the standard 30-micron aperture.",
+        "Record digital images using SmartSEM software (CarlZeiss).",
+        "Open recorded digital image files using Nikon Imaging Software (NIS Elements).",
+        "Crop image to remove non-SEM-generated objects such as software labels.",
+        "Select threshold, intensity then view tab and select analysis controls, automated measurement results.",
+        "Move thresholding bar to identify microvilli-like structures.",
+        "Remove background objects such as abrasions in the sample surface, pixel saturation or ultrastructures that are not microvilli buds or grouped microvillar formations using the cut and/or delete object tool.",
+        "Refresh automated measurement results to calculate microvilli parameters e.g. mean area of cluster formations."
+    ]
+}

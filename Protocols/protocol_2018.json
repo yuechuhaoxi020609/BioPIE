@@ -1,0 +1,19 @@
+{
+    "id": 7,
+    "origin_website": "Nature",
+    "title": "Gel-elongation assay for type II fatty acid synthesis",
+    "subjectAreas": [
+        "Biochemistry",
+        "Chemical Biology",
+        "Drug Discovery",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Preincubate 0.25 - 2 \u03bcg of E. coli or S. aureus lysate with serial dilutions of inhibitors at room temperature for 20 min in 50 \u03bcl of buffer containing specific components.",
+        "Initiate the reaction by adding 10 \u03bcl of water-diluted [C-14]malonyl-CoA to achieve a final concentration of 4 \u03bcM malonyl-CoA.",
+        "Incubate the reaction at 37\u00b0C for 30 min for E. coli lysate and 60 min for S. aureus lysate.",
+        "After incubation, mix 10 \u03bcl (plus 10 \u03bcl 2X native sample buffer) of each sample with a l6% polyacrylamide gel containing urea as needed.",
+        "Resolve the gel and transfer it to a PVDF membrane.",
+        "Expose the membrane to Phosphor Screen and visualize using a PhosphorImager scanner."
+    ]
+}

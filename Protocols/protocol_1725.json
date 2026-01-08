@@ -1,0 +1,40 @@
+{
+    "id": 2405,
+    "origin_website": "Cell",
+    "title": "Protocol for using autoclaved intertidal sediment as a medium to enrich marine cable bacteria",
+    "subjectAreas": [
+        "Cell Culture",
+        "Microbiology",
+        "Environmental Sciences"
+    ],
+    "protocol": [
+        "Sieve the stored sediment through a 0.5 mm mesh screen.",
+        "Remove large fauna, rocks, and debris from the sieved sediment.",
+        "Homogenize the sieved sediment by physical mixing.",
+        "Introduce nitrogen gas into the homogenized sediment to reduce oxygen exposure.",
+        "Fill 100 mL autoclave-safe glass bottles with homogenized sediment to about \u00be of their volume.",
+        "Fill 1000 mL autoclave-safe bottles with seawater to about \u00be of their volume.",
+        "Autoclave the glass bottles at 120\u00b0C for 1\u20132 hours.",
+        "Allow the autoclaved sediment and seawater to cool down to about 25\u00b0C before use.",
+        "Store sealed containers containing cooled autoclaved sediment at approximately 25\u00b0C until inoculation.",
+        "Place the extracted plugs of sediment in a glass Petri dish.",
+        "Add seawater or artificial seawater to the Petri dish.",
+        "Gently shake the Petri dish to allow the sediment particles to separate from the CB filaments.",
+        "Remove sediment-laden water from the Petri dish.",
+        "Repeat shaking and removal until the filamentous structure of CB can be observed.",
+        "Use a fabricated glass hook to pick CB filaments from the remainder of the washed sediment plug(s).",
+        "Push the hook gently into a suboxic zone of the remaining washed sample, identified by its grayish color.",
+        "Swirl the hook gently several times (3\u20137).",
+        "Slowly pull the hook away from the sample and look for filamentous structures of CB connecting to the sediment.",
+        "Collect the filaments by pulling the hook apart from the sediment.",
+        "Transfer the isolated CB filaments to a droplet of washing solution on a microscopic slide.",
+        "Use a clean glass needle to scrape the biomass off the glass hook.",
+        "Resuspend the biomass in the droplet of washing solution.",
+        "Repeat steps until the biomass appears free of sediment particles.",
+        "Pick up the washed biomass with another clean glass needle.",
+        "Transfer the washed biomass into the surface layer of the autoclaved sediment.",
+        "Submerge the inoculated sediment slowly into an aerated aquarium filled with autoclaved medium.",
+        "Culture the inoculated sediment.",
+        "Evaluate the growth and presence of cable bacteria by measuring vertical chemical profiles of oxygen, sulfide, and pH using microelectrodes."
+    ]
+}

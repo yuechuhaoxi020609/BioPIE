@@ -1,0 +1,43 @@
+{
+    "id": 3872,
+    "origin_website": "Cell",
+    "title": "Imaging and analysis on the interaction between human antigen-pulsed V\u03b42 T\u00a0cells and antigen-specific CD4 T\u00a0cells",
+    "subjectAreas": [
+        "Cell Culture",
+        "Cell Isolation",
+        "Immunology",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Mix CD4 T cells isolated from pp65-stimulated PBMCs with pp65-pulsed \u03b3\u03b4-T cells at a ratio of 1:1 in R10 medium.",
+        "Incubate the mixture overnight (around 18 hours) in NuncTM Lab-TekTM II 8-well chambered coverglass.",
+        "Culture cells overnight in a NuncTM Lab-TekTM II 8-well chambered coverglass at a density of ~1 million cells per mL and a volume lower than 0.4 mL for cell settling.",
+        "Aspirate the media slowly and carefully from top-to-bottom at the bottom-right corner of each well using a 200 \u03bcL pipette.",
+        "Add 200 \u03bcL PBS slowly and gently to each well at the upper-left corner.",
+        "Aspirate the PBS slowly and carefully from top-to-bottom at the bottom-right corner of each well.",
+        "Add 200 \u03bcL of 4% paraformaldehyde (PFA, dissolved in PBS, pH 7.4) to each well and keep it at room temperature (22\u00b0C~28\u00b0C) in the dark for 20 min to fix the cells.",
+        "Aspirate the 4% PFA and wash with 200 \u03bcL PBS twice.",
+        "Add 200 \u03bcL of Perm/Block buffer and keep the chamber at 4\u00b0C for 20 min.",
+        "Wash with 200 \u03bcL Staining Buffer twice.",
+        "Incubate with primary antibodies in 200 \u03bcL Staining Buffer at 4\u00b0C overnight (~18 h).",
+        "Wash cells with 200 \u03bcl Staining Buffer twice the next day (Day 2).",
+        "Incubate cells with secondary antibodies in 200 \u03bcl Staining Buffer at 4\u00b0C for 30 min.",
+        "Wash cells with 200 \u03bcl Staining Buffer twice.",
+        "Mount cells by adding 200 \u03bcl SlowFadeTM Gold antifade reagent with DAPI and incubate at room temperature (22\u00b0C~28\u00b0C) in the dark for 30 min.",
+        "Perform imaging as soon as possible after IFA is completed to avoid bleaching and obtain clearer signals.",
+        "Store the chamber in a dark place at 4\u00b0C if confocal microscopy is to be performed later.",
+        "Image IFA samples using confocal microscopes such as LSM700, LSM800, or Leica SP 5 II.",
+        "Focus on the colocalization of \u039442PD1 signal on V\u03b42+ cells and TLR4 signal on CD4 T cells.",
+        "Include HLA-DR presence on V\u03b42+ cells in the imaging analysis.",
+        "Use protein expression on cell-only groups (Groups 1, 2, 3, and 4) as controls for comparison.",
+        "Scan at least three images for each group using a 10\u00d7 lens.",
+        "Scan images using a 10\u00d7 lens for general view and cell identification.",
+        "Scan at least five images per chamber using a 40\u00d7 or 63\u00d7 oil lens for experimental groups 5, 6, 7, and 8.",
+        "Scan at least five Z-stack images for group 8.",
+        "Set the first scanning position of the Z-position by decreasing focus height until cell structure is no longer visible.",
+        "Increase focus height to set the last scanning position where cell structure is no longer visible.",
+        "Adjust pinhole size using the \u201c1 AU\u201d hotkey.",
+        "Use optimal frame size and resolution settings recommended by the software.",
+        "Follow scan speed recommendations from the software."
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 399,
+    "origin_website": "Nature",
+    "title": "A protocol for imaging spindle orientation and inheritance of fate determinants in real time.",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Isolate and sort bone marrow derived hematopoietic stem cells (c-kit+ Lin- Sca-1+; KLS) from adult mice.",
+        "Culture sorted cells overnight (~16 hrs) in X-Vivo\u212215 media supplemented with 2-mercaptoethanol, fetal bovine serum, SCF, and thrombopoietin.",
+        "Infect cells with retroviruses: Numb:CFP and mCherry-\u03b1-tubulin.",
+        "Harvest cells 48 hours after infection and re-sort for CFP+ mCherry+ cells.",
+        "Dissolve 4-OH tamoxifen in ethanol to prepare a 1000X stock solution.",
+        "Prepare a 1X solution of 4-OH tamoxifen immediately before treatment.",
+        "Plate sorted cells in Iscove\u2019s modified medium-based methylcellulose medium supplemented with 4-OH tamoxifen.",
+        "Maintain cultures at 37\u00b0C, 5% CO2 using an Axio Observer.Z1 microscope with the LSM 700 scanning module.",
+        "Collect images every 3-4 minutes with xyzt acquisition mode.",
+        "Isolate and sort bone marrow derived hematopoietic stem cell (HSC)-enriched cells (c-kit+ Lin- Sca-1+; KLS) from adult mice.",
+        "Identify dividing cells in movie replay.",
+        "Visualize cells in spectrum color format to readily identify the centrosomes.",
+        "Draw a line connecting the two centrosomes of a cell using ImageJ software.",
+        "Subsequently, draw an additional line perpendicular to Line 1 to mark the cleavage furrow and partition the mother cell into incipient daughter cell 1 (D1) and daughter cell 2 (D2).",
+        "Determine fluorescence intensity of Numb for D1 and D2 using ImageJ software.",
+        "Culture cells overnight for approximately 16 hours in X-Vivo\u212215 media supplemented with 50 \u03bcM 2-mercaptoethanol, 10% fetal bovine serum, SCF at 100 ng/ml, and thrombopoietin at 20 ng/ml.",
+        "Infect cells with retroviruses MSCV-H2B-GFP and mCherry-\u03b1-tubulin.",
+        "Harvest cells 48 hours after infection and re-sort for GFP+ mCherry+ KLS cells.",
+        "Culture cells in 96-well U-bottomed plates for 48 hours with 4-OH tamoxifen.",
+        "Dissolve 4-OH tamoxifen in ethanol at a concentration of 1 mg/ml to create a 1000X stock solution.",
+        "Prepare a 1X solution of 4-OH tamoxifen immediately before treatment.",
+        "Place cells on chambered coverglass slides coated with 0.1 \u03bcg/\u03bcl Retronectin\u00ae in the presence of 4-OH tamoxifen.",
+        "Collect images every 3-4 minutes using an Axio Observer.Z1 microscope with the LSM 700 scanning module in xyzt acquisition mode.",
+        "Maintain cultures at 37\u00b0C and 5% CO2 during imaging.",
+        "Identify mitotic cells by reviewing movie replay.",
+        "Generate a concatenation of Z-stack images for each cell from metaphase to early telophase.",
+        "Display all images in orthogonally view using Zen 2010 software to measure spindle angle.",
+        "Using ImageJ software, measure the angle formed between the substratum plane (Retronectin base) and the virtual line passing through spindle poles."
+    ]
+}

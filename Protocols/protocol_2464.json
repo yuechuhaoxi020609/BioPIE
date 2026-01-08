@@ -1,0 +1,40 @@
+{
+    "id": 230,
+    "origin_website": "Nature",
+    "title": "Analysis of carotenoid compounds in aphids by Raman imaging and mass spectrometry",
+    "subjectAreas": [
+        "Chemistry",
+        "Biological Techniques",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Determine the concentration of the \u03b2-carotene standard solution by measuring its absorbance at 451 nm in a hexane solution using the extinction coefficient of \u03b2-carotene (\u03b51%) in hexane (= 2592).",
+        "Prepare successive dilutions of the initial \u03b2-carotene solution in hexane.",
+        "Store the initial \u03b2-carotene solution in an amber vial under nitrogen atmosphere at -80\u00b0C for a maximum of one week.",
+        "Weigh one gram of aphids before milling using liquid nitrogen.",
+        "Hand-mill the aphids using liquid nitrogen to obtain powder.",
+        "Perform all extractions and standard solution preparations under red-light conditions.",
+        "Inject carotenoid extracts immediately into HPLC column after preparation.",
+        "Do not filter carotenoid extracts dissolved in dichloromethane / MTBE/methanol mixture before HPLC analysis.",
+        "Prepare 15 mL of solvent A: ethanol (20 mL)/hexane (15 mL) containing 35 mg of BHT as antioxidant.",
+        "Prepare 80 mL of 10% sodium chloride.",
+        "Weigh 1 g of aphids (balance precision \u00b1 0.01 mg).",
+        "Carefully mill the aphids in a mortar pestle with liquid nitrogen.",
+        "Add 15 mL of solvent A and 80 mg of MgCO3 to a 50 mL beaker and stir for 5 min.",
+        "Filter the mixture on a filter funnel number 2.",
+        "Wash the precipitate successively with 15 mL of solvent A, 15 mL of ethanol, then with 15 mL of hexane.",
+        "Transfer the solvent mixture in a separatory funnel.",
+        "Wash once with 40 mL of 10% sodium chloride.",
+        "Wash twice with 40 mL of distilled water.",
+        "Recover the hexanic phase in a beaker.",
+        "Dry the phase with 1 g of sodium sulfate and filter on a cotton glass in a 100 mL conical flask.",
+        "Evaporate the dried organic phase using a rotavapor at a temperature not exceeding 40\u00b0C.",
+        "Resuspend the residue with 250 \u03bcL of dichloromethane and 250 \u03bcL of MTBE/methanol (80:20, v/v).",
+        "Inject the extract quickly on HPLC for analysis.",
+        "Maintain pea aphids on Vicia faba plants.",
+        "Raise aphids in cages at about 22\u00b0C \u00b1 3\u00b0C with a photoperiodicity of 16/8 hours light/dark.",
+        "Raise aphids at 8\u00b0C \u00b1 1\u00b0C with a humidity of 60% to select the green phenotype.",
+        "Place 10 orange adult aphids each day at 8\u00b0C \u00b1 1\u00b0C for five months to isolate the green variant.",
+        "Transfer green variants back to room temperature conditions, where they revert to the orange phenotype within two days."
+    ]
+}

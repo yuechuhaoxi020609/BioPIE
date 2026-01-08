@@ -1,0 +1,22 @@
+{
+    "id": 603,
+    "origin_website": "Nature",
+    "title": "Exosome isolation from plasma using ExoQuick reagent",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Transfer 200 \u00b5l of plasma into a 1.5 ml microfuge tube.",
+        "Add 2 \u03bcL of Thrombin (500U/mL) to a final concentration of 5U/mL.",
+        "Incubate at room temperature for 5 minutes while mixing gently by flicking the tube.",
+        "Centrifuge for 5 minutes at 10,000 rpm. There should be a visible fibrin pellet at the bottom of the tube.",
+        "Transfer supernatant to a fresh tube.",
+        "Add 50 \u03bcl of ExoQuick Exosome Precipitation Solution to the plasma and incubate 30 min at 4\u00b0C.",
+        "Centrifuge ExoQuick/plasma mixture at 1,500 \u00d7 g for 30 minutes at room temperature.",
+        "Aspirate supernatant.",
+        "Spin down residual ExoQuick solution by centrifugation at 1,500 \u00d7 g for 5 minutes at room temperature.",
+        "Remove all traces of fluid by aspiration, taking great care not to disturb the pellet.",
+        "Resuspend the pellet in 20 \u03bcl sterile PBS."
+    ]
+}

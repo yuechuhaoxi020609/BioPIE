@@ -1,0 +1,38 @@
+{
+    "id": 11079,
+    "origin_website": "Jove",
+    "title": "Optical Detection of E. coli Bacteria by Mesoporous Silicon Biosensors",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Prepare oxided porous SiO2 etch Si wafers in a 3:1 solution of aqueous HF and absolute ethanol for 30 seconds at a constant current density of 385 mA/cm\u00b2.",
+        "Rinse the surface of the resulting porous Si film with absolute ethanol several times.",
+        "Dry the films under dry nitrogen gas.",
+        "Oxidize freshly-etched PSi samples in a tube furnace at 800 \u00b0C for 1 hour in ambient air.",
+        "Incubate an oxidized PSi (PSiO2) sample for 1 hour in mercaptopropyl(trimethoxysilane-3) solution (108 mM in toluene).",
+        "Rinse the silane-treated PSiO2 sample with toluene, methanol, and acetone.",
+        "Dry under dry nitrogen gas.",
+        "Incubate the silane-modified PSiO2 sample for 30 minutes in 1 ml of 100 mM PEO-iodoacetyl biotin solution.",
+        "Rinse the biotin-treated PSiO2 sample with 0.1 M phosphate buffered saline (PBS) solution several times.",
+        "Incubate the biotin-modified PSiO2 sample for 30 minutes in 1 ml of 100 \u03bcg/ml streptavidin (SA) solution.",
+        "Rinse the SA-treated PSiO2 sample with 0.1 M PBS solution several times.",
+        "Incubate the SA-modified PSiO2 sample for 30 min in 1 ml of 100 \u03bcg/ml biotinylated E. coli monoclonal antibody solution or with 100 \u03bcg/ml biotinylated-rabbit IgG.",
+        "Incubate the IgG-modified surfaces with 15 \u03bcg/ml fluorescein (FITC) tagged anti rabbit IgG for 40 min.",
+        "Incubate the modified samples with 15 \u03bcg/ml fluorescein (FITC) tagged anti mouse IgG as a control.",
+        "Rinse the modified samples with 0.1 M PBS solution several times.",
+        "Examine the samples under a fluorescence microscope.",
+        "Cultivate E. coli K12 bacteria in a 10 ml tube with 5 ml of Luria Bertani (LB) medium.",
+        "Incubate the bacteria overnight shaking at 37 \u00b0C.",
+        "Monitor the bacteria concentration by reading the optical density (OD) at a wavelength of 600 nm.",
+        "Read the OD600 using a spectrophotometer to determine the bacterial concentration.",
+        "Place the IgG-modified PSiO2 and neat PSiO2 samples in a custom-made Plexiglas flow cell.",
+        "Fix the flow cell to ensure that the sample reflectivity is measured at the same spot during all measurements.",
+        "Incubate the samples with E. coli K12 suspension (104 cell/ml) for 30 min at room temperature.",
+        "Remove the bacteria suspension by flushing the cell with 0.85% w/v saline solution for 30 min.",
+        "Monitor changes in reflectivity data throughout the experiment.",
+        "Collect spectra using a CCD spectrometer.",
+        "Analyze collected spectra by applying fast Fourier transform (FFT).",
+        "Observe samples under an upright light microscope immediately after the biosensing experiment to confirm presence of bacteria on the biosensor surface."
+    ]
+}

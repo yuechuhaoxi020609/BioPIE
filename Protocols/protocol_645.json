@@ -1,0 +1,36 @@
+{
+    "id": 21,
+    "origin_website": "Nature",
+    "title": "Protein gel blot analysis",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics",
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Grow yeast cells carrying the empty vector pDR-AMT1 in liquid YNB media supplemented with 3% glucose and 5mM arginine.",
+        "Harvest cells at OD600 0.6-0.8 and chill on ice.",
+        "Centrifuge harvested cells from 100 mL culture at 5,000g for 10 min at 4\u00b0C.",
+        "Wash pelleted cells once with half volume of chilled water.",
+        "Resuspend cells in 200 \u03bcL of chilled extraction buffer.",
+        "Disrupt resuspended cells using glass beads.",
+        "Lyse cells through vortexing for 30 sec followed by ice incubation, repeat for 10 cycles.",
+        "Centrifuge lysed cells at 12,000g for 5 min to collect supernatants.",
+        "Resuspend cell debris and glass beads in 1 mL of extraction buffer.",
+        "Vortex resuspended material twice for 30 sec each.",
+        "Centrifuge again to collect supernatant, pooling with the first one.",
+        "Harvest microsomal fraction by centrifugation at 100,000g for 50 min at 4\u00b0C.",
+        "Resuspend pellet in 200 \u03bcL of storage buffer.",
+        "Estimate protein concentration using Bradford protein assay with BSA as standard.",
+        "Denature proteins in loading buffer at 37\u00b0C for 30 min.",
+        "Separate denatured proteins on 10% SDS-PAGE gels.",
+        "Transfer proteins to PVDF membrane.",
+        "Raise a polyclonal antibody against the C-terminus of AMT1;1.",
+        "Affinity-purify the primary antibody.",
+        "Dilute the primary antibody at a ratio of 1/1,000 in blocking solution.",
+        "Dilute the secondary antibody at a ratio of 1/10,000 in blocking solution.",
+        "Use rainbow marker as a molecular mass standard.",
+        "Develop blots using SuperSignal West Pico Chemiluminescent Substrate."
+    ]
+}

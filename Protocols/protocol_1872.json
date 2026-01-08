@@ -1,0 +1,17 @@
+{
+    "id": 1299,
+    "origin_website": "Nature",
+    "title": "<p>Preparation of fluorescent beads under <em>C. elegans</em> for fluorescence microscopy with adaptive optics</p>",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Dilute the original 100-nm fluorescent bead solution by a factor of 100 (v/v) with distilled water.",
+        "Mix the diluted bead solution with the Vortex Mixer.",
+        "Drop 10 \u03bcL of the diluted bead solution on a charged slide.",
+        "Let the dropped solution dry for 10 minutes on a hot plate set to 35\u00b0C.",
+        "Place a wild-type C. elegans adult hermaphrodite on a clean coverslip with 10 \u03bcL of a 50 mM phosphatase inhibitor Tetramisole hydrochloride solution.",
+        "Drop 10 \u03bcL of glycerol on the slide prepared in step 2 before the Tetramisole solution dries completely.",
+        "Mount the coverslip prepared in step 3 onto the slide prepared in step 1 quickly and fix it carefully using nail polish."
+    ]
+}

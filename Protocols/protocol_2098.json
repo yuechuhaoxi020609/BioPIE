@@ -1,0 +1,42 @@
+{
+    "id": 330,
+    "origin_website": "Nature",
+    "title": "Processing and Characterization of Monodisperse Silicon Colloids",
+    "subjectAreas": [
+        "Physics",
+        "Biological Techniques",
+        "Materials Science",
+        "Synthetic Chemistry",
+        "Nanoscience And Technology"
+    ],
+    "protocol": [
+        "Set the Variac to 70% power and preheat the brass block to 485 \u00b0C.",
+        "Clean the titanium reactor and the plug with chloroform and dry in the fumehood.",
+        "Place the reactor and the plug into the ante-chamber of the glovebox.",
+        "Take three cycles of exhaustion, each lasting at least ten minutes.",
+        "Prepare an ice bath in a bucket where the water level is lower than the height of the reactor.",
+        "Measure 5.8 ml of n-Hexane and add to the reactor.",
+        "Measure 18 \u03bcl of trisilane and add to the reactor along with n-Hexane.",
+        "Put on the plug and tighten with a wrench immediately after adding reagents.",
+        "Remove the reactor from the glovebox and further tighten the plug with a vice and wrench.",
+        "Remove the empty reactor from the preheated brass block and place in the loaded reaction vessel.",
+        "Change the temperature setting to 425 \u00b0C and start the timer.",
+        "After 10 min, remove the reactor from the heating block and submerge in an ice bath to quench to room temperature.",
+        "Open the reactor with a wrench after cooling to room temperature.",
+        "Collect the product using a glass pipette.",
+        "Centrifuge the product at 8000 rpm for 5 min to precipitate particles.",
+        "Discard the supernatant, redisperse the product in 5 mL of chloroform with sonication, and centrifuge again.",
+        "Discard the supernatant, redisperse the particles in chloroform.",
+        "Evaporate the solvent from the a-Si:H colloidal suspension by heating it at 120 \u00b0C in an oven.",
+        "Put dried a-Si:H particles into a chamber.",
+        "Create high vacuum within the chamber using a turbo-molecular vacuum pump.",
+        "Anneal the chamber with an oven to a temperature between 200 \u00b0C and 600 \u00b0C for one hour.",
+        "Let the chamber cool down slowly (1 \u00b0C/min) to room temperature under vacuum environment.",
+        "Set up the home-made confocal microscope combined with a spectrometer coupler working in NIR region.",
+        "Place a drop of silicon colloid suspension on a glass substrate and wait for the chloroform to evaporate.",
+        "Put the glass substrate onto the sample holder of the confocal microscope and focus the sample.",
+        "Select a single particle and close the confocal aperture of the setup.",
+        "Tune the designed spectrometer coupler of the setup, and optimize the signal-noise ratio.",
+        "Measure the spectra once the InGaAs detector is cooled down with liquid nitrogen."
+    ]
+}

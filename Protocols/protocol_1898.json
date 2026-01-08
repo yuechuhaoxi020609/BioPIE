@@ -1,0 +1,26 @@
+{
+    "id": 583,
+    "origin_website": "Nature",
+    "title": "_In vitro_ differentiation of human Th-17 CD4+ T cells",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Isolate mononuclear cells from adult or cord blood on a FicollPAQUE gradient.",
+        "Use Miltenyi human CD4+ beads and procedure to isolate CD4+ T cells.",
+        "Isolate naive CD4+ T cells by cell sorting. Human naive CD4+ T cells are typically defined as CD3+CD4+CD45RA+CD25-HLA-DR-. ",
+        "Coat tubes with serum-free media for harvesting cells during sort.",
+        "Count cells and resuspend in fresh serum-free media at a concentration of 250,000 to 500,000 cells per mL.",
+        "Add 10 U/ml of IL-2, 10 ng/mL of IL-1beta, 10 ng/ml of IL-23, 1 \u03bcg/ml of anti-IL-4, 1 \u03bcg/mL of anti-IFNgamma and anti-CD3/CD28 activation beads at a ratio of 1 bead per cell.",
+        "In U-bottom 96-well plates, aliquot 200 \u03bcL per well.",
+        "Add an increasing concentration of TGF-beta to a series of four wells: 0, 0.1, 1 and 10 ng/mL.",
+        "Spin plates at day 3, remove media and replace with fresh media containing all cytokines and antibodies.",
+        "Split each well in half on day 5.",
+        "Spin plates on day 5, remove media and replace with fresh media containing all cytokines and antibodies.",
+        "Activate cells for 5 hours in the presence of 50 ng/ml PMA and 500 ng/ml ionomycin.",
+        "Add 1x BD GolgiStop to the activated cells.",
+        "Fix cells in BD Perm/Fix buffer.",
+        "Proceed with intracellular staining of IL-17A and IFN-gamma using BD Perm/Wash buffer.",
+        "Analyse stained cells by flow cytometry."
+    ]
+}

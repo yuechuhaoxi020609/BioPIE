@@ -1,0 +1,27 @@
+{
+    "id": 656,
+    "origin_website": "Nature",
+    "title": "Analysis of murine lamina propria TH17 cells",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Open intestines longitudinally and wash in PBS to remove faecal content.",
+        "Shake intestines in HBSS containing 5 mM EDTA for 20 minutes at 37\u00b0C.",
+        "Remove epithelial cells and fat tissue from the intestines.",
+        "Cut intestines into small pieces.",
+        "Incubate cut tissues with RPMI1640 containing 4% FBS, 1 mg/ml collagenase type II, 1 mg/ml dispase, and 40 \u03bcg/ml DNase I for 1 hour at 37\u00b0C in a shaking water bath.",
+        "Wash digested tissues with HBSS containing 5 mM EDTA.",
+        "Resuspend the washed tissue in 5 ml of 40% Percoll.",
+        "Overlay the suspension on 2.5 ml of 80% Percoll in a 15-ml Falcon tube.",
+        "Centrifuge samples at 2,000 rpm for 20 minutes at room temperature.",
+        "Collect LP lymphocytes from the interface of the Percoll gradient.",
+        "Wash collected cells with PBS containing 0.5% BSA and 2 mM EDTA or RPMI1640.",
+        "Incubate LP lymphocytes with 50 ng/ml PMA, 5 \u03bcM calcium ionophore A23187, and Golgistop in complete media at 37\u00b0C for 4 hours.",
+        "Incubate cells with a cocktail of fluorescently labeled antibodies, such as anti-CD4 and anti-TCR-\u03b2, for 20 minutes at 4\u00b0C.",
+        "Permeabilize the cells with Cytofix/Cytoperm solution for 20 minutes at 4\u00b0C.",
+        "Incubate cells with fluorescently labeled cytokine antibodies, e.g., anti-IL-17 and anti-INF-\u03b3, for 20 minutes at 4\u00b0C.",
+        "Wash cells with PBS containing 0.5% BSA and 2 mM EDTA buffer.",
+        "Analyze cells with a flow cytometer."
+    ]
+}

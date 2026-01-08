@@ -1,0 +1,41 @@
+{
+    "id": 139,
+    "origin_website": "Nature",
+    "title": "A Novel Triple Luciferase Reporter Assay  Permits Measurement of  Cypridina Luciferase, Green-Emitting Renilla Luciferase and Red-Emitting Firefly Luciferase in the Same sample",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Adjust the cell concentration and plate HEK-293 cells one day before the transfection experiment.",
+        "Culture cells overnight in a 60-mm culture dish with 3 ml of medium to achieve approximately 60-80% confluency at the time of transfection.",
+        "Change to fresh medium prior to transfection, using a volume of 4 ml per dish.",
+        "Form transfection complexes for the experiment.",
+        "To a small sterile tube, pipette 0.6 ml of serum-free high glucose DMEM.",
+        "Add 1 \u03bcg each of pUBC-RedFluc, pCMV-GrRenLuc, and pCMV-GLuc to the tube.",
+        "Mix well by flicking the tube 12 times.",
+        "Pipette 6 \u00b5l of Targefect F-2 transfection reagent into the tube.",
+        "Mix well again by flicking the tube 122 times.",
+        "Incubate the transfection reagent:DNA complex for 25 min at 37\u00b0C.",
+        "Add 0.6 ml of the transfection complex drop-wise to the cells through the medium, ensuring even distribution over the entire cell area.",
+        "Incubate the cells for 36-48 h.",
+        "Harvest the cells.",
+        "Aspirate supernatant from transfected cells.",
+        "Wash cells once with buffer.",
+        "Add 100 \u03bcl of cell lysis buffer per well in a 48-well dish.",
+        "Shake at 400 rpm for 15-20 minutes to lyse cells.",
+        "Pipette out 20 \u03bcl of cell lysate into 96-well dishes.",
+        "Assay cell lysates for Cypridina Luciferase according to the VLAR-1 protocol.",
+        "Add 40 \u03bcl of VLAR buffer followed by 20 \u03bcl of Vargulin substrate diluted from 100X with dilution buffer.",
+        "Alternatively, premix 40 \u03bcl of VLAR-1 buffer with 20 \u03bcl of diluted Cypridina luciferin and add 60 \u03bcl to each sample within 20 minutes of mixing.",
+        "Wait for 20-25 minutes after adding the mixture.",
+        "Assay for Firefly Luciferase by adding 50 \u03bcl of FLAR reagent.",
+        "Thaw FLAR-1 reagent as needed before use.",
+        "Assay for Renilla Luciferase by adding 60 \u03bcl of diluted Renilla luciferase assay reagent prepared from 100X substrate and RLAR plus Stop buffer.",
+        "Mix 10 \u03bcl of cell lysate into wells of a 96-well plate.",
+        "Prepare working TLAR reagent by mixing 5 ml of TLAR-1 single buffer with 50 \u03bcl of 100X coelenterazine and 20 \u03bcl of 100X Cypridina Luciferin (Vargulin).",
+        "Add 50 \u03bcl of the working TLAR-1, format-2 reagent to each well.",
+        "Mix well and read immediately to measure luciferase activity."
+    ]
+}

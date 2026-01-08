@@ -1,0 +1,34 @@
+{
+    "id": 662,
+    "origin_website": "Nature",
+    "title": "Multiple-target tracing \\(MTT) algorithm probes molecular dynamics at cell surface",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Plate subconfluent cells on sterilized 18 mm round coverslips.",
+        "Allow cells to spread in the incubator overnight.",
+        "Dilute biotinylated antibody in culture medium supplemented with 100\u00d7 biotin.",
+        "Mix diluted biotinylated antibody with equimolar amount of streptavidin-Qdots, typically at a concentration of 10 nM each.",
+        "Incubate the antibody-Qdot mixture for 15 min at 37\u00b0C.",
+        "Mount coverslips from the culture well in the observation chamber one at a time.",
+        "Incubate cells with the antibody-Qdot mix for 15 min at 37\u00b0C using culture medium supplemented with serum to prevent unspecific binding of Qdots to the coverslip.",
+        "Wash thoroughly three times with HBSS to remove unbound Qdots.",
+        "Image up to 30 min in 500 \u03bcl HBSS-Hepes on the microscope stage maintained at 37\u00b0C.",
+        "Warm the microscope stage and fluorescence lamp at least 1 h prior to measurements.",
+        "Select isolated and properly spread cells for imaging.",
+        "Perform a visual quality check with both transmitted and fluorescence illumination.",
+        "Acquire a DIC image of the cell before recording stacks.",
+        "Save the DIC image as TIFF with the same name as the subsequent stack(s).",
+        "Record stacks of single-molecule images using fluorescence microscopy setup.",
+        "Each stack consists of 300 images taken at 36 ms time-lag in full frame (512 x 512 pixels).",
+        "Acquire another DIC image after stack acquisition to check for photodamage.",
+        "Launch Octave or Matlab and add MTT code folders to the path.",
+        "Navigate to your data directory.",
+        "Adjust tracing parameters such as D_max by editing MTT_param.m if necessary.",
+        "Execute detect_reconnex_22.m script to start automatic analysis.",
+        "Read output data using scripts like fread_data_spt.m for further analyses."
+    ]
+}

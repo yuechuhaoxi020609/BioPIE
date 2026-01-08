@@ -1,0 +1,32 @@
+{
+    "id": 850,
+    "origin_website": "Nature",
+    "title": "Preparation of monolayer cultures of primary rat and human islet cells on glass for super-resolution and live cell imaging",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Reconstitute laminin or collagen IV to a concentration of 50 \u03bcg/ml in HBSS with Ca\u00b2\u207a/Mg\u00b2\u207a.",
+        "Transfer coverslips to a 24- or 48-well plate using sterile forceps.",
+        "Coat each glass coverslip or Fluorodish with the laminin or collagen solution.",
+        "Incubate coated coverslips at 37\u00b0C for 1-2 hours or overnight in an incubator.",
+        "Prepare neuronal culture medium as described and filter sterilize it with a disposable bottle filter (0.22 \u03bcm).",
+        "Warm up the neuronal medium and trypsin (0.05%) at 37\u00b0C.",
+        "Collect rat or human islets from Petri dishes into a 15 ml tube.",
+        "Centrifuge the collected islets for 2 minutes at 110 x g (800 rpm).",
+        "Aspirate the supernatant and wash the islets three times with PBS.",
+        "Remove PBS and add 300-400 \u03bcl of pre-warmed 0.05% Trypsin/EDTA solution.",
+        "Pipette up and down very slowly with a micropipette using a 1000 \u03bcl tip for about 3 minutes until all islets are dissociated and no longer visible in the solution.",
+        "Fill the tube up to 15 ml with pre-warmed neuronal medium.",
+        "Centrifuge at 350 x g (1400 rpm) for 6 minutes.",
+        "Remove laminin/collagen solution from the coverslips/Fluorodishes.",
+        "Wash the coverslips three times with HBSS containing Ca\u00b2\u207a/Mg\u00b2\u207a.",
+        "Let the coverslips air dry for approximately 5 minutes.",
+        "Gently remove supernatant from single islet cells and re-suspend in 3 ml neuronal medium.",
+        "Take a few microliters of the cell suspension for counting cells.",
+        "Seed cells at 35,000 cells/cm\u00b2 or approximately 30,000 cells on each laminin or collagen-coated coverslip in a 48-well plate, 60,000 cells on a 24-well plate, or 100,000 cells on a Fluorodish.",
+        "Incubate seeded cells for about 5-6 hours.",
+        "Slowly add neuronal medium to reach final volume of 500 \u03bcl in 48-well plates, 1 ml in 24-well plates, and 2.5 ml in Fluorodishes.",
+        "Wait 3-4 days until islet cells fully adhere and spread before proceeding with experiments."
+    ]
+}

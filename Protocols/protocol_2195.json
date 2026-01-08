@@ -1,0 +1,43 @@
+{
+    "id": 10091,
+    "origin_website": "Jove",
+    "title": "Ensemble Force Spectroscopy by Shear Forces",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Assemble the homogenizer and microscope on a mounting table.",
+        "Wear goggles and turn on the fluorescence microscope.",
+        "Adjust the homogenizer to ensure that the excitation light beam of an appropriate wavelength (here, 488 nm) passes through the center of the dispersing tip of the homogenizer.",
+        "Prepare a flat-bottomed reaction chamber that is 5 cm in height and 1.5 cm\u00b2 x 1.5 cm\u00b2 in cross-section.",
+        "Choose an appropriate homogenizer dispersing tip to provide the desired shear force.",
+        "Clamp the reaction chamber on the sample stage of the fluorescence microscope.",
+        "Adjust the vertical position of the homogenizer and the chamber together to ensure focus is on the dispersing tip's surface.",
+        "Adjust the horizontal position of the dispersing tip to ensure the detection area is set between the rotor and stator.",
+        "Switch on the fluorescence channels according to the fluorescent dye used in the experiment.",
+        "Test the shearing with DI water at a low speed (e.g., 2,000 rpm) to ensure appropriate operation without touching the reaction chamber.",
+        "Prepare human telomeric i-motif DNA labeled with a dye and quencher at its two ends in DI water.",
+        "Dilute the DNA to 5 \u00b5M in 30 mM MES buffer at pH 5.5 or pH 7.4.",
+        "Add ligand L2H2-4OTD in a concentration range of 0-60 \u00b5M to the DNA solution.",
+        "Mix the solution gently for 10 min to fold the i-motif structures without light.",
+        "Check and minimize the background fluorescence intensity of the reaction chamber filled with deionized DI water using a fluorescent microscope without shearing.",
+        "Wash the reaction chamber with DI water to minimize background fluorescence.",
+        "Set the parameters of the CCD camera: exposure time = 0.5 s, CCD sensitivity = 1600, recording time = 20 min.",
+        "Add the DNA solution into the empty and clean reaction chamber using a long pipet.",
+        "Cover the reaction chamber with a black box.",
+        "Start the homogenizer to perform shearing at a selected shear rate ranging from 9,724 s\u22121 to 97,245 s\u22121 for 20 min with the CCD camera turned on to record data.",
+        "After the experiment, remove the chamber and wash it with DI water.",
+        "Prepare i-motif DNA in DI water.",
+        "Incubate 10 \u00b5M i-motif DNA in 300 \u00b5L of 30 mM Tris buffer (pH 7.4) supplemented with 150 \u00b5M CuCl and 300 \u00b5M ascorbic acid for 10 min to fold the i-motif structures.",
+        "Ultra-filter the solution using an ultrafiltration device under centrifugal force of 14,300 x g.",
+        "Replenish the filtered solution to ~500 \u03bcL with 30 mM Tris buffer (pH 7.4) supplemented with 300 \u03bcM ascorbic acid after each filtration step.",
+        "Repeat ultra-filtration and replenishment three times in total.",
+        "Collect the residual filtrate and adjust final volume to 300 \u03bcL by adding 30 mM Tris (pH 7.4), 300 \u03bcM ascorbic acid, 20 \u03bcM Calfluor 488 azide, 20 \u03bcM HPG, and 10 \u03bcM TBTA.",
+        "Transfer the solution to a darkroom immediately after reagent addition.",
+        "Check and minimize background fluorescence intensity of the reaction chamber with DI water before experiments using a microscope.",
+        "Wash the reaction chamber thoroughly with DI water to reduce background fluorescence.",
+        "Add the DNA solution into the empty reaction chamber carefully using a long pipette.",
+        "Initiate homogenizer shearing at 63,209 s\u22121 shear rate for 20 min while keeping CCD camera on.",
+        "After experiment completion, remove and wash the chamber with DI water."
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 553,
+    "origin_website": "Nature",
+    "title": "A method for quantifying phonotaxis in the concave-eared torrent frog",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Catch females of O. tormota at night.",
+        "Keep individual females in an open-top plastic container with a gauze cover.",
+        "Use an ultrasonic microphone and PC Tape system to record calls.",
+        "Use a digital audio recorder with a microphone to record calls.",
+        "Save call records as wave files.",
+        "Analyze and display call records using the SELENA software.",
+        "Determine which calls are produced by males or females.",
+        "Select a recorded female call for storage on the flash memory of a Play unit.",
+        "Store the selected call on an MP3 player for field tests if needed.",
+        "Broadcast the female call through a Play unit with audible and ultrasonic loudspeakers.",
+        "Position the playback device 1 m away from a frog in the field or on an indoor arena.",
+        "Adjust the broadcast level to ~80-90 dB SPL.",
+        "Digitally filter the call with low-pass, high-pass filters at a cutoff frequency of 20 kHz.",
+        "Apply a slope of 100 dB per octave for filtering.",
+        "Broadcast filtered calls through audible and/or ultrasonic loudspeakers.",
+        "Carry out acoustic playback experiments at night in field or in a quiet and darkened indoor room, approximately 1 km from the frog's natural habitat.",
+        "Present playback stimuli at a rate of 1 call every 15 seconds over a 5-minute period.",
+        "Place an isolated male frog on an indoor arena (3.5 x 4.5 m) under a removable glass cover (inside diameter: 8.5 cm), 1 meter in front of the loudspeaker.",
+        "Use the PC Tape system or a digital audio recorder with a microphone mounted on a tripod and placed 10 cm from the loudspeaker to record frog's vocalizations and stimuli.",
+        "Record males' phonotactic movements and vocalizations using an infrared videorecorder under infrared illumination.",
+        "Playback the videotaped record of the experiment.",
+        "Extract audio signals from video files using software (e.g., Cool Edit Pro 2.0).",
+        "Depict scaled tracings of each male frog from videotaped records.",
+        "Measure the frog hop distance in cm.",
+        "Calculate the azimuthal angle using the formula alpha = arcsin(d/D), where d is the vertical length from the hop landing site to the line between the hop start site and the center of loudspeaker, and D is the hop distance.",
+        "Calculate the index of straightness for males' phonotactic movements."
+    ]
+}

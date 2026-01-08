@@ -1,0 +1,42 @@
+{
+    "id": 1012,
+    "origin_website": "Nature",
+    "title": "Qualitative growth potential test for brackish _Vaucheria_ species",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Plant Sciences"
+    ],
+    "protocol": [
+        "Take samples from the bare sediment scooping at least 50 ml of material from the upper layer (~1 cm) using the sample container.",
+        "Label the sample containers according to the sample location and replicate number.",
+        "Sample patches with clear Vaucheria presence as positive control in addition to bare sediment samples.",
+        "Prepare 2 tissue culture flasks and 1 Erlenmeyer per sample for incubation and negative control.",
+        "Take the samples from the freezer and let them thaw to room temperature.",
+        "Place the Erlenmeyer flask on a balance.",
+        "Sterilise the metal spatula in the Bunsen flame.",
+        "Bring approximately 50 grams of sediment into the Erlenmeyer flask using the sterilised spatula.",
+        "Add 2 ml of sterilised tap water to the Erlenmeyer flask and homogenize by stirring and gently shaking.",
+        "Place the tissue culture flask on a balance.",
+        "Bring approximately 20 grams of homogenized sample into the tissue culture flask using the spatula.",
+        "Add 20 ml of MDV medium to the tissue culture flask.",
+        "Gently shake the tissue culture flask so that the sediment is evenly spread across the growth surface.",
+        "Close the Erlenmeyer flask with cotton wool.",
+        "Sterilize the samples for 15 min at 121\u00b0C using the autoclave.",
+        "Place the tissue culture flask on a balance.",
+        "Sterilize the metal spatula in the Bunsen flame.",
+        "Bring approximately 20 grams of sterilized sample into the flask using the spatula.",
+        "Add 20 ml of MDV medium to the flask.",
+        "Gently shake so that the sediment is evenly spread across the flask wall.",
+        "Place the tissue culture flask in the climate room for incubation for at least 6 weeks.",
+        "Ensure the temperature and light conditions are set as described.",
+        "Gently shake the flasks once every couple of days to ensure nutrients are distributed well and gas exchange is facilitated.",
+        "Extend the incubation time with a few more weeks if no clear visible signs of filamentous algae are present.",
+        "Inspect the culture flasks for the development of green pigments on the sediment surface.",
+        "Document the presence of green pigments as an indication of good growth conditions for benthic algae.",
+        "Observe the flask more carefully if filaments are present, indicating a likely positive sample for _Vaucheria_.",
+        "Use a magnifying glass or microscope to confirm the presence of weakly developed filaments.",
+        "Further inspect the flasks using a magnifying glass or microscope to ensure the filaments are _Vaucheria_.",
+        "Identify _Vaucheria_ at the species level in well-developed samples if they are sexually mature.",
+        "Take pictures of the tissue culture flasks at the start and end of incubation."
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 3773,
+    "origin_website": "Cell",
+    "title": "Preparation of co-crystals of human PPAR\u03b1-LBD and ligand for high-resolution X-ray crystallography",
+    "subjectAreas": [
+        "Protein Expression And Purification",
+        "Structural Biology",
+        "Protein Biochemistry",
+        "X-Ray Crystallography"
+    ],
+    "protocol": [
+        "Dilute ligand stock solution with Buffer A.",
+        "Mix 25 \u03bcL each of hPPAR\u03b1-LBD solution (20 mg/mL in Buffer A) and the ligand solution in a 1.5-mL plastic tube on ice.",
+        "Dispense 200 \u03bcL of Crystallization Buffer to each well of an EasyXtal 15-Well Tool X-Seal plate at 4\u00b0C.",
+        "Mix 1 \u03bcL of Crystallization Buffer and 1 \u03bcL hPPAR\u03b1-LBD-ligand mixed solution on the backside of the screw cap at 4\u00b0C.",
+        "Fasten the screw cap.",
+        "Incubate the plate at 4\u00b0C.",
+        "Dilute ligand stock solution with Buffer A.",
+        "Mix 25 \u03bcL of hPPAR\u03b1-LBD solution (20 mg/mL in Buffer A) with 25 \u03bcL of ligand solution in a 1.5-mL plastic tube on ice.",
+        "Dispense 200 \u03bcL of Crystallization Buffer to each well of an EasyXtal 15-Well Tool X-Seal plate at 4\u00b0C.",
+        "Mix 1 \u03bcL of Crystallization Buffer with 1 \u03bcL of the PPAR-ligand mixed solution on the backside of the screw cap at 4\u00b0C.",
+        "Fasten the screw cap.",
+        "Crush seed crystals (Wy14643 or iFA-bound crystals) in 10 \u03bcL of Crystallization Buffer using a needle tip at 4\u00b0C to create crystal nuclei.",
+        "Transfer the crystal nuclei via a single streak with a human hair to 2 \u03bcL mixture of hPPAR\u03b1-LBD/ligand in Crystallization Buffer at 4\u00b0C.",
+        "Incubate the plate at 4\u00b0C.",
+        "Perform steps in the cold room (4\u00b0C).",
+        "Prepare iFA-bound crystals by cross-seeding.",
+        "Dilute ligand stock solution with Soaking Buffer.",
+        "Try initial dilution at 1 mM.",
+        "Dispense 200 \u03bcL Soaking Buffer to each well of an EasyXtal 15-Well Tool X-Seal plate at 4\u00b0C.",
+        "Place 5 \u03bcL ligand solution (in Soaking Buffer) on the backside of the screw cap at 4\u00b0C.",
+        "Pick up the iFA-bound crystals with a CryoLoop at 4\u00b0C.",
+        "Wash the crystals with Soaking Buffer.",
+        "Soak the crystals in 5 \u03bcL ligand solution at 4\u00b0C.",
+        "Fasten the screw cap.",
+        "Incubate the plate at 4\u00b0C.",
+        "Mix 400 \u03bcL of Crystallization Buffer with 100 \u03bcL of 100% glycerol in a 1.5 mL plastic tube.",
+        "Make 5 \u03bcL drops of the resulting Cryoprotection Buffer on the backside of the screw cap of an EasyXtal 15-Well Tool X-Seal plate at 4\u00b0C.",
+        "Pick up crystals with a CryoLoop.",
+        "Soak the picked-up crystals into Cryoprotection Buffer at 4\u00b0C.",
+        "Freeze the soaked crystals under liquid nitrogen until X-ray diffraction data collection."
+    ]
+}

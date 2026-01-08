@@ -1,0 +1,34 @@
+{
+    "id": 988,
+    "origin_website": "Nature",
+    "title": "A Hybridization Chain Reaction-based Method for Amplifying Immunosignals",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Molecular Biology",
+        "Cell Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Anesthetize mice with an overdose of pentobarbital.",
+        "Perfuse intracardially with PBS, followed by paraformaldehyde (PFA) at 4% wt/vol in PBS.",
+        "Dissect tissues and postfix them in 4% PFA for 4 h at room temperature or overnight at 4\u00b0C.",
+        "Dehydrate tissue samples in a 30% sucrose solution.",
+        "Prepare thin tissue sections on a Cryostat microtome.",
+        "Wash and permeabilize sections in 0.3% Triton X-100 in PBS (PBST).",
+        "Block sections in 2% BSA in PBST at room temperature for 1 h.",
+        "Incubate sections with primary antibodies for various times according to the efficiency of the antibodies.",
+        "Wash samples three times in PBST.",
+        "If DNA HCR initiator conjugated secondary antibodies are used, incubate samples in HCR amplification buffer (5\u00d7 sodium chloride citrate (SCC buffer), 0.1% vol/vol Tween-20, and 10% wt/vol dextran sulfate in ddH2O) for 30 min at room temperature.",
+        "Incubate sections with biotinylated secondary antibodies or DNA HCR initiator conjugated secondary antibodies.",
+        "Wash samples three times in PBST.",
+        "For biotinylated secondary antibodies, incubate samples in 1 \u00b5g/mL streptavidin at room temperature for 30 min.",
+        "Wash samples three times in PBST.",
+        "Incubate samples with 0.5 \u00b5M DNA-biotin HCR initiators at room temperature for 30 min.",
+        "Wash samples three times in PBST.",
+        "Snap-cool a pair of DNA-fluorophore HCR amplifiers separately in 5\u00d7 SSC buffer by heating at 95\u00b0C for 90s and cooling to room temperature over 30 min.",
+        "Add graphene oxide (GO) to the buffer from step 2 to a final concentration of 20 \u00b5g/mL if background suppression is required, then vortex thoroughly.",
+        "Incubate samples with the buffer containing amplifiers overnight at room temperature.",
+        "Wash samples three times in PBST.",
+        "Mount sections on slides and observe."
+    ]
+}

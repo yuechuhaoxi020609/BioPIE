@@ -1,0 +1,15 @@
+{
+    "id": 1447,
+    "origin_website": "Nature",
+    "title": "<p>The Drug Rediscovery Protocol (DRUP trial): A Dutch National Study on behalf of the Center for Personalized Cancer Treatment (CPCT) to Facilitate Patient Access to Commercially Available, Targeted Anti-cancer Drugs to determine the Potential Efficacy in Treatment of Advanced Cancers with a Known Molecular Profile</p>",
+    "subjectAreas": [
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Obtain a fresh baseline tumor biopsy for biomarker analyses.",
+        "Monitor study treatment until progressive disease, unacceptable treatment-related toxicity, death, pregnancy, consent withdrawal or investigator discretion.",
+        "Document all treatment-related CTCAE 4.03 grade \u22653 adverse events.",
+        "Evaluate response every two months (up to every three months for patients on-study for \u22656 months).",
+        "Classify response according to internationally accepted criteria for each tumor type by local investigators."
+    ]
+}

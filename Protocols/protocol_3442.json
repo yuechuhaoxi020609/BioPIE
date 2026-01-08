@@ -1,0 +1,20 @@
+{
+    "id": 666,
+    "origin_website": "Nature",
+    "title": "Celigo-based cell-counting and viability assay for mammalian cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Make the staining solution with 8 \u00b5M Hoechst and 0.4 \u00b5g/mL PI in complete media (CD CHO + 8 mM L-Glutamine).",
+        "Pipette 3 \u03bcL of cell suspension into each well of a 96-well plate.",
+        "Add 200 \u03bcL of the staining solution to each well.",
+        "Mix by pipetting up and down three times in each well.",
+        "Incubate at room temperature in the dark for 40 minutes.",
+        "Scan wells on the Celigo using the mask (blue channel; Hoechst) and target 1 (red channel; PI).",
+        "Use fixed exposure time and gain settings for the red channel.",
+        "Set a fixed gate to distinguish PI-positive and negative cells.",
+        "Include healthy cells in one well to correctly set the PI-gate."
+    ]
+}

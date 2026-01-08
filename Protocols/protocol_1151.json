@@ -1,0 +1,38 @@
+{
+    "id": 1456,
+    "origin_website": "Nature",
+    "title": "<p>Immunoprecipitation of protein lysate from culture cells using Src antibody</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Harvest NSC34 or C2C12 cells up to 80-100% in a 6 well plate.",
+        "Aspirate media and wash plate with PBS.",
+        "Aspirate PBS and add 500 \u03bcl of CelLytic\u2122 M.",
+        "Scrape cells with a cell scraper and collect the media in a 1.5 ml tissue grinder.",
+        "Preserve 10% of collected media at 4\u2103.",
+        "Vortex Dynabeads\u2122 magnetic beads in the vial for 30 seconds.",
+        "Transfer 50 \u03bcl of Dynabeads\u2122 magnetic beads to a 1.5ml tube.",
+        "Place the tube on the magnet to separate the beads from the solution, and remove the supernatant.",
+        "Remove the tube from the magnet.",
+        "Add 10 \u03bcg of antibody diluted in 200 \u03bcL of Ab Binding and Washing Buffer to the magnetic beads.",
+        "Incubate with rotation for 30 minutes at room temperature.",
+        "Place the tube on the magnet and remove the supernatant.",
+        "Resuspend the magnetic bead and antibody complex in 200 \u03bcL of PBS-T.",
+        "Wash by gentle tapping.",
+        "Place the tube on the magnet and remove the supernatant.",
+        "Add the cell lysate to the tube and gently tap to resuspend the magnetic bead-Ab complex.",
+        "Incubate with rotation for 60 minutes at room temperature.",
+        "Place the tube on the magnet.",
+        "Wash the magnetic bead-Ab-Ag complex 3 times using 200 \u03bcL of Washing Buffer for each wash. Separate on the magnet between each wash, remove supernatant, and resuspend by gentle tapping.",
+        "Resuspend the magnetic bead-Ab-Ag complex in 100 \u03bcL Washing Buffer and transfer the bead suspension to a clean tube.",
+        "Place the tube containing the magnetic bead-Ab-Ag complex on the magnet and remove the supernatant.",
+        "Add 30 \u00b5L of Elution Buffer.",
+        "Add 10 \u00b5L of Sample Buffer Solution (2ME+)(x4).",
+        "Gently tap the tube.",
+        "Heat for 10 min at 70\u00b0C.",
+        "Place the tube on the magnet.",
+        "Load the sample onto a gel."
+    ]
+}

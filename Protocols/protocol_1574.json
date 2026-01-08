@@ -1,0 +1,41 @@
+{
+    "id": 210,
+    "origin_website": "Nature",
+    "title": "Targeted transfection of cells/tissue in vivo",
+    "subjectAreas": [
+        "Cell Biology",
+        "Biological Techniques",
+        "Chemical Biology",
+        "Genetics",
+        "Molecular Biology",
+        "Microbiology",
+        "Developmental Biology",
+        "Nanoscience And Technology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Vortex In vivo PolyMag vial before each use.",
+        "Add the required volume of In vivo PolyMag to a sterile microtube according to DNA amount needed.",
+        "Pre-dilute an aliquot of In vivo PolyMag reagent with deionized water for less than 1 \u00b5g DNA doses, and discard after use.",
+        "Dilute DNA in the final injection volume in a sterile vial.",
+        "Mix DNA solution immediately with In vivo PolyMag by pipetting up and down.",
+        "Incubate complexes for 20 min at room temperature.",
+        "Place magnet on targeted tissue before injection.",
+        "Slowly inject complexes into the target area.",
+        "Let the magnet stand from 5 min to 1 h after injection.",
+        "Monitor gene expression at appropriate time points.",
+        "Prepare DNA solution by diluting it in half of the injection volume with saline buffer.",
+        "Incubate diluted DNA for 5 minutes at room temperature.",
+        "Mix Dogtor reagent before use and dilute it in half of the injection volume.",
+        "Incubate diluted Dogtor for 5 minutes at room temperature.",
+        "Vortex In vivo CombiMag reagent before each use.",
+        "Use 1 \u03bcL of In vivo CombiMag per \u03bcg DNA without dilution, or pre-dilute an aliquot with deionized water if less than 1 \u03bcg DNA is used.",
+        "Combine DNA solution with Dogtor solution and mix gently.",
+        "Incubate mixture for 5 minutes at room temperature.",
+        "Add In vivo CombiMag reagent to the DNA/Dogtor mixture.",
+        "Mix gently and incubate for 20 minutes at room temperature.",
+        "Place magnet on targeted tissue.",
+        "Slowly inject the complexes.",
+        "Let the magnet stand from 5 minutes to 1 hour."
+    ]
+}

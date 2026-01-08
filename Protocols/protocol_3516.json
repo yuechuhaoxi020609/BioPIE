@@ -1,0 +1,28 @@
+{
+    "id": 1101,
+    "origin_website": "Nature",
+    "title": "Co-Immunoprecipitation assay for HA-tagged proteins from yeast",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Collect approximately 5 \u00d7 108 cells expressing either untagged or HA-epitope tagged versions of protein from exponentially growing yeast cultures.",
+        "Centrifuge the collected cells at 4000xg to pellet them.",
+        "Wash the cell pellet once with water.",
+        "Resuspend the cell pellet in 100 \u03bcL of lysis buffer.",
+        "Lysate the cells by vigorously shaking with glass beads for 3 minutes at 4\u00b0C.",
+        "Clarify the lysed sample at 13400xg for 5 minutes at 4\u00b0C.",
+        "Keep 10 \u03bcl from the supernatant as a control whole-cell extract.",
+        "Wash twice 50\u00b5L of Dynabeads with PBS containing Tween 0.02%.",
+        "Incubate dried beads with 10\u00b5L of HA-probe antibody in 190\u00b5L PBS-Tween 0,02% for 30 minutes at room temperature.",
+        "Wash the unbound antibody twice with PBS-Tween 0,02%.",
+        "Incubate the remaining volume of whole cell extract with Dynabeads-antibody with orbital rotation for 20 minutes at room temperature.",
+        "Keep 10 \u03bcL from the supernatant as a control of unbound protein.",
+        "Wash the beads 5 times with PBS-Tween 0,02%.",
+        "Elute immunoprecipitated proteins by boiling the beads in 2x SDS-PAGE sample solvent for 5 minutes.",
+        "Analyze eluted proteins by SDS-polyacrylamide gel electrophoresis followed by Western blot analysis."
+    ]
+}

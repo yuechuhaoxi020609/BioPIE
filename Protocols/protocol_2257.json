@@ -1,0 +1,25 @@
+{
+    "id": 1493,
+    "origin_website": "Nature",
+    "title": "<p>FITC-Dextran Trans-Epithelial Permeability Assay</p>",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Resuspend FITC-Dextran in phenol-red free MEM at 37\u00b0C to a concentration of 1 mg/mL.",
+        "Prepare triplicate 12-well collagen coated inserts for monolayer-free positive control within multi-well plate set-up.",
+        "Expose test samples with compound of interest.",
+        "Transfer and blot Transwell\u00ae inserts containing exposed cells to new multi-well plate.",
+        "Add 800 \u03bcL phenol red-free MEM to the basolateral compartment.",
+        "Aspirate apical compartment media and replace with 250 \u03bcL FITC-Dextran suspension.",
+        "Protect from light at room temperature for 20 minutes.",
+        "Transfer Transwell\u00ae inserts with FITC-Dextran suspension to new multi-well plate.",
+        "Collect FITC-Dextran suspension basolateral media in 1.5 mL Eppendorf tubes.",
+        "Vortex the collected samples.",
+        "Transfer 100 \u03bcL aliquots from each Eppendorf tube containing FITC-Dextran basolateral media to Corning\u2122 96-Well Clear Bottom Black Polystyrene Microplates in triplicate.",
+        "Transfer 100 \u03bcL of phenol-red free MEM to an additional three wells to serve as the blank control.",
+        "Measure fluorescence intensity on the Polarstar Plate Reader using 490/520 nm excitation/emission maxima.",
+        "Adjust gain setting on the Polarstar Plate Reader to adjust all samples to the well with the highest fluorescence.",
+        "Export data to Excel for analysis."
+    ]
+}

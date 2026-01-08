@@ -1,0 +1,40 @@
+{
+    "id": 940,
+    "origin_website": "Nature",
+    "title": "Label-free Imaging of Biomolecules in Murine Brain Sections Using the 3D OrbiSIMS",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Calibrate Orbitrap MS using SurfaceLab 6.7 control software.",
+        "Set up gas cluster ion beam \\(GCIB) to provide pulsed beam of Ar<sub>3000</sub><sup>+</sup> clusters with energy of 20 keV and time-averaged current above 20 pA.",
+        "Set He gas pressure in secondary ion transfer optics to the \u201cHigh\u201d setting for optimal transmission of small inorganic cluster ions to the Q Exactive\u2122 HF.",
+        "Navigate to Ag sample and adjust working distance \\(sample-to-extractor) and target potential scheme to optimize secondary ion transmission to the Q Exactive\u2122 HF. For a standard instrument configuration, use 1.5 mm and 57 V, respectively.",
+        "Calibrate mass spectrometer based on positive and negative ion spectra obtained from the Ag film using argon GCIB.",
+        "Section tissue in cryo-microtome with 10 \u03bcm thickness at -22 \u00b0C.",
+        "Thaw mount section onto conductive side of ITO coated conductive microscope slide for OrbiSIMS analysis.",
+        "Set up GCIB to provide a 20 keV Ar<sub>3000</sub><sup>+</sup> beam with a current greater than 1 pA.",
+        "Measure and record the beam current.",
+        "Set up electron gun to flood sample surface with > 10 \u03bcA low energy (20 eV) electrons for charge compensation between GCIB ion pulses.",
+        "Set He pressure in secondary ion transfer optics to the \u201cLow\u201d setting for optimal transmission of organic secondary ions to the Q Exactive\u2122 HF.",
+        "Adjust target potential pulsing scheme to optimize secondary ion transmission to the Q Exactive\u2122 HF mass analyzer for spectrum acquisition conditions.",
+        "Use in-instrument video camera system to find region of interest on tissue section.",
+        "Optionally, obtain a secondary ion image using a Bi<sup>3+</sup> beam and ToF MS to identify regions of interest for imaging with GCIB and Q Exactive\u2122 HF.",
+        "Start spectrum acquisition using SurfaceLab 6.7 with a set mass resolving power of 240,000.",
+        "Set up 20 keV Ar<sub>3000</sub><sup>+</sup> focused pulsed beam with a spot size smaller than 2 \u03bcm and current between 1 pA and 30 pA.",
+        "Set up electron gun to flood sample surface with > 10 \u03bcA low energy electrons for charge compensation between gas cluster ion pulses.",
+        "Set He pressure in secondary ion transfer optics to the \u201cLow\u201d setting for optimal transmission of organic secondary ions to Q Exactive\u2122 HF.",
+        "Adjust target potential pulsing scheme to optimize secondary ion transmission to Q Exactive\u2122 HF mass analyzer for imaging conditions, using a sawtooth raster pattern.",
+        "Use in-instrument video camera system to find region of interest on tissue section.",
+        "Start image acquisition using SurfaceLab 6.7 with a set mass resolving power of 240,000 and an image resolution corresponding to the GCIB spot size.",
+        "Use a saw tooth raster pattern for the GCIB.",
+        "Inspect mass spectra obtained in steps 3 and 4 in SurfaceLab 6.7 and identify mass peaks of interest.",
+        "Set up the instrument for spectrum or image acquisition following step 3 or step 4.",
+        "Start spectrum acquisition from region of interest using SurfaceLab 6.7, selecting the option for tandem mass spectrometry using the higher-energy collision-induced dissociation cell in the Q Exactive\u2122 HF.",
+        "Adapt normalised collision energy to the analyte; useful values are typically between 15 and 70 eV.",
+        "Inspect mass spectra in SurfaceLab 6.7 and review potential putative secondary ion assignments for peaks of interest.",
+        "Select peaks for image generation, ensuring that peak integration windows encompass the full width of the mass spectral peaks.",
+        "Adjust secondary ion intensity-to-colour transformation functions for individual images to highlight relevant features of the data.",
+        "Make composite multi-colour images, e.g., RGB, based on individual secondary ion images or summed images."
+    ]
+}

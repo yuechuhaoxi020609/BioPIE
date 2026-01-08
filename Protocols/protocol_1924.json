@@ -1,0 +1,27 @@
+{
+    "id": 1247,
+    "origin_website": "Nature",
+    "title": "<p>Cost-Effective and Functional Alternatives to Thermanox&nbsp;Cover Rings for Tumor Xenotransplantation on Fertilized Chicken Eggs</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cancer"
+    ],
+    "protocol": [
+        "Punch Thermanox rings from coverslips.",
+        "Enlarge the ring hole to a diameter of approximately 9 mm with scissors.",
+        "Wash Thermanox rings with 70% EtOH.",
+        "Store washed Thermanox rings in a sterile petri dish.",
+        "Boil 3% agarose in 1\u00d7 PBS.",
+        "Pour an agar gel of about 2 mm high and allow it to solidify.",
+        "Cut out platelets from the agar gel using the open end of 15 ml Falcon tubes.",
+        "Prepare agar rings by cutting out the inlet with FACS tubes.",
+        "Store prepared agar rings in sterile PBS at 4\u00b0C.",
+        "Cut PVC tube rings from PVC tubes using sterile scissors.",
+        "Wash PVC tube rings with 70% ethanol.",
+        "Store washed PVC tube rings in a sterile petri dish.",
+        "Place each ring type on 10 chicken eggs.",
+        "Seed 1\u00d710^6 AsanPaCa cells in 25 \u00b5l Matrigel into each ring.",
+        "Euthanize chick embryos at day 18 of development.",
+        "Resect tumor xenografts from the chick embryos."
+    ]
+}

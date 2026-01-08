@@ -1,0 +1,35 @@
+{
+    "id": 415,
+    "origin_website": "Nature",
+    "title": "TH17 cells contribute to uveitis and scleritis and are inhibited by IL-27/STAT1 in the retina. \\(4) Confocal microscopy",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Genetics",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Euthanize adult C57bl/6 mice by CO2.",
+        "Embed globes in cryomolds containing Tissue-Tek OCT compound and freeze on dry ice.",
+        "Cut frozen sections at 10 \u03bcm thickness with a Leica 3060S cryostat.",
+        "Collect sections on SuperFrost/Plus slides and store at -70\u00b0C.",
+        "Allow slides to air-dry under vacuum for 20 minutes prior to immunolabeling.",
+        "Fix sections in 4% formaldehyde in 1X PBS for 10 minutes.",
+        "Wash sections repeatedly in 1X PBS after fixation.",
+        "Block sections in 5% normal goat serum in immunolabeling buffer.",
+        "For paraffin-embedded sections, fix eyes in 10% Formalin overnight.",
+        "Embed globes in paraffin and cut 5 \u03bcm sections with a microtome for antibody staining.",
+        "Incubate sections in xylene for 3 minutes (repeat 3 times).",
+        "Incubate sections in 100% ethanol for 2 minutes (repeat twice).",
+        "Hydrate sections by placing slides in 95% ethanol for 2 minutes (repeat twice), then 70% ethanol for 2 minutes (repeat twice), and finally 50% ethanol for 2 minutes (repeat twice) and 30% ethanol for 2 minutes (repeat twice).",
+        "Transfer sections to distilled water.",
+        "Block sections with normal rabbit serum for 1 hour.",
+        "Dilute rabbit polyclonal antibody to IL-27 in immunolabeling buffer at concentrations of 5 \u03bcg/ml and 10 \u03bcg/ml (stock antibody = 500 ug/ml, working dilutions of 1:50 and 1:100).",
+        "Incubate sections in diluted primary antibody overnight at 4\u00b0C in a humidified chamber.",
+        "Rinse sections in immunolabeling buffer three times.",
+        "Incubate in Alexa 568 conjugated goat anti-rabbit secondary antibody containing DAPI (1 \u03bcg/ml) for 1 hour at room temperature in an opaque chamber.",
+        "Wash sections in immunolabeling buffer (3 times).",
+        "Mount sections in anti-fading agent and cover with a coverslip.",
+        "Examine sections on a Leica SP2 laser scanning confocal microscope."
+    ]
+}

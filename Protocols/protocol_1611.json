@@ -1,0 +1,19 @@
+{
+    "id": 2663,
+    "origin_website": "Cell",
+    "title": "Software for segmenting and quantifying calcium signals using multi-scale generative adversarial networks",
+    "subjectAreas": [
+        "Computer Sciences",
+        "Cell Biology",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Prepare statistical plots for quantified results.",
+        "Display the number of fluorescence segmented events in each map.",
+        "Show event coordinates on the map for left and top positions.",
+        "Calculate the spatial spread of events (travel distance).",
+        "Determine the duration of events (travel time).",
+        "Measure the area occupied by events in a map.",
+        "Calculate the interval between consecutive events."
+    ]
+}

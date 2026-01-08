@@ -1,0 +1,43 @@
+{
+    "id": 3685,
+    "origin_website": "Cell",
+    "title": "Quantitative in vivo assessment of amyloid-beta phagocytic capacity in an Alzheimer\u2019s disease mouse model",
+    "subjectAreas": [
+        "Neuroscience",
+        "Cell Isolation",
+        "Model Organisms",
+        "Flow Cytometry"
+    ],
+    "protocol": [
+        "Warm the MeX04 working solution (2 mg/mL) in a 37\u00b0C water bath for 5 min before injection.",
+        "Weigh the AD transgenic mice and intraperitoneally inject MeX04 working solution at 10 mg/kg.",
+        "Euthanize mice using isoflurane 3 hours after MeX04 injection.",
+        "Perfuse mice with 20 mL ice-cold PBS.",
+        "Dissect the region(s) of interest in ice-cold PBS.",
+        "Prepare enzyme dissociation solution by adding 0.004 g l-cysteine, 100 U papain, and 700 U DNaseI into 20 mL working aCSF solution.",
+        "Prewarm the enzyme dissociation solution in a 37\u00b0C water bath for 5 minutes.",
+        "Mince the brain tissue into small pieces on a petri dish.",
+        "Transfer minced brain tissue to a 50-mL falcon tube with 20 mL enzyme dissociation solution.",
+        "Incubate in a 37\u00b0C water bath with constant shaking for 10 minutes.",
+        "Very gently pass the tissue through a 20-gauge needle 3 times.",
+        "Return the tubes to the 37\u00b0C water bath for an additional 30 minutes of digestion.",
+        "Pellet the cells by centrifugation at 800 \u00d7 g at 4\u00b0C for 5 minutes.",
+        "Aspirate the supernatant.",
+        "Resuspend the cell pellet in 7 mL working aCSF solution.",
+        "Add 3 mL isotonic Percoll and mix well by inverting 10 times.",
+        "Gently add 2 mL working aCSF on top of the mixture containing 30% Percoll.",
+        "Centrifuge at 800 \u00d7 g at 4\u00b0C for 15 minutes with the slowest acceleration and zero deceleration.",
+        "Use a P1000 pipette to gently remove the myelin debris layer trapped between the aCSF and 30% Percoll.",
+        "Aspirate all supernatant.",
+        "Resuspend the cell pellet in 200 \u03bcl of ice-cold DMEM/F12 with 10% heat-inactivated FBS.",
+        "Aliquot 5 \u03bcl cell suspension and inspect cell viability, number, and singlet by hemocytometer.",
+        "Stain the cell suspension (200 \u03bcl) with CD11b-APC (1:200) and CD45-FITC (1:200) for 45 min at 4\u00b0C with rotation.",
+        "Prepare unstained controls using AD transgenic model mice and non-transgenic wild-type mice to serve as fluorescence-minus-one controls.",
+        "Wash the cells with 1 ml DMEM/F12 + 10% FBS and centrifuge at 800 \u00d7 g at 4\u00b0C for 5 min.",
+        "Resuspend the cells in 500 \u03bcl DMEM/F12 + 10% FBS.",
+        "Use a non-transgenic mice brain sample to set a negative signal for MeX04 and an unstained control sample to set a negative signal for CD11b and CD45.",
+        "Proceed with the samples and record the MeX04 signals of 10,000 microglia.",
+        "Analyze the data using FlowJo to obtain the proportion of MeX04+ microglia (proportion of A\u03b2 phagocytic microglia).",
+        "Determine the mean fluorescence intensity of MeX04 (A\u03b2 phagocytic capacity)."
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": 10090,
+    "origin_website": "Jove",
+    "title": "Synthesis of Graphene-Hydroxyapatite Nanocomposites for Potential Use in Bone Tissue Engineering",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Synthesize pristine nHAP using 50 mL reaction mixture containing 1 M Ca(NO3)2\u00b74H2O and 0.67 M (NH4)H2PO4.",
+        "Add NH4OH dropwise to maintain pH around 10.",
+        "Agitate the reaction mixture by ultrasound irradiation for 30 min at 500 W power and 20 kHz frequency.",
+        "Allow the solution to mature for 120 h at room temperature until precipitate settles out.",
+        "Recover nHAP by centrifugation at 1398 x g for 5 min at room temperature.",
+        "Wash the precipitate with deionized water 3 times.",
+        "Lyophilize the precipitate for 48 hours.",
+        "Store dry powder at 4 \u00b0C.",
+        "Dissolve 5 mg of GNRs in a mixture of 1 M calcium nitrate tetrahydrate and 0.67 M diammonium hydrogen phosphate to a final volume of 50 mL.",
+        "Add NH4OH dropwise during the reaction to maintain pH around 10.",
+        "Agitate the resulting mixture by ultrasound irradiation for 30 min at 500 W power and 20 kHz frequency.",
+        "Suspend commercially available nHAP at a concentration of 5 mg/mL in 50 mL of DI water supplemented with 5 mg of GNRs.",
+        "Agitate the resulting mixture by ultrasonic irradiation for 30 min.",
+        "Leave the mixture undisturbed for 120 h at room temperature until maturation.",
+        "Recover the white precipitate of the resulting GNR/nHAP by centrifugation at 1398 x g for 5 min at room temperature.",
+        "Wash the sample 3 times using DI water.",
+        "Lyophilize the washed sample for 48 h.",
+        "Store the dry powder at 4 \u00b0C for further use.",
+        "Perform Fourier transform infrared spectroscopy for neat samples at wavenumbers of 500-4000 cm\u22121.",
+        "Conduct powder X-ray diffraction analysis using an X-ray wavelength of 1.5406 \u00c5 and current and voltage settings of 40 mA and 40 kV, respectively.",
+        "Analyze the samples with 2\u03b8 ranging from 20\u00b0 to 90\u00b0 for powder XRD.",
+        "Evaluate the percent loading of GNR in the nanocomposite using thermogravimetric analysis.",
+        "Heat the samples from room temperature to 1000 \u00b0C at a rate of 10 \u00b0C/min under nitrogen flow during TGA."
+    ]
+}

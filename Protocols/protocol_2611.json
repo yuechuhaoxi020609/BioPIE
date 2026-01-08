@@ -1,0 +1,35 @@
+{
+    "id": 10425,
+    "origin_website": "Jove",
+    "title": "In Vivo Two-Color 2-Photon Imaging of Genetically-Tagged Reporter Cells in the Skin",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Prepare a 5 \u03bcg/20 \u03bcL solution of lipopolysaccharide-FITC in sterile 1x PBS (pH 7.4).",
+        "Vortex the stock solution at medium intensity for at least 30 seconds to ensure homogenous mixing.",
+        "Do not place LPS into a glass container; use siliconized microcentrifuge tubes if possible.",
+        "Keep the solution on ice until use.",
+        "Set up the multiphoton system for two-color imaging.",
+        "Use two separate excitation lasers, a GFP/RFP filter cube set, and a 25x (1.05 NA) water-immersion objective.",
+        "Place a stereotaxic apparatus on the stage of the multiphoton microscope.",
+        "Connect the stereotaxic apparatus to an anesthesia delivery machine.",
+        "Place a piece of matte black paper on the surface of the apparatus as a connection point for the mouse paw.",
+        "Select the resonant scanner with a fixed scan area of 512 \u03bcm x 512 \u03bcm.",
+        "Place the mouse into the induction chamber of the anesthesia delivery system.",
+        "Use 5% isoflurane at a 2 L/min flow rate of oxygen to place the mouse under deep anesthesia.",
+        "Transfer the mouse to the stereotaxic apparatus with access to a nose cone.",
+        "Reduce the isoflurane to 1.5%-2%.",
+        "Affix the hind paw to a piece of black paper using black tape proximal and distal to the area of interest.",
+        "Ensure the plantar surface of the paw is unobstructed and facing up towards the objective.",
+        "Place sterile water-based lubricant on the plantar surface of the paw.",
+        "Touch the objective to the lubricant to create a column of liquid between the paw and the objective.",
+        "Use FITC excitation light to focus into the dermal layer of the paw.",
+        "Ensure tdTomato-tagged fibroblasts are visualized before continuing.",
+        "Image the area of cells located just below the plantar surface of the hind paw with both the 930 nm and 1100 nm-tuned lasers.",
+        "Acquire a 15-minute time-lapse of about 5-10 z-slices at approximately 1 \u00b5m per slice.",
+        "Perform an intraplantar injection of 5 \u00b5g/20 \u00b5L LPS-FITC on the mouse\u2019s hind paw using a 25 \u00b5L glass Hamilton syringe and 30G needle.",
+        "Image an area of cells located just below the plantar surface of the hind paw with both the 930 nm and 1100 nm-tuned lasers after injection.",
+        "Acquire a 60-120 minute time-lapse of about 5-10 z-slices at approximately 1 \u00b5m per slice to identify uptake of LPS-FITC by cells."
+    ]
+}

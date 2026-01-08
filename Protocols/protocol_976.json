@@ -1,0 +1,36 @@
+{
+    "id": 1007,
+    "origin_website": "Nature",
+    "title": "Fast and efficient genetic transformation of sugar beet by _Agrobacterium rhizogenes_",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Place around 100 seeds into a sterile 250 ml Erlenmeyer flask.",
+        "Add 50 ml of hypochlorite/H2O supplemented with Tween-20 while gently mixing and leave for 5 min.",
+        "Discard hypochlorite/H2O and wash the seeds 4 times with excess (100 ml) of sterile water.",
+        "Dry seeds on a sterilized paper towel for 5 min.",
+        "Place the sterilized sugar beet seeds, 2 cm apart (around 10 seeds per plate), with forceps into plates containing solid germination medium.",
+        "Seal the plates with parafilm and incubate for 7 days in growth chamber adjusted at 21-23 \u00baC.",
+        "Streak bacteria from glycerol stock onto the surface of LB plates containing the appropriate antibiotics and incubate at 28 \u00baC for 2 days.",
+        "Pick a single colony and suspend in 1 ml liquid LB medium supplemented with antibiotics and incubate with gentle agitation at 28 \u00baC overnight.",
+        "Spread 200 \u03bcl of the suspension onto two fresh plates containing the appropriate antibiotics and incubate at 28 \u00baC overnight.",
+        "After 7 days, select healthy, well-developed seedlings for root transformation.",
+        "Cut the selected seedlings at the hypocotyl using a sterile blade.",
+        "Remove the existing root system from the seedling.",
+        "Holding the seedling with forceps, dip the wounded surface of the hypocotyl into the bacterial layer.",
+        "Place 5-7 inoculated seedlings on square petri dishes containing co-cultivation medium, half-covered with sterile filter paper.",
+        "Cover the wounded surface of each plant with a sterile filter paper.",
+        "Seal the petri dishes with parafilm and place them vertically in the growth chamber for 3 days under a 16/8 h photoperiod at 21-23 \u00b0C.",
+        "Transfer the seedlings to square petri dishes containing emergence medium supplemented with cefotaxime (250 \u03bcg m\\(^{-1}\\)) and appropriate antibiotics, half-covered with filter paper.",
+        "Cover the lower part of the seedlings with sterile filter paper.",
+        "Seal the dishes with parafilm and place them vertically in the growth chamber.",
+        "Monitor regularly for the emergence of hairy roots.",
+        "After 10 days, transfer the seedlings onto fresh emergence medium, half-covered with filter paper.",
+        "At this time point, ensure that the hairy roots are approximately 4-6 cm in length.",
+        "Seedlings with well-developed hairy root systems can be directly used for functional genomics studies.",
+        "Maintain seedlings in liquid MS medium under antibiotic selection.",
+        "Transfer seedlings to pots and acclimatize plants by gradually decreasing humidity.",
+        "Establish an in vitro hairy root culture through clonal propagation."
+    ]
+}

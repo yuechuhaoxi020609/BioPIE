@@ -1,0 +1,31 @@
+{
+    "id": 42,
+    "origin_website": "Nature",
+    "title": "_In vitro class_ switching staining for flow cytometry",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Harvest splenocytes by grinding spleens in RPMI-1640 medium between two frosted microscope slides.",
+        "Spin cells at 1000 RPM for 5 minutes.",
+        "Remove erythrocytes by adding one equivalent volume of ACK Lysing Buffer to the remaining pellet.",
+        "Gently resuspend and swirl tube for 1 minute.",
+        "Fill tube with 10 ml of RPMI-1640, centrifuge at 1000 RPM for 5 minutes.",
+        "Resuspend in 10 ml of RPMI-1640.",
+        "Filter through a 70 \u03bcm nylon cell strainer.",
+        "Centrifuge at 1000 RPM for 5 minutes.",
+        "Resuspend 1 \u00d7 10^7 cells in 500 \u03bcl of FACS buffer.",
+        "Obtain B cells by CD43 negative purification using anti-CD43 magnetic beads.",
+        "Dilute CD43-negative B cells to a concentration of 5\u00d710^5 cells/ml in B cell complete medium.",
+        "Incubate 5\u00d710^5 B cells in the presence of 10 \u03bcg/ml of anti-CD40 (clone 3/23) and 10 ng/ml of recombinant mouse IL-4 for IgG1 analysis.",
+        "Incubate for 4 days at 37\u00b0C in a humidified 5% CO2 incubator.",
+        "Wash cells with FACS buffer.",
+        "Preincubate cells on ice for 10 minutes in the presence of Fc blocker (anti-CD16/CD32).",
+        "Stain cells with biotinylated anti-IgG1 and anti-IgG2a-2b antibodies at a dilution of 1:200.",
+        "Incubate on ice for 20 minutes.",
+        "Wash cells twice with FACS buffer.",
+        "Stain cells with the chosen streptavidin conjugate.",
+        "Wash cells twice with FACS buffer.",
+        "Analyze stained cells by flow cytometry."
+    ]
+}

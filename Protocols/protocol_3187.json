@@ -1,0 +1,18 @@
+{
+    "id": 1021,
+    "origin_website": "Nature",
+    "title": "Finding set of \"core genes\" for Nematoda, Trematoda and Cestoda",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Cluster the full proteomes of twelve nematode species, four trematode species, one cestode and several eukaryotic outgroups using OrthoMCL.",
+        "Define NOGs as clusters containing at least one member from each of the twelve included nematode species.",
+        "Define TROGs as clusters containing at least one member from each of the four included trematode species.",
+        "Build an HMM for each cluster using HMMER v2.3.2.",
+        "Cluster the full proteomes of four cestode species and several eukaryotic outgroups using OrthoMCL.",
+        "Define CEOGs as groups containing at least one member from each of the four included cestode species.",
+        "Build an HMM for each clustering using HMMER v2.3.2."
+    ]
+}

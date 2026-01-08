@@ -1,0 +1,33 @@
+{
+    "id": 1197,
+    "origin_website": "Nature",
+    "title": "<p>Chemiluminescence imaging of cells (CLIC)</p>",
+    "subjectAreas": [
+        "Cell Biology",
+        "Chemical Biology",
+        "Microbiology",
+        "Molecular Biology",
+        "Cancer",
+        "Immunology"
+    ],
+    "protocol": [
+        "Culture cells in 6, 12, 24, or 96-well transparent cell culture plates.",
+        "Fix cells with freshly prepared 4% paraformaldehyde (PFA) in phosphate buffered saline (PBS) for 30-60 minutes at room temperature.",
+        "Wash cells twice in Tris buffered saline (TBS).",
+        "Incubate cells with a blocking solution containing 5% [w/v] bovine serum albumin (BSA), 5% serum from the same species as the secondary antibody, and an appropriate permeabilizing agent for 30-60 minutes at room temperature.",
+        "Incubate cells with primary antibodies in blocking solution overnight at 4\u00b0C.",
+        "Wash cells 3-5 times, each wash lasting 3 minutes in TBS on a shaker.",
+        "Incubate cells with HRP-conjugated secondary antibodies in blocking solution for 2-4 hours at room temperature.",
+        "Wash cells 3-5 times, each wash lasting 3 minutes in TBS on a shaker.",
+        "Incubate cells with enhanced chemiluminescence (ECL) substrate for 2-5 minutes.",
+        "Place cells in ChemiDoc MP imaging system and take images using the Chemiluminescence application Chemi Hi Sensitivity and the auto exposure option.",
+        "Wash cells twice in TBS to remove ECL substrate after imaging.",
+        "Keep cells in TBS at 4\u00b0C for future stripping and re-probing if necessary.",
+        "Choose an area of interest (AOI) in Fiji/ImageJ.",
+        "Set the AOI as a circular selection approximately 60% of the size of the well, placed centrally to avoid edges.",
+        "Quantify the signal in each well using the Measure command under the Analyze tab.",
+        "Drag the AOI to the next well to maintain constant size.",
+        "Repeat the process for each well.",
+        "Record the Integrated density values for each well."
+    ]
+}

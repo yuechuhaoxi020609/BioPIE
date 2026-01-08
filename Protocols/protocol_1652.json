@@ -1,0 +1,18 @@
+{
+    "id": 1332,
+    "origin_website": "Nature",
+    "title": "<p>A reliability test for its efficacy in Smartphone application for Computing joint range of motion: A Research Protocol</p>",
+    "subjectAreas": [
+        "Biotechnology"
+    ],
+    "protocol": [
+        "Explain the study procedure and purpose to each participant before commencing the investigation.",
+        "Ask participants to sign formal consent for participation in the study.",
+        "Recruit a total of 100 subjects (N=100) between the age of 20 to 60 years using simple random sampling technique.",
+        "Choose the left knee of all subjects for determining range of motion (ROM).",
+        "Measure knee flexion movement three times with two methods by each physiotherapist for 100 subjects.",
+        "Record all data in datasheets.",
+        "Use Universal Goniometer as a clinical standard technique.",
+        "Ensure that the 3 physiotherapists are unaware of readings taken by other therapists."
+    ]
+}

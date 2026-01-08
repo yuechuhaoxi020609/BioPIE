@@ -1,0 +1,34 @@
+{
+    "id": 1114,
+    "origin_website": "Nature",
+    "title": "High-Throughput Kinase Activity Mapping \\(HT-KAM) system: biochemical assay",
+    "subjectAreas": [
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Chemical Biology",
+        "Computational Biology And Bioinformatics",
+        "Mathematics And Computing"
+    ],
+    "protocol": [
+        "Place 10 cm petri dish on ice where cells are cultured.",
+        "Wash cells profusely three times with cold PBS, keeping cell culture dishes on ice and vacuum-sucking the extra volume of PBS at the last wash.",
+        "Add between 750 \u03bcL and 1.5 mL of freshly prepared, cold Cell Lysis Buffer to the petri dish.",
+        "Scrape cells using a regular flat tip scraper while maintaining them on ice.",
+        "Tilt the petri dish and leave for 5 min with cell suspension in lysis buffer/inhibitor cocktail (keep on ice).",
+        "Collect cell lysates in eppendorf centrifuge tubes.",
+        "Spin for 15 minutes at 14,000 rpm at 4\u00b0C.",
+        "Transfer the supernatant into a new tube without collecting any pelleted debris and aliquot 50 to 100 \u03bcL per eppendorf.",
+        "Freeze aliquoted samples at -80\u00b0C.",
+        "Flash-freeze resected tissue and store at -80\u00b0C until use.",
+        "On the day of protein extraction, pulverize flash-frozen tissues while keeping them on ice and collect in tubes.",
+        "Add between 750 \u03bcL and 1.5 mL of freshly prepared cold Cell Lysis Buffer to the pulverized tissue and follow subsequent steps as detailed for cultured cells.",
+        "Use a liquid dispensing instrument to aliquot peptide + sample + ATP + buffer solutions in 384-well plates.",
+        "Keep all reagents on ice until enzymatic reactions are started.",
+        "Automate the dispensing of an 8 \u03bcL reaction mixture per well in 384-well plates, containing kinase assay buffer, 250 nM ATP, 200 \u03bcg/mL 11-mer peptide, and samples.",
+        "Maintain all 384-well plates on cold blocks during dispensing steps.",
+        "Incubate the 384-well plates for 30 minutes at 30\u00b0C after dispensing is completed.",
+        "Dispense Kinase-Glo revealing reagent using an automated liquid dispensing instrument after enzymatic reactions are completed.",
+        "Measure luminescence using Synergy 2 Multi-Mode Microplate Reader from BioTek."
+    ]
+}

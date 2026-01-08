@@ -1,0 +1,30 @@
+{
+    "id": 738,
+    "origin_website": "Nature",
+    "title": "Preparation of cultured cells for transmission electron microscope",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Pre-warm fixative solution to 37\u00b0C.",
+        "Remove no more than two dishes at a time from incubator and pour off media.",
+        "Add glutaraldehyde fixative solution. Leave 20 minutes at room temperature.",
+        "Rinse twice with PBS.",
+        "Add osmium tetroxide solution and incubate for 30 minutes.",
+        "Rinse once with PBS.",
+        "Put on 30% hexylene glycol with swirling, leave for 15 minutes.",
+        "Put on 50% hexylene glycol with swirling, leave for 15 minutes.",
+        "Put on 70% hexylene glycol with swirling, leave for 15 minutes.",
+        "Put on 90% hexylene glycol with swirling, leave for 15 minutes.",
+        "Wash with 100% hexylene glycol with swirling, three times, each for 10 minutes.",
+        "Combine resin and hexylene glycol at a ratio of 1:2, add to dish, mix on rotor for 2 hours.",
+        "Combine resin and hexylene glycol at a ratio of 2:1, add to dish, mix on rotor for 2 hours.",
+        "Replace with 100% resin and place on rotor to mix for 4-6 hours.",
+        "Replace with fresh 100% resin and mix as above.",
+        "Replace with 100% resin, adjust level to ~1-2 mm depth, and bake for 8-12 hours.",
+        "Break dish with hammer, peel dish pieces away from cast containing sample.",
+        "Bake epoxy cast for an additional 16-24 hours.",
+        "Cut small pieces from the epoxy cast making note of the side with the cells.",
+        "Glue pieces to blocks for sectioning using commercial 5-minute epoxy glue."
+    ]
+}

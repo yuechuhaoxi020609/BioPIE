@@ -1,0 +1,39 @@
+{
+    "id": 11267,
+    "origin_website": "Jove",
+    "title": "Formulation of Diblock Polymeric Nanoparticles through Nanoprecipitation Technique",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Dissolve PLGA-carboxylate in solvent at a concentration of 5 mM with gentle stirring.",
+        "Dissolve NHS and EDC in the PLGA solution at a concentration of 25 mM each, adding them in a stoichiometric excess of 5 times compared to PLGA.",
+        "Stir the PLGA-carboxylate solution containing EDC and NHS gently for about 1 hour to convert it into PLGA-NHS.",
+        "Add approximately 10 times volume excess of methanol to precipitate out the PLGA-NHS from the reaction mixture.",
+        "Centrifuge the solution at 2000 x g, discard the supernatant, and repeat washing with methanol at least three times.",
+        "Dry the PLGA-NHS pellet under vacuum for 30 minutes to remove traces of the washing solution.",
+        "Redissolve the PLGA-NHS pellet in the same solvent at a concentration of 5 mM.",
+        "Add heterobifunctional PEG (amine-PEG-carboxylate) to the PLGA solution at a concentration of 5 mM, maintaining a stoichiometric ratio of 1:1.",
+        "Incubate the mixture solution with constant stirring for 24 hours.",
+        "After 24 hours, add methanol in excess to precipitate the PLGA-b-PEG block copolymer out of the reaction mixture.",
+        "Repeat washing and centrifugation process three times to remove all excess unreacted PEG.",
+        "Dry the PLGA-b-PEG block copolymer under vacuum pressure.",
+        "Dissolve PLGA-b-PEG block copolymers in a solvent suitable for the hydrophobic drug or cargo being encapsulated.",
+        "Add polymer/drug mixture dropwise to 3-5 volumes of stirring water, achieving a final polymer concentration around 3 mg/mL.",
+        "Stir for 2 hours under reduced pressure to allow nanoparticles to form by self-assembly and remove traces of the organic solvent.",
+        "Concentrate nanoparticles by centrifugation at 2,700xg for 10 min using an Amicon filter (MWCO 20KDa).",
+        "Wash and reconstitute nanoparticles in PBS.",
+        "Characterize PLGA-b-PEG using a 400 MHz 1H nuclear magnetic resonance (NMR).",
+        "Verify molecular weight of the formed product by Gel permeation chromatography (GPC).",
+        "Measure particle size and distribution by dynamic light scattering.",
+        "Confirm nanoparticle structure and size distribution with transition electron microscopy (TEM).",
+        "Quantify surface zeta potential by ZetaPALS.",
+        "Determine drug/cargo loading efficiency using standard HPLC.",
+        "Dissolve particles in organic solvent.",
+        "Perform HPLC to measure the absorbance of the drug/cargo.",
+        "Prepare 30 Slide-A-Lyzer MINI Dialysis units with known fixed quantities of nanoparticles.",
+        "Collect content from dialysis unit at fixed time intervals.",
+        "Add equal volume of organic solvent to dissolved nanoparticles.",
+        "Perform HPLC on samples to quantify drug/cargo content."
+    ]
+}

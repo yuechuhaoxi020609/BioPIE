@@ -1,0 +1,38 @@
+{
+    "id": 995,
+    "origin_website": "Nature",
+    "title": "A simple method for precisely controlling the confinement of cells in culture",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Polymerize a PDMS layer in a glass-bottom dish.",
+        "Pipette 1.8 mL of PDMS into each well of a 6-well glass bottom plate using a serological pipette.",
+        "Add 200 \u00b5L curing agent to the PDMS in each well and mix thoroughly by swirling with a 1 mL pipette tip.",
+        "Place 6-well plate with PDMS into a vacuum desiccator for approximately 1 hour to remove air bubbles, if desired.",
+        "Place PDMS in a 37\u00b0C incubator for at least 12 hours to allow complete curing.",
+        "Cut a small hole measuring 1 cm x 1 cm for insertion of cells and beads under the cured PDMS layer near one edge using a scalpel.",
+        "Do not cut all the way to the edge to ensure the attachment of the PDMS layer to the plastic wall remains intact, critical for bead retention against the coverslip.",
+        "Prepare tissue culture media containing BSA.",
+        "Coat the prepared PDMS and glass with the BSA-containing tissue culture media.",
+        "Prepare DMEM containing 1X GlutaMAX, 1X Antibiotic-Antimycotic, 20 mM Hepes pH 7.4 and 1% Bovine Serum Albumin (BSA) and sterile filter.",
+        "Pipette 3 mL of media containing BSA on top of the PDMS.",
+        "Coat the underside of the PDMS layer and the surface of glass coverslip with the media containing BSA.",
+        "Spread media with BSA underneath the PDMA layer by applying a 1 mL pipette tip to the wall of cut edge of the PDMS and gently lifting the PDMS off the coverslip, allowing the solution to enter the space between.",
+        "Gently remove the pipette tip and let the PDMS set down.",
+        "Incubate overnight in tissue culture incubator.",
+        "Remove BSA-containing media thoroughly.",
+        "Vacuum off media containing BSA.",
+        "Prepare complete media containing cells and spacer beads.",
+        "Mix recently trypsinized cells (250,000 to 1 million) with 2 \u00b5L beads from a recently vortexed 10% slurry in ~200 \u00b5L of complete media (DMEM containing 10% FBS, 1X GlutaMAX, 1X Antibiotic-Antimycotic and 20 mM Hepes pH 7.4).",
+        "Pipette the mixture into the square opening in PDMS.",
+        "Load cells and beads between PDMS and glass.",
+        "Position cells and beads underneath the PDMS layer by applying a 1 mL pipette to the wall of the cut in the PDMS.",
+        "Gently lift the PDMS off the coverslip, allowing the cell/bead solution to spread underneath the PDMS.",
+        "Remove the pipette tip gently and let the PDMS set down.",
+        "Fill chamber with media and image.",
+        "Add 3 ml of complete media on top of PDMS, beads, and cells.",
+        "Allow cells to recover from plating for 30 \u2013 60 min in a tissue culture incubator before beginning imaging."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 617,
+    "origin_website": "Nature",
+    "title": "Identification and detection of murine leukemia blasts by flow cytometry",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Harvest bone marrow cells by flushing femur with ice-cold bone marrow harvesting medium.",
+        "Filter the suspended cells through 70um cell strainer while keeping cells on ice.",
+        "Count the cell concentration.",
+        "Centrifuge the filtered cells at 1500rpm for 5-10 min.",
+        "Resuspend the cells with HBSS+ staining buffer (~2x10^7 cells/mL if possible).",
+        "Aliquot 100ul single suspension cells for staining.",
+        "Prepare controls including unstained sample and samples stained with single color fluorescence antibody for FACS compensation.",
+        "Add 2uL CD45 antibody and other antibodies to 100uL cells and slowly rock in 4\u00b0C for 15 min.",
+        "Spin down the cells at 1500rpm for 7 min and resuspend cell pellets with 200ul ice-cold HBSS+.",
+        "Add 5-7ul 7-AAD solution into 200ul cells to exclude dead cells during FACS analysis.",
+        "Adjust voltage for FACS analysis.",
+        "Run compensation for FACS analysis.",
+        "Run samples and collect FACS data.",
+        "Analyze your FACS data on CD45-SSC plots."
+    ]
+}

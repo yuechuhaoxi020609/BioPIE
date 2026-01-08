@@ -1,0 +1,37 @@
+{
+    "id": 1138,
+    "origin_website": "Nature",
+    "title": "Cell-attached capacitance measurements at release sites of a central nerve terminal",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Prepare parasigittal brainstem slices 200 \u03bcm thick from 6-8 days old Wistar rats using a vibratome.",
+        "Position brain slices in the recording chamber.",
+        "Select a large calyx approximately 1-2 \u03bcm in thickness on the surface of the slice.",
+        "Use a large pipette 1-2 M\u03a9 to form a loose patch on the postsynaptic membrane.",
+        "Suck the postsynaptic neuronal cell body into the pipette by applying strong suction to the pipette.",
+        "Pull away the pipette, exposing the calyx membrane that was originally opposing the postsynaptic neuron.",
+        "Use a polished pipette 4-6 M\u03a9 heavily coated with sylgard near the tip to form a cell-attached patch at the exposed presynaptic membrane.",
+        "After forming a high resistance (>10 G\u03a9) seal, stop the perfusion system.",
+        "Lower the bath solution level to just above the slice, which helps to reduce noise.",
+        "Make cell-attached capacitance measurements with an SR830 2-phase lock-in amplifier coupled to an EPC-8 patch-clamp amplifier.",
+        "Superimpose a 20 KHz sine wave (rms: 200 mV) on a command potential of 0 mV.",
+        "Low-pass filter the in-phase and out-of-phase current outputs at 0.1-1 ms (24 dB).",
+        "Digitize the filtered signals at 16 bits.",
+        "Read the digitized signals into a Macintosh computer.",
+        "Set the gain of an EPC-8 amplifier to 50 mV/pA.",
+        "Adjust C<sub>slow</sub> and G<sub>slow</sub> to 0.2 pF and 0.2 \u03bcS, respectively.",
+        "Minimize the sinusoidal current by adjusting C<sub>fast</sub> and G<sub>fast</sub>.",
+        "Connect the current output of the EPC-8 amplifier to the lock-in amplifier input through a 10:1 voltage divider.",
+        "Adjust the initial phase setting of the lock-in amplifier to null changes in Re trace induced by dithering a 100-fF calibration installed in the capacitance compensation circuit.",
+        "Apply gentle suction of the membrane via the pipette every 100-200 seconds during each patch of cell-attached recordings.",
+        "Use the transient capacitance increase caused by the gentle suction to correct phase errors offline.",
+        "After the experiment, re-compute Re and Im traces with the phase shift varied in 2\u00b0 increments until the projection in the Re trace during a gentle suction is eliminated.",
+        "Adjust the phase correction to eliminate the visible persistent change in Re trace associated with non-flicker up-steps in the Im trace of the same patch.",
+        "Occasionally observe flickers in Re trace without accompanying changes in Im trace, which might reflect openings and closings of a single ion channel."
+    ]
+}

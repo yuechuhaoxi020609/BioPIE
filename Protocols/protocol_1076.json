@@ -1,0 +1,26 @@
+{
+    "id": 3005,
+    "origin_website": "Cell",
+    "title": "Deep texture representation analysis for histopathological images",
+    "subjectAreas": [
+        "Computer Sciences",
+        "Microscopy",
+        "Cancer"
+    ],
+    "protocol": [
+        "Select regions that represent the histological characteristics of the variables for analysis.",
+        "Ensure the selected ROI size is sufficiently large to accommodate at least one image patch in pixel dimensions.",
+        "Avoid areas with artifacts such as folded or torn tissue.",
+        "Exclude areas with non-uniform staining, excessive noise, normal tissues, and largely white areas without any tissues.",
+        "Select a histologically uniform area for applications described here.",
+        "Import os in JupyterLab.",
+        "Import glob in JupyterLab.",
+        "Set WSI_dir to '/directory_of_WSI/'.",
+        "Set Patch_dir to '/directory_of_extracted_patch/'.",
+        "Use glob.glob(os.path.join(WSI_dir, \"\u2217/\u2217/\u2217.ndpi\")) to get all WSI files in the chosen directory.",
+        "Set src_size to 1024.",
+        "Set patch_size to 256.",
+        "Set ann_type to \u201cqupath\u201d.",
+        "Open a file named \"histopatch.sh\" for writing."
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 541,
+    "origin_website": "Nature",
+    "title": "Vascular smooth muscle cells differentiation from hPSCs",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Resuspend 10mg of CHIR-99021 in 5ml DMSO.",
+        "Store the CHIR-99021 solution at -80\u00b0C or -20\u00b0C for a year.",
+        "Resuspend 2mg of CP21R in 630\u03bcl DMSO.",
+        "Store the CP21R solution at -80\u00b0C or -20\u00b0C for a year.",
+        "Resuspend 10ug of BMP4 in 4ml of 5-10mM citric acid pH 3.",
+        "Store the BMP4 solution at -80\u00b0C or -20\u00b0C for a year.",
+        "Dissolve 100\u03bcg of VEGF165 in 1ml sterile water.",
+        "Store the VEGF165 solution at -80\u00b0C or -20\u00b0C for a year.",
+        "Dissolve 10mg of forskolin in 2.436ml DMSO.",
+        "Store the forskolin solution at -20\u00b0C for a month.",
+        "Dissolve 100\u03bcg of Activin A in 1ml sterile water.",
+        "Store the Activin A solution at -80\u00b0C or -20\u00b0C for a year.",
+        "Dissolve 100\u03bcg of PDGF-BB in 1ml sterile water.",
+        "Store the PDGF-BB solution at -80\u00b0C or -20\u00b0C for a year.",
+        "Coat one T175 flask with growth factor reduced matrigel by thawing it on ice and diluting it 1:30.",
+        "Incubate the flasks at room temperature for 1 hour.",
+        "Aspirate the matrigel, wash once with PBS, and add 20 ml of pre-warmed mTeSR1 + ROCK-Inhibitor (final concentration 10 \u00b5M).",
+        "Aspirate growth medium from an 80% confluent 10 cm plate.",
+        "Wash with 10 ml of pre-warmed PBS (Ca\u00b2\u207a and Mg\u00b2\u207a free).",
+        "Add 3 ml of pre-warmed Accutase and incubate at 37\u00b0C for 3-7 minutes.",
+        "Check cells' detachment under a microscope.",
+        "Add 3 ml of pre-warmed mTeSR1.",
+        "Transfer cells to a 15 ml Falcon tube.",
+        "Count the cells.",
+        "Centrifuge the suspension at 1000 rpm (210 g) for 5 minutes.",
+        "Aspirate supernatant and resuspend the cell pellet in 10 ml of pre-warmed mTeSR1 + ROCK-Inhibitor (final concentration 10 \u00b5M).",
+        "Seed the cells at 37,000 to 47,000 hPSCs per cm\u00b2.",
+        "Incubate the cells at 37\u00b0C with 5% CO\u2082 overnight.",
+        "Replace media with pre-warmed N2B27 Medium supplemented with 6-8 \u00b5M CHIR-99021 or 1 \u00b5M CP21 + 25 ng/ml hBMP4 for 3 days without medium change.",
+        "Replace Media with N2B27 Medium supplemented with 10 ng/ml PDGF-BB and 2 ng/ml ActivinA every day for two days.",
+        "Seed 30,000 cells/cm\u00b2 in synthetic condition on gelatin-coated wells using N2B27 + PDGF-BB (10 ng/ml).",
+        "Seed 30,000 cells/cm\u00b2 in contractile condition on collagen-coated wells using N2B27 + ActivinA (2 ng/ml) + Heparin (1:1000 final concentration 2 \u00b5g/ml)."
+    ]
+}

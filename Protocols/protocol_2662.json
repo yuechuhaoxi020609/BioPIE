@@ -1,0 +1,35 @@
+{
+    "id": 39,
+    "origin_website": "Nature",
+    "title": "5-bromo-2-deoxyuridine \\(BrdU) and 7-amino-actinomycin \\(7-AAD) staining for cell proliferation assay",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Inject 1 mg of BrdU, dissolved in 300 \u03bcl PBS, into the peritoneal cavity 12 hours before analysis.",
+        "Harvest splenocytes by grinding spleens in RPMI-1640 medium between two frosted microscope slides.",
+        "Spin cells at 1000 RPM for 5 minutes.",
+        "Remove erythrocytes by adding one equivalent volume of ACK Lysing Buffer to the remaining pellet.",
+        "Gently resuspend, swirl tube for 1 minute.",
+        "Fill tube with 10 ml of RPMI-1640, centrifuge at 1000 RPM for 5 minutes.",
+        "Resuspend in 10 ml of RPMI-1640.",
+        "Filter through a 70 \u03bcm nylon cell strainer.",
+        "Centrifuge at 1000 RPM for 5 minutes.",
+        "Resuspend 1 x 10^7 cells in 500 \u03bcl of FACS buffer.",
+        "Obtain B cells by CD43 negative purification using anti-CD43 magnetic beads.",
+        "Wash and resuspend 1x10^6 splenic B cells in 500 \u03bcl of 0.5% paraformaldehyde in PBS.",
+        "Incubate on ice for 20 minutes (fixation).",
+        "Spin and wash once with PBS.",
+        "Spin and resuspend in 1 ml of freshly made 3 N HCl/0.5% Tween 20.",
+        "Incubate at 25\u00b0C for 20 minutes.",
+        "Spin and resuspend in 1 ml of 0.1 M disodium tetraborate.",
+        "Spin and wash with FACS buffer.",
+        "Stain with FITC-labeled anti-BrdU.",
+        "Incubate on ice for 20 minutes.",
+        "Spin and resuspend cells in 500 \u03bcl FACS buffer containing 2.0 \u03bcl of 7-AAD solution.",
+        "Analyze 10 min later.",
+        "Gate on the proper populations on forward scatter versus side scatter."
+    ]
+}

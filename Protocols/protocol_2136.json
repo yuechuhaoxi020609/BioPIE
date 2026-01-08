@@ -1,0 +1,40 @@
+{
+    "id": 10666,
+    "origin_website": "Jove",
+    "title": "Aqueous Droplets Used as Enzymatic Microreactors and Their Electromagnetic Actuation",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Hydrophobize magnetic nanoparticles by adding 0.85 g FeCl3 hexahydrate and 0.30 g FeCl2 tetrahydrate to 200 mL water/ethanol solution (4:1 v/v).",
+        "Add 0.20 mL PFOTES with vigorous stirring at 500 rpm in an inert gas atmosphere.",
+        "Adjust the pH of the solution dropwise to 8 using an ammonium hydroxide solution (1.5 M).",
+        "Stir the mixture for 24 hours.",
+        "Separate magnetic particles from the solution using a bar magnet.",
+        "Pour out the supernatant while keeping the magnet attached to retain the particles.",
+        "Wash the particles three times with water/ethanol solution using a bar magnet.",
+        "Dry the particles at 60 \u00b0C for 24 hours.",
+        "Grind dried particles slightly using a glass pestle.",
+        "Place the ground particles directly in a weighing pan (46 \u00d7 46 \u00d7 8 mm, polystyrene).",
+        "Pipette 10 \u00b5L reaction solution onto all the particles.",
+        "Move the weighing pan slightly in a circular way for approximately 10 s.",
+        "Store remaining particles at room temperature for further applications.",
+        "Build a 5 \u00b5L microreactor with water on a teflon film.",
+        "Analyze the contact angle using an optical contact angle measurement device according to manufacturer's instructions.",
+        "Design double coil bodies with a height of 16 mm, diameter of 10 mm, and inner diameter of approximately 4 mm by using CAD software.",
+        "Print the coil bodies with a 3D printer using polylactide filament.",
+        "Wrap the bodies with a 0.08 mm copper wire to achieve 4,500 windings using a computer controlled winding machine.",
+        "Arrange double coils in a matrix on an electric board with a Peltier element underneath.",
+        "Screw on the double coils and connect them to a control via ribbon cable.",
+        "Add an iron core or neodymium magnet to the coil body depending on the desired magnetic field strength.",
+        "Place a quartz glass plate with a maximum height of 1 mm on the coil matrix.",
+        "Activate the coil containing a neodymium magnet to open and close microreactors as needed.",
+        "Use neodymium magnets to merge two microreactors that are initially about 10 mm apart by activating the coils for approximately 25 seconds.",
+        "Switch on the Peltier element beneath the coil matrix to cool down the reaction solution in the microreactor and decrease the coil temperature.",
+        "Dissolve horseradish peroxidase at a concentration of 0.1 \u00b5g/mL in potassium phosphate buffer (0.1 M, pH 6.5).",
+        "Dilute 10-acetyl-3,7-dihydroxyphenoxazine with potassium phosphate buffer (0.1 M, pH 6.5) to a final concentration of 200 \u00b5M.",
+        "Use 10 \u00b5L of each solution to build two microreactors as described in 2.2).",
+        "Merge the two microreactors using magnetic forces (neodymium cylinder magnet: 12.5 mm x 4 mm, 1,035 kA m-1) at 25 \u00b0C.",
+        "Position a fluorescence probe with an excitation wavelength of 570 nm and an emission wavelength of 585 nm approximately 10 mm directly above an opened microreactor before the merge."
+    ]
+}

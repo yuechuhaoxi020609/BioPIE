@@ -1,0 +1,30 @@
+{
+    "id": 1472,
+    "origin_website": "Nature",
+    "title": "<p>Modified Staff-ball Technique for Densely Vegetated Areas</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Ecology",
+        "Plant Sciences",
+        "Environmental Sciences"
+    ],
+    "protocol": [
+        "Locate a dimensionless-point target at the center of a circle.",
+        "Position the point target at the intersection of the upper arc of a tennis ball with 7 cm diameter and the right or left side of a vertical staff.",
+        "Mount the tennis ball on a vertical staff.",
+        "Place the point targets in randomly chosen points within the plots, typically in bushes.",
+        "Use two 2m PVC pipes cut into two pieces and joined by connectors for easier transportation.",
+        "Set up one pipe as the viewing pole and another where the tennis ball is kept.",
+        "Ensure the sight distance from the target to the observer's eye is four meters.",
+        "Place the point targets at a specific height of 1.25 m above ground level.",
+        "Observe this non-dimensional point from equally-spaced points systematically distributed in the circle.",
+        "Align observations correctly to minimize errors caused by vegetation obstructing sight lines.",
+        "Take 15\u00b0 angle deviation away from the normal using a protractor and 2 m pole.",
+        "Deviate 15\u00b0 towards the point target, forming an inverted V shape.",
+        "Sight each observation with one eye to avoid parallax error.",
+        "Assume a stationary posture before viewing the target.",
+        "Adjust the height of the eye according to marks on the staff-pole held by the observer.",
+        "Consider all six observations within the circle as a single observation.",
+        "Calculate percent cover by dividing the number of points where the target is not visible by the total number of points along the circumference, then multiplying by 100."
+    ]
+}

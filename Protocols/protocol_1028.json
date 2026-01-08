@@ -1,0 +1,32 @@
+{
+    "id": 124,
+    "origin_website": "Nature",
+    "title": "A method to fix and permeabilize isolated adult mouse cardiomyocytes for immuno-staining and confocal imaging",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Suspend isolated adult mouse ventricular myocytes in culture medium composed of 5% fetal bovine serum, 47.5% MEM, 47.5% modified Tyrode\u2019s solution, 10 mM pyruvic acid, 4.0 mM HEPES, and 6.1 mM glucose.",
+        "Maintain the cells in a 5% CO2 atmosphere at 30 \u00baC until use.",
+        "Label the cells with MitoTracker Deep Red 633 for staining mitochondria (100 nm in the culture medium) and incubate for 30 min while at the CO2 incubator.",
+        "Wash the cells with PBS twice and resuspend in fresh PBS.",
+        "Pellet the isolated cardiomyocytes using low g force (300 g for 1 minute, 30 \u00baC).",
+        "Suspend the pelleted cells in 4% paraformaldehyde in PBS maintained at 30 \u00baC.",
+        "Fix the suspended cells for 30 minutes with gentle mixing by inverting the tube using a nutating mixer.",
+        "Pellet down the fixed cells (300 g for 1 minute) and resuspend them in PBS.",
+        "Layer the cells over chambered cover glass coated with Cell-Tak cell and tissue adhesive.",
+        "Leave the fixed cells layered over the chambered cover glass undisturbed for 2 hours at room temperature.",
+        "Wash the non-adherent cells using PBS after they settle to the glass surface.",
+        "Permeabilize the fixed cardiomyocytes adhered to the Cell Tak coated cover glass surface using 0.1% Triton X-100 in PBS (v/v) for 3 minutes at room temperature.",
+        "Wash the permeabilized cells with PBS (2 times, each for 2 minutes).",
+        "Process the cells for immunostaining after washing.",
+        "Treat permeabilized cardiomyocytes with blocking solution containing 0.01% BSA in PBS for 30 minutes at room temperature.",
+        "Label fixed cells with Alexa Fluor 568 phalloidin for staining F-actin for 30 minutes at room temperature in the dark.",
+        "Stain nuclei with SYTO 11 Green-Fluorescent Nucleic Acid stain for 30 minutes at room temperature in the dark.",
+        "Wash cells with PBS (2 times, 2 minutes each).",
+        "Incubate a secondary antibody after washing if primary antibodies were used.",
+        "Wash cells again with PBS (3 times, 3 minutes each).",
+        "Maintain cells in PBS containing antibiotics.",
+        "Store chambers in dark at 4\u00b0C until imaging to avoid photo bleaching."
+    ]
+}

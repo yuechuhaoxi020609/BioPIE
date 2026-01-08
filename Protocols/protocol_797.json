@@ -1,0 +1,22 @@
+{
+    "id": 296,
+    "origin_website": "Nature",
+    "title": "Culture of extracellular protease-producing and non-producing bacterial strains for antimicrobial activity assay",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Microbiology"
+    ],
+    "protocol": [
+        "Inoculate a single colony of _P. aeruginosa_ into 10 ml of Luria-Bertani (LB) broth.",
+        "Shake the _P. aeruginosa_ culture at 200 rpm for 16 hours at 37 \u00b0C.",
+        "Dilute overnight cultures of PAO-Iglewski and PAO-B1A1 in LB broth to a concentration of 10^3 cfu/ml.",
+        "Incubate the diluted _P. aeruginosa_ cultures as standing cultures at 37 \u00b0C for 48 hours.",
+        "Inoculate a single colony of _S. aureus_ into 10 ml of Tryptone Soy Broth (TSB).",
+        "Shake the culture at 220 rpm, 37 \u00b0C for 4 hours after diluting to an OD600nm of 1.0.",
+        "Dilute overnight cultures of naturally occurring _Bacillus_ species with marine broth until OD600nm reaches 0.5.",
+        "Shake the diluted _Bacillus_ culture at 220 rpm, 37 \u00b0C for 2 hours.",
+        "Collect bacterial cultures by centrifugation at 8000 x g for 10 minutes.",
+        "Filter the supernatant through a 0.22 \u03bcm pore-sized membrane filter.",
+        "Measure soluble protease activity in the filtered bacterium-free culture medium using the Azocoll protease assay."
+    ]
+}

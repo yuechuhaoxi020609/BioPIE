@@ -1,0 +1,36 @@
+{
+    "id": 983,
+    "origin_website": "Nature",
+    "title": "A computational protocol and software implementation \\(as a MATLAB application) for biomarker identification in infrared spectroscopy datasets",
+    "subjectAreas": [
+        "Biochemistry",
+        "Biological Techniques",
+        "Chemical Biology",
+        "Drug Discovery",
+        "Computational Biology And Bioinformatics",
+        "Structural Biology"
+    ],
+    "protocol": [
+        "Download and extract the \u201cbmtool.zip\u201d file to a folder of choice.",
+        "Start MATLAB.",
+        "Add the \u201clib\u201d folder to your MATLAB path.",
+        "Start MATLAB and change the current directory to the \u201cwork\u201d folder created upon installation.",
+        "At the MATLAB command prompt, type \u201cbmtool\u201d.",
+        "In the \u201c(1) Select input dataset\u201d panel, click on the \u201cLoad\u2026\u201d button.",
+        "Locate the desired file by clicking \u201cList files below\u201d.",
+        "Make sure the \u201cAgent vs. vehicle control (VC)\u201d radio button is selected in the \u201c(2) Mount datasets for analysis\u201d panel.",
+        "Inform the index of the class that corresponds to the reference class (VC) in your dataset.",
+        "Click on \"Mount datasets\".",
+        "Generate 2-class datasets by combining VC data with each remaining class.",
+        "Select desired datasets in the \"(\\(3)) Select mounted datasets\" panel or press \"Select all\".",
+        "Tick the \u201cBM1 \u2026\u201d, \u201cBM2 \u2026\u201d and \u201cBM3 \u2026\u201d checkboxes in the \"(\\(4)) Run session\" panel.",
+        "Set recommended values for BM2: \u201cNumber of variables\u201d: 1; \u201ck for k-fold cross-validation\u201d: 10.",
+        "Set recommended values for BM3: \u201cTop number of variables\u201d: 3; \u201cNumber of bootstraps\u201d: 500.",
+        "Press the \"Run!\" button to generate results.",
+        "Select which results you want to visualize in the \"(\\(5)) Manipulate results\" panel or press \"Select all\".",
+        "Choose the type of visualization that you want to generate.",
+        "Select \"Mixed: BM curves\" from the visualization options and click on \"Visualize!\".",
+        "Select \"Mixed: Biomarker-localization plots\" from the visualization options and click on \"Visualize!\".",
+        "Select \"Biomarker-localization report\" and click on \"Visualize!\"."
+    ]
+}

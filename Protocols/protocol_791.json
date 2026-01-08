@@ -1,0 +1,43 @@
+{
+    "id": 3585,
+    "origin_website": "Cell",
+    "title": "Protocol to visualize ion channel trafficking in acutely isolated rodent neurons using live-cell immunocytochemistry",
+    "subjectAreas": [
+        "Cell Culture",
+        "Cell Isolation",
+        "Neuroscience",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Apply oxygenated treatment solution carefully to each dish.",
+        "Let the treated cells sit for 30 min at 21\u00b0C - 23\u00b0C.",
+        "Pipette 200 \u03bcl of treatment solution out of each well.",
+        "Pipette slowly 200 \u03bcL of the appropriate oxygenated blocking solution into each well.",
+        "Let sit for 30 minutes at 21 \u00b0C \u2212 23 \u00b0C.",
+        "Begin pipetting the new solution in prior to completing the removal of the old solution to prevent the well from drying out.",
+        "Pipette slowly (each plate should take around 20 seconds) to avoid dislodging loosely attached cells and keep some small volume of liquid in the well at all times.",
+        "Pipette out 200 \u03bcL of blocking solution from each well.",
+        "Pipette in 200 \u03bcL of the appropriate oxygenated primary antibody solution into each well.",
+        "Let sit for 30 minutes at 21 \u00b0C \u2212 23 \u00b0C.",
+        "Carefully add 2 mL of the appropriate oxygenated 1\u00d7 PBS to each dish.",
+        "Remove and repeat a second time.",
+        "Remove the 1\u00d7 PBS from the outside of each dish, being careful not to disturb the well.",
+        "Pipette in 2 mL of cold (4 \u00b0C) 4% PFA to each well.",
+        "Let sit for 20 min at 2-23 \u00b0C.",
+        "Critical: Wear appropriate PPE when handling and disposing of 4% PFA.",
+        "Remove the 4% PFA from the outside of each dish.",
+        "Pipette in 2 mL of PBST, remove and repeat a second time with PBST.",
+        "Carefully remove 200 \u03bcL of PBST from each well.",
+        "Pipette in 200 \u03bcL of secondary antibody solution.",
+        "Let sit for 60 min at 2-23 \u00b0C.",
+        "Remove the 4% PFA from the outside of each dish.",
+        "Pipette in 2 mL of PBST.",
+        "Remove and repeat a second time with PBST.",
+        "Wash with 2 mL of 1\u00d7 PBS.",
+        "Remove and repeat a second time with 1\u00d7 PBS.",
+        "Carefully remove 200 \u03bcL from each well.",
+        "Apply 2\u20133 drops of antifade solution (Citifluor AF-1).",
+        "Cover the plates with dish lids.",
+        "Store at 4 \u00b0C in an opaque container until ready to image."
+    ]
+}

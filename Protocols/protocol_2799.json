@@ -1,0 +1,40 @@
+{
+    "id": 438,
+    "origin_website": "Nature",
+    "title": "Cold tolerance assay for studying cultivation-temperature-dependent cold habituation in C. elegans",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Cultivate C. elegans to adults under well-fed conditions.",
+        "Place two adult nematodes onto the NGM in 60-mm diameter plates.",
+        "Incubate the assay plates at each experimental temperature until P0 adults have laid about 100 eggs.",
+        "Remove all P0 adults to synchronize the stages of nematodes.",
+        "Incubate the assay plates until progeny develop to the adult stage at their respective temperatures.",
+        "Place the assay plates containing fully matured\u2014but not old\u2014adult animals directly onto ice for 20 min.",
+        "Seal the assay plates with Parafilm, ensuring only half of their agar bottoms are in contact with the ice.",
+        "Transfer the sealed assay plates into a plastic container with a lid and place them in a refrigerator at 2\u00b0C.",
+        "Incubate the assay plates at 2\u00b0C for 48 hours.",
+        "Store the assay plates at 15\u00b0C overnight.",
+        "Count the numbers of dead and live adult animals, and calculate the survival rate.",
+        "Perform at least nine assays from steps 1 to 9 for each strain.",
+        "Calculate mean survival rates and standard error of the mean (SEM) for data from more than nine assay plates.",
+        "Cultivate C. elegans to adults under well-fed conditions.",
+        "Place two adult animals onto the NGM in 60-mm diameter plates, which are the assay plates for the following procedure.",
+        "Incubate the assay plates at the first temperature for 8\u201312 hours until the P0 adults have laid about 100 eggs.",
+        "Remove all P0 adults to synchronize the stages of the nematodes.",
+        "Incubate the assay plates until the progeny develop into young adults or adults at the first temperature, e.g., 15\u00b0C for 132\u2013150 h, 20\u00b0C for 72\u201390 h, or 25\u00b0C for 52\u201365 h.",
+        "If step 5 involves an 18-hour incubation above 20\u00b0C, move to this step when the animals are L4 larvae.",
+        "Transfer the assay plates to an incubator at a second temperature and incubate for several hours (e.g., 0, 3, 5, 8, or 18 h).",
+        "Place the assay plates on ice for 20 min after incubation at the second temperature.",
+        "Seal the assay plates with Parafilm so that only half of their agar bottoms are in contact with the ice.",
+        "Transfer the sealed assay plates into a plastic container with a lid and place them in the refrigerator at 2\u00b0C.",
+        "Incubate the assay plates at 2\u00b0C for 48 h.",
+        "Store the assay plates at 15\u00b0C overnight.",
+        "Count the numbers of dead and live adult animals to calculate the survival rate.",
+        "Repeat the assay three times using three assay plates each time.",
+        "Calculate the mean survival rates and the standard error of the mean (SEM) from data obtained from more than nine assay plates."
+    ]
+}

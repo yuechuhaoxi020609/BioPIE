@@ -1,0 +1,35 @@
+{
+    "id": 1491,
+    "origin_website": "Nature",
+    "title": "<p>LIVE/DEAD\u2122 Fixable Near-IR Cell Viability Assay</p>",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Thaw Reagent A of the LIVE/DEAD\u2122 Fixable Near-IR Dead Cell Stain Kit and add 50 \u00b5L DMSO (Component B) to make a 1 mM stock solution.",
+        "Resuspend the mixture by pipetting up/down gently and protect from light on ice before use.",
+        "Prepare a 1 \u00b5M working stock LIVE/DEAD solution in PBS.",
+        "Collect a cell pellet of 1x10^5 \u2013 1x10^6 cells in a 15mL Falcon tube.",
+        "Resuspend each cell pellet in 1mL 4% paraformaldehyde in 1X PBS.",
+        "Fix cells for 15 minutes at room temperature.",
+        "Centrifuge tubes at 2000 RPM for 4 minutes.",
+        "Wash pellets twice by centrifugation with excess 1X PBS. Discard supernatant in appropriate waste container.",
+        "Keep cell pellet at room temperature when using day-of or freeze in the -20\u00b0C until ready to be used.",
+        "Aspirate media from cells of interest and cells plated for the unstained control.",
+        "Rinse cells once in PBS.",
+        "Trypsinize cells using 300\u00b5L of trypsin and 150\u00b5L of trypsin in the basolateral and apical compartment of Transwell inserts, respectively.",
+        "Incubate for 4 minutes at 37\u00b0C.",
+        "Add 1 mL and 500 \u03bcL of appropriate cell media to the basolateral and apical compartment of Transwell inserts, respectively.",
+        "Rinse wells and inserts with 1 mL of appropriate cell media and add to respective Falcon tubes.",
+        "Centrifuge tubes at 2000 RPM for 4 mins.",
+        "Aspirate media from pellets.",
+        "Resuspend the unstained control pellet in 1 mL PBS.",
+        "Resuspend remaining cell pellets and dead cell pellet in 1 mL of 1 \u03bcM working stock LIVE/DEAD solution.",
+        "Transfer resuspended pellets to 5 mL Round-Bottom tubes.",
+        "Incubate tubes for 30 mins at 37 \u00b0C protected from light.",
+        "Proceed to flow cytometry on BD FACS.",
+        "Insert Dead control and select Preview to view side (SSC) and forward (FSC) scatter pattern for P1.",
+        "Select APC-Cy7 vs. FSC for P2 to draw negative gate and confirm positive gate.",
+        "Acquire 10,000 events in P1."
+    ]
+}

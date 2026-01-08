@@ -1,0 +1,43 @@
+{
+    "id": 458,
+    "origin_website": "Nature",
+    "title": "Barnes maze, a useful task to assess spatial reference memory in the mice",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Place the mouse in a cylindrical black start chamber in the middle of the maze.",
+        "Lift the chamber after 10 seconds and switch on the buzzer.",
+        "Gently guide the mouse towards the escape box without forcing it into the hole.",
+        "If necessary, place the mouse gently to the side of the hole and pull the base of the tail to encourage entry into the escape box.",
+        "Turn off the buzzer, light, and/or fan once the mouse is inside the escape box.",
+        "Allow the mouse to stay in the escape box for 2 minutes.",
+        "Clean the maze with a solution containing 1% Incidin before each trial.",
+        "Rotate the maze around its central axis after each trial to control for possible odor cues.",
+        "Place the mouse in the cylindrical black start chamber in the middle of the maze.",
+        "Lift the chamber and turn on the buzzer after 10 seconds.",
+        "Allow the mouse to explore the maze for 3 minutes.",
+        "Measure the number of primary errors, total errors, and primary latency by the experimenter for 3 minutes.",
+        "End the trial when the mouse enters the goal tunnel or after 3 min have elapsed.",
+        "Turn off the buzzer immediately after the mouse enters the tunnel.",
+        "Allow the mouse to stay in the tunnel for 1 minute.",
+        "If the mouse does not reach the goal within 3 minutes, guide the mouse gently to the escape box.",
+        "Place the mouse inside the escape box for 1 minute.",
+        "Cover the escape hole once the mouse is inside for 1 minute or place mice gently back into the escape box whenever it goes out.",
+        "Return the mouse to its home cage until the next trial.",
+        "Repeat steps 4-9 until the animal has had the desired number of trials for that day, with 4 trials per day and an inter-trial interval (ITI) of 15 minutes over 4 days.",
+        "Use the ITI of 15 minutes to test the next 3 to 4 mice.",
+        "Conduct a probe trial on day 5, 24 hours after the last training day.",
+        "Close the target hole for the probe trial.",
+        "Rotate the maze so that the target hole is closed.",
+        "Re-adjust the maze to ensure the holes are in the same position as during the training days.",
+        "Place the animal in the middle of the maze under the cylindrical black start chamber.",
+        "Wait for 10 seconds, then lift the chamber and switch on the buzzer.",
+        "Allow the mouse to explore the maze for a fixed interval (90 s).",
+        "Remove the mouse after 90 seconds.",
+        "Measure the number of pokes (errors) in each hole during exploration.",
+        "Record the latency and path length to reach the target goal hole.",
+        "On day 12, conduct a second probe trial without any training sessions between days 5 and 12.",
+        "Repeat steps 12-15 for reference memory probe trials, ensuring they are performed at least 24 hours after the last training trial."
+    ]
+}

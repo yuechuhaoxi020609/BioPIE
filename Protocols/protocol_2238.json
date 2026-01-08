@@ -1,0 +1,18 @@
+{
+    "id": 726,
+    "origin_website": "Nature",
+    "title": "Crystallization of the Mg-releasing intermediates of kinesin ATPase",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Structural Biology"
+    ],
+    "protocol": [
+        "Dialyze purified KIF1A solution against buffer A using Slide-A-Lyzer dialysis cassette for more than an hour.",
+        "Concentrate the dialyzed KIF1A solution to 40-80 mg/ml using Amicon Ultra centrifugal filter device.",
+        "Add 2-, 4-, or 10-fold excess apyrase to the concentrated KIF1A solution, keep on ice for 30 min and centrifuge at 20,000 g to eliminate aggregates.",
+        "Mix 2 \u03bcl of apyrase-mixed KIF1A solution with 2 \u03bcl reservoir buffer.",
+        "Dispense the mixture in hanging drops over 500 \u03bcl well solutions containing the reservoir buffer.",
+        "Harvest crystals using cryoloop every 24 hours from day when crystal appears to day when crystal disappears.",
+        "Flash-freeze harvested crystals immediately in cold nitrogen stream at -175\u00b0C."
+    ]
+}

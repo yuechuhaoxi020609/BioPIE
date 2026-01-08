@@ -1,0 +1,39 @@
+{
+    "id": 1409,
+    "origin_website": "Nature",
+    "title": "<p>BMP4-induced symmetry breaking in a 3D model of the human epiblast</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Place aliquots of Matrigel, hydrogel, and an empty 2 mL tube on ice.",
+        "Dissociate hESCs with Accutase as single cells and spin cells at 300 g for 3 min.",
+        "Resuspend the cells in hESC media to a concentration of 1\u20132x10^6 cells/mL.",
+        "Add ~30 \u00b5L of cell suspension to an empty tube on ice.",
+        "Mix in 30 \u00b5L Matrigel followed by 150 \u00b5L hydrogel and aspirate-release several times with the P1000 pipette tip to disperse the cells throughout the gel until the mixture appears homogenous.",
+        "Transfer the cell-gel mix to the bottom of a 35-mm dish in a snake-like pattern, covering most or the entire surface.",
+        "Transfer the dish to the incubator at 37 \u00b0C and 5% CO2 for ~5 minutes to solidify the gel.",
+        "Supplement hESC media with 10 \u03bcM ROCK inhibitor Y27632 and optionally pen/strep or equivalent antibiotic.",
+        "Seed cells in gel and incubate for ~24 hours.",
+        "Replace medium with hESC medium (MEF-CM + 20 ng/mL bFGF) optionally supplemented with pen/strep after 24 hours of seeding.",
+        "Refresh media and add morphogen, such as 1 ng/mL BMP4, for 24\u201348 hours.",
+        "Perform immunofluorescence staining at the bench or live-cell imaging in an environmental chamber atop a microscope.",
+        "Wash dish once with DPBS +/+.",
+        "Add 4% PFA.",
+        "Spin down at 100 g for 90 s if gel is loose or broken off.",
+        "Resuspend in DPBS+/+ after spinning down.",
+        "Repeat spin down cycle if necessary.",
+        "Keep in PFA for 30\u201360 min.",
+        "Remove PFA and wash once in DPBS+/+.",
+        "Block with 2% BSA in PBST.",
+        "Keep in block solution for at least 1 hour in the fridge.",
+        "Perform spin down cycle between each wash step from this point onward if gel loosens.",
+        "Do not aspirate supernatant between spin downs; gently remove it with a P1000 pipette instead.",
+        "Replace media with primary antibodies dissolved in block solution and keep overnight in the fridge.",
+        "Wash twice in PBST after staining with primary antibodies.",
+        "Resuspend in secondary antibody and DAPI dissolved in block solution for 30 min at room temperature in a dark chamber.",
+        "Wash secondary antibody twice in PBST.",
+        "Move sample to an imaging dish and keep in PBST."
+    ]
+}

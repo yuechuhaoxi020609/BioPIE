@@ -1,0 +1,30 @@
+{
+    "id": 318,
+    "origin_website": "Nature",
+    "title": "ELISA-based protein-PAMP interaction assay",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Incubate aliquots of 100 \u03bcl LPS or LTA resuspended in 0.01 M pH 7.4 PBS in a 96-well microtitre plate at room temperature overnight.",
+        "Rinse the wells three times with 300 \u03bcl of PBS each.",
+        "Block the wells with 150 \u03bcl of PBS with 2% (w/v) BSA at 37\u00b0C for 2 h.",
+        "Rinse the wells three times with 300 \u03bcl of PBS each.",
+        "Add to each well, 100 \u03bcl of serially diluted protein (HMC or Hb in 2% BSA) in PBST and incubate at 37\u00b0C for 1 h.",
+        "Rinse the wells three times with 300 \u03bcl of PBST each.",
+        "Add to each well, 100 \u03bcl of primary antibody (rabbit-anti HMC or rabbit-anti Hb), diluted to 1:500 with 2% BSA in PBST and incubate at 37\u00b0C for 30 min.",
+        "Rinse the wells three times with 300 \u03bcl of PBST each.",
+        "Add to each well, 100 \u03bcl of horseradish peroxidase-conjugated goat-anti-rabbit antibody (DAKO), diluted to 1:1000 in 2% BSA in PBST and incubate at 37\u00b0C for 30 min.",
+        "Rinse the wells three times with 300 \u03bcl of PBST each.",
+        "Add 50 \u03bcl of the peroxidase substrate to each well.",
+        "Incubate for 10 min at room temperature.",
+        "Read the OD at 405 nm.",
+        "Choose a concentration of either HMC or Hb that shows an ELISA-readout (A405) in the linear range.",
+        "Incubate the chosen concentration of HMC or Hb with LPS or LTA concentrations ranging from 0 to 200 \u03bcg/ml in 2% BSA in PBST at 37\u00b0C for 1 hour.",
+        "Transfer the reaction mixture to the LPS- or LTA-immobilized microtitre plate.",
+        "Conduct the ELISA as described in steps 5 through 13.",
+        "The reduction of the readout of HMC or Hb pre-incubated with LPS or LTA, respectively, demonstrates the specificity of the protein-PAMP interaction."
+    ]
+}

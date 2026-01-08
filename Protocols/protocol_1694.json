@@ -1,0 +1,40 @@
+{
+    "id": 10712,
+    "origin_website": "Jove",
+    "title": "Methods for the Self-integration of Megamolecular Biopolymers on the Drying Air-LC Interface",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Dissolve sacran7 (0.5 g) in pure water (100 mL) by stirring at ~80 \u00b0C for more than 12 h.",
+        "Cover the container with plastic wrap during dissolution to prevent evaporation.",
+        "Cool the sacran solution at ~25 \u00b0C to obtain a 0.5 wt% aqueous solution.",
+        "Centrifuge the sacran solution to remove impurities (48,400 x g, 4 \u00b0C, 1 h, 3 times).",
+        "Dissolve xanthan gum in pure water (100 mL) by stirring at ~80 \u00b0C for more than 12 h.",
+        "Cover the container with plastic wrap during dissolution to prevent evaporation.",
+        "Cool the xanthan gum solution at ~25 \u00b0C to obtain a 0.5 wt% aqueous solution.",
+        "Prepare a 0.5 wt% tubulin solution (1 mL) in Britton-Robinson buffer on ice.",
+        "Incubate the tubulin-GpCpp mixture (950 \u00b5L tubulin + 50 \u00b5L GpCpp) at ~25 \u00b0C for 1 day to obtain a stable MT solution.",
+        "Prepare a 0.5 wt% DNA solution in Tris-EDTA buffer.",
+        "Keep the 0.5 wt% biopolymer sample solutions at 25 \u00b0C for drying experiments.",
+        "Cut a silicon sheet into an appropriate shape with dimensions of 5-15 mm, 1 mm, and ~20 mm.",
+        "Assemble a one-side-open cell using a silicon spacer and two non-modified glass slides.",
+        "Fix both sides of the cell with double clips to prevent leakage.",
+        "Slowly add each biopolymer solution (100-300 \u00b5L) to the cell using a pipette tip with a ~1-mm pore size.",
+        "Remove air bubbles from the cells using a syringe needle.",
+        "Place the cells in an oven at 60 \u00b0C under atmospheric pressure for evaporation.",
+        "Adjust polarizers to 45\u00b0 and 135\u00b0 for observation under cross-polarized light.",
+        "Fix the positions of the light source, polarizers, sample stage, and camera using an optical rail and rod stands.",
+        "Place the sample stage between the two polarizers with a distance of ~5 cm between them.",
+        "Place the camera ~20 cm from the sample stage to allow focusing.",
+        "At given times, place the samples between the polarizers on the stage parallel to the XZ-plane and cover the device with a black curtain.",
+        "Photograph the samples through linear crossed polarizers using a digital single-lens reflex camera with a standard zoom lens.",
+        "Control the camera settings such as focal distance using computer software.",
+        "Collect photographs hourly for 24 hours to evaluate the change in orientational order parameter during drying.",
+        "Measure the transmitted light intensity along the centerline in the Z-direction as a gray value using an image processing program.",
+        "Plot a graph of the gray value as a function of the distance from the upper open side.",
+        "Make microscopic observations with a polarization microscope equipped with a CCD camera.",
+        "Keep a first-order retardation plate in the light path during observations.",
+        "Control the conditions for the photos using PC software."
+    ]
+}

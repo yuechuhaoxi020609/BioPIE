@@ -1,0 +1,43 @@
+{
+    "id": 1911,
+    "origin_website": "Cell",
+    "title": "Protocol to study cell death using TUNEL assay in Drosophila imaginal discs",
+    "subjectAreas": [
+        "Molecular/Chemical Probes",
+        "Microscopy",
+        "Cell Biology",
+        "Neuroscience",
+        "Model Organisms"
+    ],
+    "protocol": [
+        "Dissect eye-antennal imaginal discs along with the brain lobes from wandering third instar larvae.",
+        "Transfer dissected tissue into cold 1\u00d7 Phosphate Buffered Saline (PBS).",
+        "Fix tissue in freshly prepared 4% Paraformaldehyde diluted in 1\u00d7 PBS for 20 min at room temperature.",
+        "Wash the tissue in 1\u00d7 PBS once.",
+        "Wash the tissue in PBST (1\u00d7PBS+0.2% Triton-X-100) three times for 10 min each.",
+        "Prepare primary antibody (Rat anti-Elav) at a 1:100 dilution in 10% Normal Donkey Serum (NDS) in 1XPBST solution.",
+        "Incubate the tissue in primary antibody overnight (\u223c8\u201316 h) at 4\u00b0C.",
+        "Wash the tissue in 1\u00d7 PBST, thrice for 10 min each.",
+        "Prepare secondary antibody (anti-Rat Cy5) at a dilution of 1:300 in 1\u00d7 PBST-NDS.",
+        "Incubate the tissue in a secondary antibody for 2 h in the dark at RT.",
+        "Wash the tissue in 1\u00d7 PBST thrice for 10 min each.",
+        "Prepare freshly 495 \u03bcL of 100 mM Sodium Citrate stock solution + 5 \u03bcL of 10% Triton X-100.",
+        "Incubate the tissue in this solution for 30 min in the dark at 65\u00b0C.",
+        "Wash the tissue in 1\u00d7 PBST thrice for 10 min each.",
+        "Incubate the tissue in \u223c30 \u03bcL of TUNEL-Dilution Buffer (Roche) for 10 min in the dark at RT.",
+        "Incubate the tissue in a TUNEL labeling solution for 2 h at 37\u00b0C.",
+        "Wash the tissue in 1\u00d7 PBST, thrice for 10 min each.",
+        "Transfer the tissue onto a clean glass slide.",
+        "Carefully remove the brain lobes from the tissue.",
+        "Detach the eye-antennal imaginal discs from the mouth hooks.",
+        "Arrange the eye-antennal discs on the slide.",
+        "Remove excess PBST from the arranged discs.",
+        "Mount the prepared tissue in Vectashield mounting medium.",
+        "Store the slides in a slide holder at -20\u00b0C.",
+        "TUNEL label will be visible in the Cy3 channel if you use this In Situ Cell Death Detection, TMR red Kit.",
+        "Save all images in the original format and other appropriate formats for later analysis.",
+        "Use .tif images for quantification of TUNEL positive nuclei.",
+        "Perform statistical analysis using MS Excel or GraphPad Prism.",
+        "Plot a graph based on the analysis."
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 11278,
+    "origin_website": "Jove",
+    "title": "Bacterial Immobilization for Imaging by Atomic Force Microscopy",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Cut the mica with scissors to fit the AFM microscope (approx. 22 \u00d7 30 mm).",
+        "Cleave the mica on both sides using tape until only smooth unbroken layers remain.",
+        "Add 100 ml of distilled water to a laboratory bottle.",
+        "Heat the bottle in a microwave until the water begins to boil.",
+        "Weigh out 0.5 grams of gelatin and add it to the hot distilled water.",
+        "Gently swirl the bottle until the gelatin is completely dissolved.",
+        "Cool the gelatin solution to 60-70 \u00b0C.",
+        "Pour approximately 15 mL of the gelatin solution into a small beaker (20 mL).",
+        "Submerge the mica squares into the warmed gelatin solution and withdraw quickly.",
+        "Support the coated mica immediately, on edge, on a paper towel to dry in ambient air.",
+        "Reheat the excess gelatin solution to between 60-70 \u00b0C for reuse.",
+        "Pellet 1 mL of bacterial culture at 800 to 4,500 rcf.",
+        "Wash the pellet in the same volume of filtered deionized water or buffer.",
+        "Collect the cells again by centrifugation.",
+        "Resuspend the pellet promptly in 500 \u03bcL of nanopure deionized water or buffer.",
+        "Apply 10-20 \u03bcL of cell suspension to the gelatin-coated mica using a pipette tip without touching the surface.",
+        "Allow the surface to rest for 10 minutes.",
+        "Rinse the surface with a stream of water or buffer.",
+        "Place gelatin at a temperature of 60-70\u00b0C in a 20 ml beaker.",
+        "Immerse freshly cleaved mica squares into the gelatin using tweezers.",
+        "Withdraw mica squares and place them upright on a paper towel leaning against a micro centrifuge rack.",
+        "Place a droplet of bacterial sample on the mica and spread it with a pipet tip in both X and Y directions.",
+        "Allow the bacterial sample to incubate on the mica surface for at least 10 minutes.",
+        "Rinse the bacterial sample with distilled water.",
+        "Check for an opaque spot on the mica, indicating successful immobilization of bacteria."
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 306,
+    "origin_website": "Nature",
+    "title": "Social interaction test: a sensitive method for examining autism-related behavioral deficits",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Chemical Biology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Change the bedding material in the home cage 24 hours or earlier before testing.",
+        "Weigh the novel mice and mark them on the tail 24 hours or earlier before testing.",
+        "Weigh the test mice and mark them on the tail at the time of the first injection of rapamycin.",
+        "Pair a test mouse with a novel mouse of the same sex, ensuring the novel mouse is not heavier than the test mouse by more than 5%.",
+        "Transfer the mice to the testing room.",
+        "Turn on ventilating fans in the sound-attenuating chamber.",
+        "Allow the mice to acclimate to the testing room for one hour or longer.",
+        "Clean the sound-attenuating chamber with 70% alcohol.",
+        "Move all cagemates of the test mouse to a novel cage.",
+        "Place the home cage of the test mouse alone with the camera, and leave the mouse undisturbed for fifteen minutes or longer.",
+        "Start video recording.",
+        "Place the paired novel mouse into the home cage, and record behavior for ten minutes.",
+        "Remain outside the testing room during video recording to avoid disturbing the mouse's behavior.",
+        "Stop recording.",
+        "Return the mice to their cagemates and remove the cage.",
+        "Repeat steps 8 to 14 if additional test mice are to be examined.",
+        "Download the recorded data.",
+        "Watch the videos and score active interaction, defined as sniffing, close following, and allo-grooming.",
+        "Exclude aggressive behaviors from dependent measures."
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 10062,
+    "origin_website": "Jove",
+    "title": "Synthesis of Strong Adhesive Hydrogel, Gelatin O-Nitrosobenzaldehyde",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Add 9.4 g of methyl 4-(4-formyl-2-methoxyphenoxy) butanoate slowly to a precooled (-2 \u00b0C) solution of 70% nitric acid and stir at -2 \u00b0C for 3 h.",
+        "Filter the mixture with 200 mL of 0 \u00b0C water.",
+        "Hydrolyze the solid product in trifluoroacetic acid (TFA)/H2O, 1:10 v/v at 90 \u00b0C.",
+        "Dry and remove the solvent under vacuum to obtain a dry pale-yellow powder intermediate product.",
+        "Dissolve the intermediate product in tetrahydrofuran (THF)/ethanol, 1:1 v/v.",
+        "Add NaBH4 slowly at 0 \u00b0C and stir for 3 h.",
+        "Remove all solvents under vacuum and suspend the residue in a 1:1 water and dichloromethane solution.",
+        "Extract the product from the aqueous layer using dichloromethane.",
+        "Dry the organic layer over magnesium sulfate.",
+        "Purify the crude product by silica gel column chromatography using DCM/MeOH at a 10:1 ratio (1% TEA).",
+        "Obtain relatively pure yellowish powder NB-COOH.",
+        "Prepare a homogeneous gelatin solution by dissolving 5 g of gelatin in 100 mL of deionized water and store at 37 \u00b0C.",
+        "Dissolve 1,060 mg of NB-COOH in 5 mL of dimethyl sulfoxide (DMSO).",
+        "Add 746 mg of EDC into the NB-COOH DMSO solution and stir for 5 min.",
+        "After EDC has dissolved, add 448 mg of NHS and stir for 5 min.",
+        "Use a dropping funnel to slowly drop the mixture at a rate of 0.5 mL/min into the dissolved gelatin solution with vigorous stirring to react at 45 \u00b0C for 4 h.",
+        "Dialyze the gelatin-NB solution against excess deionized water for at least 3 days.",
+        "Collect, freeze, and lyophilize the dialyzed gelatin-NB solution to obtain foams.",
+        "Keep the foams in a desiccator in the dark for further use.",
+        "Dissolve the freeze-dried gelatin-NB foams in deionized water at 37 \u00b0C immediately before use."
+    ]
+}

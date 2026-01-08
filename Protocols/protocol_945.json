@@ -1,0 +1,38 @@
+{
+    "id": 1973,
+    "origin_website": "Cell",
+    "title": "Isolation and freezing of human peripheral blood mononuclear cells from pregnant patients",
+    "subjectAreas": [
+        "Immunology",
+        "Stem Cells",
+        "Health Sciences",
+        "Cell Isolation",
+        "Cell Biology",
+        "Clinical Protocol"
+    ],
+    "protocol": [
+        "Invert Ficoll-Paque PLUS several times.",
+        "Place 17 mL Ficoll-Paque PLUS medium into the SepMate\u2122-50 tube by carefully pipetting it through the central hole of the SepMate\u2122-50 insert (Ficoll to be just above the insert).",
+        "Transfer blood to a separate 50 mL Falcon tube in a sterile manner.",
+        "Dilute the blood 1:1 in PBS-EDTA with 2% FBS, close the tube and mix by careful inversion.",
+        "Add diluted sample to SepMate\u2122-50 tube by pipetting it down the side of the tube.",
+        "Centrifuge at 1200\u00d7g for 20 min at room temperature, with the brake on.",
+        "Remove some of the plasma layer without disturbing the interface with the PBMCs.",
+        "Pour off the top layer containing enriched MNCs into a new 50 mL Falcon tube.",
+        "Do not hold the SepMate\u2122 tube inverted for more than 2 seconds to avoid disrupting the filter.",
+        "Register cryovials using the barcode and record them as PBMCs.",
+        "Fill the 50 mL falcon tube with RPMI 1640 medium and mix carefully.",
+        "Centrifuge at 300\u00d7g at 20\u00b0C for 8 minutes and discard the supernatant.",
+        "Repeat steps using 5\u201310 mL PBS-EDTA with 2% FBS.",
+        "Centrifuge again for 8 minutes at 300\u00d7g at 20\u00b0C.",
+        "Pour off excess PBS-EDTA with 2% FBS without disturbing the pellet.",
+        "Count and resuspend cells in 1 mL of freezing medium DMSO.",
+        "Ensure cryovials are resting on ice or in an icebox.",
+        "Aliquot cells into one barcoded cryovial, holding it on wet ice until freezing begins within 5 minutes.",
+        "Freeze cells in the Corning CoolCell chamber below \u201370\u00b0C.",
+        "Transfer the cells to cryo boxes after at least 12 h.",
+        "Record the position of the cells in the cryo boxes.",
+        "Place the cryo boxes in a \u221280\u00b0C freezer for 12\u201324 hours (maximum four days).",
+        "Transfer the cryovials from the \u221280\u00b0C freezer into the liquid nitrogen tank."
+    ]
+}

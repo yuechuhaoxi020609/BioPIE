@@ -1,0 +1,32 @@
+{
+    "id": 421,
+    "origin_website": "Nature",
+    "title": "TH17 cells contribute to uveitis and scleritis and are inhibited by IL-27/STAT1 in the retina. \\(6) Retinal cell isolation",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Genetics"
+    ],
+    "protocol": [
+        "Bleed mice by inserting a 24G needle below the rib cage in the center, directed slightly to the left and downwards at an angle of about 15-20\u00b0.",
+        "Enucleate eyes and place them in complete medium in a Petri dish for immediate retinal isolation.",
+        "Cut along the limbus of the eye and carefully remove the lens and cornea under a dissecting microscope.",
+        "Peel the retina off carefully and cut off the attachment at the optic nerve.",
+        "Mince retina tissue in collagenase/DNase digestion buffer containing complete medium with collagenase (1 mg/ml) + DNase (10 \u03bcg/ml).",
+        "Incubate retina in DNAse buffer at 37\u00b0C for 3 hours.",
+        "Pipette cells intermittently every 30 or 60 minutes using a 10 ml pipette.",
+        "After 3 hours, quench the digestion reaction with 5-10 fold volume of 10% FBS in medium.",
+        "Fill the tube with medium and centrifuge at 1200 rpm for 10 minutes.",
+        "Wash the pellet in complete medium twice.",
+        "Count the retinal cells.",
+        "Isolate naive syngeneic CD4+ T-helper cells (>95%).",
+        "Culture the na\u00efve T cells in medium containing anti-CD3/anti-CD28 Abs under TH17 polarizing conditions (TGF-\u03b21, IL-6, anti-IFN\u03b3, and anti-IL-4 Abs) for 48 hours.",
+        "Add differentiating TH17 cells to freshly isolated retina cells at a ratio of 1 TH17 cell: 5 retina cells.",
+        "Propagate co-culture for additional 48 hours under the TH17 polarizing condition in the presence or absence of 10 \u03bcg/ml anti-IL-27p28 Abs.",
+        "Include controls with retinal cells alone.",
+        "Include controls with differentiating TH17 cells alone.",
+        "Add PMA and Ionomycin to the cultures for the last 5 hours.",
+        "Add Golgistop to the cultures for the last 1 hour.",
+        "Perform four-color cell surface/intracellular staining using antibodies against CD4, IL-17, IFN-\u03b3, and CD44.",
+        "Use isotype control antibodies."
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 265,
+    "origin_website": "Nature",
+    "title": "Linear Amplification Mediated PCR for the retrieval of lentiviral vector integration sites from tumors induced by insertional mutagenesis.",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biological Techniques",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Perform DNA extraction in a dedicated hood for molecular biology.",
+        "Dilute and quantify the extracted DNA sample to avoid contamination.",
+        "Determine the vector copy number (VCN) per diploid genome before starting LAM-PCR.",
+        "Set up a 50-\u03bcl linear PCR reaction using 10\u00d7 Taq polymerase reaction buffer.",
+        "Add template DNA ranging from 0.01\u201310,000 ng to the PCR reaction.",
+        "Include dNTPs (200 \u03bcM each) in the PCR reaction.",
+        "Add Taq polymerase (2.5 U/\u03bcl) to the PCR reaction mixture.",
+        "Pipette Primer LTRIa (0.5 pmol/\u03bcl) into the PCR reaction.",
+        "Pipette Primer LTRIb (0.5 pmol/\u03bcl) into the PCR reaction.",
+        "Add dH2O to adjust the final volume of the PCR reaction to 50 \u03bcl.",
+        "Perform initial denaturation at 95\u00b0C for 5 minutes.",
+        "Denature at 95\u00b0C for 1 minute.",
+        "Anneal at 60\u00b0C for 45 seconds.",
+        "Elongate at 72\u00b0C for 1 minute and 30 seconds.",
+        "Repeat denaturation, annealing, and elongation steps for 25 cycles.",
+        "Perform final elongation at 72\u00b0C for 10 minutes.",
+        "Perform magnetic capture as described in the canonical LAM-PCR protocol.",
+        "Synthesize double-stranded DNA according to the LAM-PCR protocol.",
+        "Carry out restriction digest using oligos for HIV-derived lentiviral vectors.",
+        "Ligate linker to the digested fragments.",
+        "Denature the ligated products.",
+        "Conduct nested PCR as per the LAM-PCR protocol.",
+        "Separate 5 \u03bcl of the second exponential amplification on a high-resolution Spreadex gel.",
+        "Tag the products of the second exponential amplification.",
+        "Sequence tagged products using the 454 GS Flx platform."
+    ]
+}

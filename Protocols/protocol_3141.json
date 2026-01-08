@@ -1,0 +1,42 @@
+{
+    "id": 10728,
+    "origin_website": "Jove",
+    "title": "Rapid Mix Preparation of Bioinspired Nanoscale Hydroxyapatite for Biomedical Applications",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Add 3.705 g of calcium hydroxide to 500 mL deionized water and stir on a magnetic stirrer plate for 1 h at 400 rpm.",
+        "Dissolve 3.459 g of phosphoric acid (85%) in 250 mL deionized water.",
+        "Pour the phosphorus solution into the stirring calcium hydroxide suspension at a rate of approximately 100 mL/s.",
+        "Cover beaker with Parafilm and leave to stir for 1 h at 400 rpm.",
+        "Take the beaker off the stirrer plate and leave to settle overnight.",
+        "Wash the suspension by pouring off the supernatant and adding 500 mL deionized water and stirring for 1 min at 400 rpm.",
+        "Repeat washing step three times in total, with 2 h between each wash.",
+        "Leave nHA suspension to settle overnight.",
+        "Pour off the clear supernatant.",
+        "Place the settled nHA suspension in a drying oven set at 60 to 80 \u00b0C.",
+        "Grind dried nHA into fine powder using an agate mortar and pestle.",
+        "Sinter 2.5 g of produced nHA powder at 1,000 \u00b0C for 2 h with a ramp rate of 10 \u00b0C/min.",
+        "Allow the sintered nHA to cool in the furnace.",
+        "Store powders in a vacuum desiccator.",
+        "Place a small amount of poly(vinyl alcohol) (PVA) glue on acetate film.",
+        "Mix PVA glue with a small amount of nHA powder.",
+        "Treat the mixture with a hot air gun until dry.",
+        "Mount the dried sample into a sample holder and load onto an X-ray diffractometer.",
+        "Use diffractometer settings of 40 kV and 35 mA, with a 2\u03b8 range of 10-70\u00b0.",
+        "Analyze the resultant XRD patterns for phase identification.",
+        "Place a small amount of nHA powder in a bijou.",
+        "Add approximately 3 mL ethanol to the powder.",
+        "Ultra-sonicate sample for 15 - 30 minutes until homogenous suspension is observed.",
+        "Pipette a small amount of solution onto a 400 mesh copper grid with carbon film.",
+        "Allow the pipetted solution to dry.",
+        "Image samples at an accelerating voltage of 80 kV.",
+        "Combine 0.8 g nHA powder with 8 g of lithium tetraborate.",
+        "Melt mixture in a platinum-gold alloy crucible using a furnace set to 1,200 \u00b0C.",
+        "Analyze resultant samples in an XRF spectrometer to determine the elemental composition of the samples.",
+        "Perform 64 background scans from 4,000 - 500 cm-1 with a resolution of 4 cm-1.",
+        "Place a small amount (i.e., less than 100 mg) of nHA powder on top of the diamond in the attenuated total reflectance mode adapter and compress onto the surface of the diamond using the screw top.",
+        "Perform 32 scans from 4,000 - 500 cm-1 with a resolution of 4 cm-1 with the background scans subtracted from the sample scans."
+    ]
+}

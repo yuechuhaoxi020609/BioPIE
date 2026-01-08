@@ -1,0 +1,17 @@
+{
+    "id": 910,
+    "origin_website": "Nature",
+    "title": "Expression and network analysis of Illumina microarray data",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry"
+    ],
+    "protocol": [
+        "Create the exprSet object.",
+        "Read in Combat adjusted data from \"Adjusted_ComBatExpr_1cond.xls\".",
+        "Calculate row means for control samples under condition WT and V.",
+        "Determine ratios for heatmap and ratio output.",
+        "Select coefficients for single arrays.",
+        "Compare experimental conditions across all samples."
+    ]
+}

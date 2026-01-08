@@ -1,0 +1,38 @@
+{
+    "id": 329,
+    "origin_website": "Nature",
+    "title": "_Ex vivo_ BIN1/Amphiphysin 2-induced tubulation of membranes, and visualization of Dynamin 2 recruitment to the membrane tubules",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology",
+        "Genetics"
+    ],
+    "protocol": [
+        "Inoculate COS-1 cells in a 75 cm\u00b2 cell culture flask and grow in DMEM + 1g/L glucose + 5% FCS to 100% confluence.",
+        "Dilute the cells 1:4 in same medium and spread on 22 mm\u00b2 glasses into 6 wells tissue culture plate.",
+        "Let the cells adhere and grow for 5 hours at 37\u00b0C.",
+        "Mix 100 microl. DMEM (without glucose nor FCS) with 3 microl. Fugene-6 transfection reagent and 1 microg. of plasmids DNA encoding the proteins of interest, pEGFP-BIN1 iso 8 and pSG5 Myc-tagged-DNM2.",
+        "Incubate for 10 minutes at room temperature.",
+        "Add the mixture to cells in 1 ml DMEM + 1g/L glucose + 5% FCS.",
+        "Incubate overnight at 37\u00b0C.",
+        "Wash cells with PBS once.",
+        "Fix the cells with 4% paraformaldehyde for 20 min to overnight at 4\u00b0C.",
+        "Quench with NH\u2084Cl 50mM for 15 minutes.",
+        "Wash cells with PBS for 5 minutes before permeabilisation with PBS + 0.2% Triton for 10 minutes.",
+        "Wash cells with PBS for 5 minutes.",
+        "Saturate non specific immunoglobulin binding sites with PBS + 0.1% Triton + 10% FCS for 1 hour.",
+        "Wash cells with PBS for 5 minutes.",
+        "Dilute primary antibody \\(anti-Myc) 1:400 in PBS + 0.1% Triton + 3% FCS.",
+        "Transfer 22 mm\u00b2 glasses carrying cells into a humid chamber to avoid drying during incubations.",
+        "Incubate cells on 22 mm\u00b2 glasses with primary antibody dilution for 1 hr at room temperature.",
+        "Wash cells three times with PBS + 0.1% Triton for 5-10 min.",
+        "Dilute secondary antibody \\(Goat anti Mouse Cy3) 1:200 in PBS + 0.1% Triton + 3% FCS.",
+        "Incubate on cells for 45 min at room temperature.",
+        "Wash cells three times with PBS + 0.1% Triton for 5-10 min.",
+        "Wash cells once with PBS for 5-10 min.",
+        "Mount glasses on microscope slides with a drop of anti-fading solution, ensuring cells face the slides.",
+        "Use a confocal microscope with an Argon 488 excitation to visualize GFP-BIN1 positive membrane tubules.",
+        "Use a HeNe 543 excitation for red Myc-DNM2 localization."
+    ]
+}

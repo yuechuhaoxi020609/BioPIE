@@ -1,0 +1,33 @@
+{
+    "id": 886,
+    "origin_website": "Nature",
+    "title": "Immunofluorescent staining for the laser microdissection of individual cells.",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Use freshly cut tissue sections stored on dry ice until staining.",
+        "Wear gloves throughout the procedure and wipe down surfaces with 75% ethanol before starting.",
+        "Prepare fresh solutions prior to each dissection session.",
+        "Cut serial sections of tissue using a cryostat, ensuring they are 4-6 \u03bcm thick.",
+        "Store tissue sections on dry ice for RNA integrity preservation.",
+        "Fix slides in 75% ethanol for 30 seconds.",
+        "Wipe off excess ethanol without touching the tissue and air dry using an aerosol duster can.",
+        "Outline the tissue section with a hydrophobic marker.",
+        "Rehydrate the slide in PBS.",
+        "Place rehydrated slide in a dark box.",
+        "Add 100-200 \u03bcl antibody cocktail to cover the tissue completely.",
+        "Incubate in the dark at room temperature for 30 seconds.",
+        "Wipe away excess antibody cocktail without disturbing the tissue.",
+        "Rinse the slide in fresh PBS.",
+        "Wipe away the excess PBS.",
+        "Incubate the slide in 75% ethanol for 30 seconds.",
+        "Wipe away the excess 75% ethanol.",
+        "Incubate the slide in 95% ethanol for 45 seconds.",
+        "Wipe away the excess ethanol.",
+        "Incubate the slide in xylene for 1 minute.",
+        "Repeat xylene wash with fresh xylene for 1 minute.",
+        "Prop the slide up at an angle to air dry for 1 minute.",
+        "Remove remaining liquid using blasts from an aerosol duster can."
+    ]
+}

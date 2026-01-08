@@ -1,0 +1,23 @@
+{
+    "id": 1030,
+    "origin_website": "Nature",
+    "title": "Creation of a comprehensive repeat library for a newly sequenced parasitic worm genome",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Build a repeat library for the newly sequenced genome using RepeatModeler.",
+        "Build a second repeat library for the newly sequenced genome using TransposonPSI.",
+        "Remove sequences shorter than 50 bp from the TransposonPSI repeat library.",
+        "Build a third repeat library for the newly sequenced genome using LTRharvest to identify long terminal repeat retrotransposons.",
+        "Run LTRdigest on the LTRharvest results, with protein HMMs from Pfam and GyDB.",
+        "Remove any LTR retrotransposon candidates without domain hits.",
+        "Classify repeats in each of the three repeat libraries using RepeatClassifier.",
+        "Merge the repeat libraries from RepeatModeler, TransposonPSI, and LTRharvest using USEARCH v7 to cluster candidate sequences with \u226580% identity.",
+        "Remove all but one sequence for each cluster to create a non-redundant library.",
+        "Filter the non-redundant library by removing repeats classified as \u2018unknown\u2019 by RepeatClassifier.",
+        "Exclude repeats that have BLASTN hits of E\u22640.001 against known protein-coding genes and ncRNA genes from nematodes and platyhelminths.",
+        "Use the filtered non-redundant library to mask repeats in the genome using RepeatMasker with the \u2013s (sensitive) option."
+    ]
+}

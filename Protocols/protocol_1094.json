@@ -1,0 +1,21 @@
+{
+    "id": 10651,
+    "origin_website": "Jove",
+    "title": "Pattern-based Search of Epigenomic Data Using GeNemo",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Specify a search range including the chromosome and base pair positions.",
+        "Use 'chrN' for the chromosome format, where 'N' is the chromosome number or letter (1, 2, ..., X, Y).",
+        "List the start base pair and end base pair numbers.",
+        "Include spaces between all three entries.",
+        "After clicking the data selection button, choose which types of tracks to search against.",
+        "Use the filter button to facilitate track selections by Experiment, Tissue, Cell Line and/or Lab.",
+        "Select tracks from the list for addition to the query.",
+        "Click the \"Add\" button to add currently selected tracks to the query using logic gate \"OR\".",
+        "Ensure that selecting filters does not automatically add corresponding tracks to the search query.",
+        "Only apply filters specified in the opened tab to the search query.",
+        "Save selections on other tabs in the filter window but do not apply them to the search query."
+    ]
+}

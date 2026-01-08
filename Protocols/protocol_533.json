@@ -1,0 +1,43 @@
+{
+    "id": 807,
+    "origin_website": "Nature",
+    "title": "A standardized protocol for the isolation and culture of normal and arthritogenic murine synovial fibroblasts",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Euthanize the mice using carbon dioxide according to institutional guidelines.",
+        "Rinse microdissecting instruments with 70% ethanol and then immerse them in an antimicrobial solution for a few seconds.",
+        "Repeat the decontamination step of the instruments after cutting off the joints of each mouse.",
+        "Place the mouse in the face-up position and rinse it with 100% ethanol.",
+        "Peel back the skin and remove soft tissues from the hind legs using scissors and forceps.",
+        "Cut ankle joint off before the tibial muscle including the toes, and spray again with 100% ethanol.",
+        "Place ankle joints in a tube filled with HBSS and antibiotics.",
+        "Repeat steps 4-6 for all joints.",
+        "Place the cut joints into a 100mm tissue culture plate containing 70% ETOH for some seconds.",
+        "Transfer the joints to an HBSS-containing dish.",
+        "Place one joint in a fresh empty 100mm dish and cut through the joint space with the scalpel.",
+        "Hold each toe digit with the scalpel and pull with the forceps.",
+        "Avoid smashing the bones so as to prevent contamination by bone marrow cells.",
+        "Repeat steps 8-9 for all joints.",
+        "Prepare fresh and filtered collagenase IV in HBSS at a concentration of 10 mg/ml.",
+        "Add 18 ml of DMEM containing 10% FCS to the plate with processed tissue from 3 mice.",
+        "Place dissected joints and tissue in 50 ml tubes with 2 ml of collagenase IV solution (final concentration of 1 mg/ml in DMEM 10% FBS, 1% L-Glutamine, and 1% Pen/Strep).",
+        "Incubate tissues with collagenase solution at 37\u00b0C for 50 minutes to 1 hour at maximum shaking speed.",
+        "Vortex vigorously after incubation to release cells.",
+        "Transfer supernatant to a new 50 ml tube.",
+        "Place 20 ml of fresh DMEM in the original tube containing digested joints and repeat procedure, adding supernatant to the new tube.",
+        "Centrifuge tubes at 1100 rpm for 10 minutes at room temperature.",
+        "Re-suspend cell pellet in fresh DMEM supplemented with 10% FBS, 1% L-Glutamine, and 1% Pen/Strep.",
+        "Seed tissues/cells into 100 mm dishes (dissected tissue from one mouse per dish or flask).",
+        "Place seeded dishes in a humidified tissue culture incubator at 37\u00b0C and 5% CO2.",
+        "Monitor isolated cells daily.",
+        "Change medium every 3 days.",
+        "Be careful not to remove the small pieces of tissue during the first week after isolation.",
+        "Remove floating pieces of tissue once groups of cells are observed.",
+        "Trypsinize when confluence reaches 90-100% of the plate.",
+        "Transfer cells to a 150mm plate or 175cm\u00b2 flask at a split ratio of 1:2.",
+        "Incubate with pre-warmed trypsin for 2-4 minutes for fibroblast detachment.",
+        "Change flasks/plates in every passage."
+    ]
+}

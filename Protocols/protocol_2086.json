@@ -1,0 +1,30 @@
+{
+    "id": 10718,
+    "origin_website": "Jove",
+    "title": "A Simple and Scalable Fabrication Method for Organic Electronic Devices on Textiles",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Fix a 10 cm x 10 cm polyester fabric sheet on a planar surface for easy handling.",
+        "Use a laser cutter to pattern a polyimide film with the desired electrode design.",
+        "Coat PDMS formulation (10:1 base to curing agent ratio) onto the polyimide mask using an automatic tape casting tool, achieving a wet film thickness of 200 \u00b5m and coating speed of 6 m/min.",
+        "Gently transfer the fabric to the PDMS-coated mask.",
+        "Leave for 10 minutes until the PDMS is fully absorbed in the textile structure.",
+        "Cure the sample in an air-oven at 100 \u00b0C for 10 min.",
+        "Prepare a PEDOT:PSS dispersion, ethylene glycol, 4-dodecylbenzenesulfonic acid, and 3-methacryloxypropyltrimethoxysilane in the fume hood.",
+        "Brush-coat the PEDOT:PSS solution on the PDMS-free area of the textile until a homogeneous penetration is achieved.",
+        "Repeat the brush coating to achieve a uniform pattern color.",
+        "Apply about 1 mL/cm\u00b2 of the PEDOT:PSS solution.",
+        "Cure the fabric at 110 \u00b0C for 1 h to dry the PEDOT:PSS solution.",
+        "Reduce the temperature to 60 \u00b0C for textiles that are sensitive to high-temperature treatment, like nylon.",
+        "Prepare an ionic liquid gel mixture containing the ionic liquid, 1-ethyl-3-methylimidazolium-ethyl sulfate; the cross-linking agent, poly(ethylene glycol)diacrylate; and the photoinitiator, 2-hydroxy-2-methylpropiophenone at a (v/v) ratio of 0.6/0.35/0.05, respectively.",
+        "Coat the PEDOT:PSS electrode with ionic liquid (20 \u00b5L/cm\u00b2).",
+        "Add the ionic liquid gel mixture from step 2.3.1 (25 \u00b5L/cm\u00b2) by drop casting.",
+        "Expose to UV light (365 nm) for 10-15 min until the gel solidifies.",
+        "Insulate the keyboard-like PEDOT:PSS electrodes using PDMS.",
+        "Dispense the PDMS formulation on top of the fabric.",
+        "Remove excess PDMS with a squeegee.",
+        "Place the fabric in an oven at 100 \u00b0C for 10 min."
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": 36,
+    "origin_website": "Nature",
+    "title": "Immunohistology of mouse spleens",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Genetics"
+    ],
+    "protocol": [
+        "Harvest mouse spleens, embed them in OCT compound embedding medium and freeze in liquid nitrogen.",
+        "Cut 7 \u03bcm sections and mount them on Superfrost Plus slides.",
+        "Incubate slides in humidified chambers overnight at 4\u00b0C and dry them.",
+        "Fix slides with acetone at 4\u00b0C for 10 min.",
+        "Block slides with PBS + 5% fetal calf serum at 25\u00b0C for 1 h.",
+        "Stain blocked sections overnight at 4\u00b0C with anti-CD3-phycoerythrin, anti-B220-FITC, and peanut-agglutinin-biotin diluted in blocking buffer.",
+        "Wash slides 3 times with PBS + 0.05% Tween 20.",
+        "Stain sections with streptavidin-cyanine 5.5 at 25\u00b0C for 1 h.",
+        "Wash slides 3 times with PBS + 0.05% Tween 20, dry them and mount them with Gelmount.",
+        "Capture images at x10 magnification with a Zeiss Axioplan microscope."
+    ]
+}

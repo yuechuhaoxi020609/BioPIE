@@ -1,0 +1,18 @@
+{
+    "id": 3397,
+    "origin_website": "Cell",
+    "title": "Using DeepContact with Amira graphical user interface",
+    "subjectAreas": [
+        "Computer Sciences",
+        "Cell Biology",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Select \u201cPython\u201d -> \u201cEnvironment\u201d -> \u201cdeepcontact\u201d in the menu.",
+        "Restart Amira when changing python environment.",
+        "Click Project -> open data, and select an image file for processing.",
+        "Right click on the image panel, select AI -> Deep Contact Prediction -> Create.",
+        "Define \u201cDeep Contact Prediction\u201d functional parameters in \u201cProperties\u201d interface.",
+        "Select \u201cSingle\u201d or \u201cBatch\u201d in Inputs: Single processes initially selected data with direct visualization in Amira; Batch requires selection of an input folder and an output folder."
+    ]
+}

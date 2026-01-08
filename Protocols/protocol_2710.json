@@ -1,0 +1,34 @@
+{
+    "id": 19760,
+    "origin_website": "Wiley",
+    "title": "Acute Myeloid Leukemia Minimal Residual Disease Detection: The Difference from Normal Approach",
+    "subjectAreas": [
+        "Cytometry"
+    ],
+    "protocol": [
+        "Add a low concentration of fixative to the lysing solution.",
+        "Simultaneously lyse and fix the sample using the modified lysing solution.",
+        "Wash the fixed sample to reduce background fluorescence from unbound fluorochrome.",
+        "Preserve the light scatter properties of the sample during processing.",
+        "Assess the quality of the acquisition and preparation of the sample.",
+        "Display data from each tube versus time or event number to confirm stability of the acquisition.",
+        "Choose a parameter sensitive to alterations in fluidic stability, typically with moderate to high signal intensity and on a laser different from the triggering laser.",
+        "Use CD45 APC-H7 as a good choice for monitoring stability.",
+        "Perform doublet discrimination to exclude coincident events or aggregates of cells.",
+        "Plot forward scatter in a two-parameter dot plot using area, height, and/or width.",
+        "Gate the singlet population after plotting forward scatter.",
+        "Assess sample viability by examining light scatter properties.",
+        "Plot forward scatter (FS) versus side scatter (SS).",
+        "Identify apoptotic cells showing initial loss of FS and gain of SS.",
+        "Monitor further degeneration with loss of both FS and SS.",
+        "Optimize the method to provide consistent light-scatter properties reflecting cell viability.",
+        "Set FS instrument settings properly to include nucleated erythroid cells during acquisition.",
+        "Use a viability gate to reduce background nonspecific antibody binding to compromised cells.",
+        "Include viable white cells without regard to nucleated erythroid cells.",
+        "Identify progenitors using CD45 and SS gating in the progenitor or \"blast\" area.",
+        "Include all events having CD45 less intense than the mature lymphocyte population for progenitor identification.",
+        "Exclude high-SS maturing myeloid populations from the progenitor gate.",
+        "Gating and coloring the CD34+ progenitors to directly visualize on CD45 versus SS plots.",
+        "Exclude CD45 very low to negative events as they consist of nucleated erythroid cells, plasma cells, aggregated platelets, and debris."
+    ]
+}

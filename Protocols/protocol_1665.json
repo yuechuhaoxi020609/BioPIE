@@ -1,0 +1,20 @@
+{
+    "id": 252,
+    "origin_website": "Nature",
+    "title": "Evaluation of nitrotyrosine expression on the surface of CD8+ T cells",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Culture splenocytes from OT-1 mice at 37\u00b0C in a 95% air/5% CO\u2082 environment saturated with H\u2082O, containing SIINFEKL peptide at 10 \u03bcg/ml and MDSCs at a 3:1 ratio.",
+        "Incubate the cells for 5 hours, 24 hours, or 48 hours in complete media on a poly-d-lysine coated glass bottom culture dish.",
+        "Label the cells with 6 \u03bcl of antibodies against Gr-1 (conjugated with PE), CD8 (conjugated with Alexa 647), Nitrotyrosine (conjugated with Alexa 488), or isotype IgG conjugated with Alexa 488 and incubate on ice for 40-60 minutes.",
+        "Wash the cells twice with PBS + 2% FBS.",
+        "Add complete media to the dishes, keeping them on ice.",
+        "View the cells using a DMI6000 inverted Leica TCS AOBS SP5 tandem scanning confocal microscope equipped with a 40x /1.30NA oil immersion objective.",
+        "Apply tunable 488 Argon and 546 and 633 laser lines to excite the samples using AOBS line switching to minimize crosstalk between fluorochromes.",
+        "Produce images and Z-stacks with three cooled photomultiplier detectors using LAS AF version 1.5.1.889 software suite."
+    ]
+}

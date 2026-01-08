@@ -1,0 +1,35 @@
+{
+    "id": 1173,
+    "origin_website": "Nature",
+    "title": "<p>All-in-one dual CRISPR-Cas12a (AIOD-CRISPR) assay protocol for SARS-CoV-2 detection</p>",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Thaw all frozen reagents thoroughly before use.",
+        "Run PCR to amplify 316 bp SARS-CoV-2 N gene sequence in the pUCIDT plasmid.",
+        "Pipette 20 \u03bcL of the PCR products for 2% agarose gel electrophoresis analysis.",
+        "Cut the band at the size of about 336 bp.",
+        "Gel extract the purified PCR products using PureLink\u2122 Quick Gel Extraction Kit.",
+        "Confirm the sequence by shipping the purified PCR products to Genewiz\u00ae for Sanger sequencing.",
+        "Incubate the solution containing 8 \u03bcL of 5\u00d7 T7 Transcription Buffer, 3 \u03bcL each of 100 mM rNTPs, 4 \u03bcL of the Enzyme Mix with T7 RNA polymerase, and 16 \u03bcL of the gel-extracted PCR products at 37\u00b0C for 4 h.",
+        "Treat the transcription products using DNase to degrade DNA.",
+        "Purify the resulting RNA using the RNeasy\u00ae MinElute\u2122 Cleanup Kit.",
+        "Determine the purity and concentration of collected nucleic acid using NanoDrop\u2122 One/One C Microvolume UV-Vis Spectrophotometry.",
+        "Keep synthetic RNA at -80\u00b0C before use.",
+        "Mix 12.5 \u03bcL of 2\u00d7 Reaction Buffer, 2.5 \u03bcL of 10\u00d7 Basic E-mix, 1.25 \u03bcL of 280 mM MgOAc, 0.08 \u03bcL of 100 \u03bcM FP, 0.08 \u03bcL of 100 \u03bcM RP, 0.2 \u03bcL of 100 mM dATP, 0.2 \u03bcL of 100 mM dGTP, 0.2 \u03bcL of 100 mM dTTP, 0.2 \u03bcL of 100 mM dCTP, and 0.8 \u03bcL of 10 U/\u03bcL AMV reverse transcriptase to prepare Component A.",
+        "Mix 2 \u03bcL of ssDNA-FQ with 1.25 \u03bcL of 20\u00d7 Core Reaction Buffer to prepare Component B.",
+        "Add 0.5 \u03bcL of synthetic RNA or extracted nucleic acid solutions into Component A.",
+        "Add 3.25 \u03bcL of prepared Component B to the mixture containing Component A.",
+        "Vortex the assembled mixture thoroughly and invert the tube 3 times.",
+        "Centrifuge the tube slightly after vortexing.",
+        "Mix 0.32 \u03bcL of 50 \u03bcM crRNA1, 0.32 \u03bcL of 50 \u03bcM crRNA2, 0.32 \u03bcL of 100 \u03bcM EnGen\u00ae Lba Cas12a (Cpf1), and 0.28 \u03bcL nuclease-free water to prepare Component C.",
+        "Leave the mixture for about 10 min at room temperature.",
+        "Pipette 1.24 \u03bcL of prepared Component C into the assembled mixture from Step 3.",
+        "Vortex the reaction system thoroughly and invert the tube 3 times after adding Component C.",
+        "Centrifuge the tube slightly after vortexing the final reaction system.",
+        "Incubate the final reaction system at 37\u00b0C for 20-40 min prior to fluorescence detection.",
+        "Incubate the AIOD-CRISPR reaction systems in the CFX96 Touch\u2122 Real-Time PCR Detection System for real-time fluorescence detection."
+    ]
+}

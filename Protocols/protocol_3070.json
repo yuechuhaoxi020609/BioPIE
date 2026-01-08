@@ -1,0 +1,37 @@
+{
+    "id": 4157,
+    "origin_website": "Cell",
+    "title": "A simple, quantitative assay for the detection of viable but non-culturable (VBNC) bacteria",
+    "subjectAreas": [
+        "Cell Biology",
+        "Cell-Based Assays",
+        "Microbiology",
+        "Microscopy"
+    ],
+    "protocol": [
+        "Grow up bacterial cultures in 3 mL of liquid media.",
+        "Standardize exponential-phase cultures to an OD of 0.100 with the media they are grown in.",
+        "Add 1.0 mL of the 0.100 OD culture to a microcentrifuge tube for use in cell staining.",
+        "Pipette immediately below the meniscus when diluting cultures.",
+        "Spread 10\u22125, 10\u22126, or 10\u22127 dilutions onto agar growth media from the standardized culture.",
+        "Incubate at optimal growth temperature.",
+        "Calculate colony forming units (CFU) per milliliter by multiplying CFU by the appropriate dilution factor.",
+        "Add 20 \u03bcL of 5\u00d7 fixative to 80 \u03bcL of standardized 0.100 OD cultures into a microcentrifuge tube.",
+        "Mix well by finger vortexing.",
+        "Store the mixed culture at 4\u00b0C for up to one week.",
+        "Resuspend fixed cells using a micropipettor to ensure complete suspension.",
+        "Apply 20 \u03bcL of fixative-culture mixture to a Petroff-Hausser counting chamber.",
+        "Place the manufacturer-provided re-enforced cover slip on top of the chamber.",
+        "Allow 2 minutes for reduced capillary motion.",
+        "View chamber under a table-top phase-contrast microscope at 400\u00d7 magnification.",
+        "Perform total cell counts in the highlighted diagonal boxes using the petroff-hausser counting chamber.",
+        "Count bacteria within each of the 16 smaller sub-quadrants in the grid.",
+        "Multiply the average number of cells in each of the 5 diagonal quadrants by 1.25 to adjust for the 5\u00d7 fixative dilution.",
+        "Isolate colonies on a plate from counted cells.",
+        "Stain cells to detect live or dead cells.",
+        "Centrifuge the standardized 1.0 mL culture prepared in step 2 at 2,900 \u00d7 g for 2 min.",
+        "Treat normalized cultures with stains for detection of live and dead cells.",
+        "Visualize treated cultures by fluorescence microscopy to enumerate percentage of living cells.",
+        "Photograph several hundred cells via differential interference contrast or phase contrast, and fluorescence microscopy using Cy3 or Texas Red and FITC filters across triplicate cultures."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 165,
+    "origin_website": "Nature",
+    "title": "<em>In vitro</em> functional analyses of T and B cells, DCs and macrophages.",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Stimulate T cells with anti-CD3\u03b5 and anti-CD28, PMA, ionomycin, and SEB together with irradiated syngeneic spleen cells.",
+        "Stimulate purified B cells with anti-IgM F(ab')\u2082 fragment, anti-CD40, rmIL-4, LPS, and CpG-DNA.",
+        "Pulse the culture with 1 \u03bcCi of [\u00b3H]-thymidine for 8 hours after 2 or 3 days.",
+        "Harvest cells and measure [\u00b3H]-thymidine incorporation using Microbeta or Matrix 96.",
+        "Assay culture supernatants from CD4+ and CD8+ T cells in triplicate for IFN-\u03b3 production by ELISA.",
+        "Culture purified T cells from C57BL/6 mice for 48 hours with irradiated spleen cells from BALB/c mice.",
+        "Measure [\u00b3H]-thymidine incorporation in a similar manner as above.",
+        "Stimulate BMDCs or macrophages with immobilized anti-CD16, anti-TREM-1, anti-OSCAR, or anti-MAIR-II.",
+        "Add isotype-control rat IgGs and 10 \u03bcg/ml of soluble mouse gamma globulin to block FcRs.",
+        "Stimulate BMDCs or macrophages with Zymosan or oxidized-zymosan.",
+        "Collect the culture supernatant.",
+        "Analyze the supernatant for IL-2 production using an ELISA kit (BD Bioscience).",
+        "Analyze the supernatant for TNF production using an ELISA kit (BD Bioscience).",
+        "Analyze the supernatant for IL-6 production using an ELISA kit (BD Bioscience).",
+        "Analyze the supernatant for IL-12 production using an ELISA kit (BD Bioscience)."
+    ]
+}

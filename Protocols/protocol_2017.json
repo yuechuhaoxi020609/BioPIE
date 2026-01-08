@@ -1,0 +1,37 @@
+{
+    "id": 375,
+    "origin_website": "Nature",
+    "title": "COHCAP Analysis of CpG Island Methylation for Illumina 450k Methylation Arrays",
+    "subjectAreas": [
+        "Biotechnology",
+        "Genetics",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Process raw data using Genome Studio to produce a table of beta values.",
+        "Download raw data from the provided link if .idat files are not available on GEO entry.",
+        "Open R to run _minfi_ package for pre-processing and create COHCAP input file.",
+        "Set the working directory to the extracted \"Protocol_Exchange_Example\" folder.",
+        "Load the minfi library in R.",
+        "Define idat.folder as \"5958154021\".",
+        "Read the 450k experiment data using read.450k.exp() with idat.folder.",
+        "Preprocess Illumina data using preprocessIllumina(), correcting background and normalizing controls.",
+        "Get beta values from methyl.norm using getBeta().",
+        "Create a dataframe with SiteID as probes and beta.table contents.",
+        "Write the output table to a text file named minfi.txt, separated by tabs without quotes or row names.",
+        "Load the COHCAP library in R.",
+        "Define sample.file as \"COHCAP_sample_description.txt\".",
+        "Get the project folder using getwd().",
+        "Assign project.name as \"COHCAP_450k_Protocol_Exchange\".",
+        "Annotate beta.table with COHCAP.annotate() using specified parameters.",
+        "Perform quality control on the samples and data table with COHCAP.qc().",
+        "Download IGV from the provided link.",
+        "Open IGV.",
+        "Set the genome reference to hg19.",
+        "Import .wig files using \"File --> Load from File\".",
+        "Load other tracks, such as CpG Islands, if desired.",
+        "Enter the region of interest in the form chrA:pos1-pos2 or a gene symbol.",
+        "Use \"Tracks --> Fit Data to Window\" to expand the tracks for better visualization.",
+        "Export a screenshot of the view using \"File --> Save Image\"."
+    ]
+}

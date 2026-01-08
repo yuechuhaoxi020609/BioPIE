@@ -1,0 +1,42 @@
+{
+    "id": 11217,
+    "origin_website": "Jove",
+    "title": "Spatio-Temporal Manipulation of Small GTPase Activity at Subcellular Level and on Timescale of Seconds in Living Cells",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Transfect plasmid DNAs into cells.",
+        "Add 0.5 \u00b5g membrane-tethered FRB and 0.5 \u00b5g FKBP-Tiam1 tagged with fluorescent protein to 37.5 \u03bcl dH2O.",
+        "Add 1 \u03bcl FuGENE HD.",
+        "Vortex the mixture.",
+        "Incubate at room temperature for 20 minutes.",
+        "Wash each well of an 8-well chamber with 50 \u00b5l poly-D-Lysine.",
+        "Wash the center of each well with dH2O.",
+        "Trypsinize 80-85% confluent NIH-3T3 cells.",
+        "Dilute trypsinized cells to 10 ml culture medium (DMEM with 10% FBS).",
+        "Remove 375 \u00b5l of cell suspension and centrifuge at 1750 rpm for 3 minutes.",
+        "Aspirate the media, being careful not to disturb the pellet.",
+        "Add 750 \u00b5l of DMEM with 10% FBS and resuspend cells.",
+        "Combine cell suspension with dH2O/DNA/FuGENE HD solution and mix gently.",
+        "Add 250 \u03bcl of cell/DNA suspension to each well (fills up to 3 wells).",
+        "Incubate the transfected cells at 37 \u00b0C and 5% CO2 for 15-18 hours.",
+        "Synthesize caged rapamycin-biotin adduct (cRb).",
+        "Prepare a 1 \u03bcM stock solution of cRb in DMSO.",
+        "Dissolve 1 mg avidin in 250 \u00b5l of PBS in a 0.5 ml Eppendorf tube.",
+        "Add 1 \u03bcl of cRb stock solution to dissolved avidin.",
+        "Mix by inverting the tube several times.",
+        "Incubate at room temperature for 15 min to yield cRb-avidin conjugate (cRb-A) solution.",
+        "Exclude unbound small molecules and purify cRb-A using a size-exclusion column.",
+        "Serum starve transfected cells in DMEM without FBS for 12 hours.",
+        "Gently aspirate the media off the cells.",
+        "Add 250 \u03bcl of the prepared 400 nM cRb-A solution to the cells.",
+        "Use spinning disk microscopy to visualize protein dynamics in living cells at subcellular resolution before and after light treatment.",
+        "Achieve UV illumination by coupling optics for UV LED light (365 nm) with epi-fluorescence light.",
+        "Define the coordinates and size of an illumination spot using a glass plate coated with fluorescent dyes excited by UV light.",
+        "Irradiate UV light at the periphery of cells after determining background levels of membrane ruffling.",
+        "Globally irradiate cells with 365 nm light provided by a mercury lamp.",
+        "Dissolve uncaged rapamycin in DMSO and then in PBS (400 nM final).",
+        "Add the solution to the imaging chamber to induce global effects."
+    ]
+}

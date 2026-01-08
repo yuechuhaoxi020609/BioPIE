@@ -1,0 +1,41 @@
+{
+    "id": 1458,
+    "origin_website": "Nature",
+    "title": "<p>Nanopore native RNA sequencing of a human poly(A) transcriptome: RNA extraction, cDNA conversion and direct RNA and cDNA library preparation for Oxford Nanopore</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Computational Biology And Bioinformatics",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Culture GM12878 cells in RPMI media supplemented with 15% non heat-inactivated FBS and 2 mM L-Glutamax.",
+        "Grow cells to a density of 1E6 / ml before subsequent dilution of \u2153 every ~3 days, expanding to 9 x T75 flasks (45 ml of media in each).",
+        "Centrifuge cells for 10 min at 100 x g (4\u00b0C), wash in 1/10th volume of PBS (pH 7.4) and combine for homogeneity.",
+        "Evenly split cells between 8 x 15ml tubes and pellet at 100 x g for 10 mins at 4\u00b0C.",
+        "Unless proceeding directly with RNA isolation, snap freeze in liquid nitrogen and immediately store at -80\u00b0C.",
+        "Add 4 ml of TRI-Reagent to a frozen pellet of 5E7 GM12878 cells and briefly vortex immediately.",
+        "Incubate the sample at room temperature for 5 minutes.",
+        "Add 400 \u03bcl BCP (1-Bromo-3-chloro-propane) or 200 \u03bcl CHCl3 (Chloroform) per ml of sample, vortex, incubate at room temperature for 5 minutes, briefly vortex again, and centrifuge for 10 minutes at 12,000 x g (4\u00b0C).",
+        "Pool the aqueous phase in a LoBind Eppendorf tube and combine with an equal volume of isopropanol.",
+        "Mix sample, incubate at room temperature for 15 minutes, and centrifuge for 15 minutes at 12,000 x g (4\u00b0C).",
+        "Remove supernatant, wash RNA pellet with 750 \u03bcl 80% ethanol and centrifuge for 5 minutes at 12,000 x g (4\u00b0C).",
+        "Air dry pellet for 10 minutes.",
+        "Resuspend the dried pellet in nuclease-free water to a final volume of 100 \u03bcl.",
+        "Quantify the RNA using Qubit or Nanodrop.",
+        "Store the quantified RNA at -80\u00b0C or proceed to poly-A purification.",
+        "Dilute 100 \u03bcg aliquots of total RNA in 100 \u03bcl nuclease-free water.",
+        "Poly-A select using NEXTflex Poly(A) Beads.",
+        "Elute the resulting mRNA in nuclease-free water.",
+        "Store the eluted mRNA at -80\u00b0C.",
+        "Perform first strand cDNA synthesis using Superscript IV with 100 ng of poly-A purified RNA and 0.5 ng SIRV set 3 control.",
+        "Initiate reverse transcription and strand-switching with primers from ONT in the SQK-PCS108 kit.",
+        "Amplify products under conditions: 95\u00b0C for 30 seconds, followed by 11-15 cycles (95\u00b0C for 15 seconds, 62\u00b0C for 15 seconds, 65\u00b0C for 15 minutes), then hold at 4\u00b0C.",
+        "Perform 15 cycle PCR using the SQK-PCS108 kit or 11 cycle PCR with the SQK-LSK308 kit.",
+        "Purify amplified products using 0.8X AMPure XP beads.",
+        "Elute purified PCR products in nuclease-free water.",
+        "Prepare biological poly-A RNA and synthetic control for nanopore direct RNA sequencing following the ONT SQK-RNA001 kit protocol, including the optional reverse transcription step recommended by ONT.",
+        "Replace Superscript III with Superscript IV for reverse transcription.",
+        "Prepare cDNA sequencing libraries using 1 \u03bcg of cDNA following the standard ONT protocol for SQK-PCS108 (1D sequencing) or SQK-LSK308 (1D^2 sequencing).",
+        "Use 0.8X AMPure XP beads for cleanup instead of recommended 0.4X."
+    ]
+}

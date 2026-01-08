@@ -1,0 +1,40 @@
+{
+    "id": 11042,
+    "origin_website": "Jove",
+    "title": "Cell Patterning on Photolithographically Defined \nParylene-C: SiO2 Substrates",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Design desired parylene-C configuration using layout editor software capable of reading CIF or GDS-II files.",
+        "Commission photo mask manufacture to an appropriate microelectronics facility, or make in-house if facilities exist.",
+        "Oxidize a silicon wafer in an atmospheric horizontal furnace at 950 \u00b0C for 40 min to produce a 200 nm SiO2 layer.",
+        "Prime the oxidized wafer with silane adhesion promoter.",
+        "Deposit parylene-C at 22 \u00b0C using a vacuum deposition system designed for parylene, at a rate of 1.298 nm/mg of dimer.",
+        "Spin the wafer at 4000 rpm for 30 sec whilst applying positive photo-resist to achieve a theoretical thickness of 1 \u03bcm.",
+        "Soft bake the wafer for 60 sec at 90 \u00b0C.",
+        "Insert both the wafer and premanufactured photo mask into a mask aligner.",
+        "Expose the photoresist-coated wafer with UV negative representation of the desired parylene-C configuration.",
+        "Bake exposed wafer for 60 sec at 110 \u00b0C.",
+        "Remove photo-resist from the wafer by developing in an appropriate developer solution.",
+        "Etch off the unprotected parylene using an oxygen plasma etch system.",
+        "Reveal the underlying SiO2 by etching with an oxygen plasma etch system.",
+        "Dice the wafer using a dicing saw (spindle speed 30,000 rpm, feed speed 7 mm/sec).",
+        "Rinse chips in deionized H2O and blow dry with nitrogen.",
+        "Store chips indefinitely in dust-free boxes until required.",
+        "Remove residual photoresist from chips by washing in acetone for 10 sec.",
+        "Rinse chips three times in deionized distilled H2O.",
+        "Mix fresh piranha acid (a 5:3 ratio of 30% hydrogen peroxide and 98% sulfuric acid).",
+        "Clean and etch chips by immersing them in piranha acid for 10 min.",
+        "Rinse chips three times in deionized H2O.",
+        "Transfer chips to a sterile culture dish.",
+        "Activate chips for cell patterning under sterile conditions in a laminar flow tissue culture hood.",
+        "Add two chips per well to a 6-well plate.",
+        "Add 2 ml of fetal bovine serum to fully immerse all chips.",
+        "Incubate chips in serum for 3-12 hours at 37 \u00b0C.",
+        "Remove chips from activation solution and wash once for 10 seconds in Hank's Balanced Salt Solution.",
+        "Place chip in a culture well.",
+        "Plate chosen cell type as a suspension in its usual growth media.",
+        "Use a density of 5 x 10^4 cells/ml as a starting point for optimum plating density."
+    ]
+}

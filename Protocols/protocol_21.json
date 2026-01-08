@@ -1,0 +1,27 @@
+{
+    "id": 211,
+    "origin_website": "Nature",
+    "title": "Targeted transduction of cells/tissue in vivo",
+    "subjectAreas": [
+        "Cell Biology",
+        "Biological Techniques",
+        "Chemical Biology",
+        "Genetics",
+        "Molecular Biology",
+        "Microbiology",
+        "Developmental Biology",
+        "Nanoscience And Technology",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Vortex In vivo ViroMag vial immediately before use.",
+        "Add suitable amount of In vivo ViroMag to a sterile microtube.",
+        "Do not exceed recommended volumes for injection.",
+        "Add virus preparation to the tube containing In vivo ViroMag reagent and mix by pipetting up & down.",
+        "Incubate complexes 15-30 min at room temperature.",
+        "Place magnet on targeted tissue before injection.",
+        "Slowly inject the complexes into the target tissue.",
+        "Let the magnet stand from 5 minutes to 1 hour after injection.",
+        "Monitor gene expression at appropriate time points."
+    ]
+}

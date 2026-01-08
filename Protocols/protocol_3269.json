@@ -1,0 +1,25 @@
+{
+    "id": 372,
+    "origin_website": "Nature",
+    "title": "Desktop scanner replaces spectrophotometer for  low cost and  rapid  ELISA technique",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Cut a white polypropylene sheet into a strip with dimensions of 9 cm in length and 3 cm in width.",
+        "Make an array of test zones on the strip by mildly hammering or pressing with a blunt end metal rod, ensuring each cavity is separated by 0.5 cm.",
+        "Pour FNAB solution (0.0625 mg/2.5 \u00b5l methanol/cavity) into each well of the PP\u00b5TP.",
+        "Allow slow evaporation of the solvent from the wells to coat them with FNAB.",
+        "Activate the dry coated plate by exposing it to UV light at a wavelength of 365 nm for 20 minutes.",
+        "Immobilize a capture molecule (anti-human IgG, anti-human IgE) onto the activated and untreated cavities of PP\u00b5TP.",
+        "Block any remaining reactive sites on the PP\u00b5TP cavities after immobilization of the capture molecules.",
+        "Bind analyte (human IgG or human IgE) to the capture molecule using ultrasound waves in a sonicator bath operating at 40 kHz with an output power of 120 W.",
+        "Wash the plates after each step to remove unbound substances.",
+        "Add 8 \u00b5l of substrate-dye buffer for color development.",
+        "Stop the reaction by adding 2 \u00b5l of 5% sulphuric acid.",
+        "Scan the PP\u00b5TP plate on a desktop scanner by placing it upside down.",
+        "Obtain the mean value of each R, G, and B from the scanned image in Adobe Photoshop.",
+        "Convert the RGB values to HSB using the Macbeth color calculator software.",
+        "Quantify the image as color saturation percentage."
+    ]
+}

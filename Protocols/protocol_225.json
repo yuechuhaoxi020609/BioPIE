@@ -1,0 +1,24 @@
+{
+    "id": 442,
+    "origin_website": "Nature",
+    "title": "Long-term calcium imaging of ASJ sensory neuron controlling cold tolerance in Caenorhabditis elegans",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Neuroscience"
+    ],
+    "protocol": [
+        "Immobilize well-fed animals expressing yellow cameleon 3.60 driven by the trx-1 promoter on 10% (w/v) agar pads using polystyrene microspheres.",
+        "Mount the coverslip with the sample and fill the edge of the coverslip with oil to prevent drying out.",
+        "Set the temperature of the thermocontroller at 17\u00b0C before mounting the sample.",
+        "Acquire fluorescence images of YFP and CFP from 17\u00b0C to 23\u00b0C for 2 min as initial states.",
+        "Keep the temperature at 23\u00b0C.",
+        "After 30 minutes, acquire fluorescence images of YFP and CFP for 60 seconds as 30-minute states.",
+        "After another 30 minutes, take images for 60 seconds as 60-minute states.",
+        "After another hour, take images for 60 seconds as the 120-minute states.",
+        "Repeat this operation every 60 minutes until 300 minutes.",
+        "After 300 minutes, turn the temperature down to 17\u00b0C.",
+        "Remove the cover glass after long-term calcium imaging.",
+        "Add approximately 10 \u03bcl of M9 buffer onto the animals.",
+        "Confirm that the animals are alive."
+    ]
+}

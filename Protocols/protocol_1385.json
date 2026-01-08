@@ -1,0 +1,37 @@
+{
+    "id": 11177,
+    "origin_website": "Jove",
+    "title": "Lensfree On-chip Tomographic Microscopy Employing Multi-angle Illumination and Pixel Super-resolution",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Mount the optical fiber on a motorized rotation stage (Thorlabs PRM-1Z8) driven by Thorlabs TDC001 controller to change illumination angle.",
+        "Mount the light source, attached to the motorized rotation stage, on a two-dimensional linear X-Y stage (Newport ILS50CC) driven by Newport MFA-PPD controllers for in-plane shifts.",
+        "Choose a CMOS sensor array with 5 Mega Pixels and a pixel size of 2.2 \u03bcm (IDS Imaging, UI-1485LE-M) as the detector to record wide field-of-view holographic images.",
+        "Place samples directly on top of the active area of the detector for imaging.",
+        "If implementing dual-axis tomography, mount the detector on a horizontal rotation stage (e.g., Thorlabs RP-01) to rotate the sample and detector in the plane normal to the optic axis.",
+        "Using a scalpel or spatula, take a small piece of agar from the Petri dish containing C. elegans culture.",
+        "Place the agar piece in a polypropylene vial with 1 ml de-ionized water.",
+        "Gently vortex for 0.5-1 min.",
+        "Wait for 10-15 min until worms crawl out of the agar into the DI water.",
+        "Add 1 ml of 5-10 mM levamisole solution to immobilize the worms.",
+        "Wait for 10 min after adding levamisole.",
+        "Pipette 5-10 \u03bcl of worm sample from the bottom of the vial.",
+        "Sandwich the sample between two cover slips.",
+        "Adjust the initial angle of the rotation stage to -50\u00b0.",
+        "Adjust the initial position of the X-Y stage to (0,0).",
+        "Set the exposure time of the detector to utilize its dynamic range effectively.",
+        "Capture 9 images without changing the angle of the rotation stage.",
+        "Move the X-Y stage to a new position in a 3x3 square grid for each image.",
+        "Shift each subsequent image by approximately one quarter of a pixel compared to the previous one.",
+        "Adjust the initial position of the X-Y stage to (0,0), which is the HOME position.",
+        "Increase the angle of the rotation stage by increments of 2\u00b0 until reaching +50\u00b0.",
+        "Repeat steps capturing images and moving the X-Y stage for each new angle increment.",
+        "Digitally process each set of 9 images using pixel super-resolution algorithms.",
+        "Obtain one high-resolution (HR) projection hologram per angle.",
+        "Reconstruct 51 projection images from the pixel super-resolved holograms.",
+        "Back-project the set of 51 projection images using TomoJ in ImageJ.",
+        "Output a three-dimensional image (tomograms) of the sample."
+    ]
+}

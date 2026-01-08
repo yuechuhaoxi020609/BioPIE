@@ -1,0 +1,30 @@
+{
+    "id": 89,
+    "origin_website": "Nature",
+    "title": "A practical efficient approach in high throughput screening: using FDR and fold change",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Collect raw luminescence measurements from each well of the high throughput screen and record as numeric values.",
+        "Record well location and plate number for each measurement.",
+        "Normalize numeric luminescence values to internal reference control samples on each plate.",
+        "Divide the value of each experimental well by the corresponding reference well value.",
+        "Perform a two sample t-test with pooled variance for each gene to determine the significance of differences between mean values under two experimental conditions.",
+        "Record the P-value obtained from the t-test.",
+        "Use GeneSpring and SAS software to perform the test, as results are nearly identical with minor decimal rounding differences.",
+        "Consider using alternative statistics such as S- (SAM), U- (Mann\u2013Whitney), or M-statistics for calculating P-values.",
+        "For multiple experimental conditions, use ANOVA-type analysis to calculate P-values.",
+        "With the generated P-values, perform Benjamini-Hochberg's method to control the false discovery rate (FDR).",
+        "Use GeneSpring and SAS standard operations for FDR control.",
+        "Inflate raw P-values based on their rank in the distribution of all P-values.",
+        "Calculate the FDR for each gene using the formula FDR\\(_i_)= P\\(_i_) \\(_m/i_), where \\(P\\(i)_\\) is the P-value of gene _i_, and _i_ is its rank, with _m_ as total number of comparisons.",
+        "Select genes into list A if their FDR is less than or equal to 0.05.",
+        "Sort viability ratios in ascending order.",
+        "Select genes with a fold change among the lowest 2.5 percentile into list B.",
+        "Include genes identified by both list A and list B in list C.",
+        "Validate and functionally test genes in list C using either FDR or fold change."
+    ]
+}

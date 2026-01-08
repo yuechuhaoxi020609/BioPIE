@@ -1,0 +1,43 @@
+{
+    "id": 303,
+    "origin_website": "Nature",
+    "title": "Multidisciplinary examination of putrefaction fluid deposits \\(PFD) for forensic and anthropological purposes",
+    "subjectAreas": [
+        "Chemistry",
+        "Biochemistry",
+        "Cell Biology",
+        "Biological Techniques",
+        "Materials Science",
+        "Plant Sciences",
+        "Drug Discovery",
+        "Microbiology",
+        "Developmental Biology"
+    ],
+    "protocol": [
+        "Sample at least a 1-cm-long fragment of PFD directly into the skull during an anthropological or archaeological survey.",
+        "Clean each sample by fine scraping with non-contaminating plastic instruments.",
+        "Vaporize pressured air on all faces of the sample for 10 minutes.",
+        "Perform environmental SEM examination using Philips XL30 CP with energy-dispersive X-ray spectroscopy.",
+        "Fine fragment the PFD sample to enhance fixative penetration and facilitate rehydration.",
+        "Immerse the fragmented PFD in 20% diluted acetic acid for 48 hours to decalcify slowly.",
+        "Sample 200 \u03bcl from the supernatant of PFD suspension.",
+        "Centrifuge the sample at 800 rpm for 10 min.",
+        "Produce two spots per slide from the centrifuged sample.",
+        "Fix the spots on four slides with lacquer or air drying.",
+        "Color two slides using the Papanicolaou technique after fixing.",
+        "Color the remaining two slides using the May\u2013Gr\u00fcnwald\u2013Giemsa (MGG) technique after fixing.",
+        "Centrifuge the remaining solid phase at 3,500 rpm for 10 minutes.",
+        "Keep the supernatant in reserve for possible cytological study.",
+        "Recuperate the base and fix it in AFA solution (acetic acid, formaldehyde, alcohol) for 24 hours.",
+        "After fixation and decalcification, place the sample in a cassette on foam.",
+        "Proceed with dehydration in xylene followed by increasing alcohol baths.",
+        "Include the sample in liquid paraffin and cool it down.",
+        "Section the sample using a microtome to obtain sections of 6 to 10 \u03bcm thickness.",
+        "Deposit the sections on an albumenized slide, then air-dry freely.",
+        "Dewax the slide and rehydrate it by immersion in xylene followed by decreasing alcohol baths to distilled water.",
+        "Stain each sample with periodic acid Schiff.",
+        "Stain each sample with Gram stain.",
+        "Stain each sample with toluidine blue.",
+        "Stain each sample with hematoxylin, eosin, saffron (HES)."
+    ]
+}

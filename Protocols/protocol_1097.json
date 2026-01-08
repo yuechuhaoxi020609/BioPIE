@@ -1,0 +1,23 @@
+{
+    "id": 52,
+    "origin_website": "Nature",
+    "title": "Kinase assays",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Stimulate OT-1 hybridoma T cells by incubating with 5 \u03bcg/ml anti-CD3 and 20 \u03bcg/ml anti-CD28 on ice for 30 minutes.",
+        "Crosslink the stimulated cells with 50 \u03bcg goat-anti-hamster antibody at 37\u00b0C for 30 minutes, maintaining a cell concentration of 5 \u00d7 10^7 cells/ml.",
+        "Lyse the cells in TNE buffer containing protease inhibitors and Na3VO4.",
+        "Clear lysates by centrifugation at 12,000 x g for 10 minutes at 4\u00b0C.",
+        "Set up immunoprecipitations using protein G beads and Dlgh1 or p38 antibody.",
+        "Tumble the mixture at 4\u00b0C for 1-2 hours.",
+        "Wash once with kinase buffer.",
+        "In a final volume of 50 \u03bcl, incubate GST-ATF2 and unlabeled ATP with immunoprecipitates in kinase buffer on ice.",
+        "Incubate at 30\u00b0C for 5-20 minutes.",
+        "Add 20 \u03bcl of 5X loading buffer to stop the reaction.",
+        "Boil for 5 minutes."
+    ]
+}

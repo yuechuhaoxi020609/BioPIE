@@ -1,0 +1,17 @@
+{
+    "id": 92,
+    "origin_website": "Nature",
+    "title": "KiDoq A web server for predicting DHDPS inhibitors",
+    "subjectAreas": [
+        "Chemical Biology",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Type the URL \"http://crdd.osdd.net/raghava/kidoq\" in your web browser.",
+        "Click the \"Submit\u201d button on the home page of the KiDoQ server.",
+        "Fill out the submission form.",
+        "Draw the chemical structure using JME editor or paste/browse the structure file in mol/mol2 format.",
+        "Select the type of file format if a structure is pasted or browsed.",
+        "Click the Run button to get the results."
+    ]
+}

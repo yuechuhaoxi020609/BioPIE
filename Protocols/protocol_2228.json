@@ -1,0 +1,30 @@
+{
+    "id": 699,
+    "origin_website": "Nature",
+    "title": "Identification of utilized phosphorylation sites in tagged proteins",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Receive samples in the lab as immunoprecipitates in PBS buffer (~50pmol).",
+        "Add 5 \u03bcL of 10 mM DTT to reduce protein for 30 minutes at room temperature.",
+        "Add 5 \u03bcL of 50 mM iodoacetamide to alkylate protein for 30 minutes at room temperature.",
+        "Add trypsin (or alternative enzyme) at a ratio of 1:20 and allow the reaction to proceed overnight at room temperature.",
+        "Quench the digestion by adding 5% (v:v) glacial acetic acid.",
+        "Load sample directly onto analytical columns for C18 analytical runs (3%, duplicate runs).",
+        "Wash TiO\u2082 column with 20 \u03bcL 0.5% NH\u2084OH/40% acetonitrile, pH 10.5.",
+        "Equilibrate column with 20 \u03bcL 20% acetonitrile/2% formic acid.",
+        "Reconstitute sample (previously dried down) in 20% acetonitrile/2% formic acid.",
+        "Load sample onto TiO\u2082 column and wash with 20 \u03bcL 80% acetonitrile/2% formic acid.",
+        "Rinse with 5 \u03bcL 2% formic acid.",
+        "Elute bound phosphopeptides from TiO\u2082 column with 50 \u03bcL 200 mM ammonium bicarbonate, pH 9.0, directly into a C18 analytical column.",
+        "Rinse C18 column with 1% acetic acid before analysis.",
+        "Perform a Sequest search against a limited database containing only the protein of interest.",
+        "Use a parent mass tolerance of 8ppm and fragment tolerance of 1Da for initial searches.",
+        "Perform an additional search using a parent tolerance of 2.1Da to identify potential spectra where the monoisotopic parent mass was incorrectly calculated by the software.",
+        "Manually verify all potential phosphopeptides receiving an Xcorr above 1.8 in either the analytical or phosphopeptide enrichment runs, both for accuracy of identification as well as accuracy of the site of modification.",
+        "Denote any ambiguous sites as unclear."
+    ]
+}

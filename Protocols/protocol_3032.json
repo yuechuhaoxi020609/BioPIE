@@ -1,0 +1,35 @@
+{
+    "id": 15,
+    "origin_website": "Nature",
+    "title": "Extraction of the SecinH3 from mouse liver",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Biochemistry",
+        "Computational Biology And Bioinformatics"
+    ],
+    "protocol": [
+        "Weigh 300 mg of mouse liver into a 15 mL centrifugation tube.",
+        "Add 1 ml PBS to the mouse liver in the tube.",
+        "Add 2 mL chloroform to the mixture.",
+        "Homogenize the mouse liver using a polytron.",
+        "Incubate the mixture at room temperature for 30 minutes under agitation.",
+        "Centrifuge the sample for 5 minutes at maximum speed.",
+        "Transfer the chloroform phase into a fresh centrifugation tube.",
+        "Extract the water phase a second time on a shaker with 1.5 mL chloroform for 20 minutes.",
+        "Centrifuge the mixture again for 5 minutes at maximum speed.",
+        "Combine the chloroform phases and remove the solvent using a SpeedVac.",
+        "Dissolve the residue in 100 \u03bcL of methanol per 100 mg liver.",
+        "Centrifuge the dissolved sample for 5 minutes at 14,000 rpm.",
+        "Transfer the liquid into an HPLC glass vial.",
+        "Fractionate the sample via HPLC using Nucleosil RP18 material (5 \u00b5m, 10x4.0 mm column).",
+        "Apply a gradient from 70% water and 30% methanol to 40% water and 60% methanol over 7-15 minutes.",
+        "Continue the gradient to 100% methanol from 15-20 minutes.",
+        "Collect fractions between 9-12 minutes.",
+        "Remove the solvent from collected fractions using a SpeedVac.",
+        "Dissolve the residue in 50 \u00b5L of methanol.",
+        "Fractionate the sample by HPLC, column: MultoHigh RP18 5 \u00b5M (125x2.0 mm column).",
+        "Apply a gradient from 50% water and 50% methanol to 90% methanol over 25 minutes.",
+        "Continue the gradient to 100% methanol at 25.1 minutes.",
+        "Analyze the sample by MS, with SecinH3 eluting around 20 minutes."
+    ]
+}

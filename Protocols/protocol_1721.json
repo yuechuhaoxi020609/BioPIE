@@ -1,0 +1,29 @@
+{
+    "id": 660,
+    "origin_website": "Nature",
+    "title": "Cell Labeling via Photobleaching",
+    "subjectAreas": [
+        "Biotechnology",
+        "Biological Techniques",
+        "Biochemistry",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Let dry a drop of B4F solution on a glass bottom dish to produce a fluorescent thin layer on the cover slip.",
+        "Set the confocal microscope to scan a square region of 10 x 10 \u00b5m\u00b2 with 1 mW power after focusing the sample with epifluorescence for 3-10 seconds.",
+        "Note the position of the photobleached area within the camera image in epifluorescence mode.",
+        "Adjust the power of the confocal laser between 100 \u03bcW to 350 \u03bcW at the exit of the objective using a power meter.",
+        "Plate cells on a glass bottom dish and allow them to attach and spread for 12-24 hours.",
+        "Dilute 20 \u00b5L of B4F stock solution into 980 \u00b5L of cell culture media, and add to the cells.",
+        "Use bright field microscopy to find the cell of interest.",
+        "Move the stage until the scanning region falls within the cell.",
+        "Refine the cell position ensuring the scanning region does not overlap with neighboring cells.",
+        "Focus near the cell top membrane.",
+        "Irradiate with 100 \u03bcW to 350 \u03bcW for 2 seconds.",
+        "Go back to step 5 to tag other cells.",
+        "Rinse 3 times with pre-warmed cell culture media at 37\u00b0C.",
+        "Dilute 20 \u00b5L of Alexa-647-streptavidin stock solution into 680 \u00b5L of cell culture media.",
+        "Add the diluted solution to the cells and incubate at 37\u00b0C, 5% CO\u2082 for 15 minutes.",
+        "Rinse 3 to 6 times with pre-warmed cell culture media."
+    ]
+}

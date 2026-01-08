@@ -1,0 +1,35 @@
+{
+    "id": 799,
+    "origin_website": "Nature",
+    "title": "Isolation of exosomal RNA from urine using the System Biosciences Exoquick Seramir tissue culture kit",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Cell Biology",
+        "Molecular Biology"
+    ],
+    "protocol": [
+        "Thaw samples on ice.",
+        "Add 100 \u00b5L of Exoquick-TC precipitation solution to 500 \u00b5L of urine in a 1.5 mL microfuge tube.",
+        "Mix well by inversion 3 times.",
+        "Incubate overnight at 4\u00b0C.",
+        "Centrifuge ExoQuick/urine mixture at 16,000 x g for 2 min.",
+        "Remove supernatant by pipetting (leaving behind 50 \u00b5L).",
+        "Add 350 \u00b5L Lysis buffer to exosome pellet and vortex 15s.",
+        "Place at room temperature for 5 min.",
+        "Add 200 \u00b5L of 100% ethanol.",
+        "Vortex for 10s.",
+        "Assemble spin column and collection tube.",
+        "Transfer all (600 \u00b5L) to spin column.",
+        "Centrifuge at 16,000 x g for 1 min.",
+        "Discard flow-through.",
+        "Add 400 \u00b5L wash buffer.",
+        "Centrifuge at 16,000 x g for 1 min.",
+        "Repeat steps adding 400 \u00b5L wash buffer and centrifuging at 16,000 x g for 1 min once more.",
+        "Discard flow-through.",
+        "Centrifuge at 16,000 x g for 2 min to dry.",
+        "Transfer spin column to fresh collection tube.",
+        "Add 14 \u00b5L RNase-free water directly to membrane in spin column.",
+        "Centrifuge at 400 x g for 2 min.",
+        "Increase speed to 16,000 x g and centrifuge for 1 min."
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 282,
+    "origin_website": "Nature",
+    "title": "Video-rate imaging of luminescent tumour cells in freely moving unshaved mice",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Disperse colon26 cells stably expressing Nano-lantern in Hank\u2019s solution.",
+        "Mix well the cell suspension using a 1-mL pipette tip with the pointed end cut off.",
+        "Subcutaneously transplant 100 \u03bcl of single cell suspension on the back of a mouse using a BD Lo-dose syringe 30G with a 30G needle.",
+        "Maintain mice on a 12-h light/dark cycle, with constant temperature and humidity.",
+        "Construct a light-tight box using an aluminium angle box and a shade curtain.",
+        "Attach a C-mount lens to a CCD camera.",
+        "Place the CCD camera in a small aluminium angle box inside a corrugated cardboard box.",
+        "Put the small aluminium angle box, CCD camera, and light source in the light tight box.",
+        "Reduce light power using an ND filter or similar device.",
+        "Attach a light diffuser to spread the light.",
+        "Turn the output end of the light source toward the roof of the shade curtain.",
+        "Set the CCD camera parameters for video-rate imaging.",
+        "Connect the exposure time out signals from the CCD camera to one of the oscilloscope\u2019s channels using a BNC cable and a BNC branch connector.",
+        "Connect the exposure time out signal from the BNC branch connector to the multi-function generator\u2019s trigger input.",
+        "Set the parameters of the multi-function generator to generate burst signals.",
+        "Choose square waveform for the signal generation.",
+        "Adjust amplitude settings from 0 to 5 V.",
+        "Set frequency to 15 Hz.",
+        "Specify cycle number as 1.",
+        "Set phase to -1 degree.",
+        "Ensure duty ratio is less than 50%.",
+        "Connect the output signals of the multi-function generator to another channel of the oscilloscope.",
+        "Adjust phase and duty ratio to prevent light leaking into another exposure time due to jitter.",
+        "Change frequency instead of adjusting duty ratio if needed for faster devices like LED power modulation.",
+        "Dissolve 8 \u03bcg of coelenterazine-h in ethanol.",
+        "Dilute the solution in 1\u00d7 PBS.",
+        "Ensure the final concentration of ethanol is less than 20%.",
+        "Inject the coelenterazine-h solution intratumourally with a BD Lo-dose syringe 30G.",
+        "Place the mouse onto the stainless steel box in the light-tight box.",
+        "Tightly close the shade curtain.",
+        "Start video-rate imaging."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 6,
+    "origin_website": "Nature",
+    "title": "Immunostaining of DDR proteins in senescent cells",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Prepare poly-D-lysinated coverslips at a concentration of 50 \u03bcg/ml.",
+        "Plate 15-20 x 10^3 cells on coverslips one day before staining.",
+        "Wash cells gently twice for 5 minutes each in PBS.",
+        "Fix and permeabilize cells with methanol/aceton (1:1) for 2 minutes at room temperature.",
+        "Block cells with PBG1x for 30 minutes.",
+        "Stain with primary antibodies diluted in PBG1x for 1 hour at room temperature in a humidified chamber.",
+        "Wash cells gently three times for 5 minutes each in PBG1x.",
+        "Stain with secondary antibodies diluted in PBG1x for 1 hour at room temperature in the dark and humidified chamber.",
+        "Wash cells gently twice for 5 minutes each in PBG1x, then twice for 5 minutes each in PBS.",
+        "Stain with DAPI for 5 minutes in the dark.",
+        "Mount coverslips using 3 \u03bcl of Mowiol mounting medium.",
+        "Let coverslips dry before microscope analysis."
+    ]
+}

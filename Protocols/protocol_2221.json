@@ -1,0 +1,20 @@
+{
+    "id": 824,
+    "origin_website": "Nature",
+    "title": "Generation of mouse bone marrow-derived macrophages \\(BM-MFs)",
+    "subjectAreas": [
+        "Biological Techniques",
+        "Developmental Biology",
+        "Cell Biology"
+    ],
+    "protocol": [
+        "Flush mouse tibiae and femurs with ice-cold PBS through a 70 \u03bcm-wide cut-off cell strainer.",
+        "Centrifuge at 1400 rpm for 5 minutes.",
+        "Resuspend pelleted cells in conditioned medium supplemented with 30% of growth supernatant from M-CSF-transduced L929 cells.",
+        "Seed 7 x 10^6 cells in a 100 x 20 mm non-treated cell culture plate using 10 ml of conditioned medium.",
+        "Incubate at 37 \u00b0C with 5% CO2.",
+        "Split adhered cells and seed 5 x 10^6 cells in a new 100 x 20 mm non-treated cell culture plate when the cells reach confluence, approximately after 7 days.",
+        "Seed cells using 10 ml of conditioned medium for each new plate.",
+        "BMMFs are ready for experimental use when the percentage of CD11b+ cells is higher than 90%, as measured by FACS analysis."
+    ]
+}

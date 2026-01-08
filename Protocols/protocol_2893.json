@@ -1,0 +1,14 @@
+{
+    "id": 22,
+    "origin_website": "Nature",
+    "title": "Confocal microscopy",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Grow yeast cells transformed with GFP-fusion on solid media.",
+        "Transfer cells from the solid media to a microscope slide.",
+        "Cover the cells on the microscope slide with a coverslip.",
+        "Acquire Z-section images using a custom-made spinning disk confocal microscope."
+    ]
+}

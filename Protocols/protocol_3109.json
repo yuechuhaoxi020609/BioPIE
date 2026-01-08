@@ -1,0 +1,30 @@
+{
+    "id": 486,
+    "origin_website": "Nature",
+    "title": "Rtl1 and CD31 double-immunohistochemistry",
+    "subjectAreas": [
+        "Biological Techniques"
+    ],
+    "protocol": [
+        "Embed fresh placenta in OCT compound immediately after removal.",
+        "Freeze the OCT-embedded placenta in cooled 2-methyl butane bathed in liquid nitrogen.",
+        "Cut the frozen block into 5 \u03bcm sections using a cryostat and air dry at room temperature.",
+        "Fix the sections in 4% paraformaldehyde for 10 minutes.",
+        "Wash the fixed slides in 0.01M PBS three times, each for 5 minutes.",
+        "Treat the slides with 0.3% H2O2/methanol for 15 minutes.",
+        "Wash the treated slides in 0.01M PBS three times, each for 10 minutes.",
+        "Incubate the slides in a drop of normal goat serum for 10 minutes at room temperature in a moist chamber.",
+        "Discard the serum and incubate the slides with a drop of first antibody mixture (anti-Peg11, anti-CD31, and BSA) for one hour at room temperature in a moist chamber.",
+        "Wash the slides in 0.01M PBS three times, each for 10 minutes.",
+        "Incubate the slides in a drop of normal goat serum for one minute at room temperature in a moist chamber.",
+        "Discard the serum and incubate the slides with a drop of second antibody mixture (Alexa Fluor 488 anti-rat IgG, Cy3-conjugated Goat anti-rabbit IgG, Hoechst33342, and BSA) for one hour at room temperature in a dark moist chamber.",
+        "Wash the slides in 0.01M PBS for 10 minutes.",
+        "Apply a drop of 50% glycerol to each specimen.",
+        "Cover the specimens with coverslips.",
+        "Seal the edges of the coverslips with nail polish.",
+        "Observe under fluorescence microscope.",
+        "Set excitation and emission filters for Alexa 488 (Excitation: 495, Emission: 520).",
+        "Set excitation and emission filters for Cy3 (Excitation: 512/552, Emission: 570).",
+        "Set excitation and emission filters for Hoechst33342 (Excitation: 360, Emission: 450)."
+    ]
+}

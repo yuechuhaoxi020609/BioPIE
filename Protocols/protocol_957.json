@@ -1,0 +1,20 @@
+{
+    "id": 11309,
+    "origin_website": "Jove",
+    "title": "Patterned Photostimulation with Digital Micromirror Devices to Investigate Dendritic Integration Across Branch Points",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Use a high-power laser for photolysis experiments.",
+        "Launch the laser output into a multimode fiber for positioning and orientation.",
+        "Wind the optical fiber around a piezoelectric fiber stretcher oscillating at ~40 kHz.",
+        "Collimate the fiber output with a UV microscope objective (Olympus DApo20UV).",
+        "Co-register individual DMD mirrors with specific pixels of the imaging CCD camera.",
+        "Use in-house software GUI to assign DMD mirrors corresponding to regions tagged by the mouse on the CCD image.",
+        "Tag locations for photo stimulation by moving the cursor over the displayed image and clicking on the region of interest.",
+        "Store pattern marked on the computer screen as a series of separate images.",
+        "Program timing of laser pulses for each spatial pattern into integrated software with data acquisition program (pClamp).",
+        "Initiate data acquisition program to coordinate timing of DMD electronics, gating of the laser, and electrical signal acquisition from the target neuron."
+    ]
+}

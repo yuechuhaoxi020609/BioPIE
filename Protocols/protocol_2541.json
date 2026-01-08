@@ -1,0 +1,43 @@
+{
+    "id": 10628,
+    "origin_website": "Jove",
+    "title": "Fragility Assessment of Bovine Cortical Bone Using Scratch Tests",
+    "subjectAreas": [
+        "Bioengineering"
+    ],
+    "protocol": [
+        "Collect freshly harvested bovine femurs from a USDA-certified slaughterhouse.",
+        "Transport the femurs in plastic air-tight bags in a cooler.",
+        "Freeze the femurs at -20\u00b0C until specimen preparation.",
+        "Thaw the frozen femurs in water for about 2 h at room temperature.",
+        "Cut discs about 10-15 mm thick from the mid-diaphysis region using a table top diamond band saw.",
+        "Remove any soft tissue or flesh attached to the cortical bone with a dissection kit.",
+        "Cut cross sections of the femur along the longitudinal axis using a diamond-wafering blade on a low speed saw under wet conditions.",
+        "Clean the specimens in a solution prepared using 1.5% anionic cleaner and 5% bleach for a duration of 20 min in an ultrasonic cleaner.",
+        "Coat the walls of the mold with a release agent.",
+        "Mix the acrylic resin and hardener in a beaker, as per instructions given by the PMMA manufacturer.",
+        "Place one of the cut cortical bone specimens into each mold with the surface to be scratched facing downwards.",
+        "Pour the acrylic resin mix into these prepared specimen holders.",
+        "Let the specimens cure for a duration of up to 4 - 5 h.",
+        "Cut the embedded specimens into 5-mm thick discs, exposing the surface to be scratched, using the low speed saw.",
+        "Mount the specimens on aluminum discs of diameter 34 mm and height 5 mm using cyanoacrylate adhesive.",
+        "Wrap the specimens in a gauge soaked in Hanks Balanced Saline Solution (HBSS) and refrigerate at 4 \u00b0C until further use.",
+        "Grind bovine cortical bone specimens using 400 grit Silicon Carbide paper for 1 min at 100 rpm.",
+        "Grind the same specimens using 600 grit Silicon Carbide paper for 5 min at 150 rpm.",
+        "Machine grind the specimens on 800 grit paper for 15 min at 150 rpm, 60 rpm head speed, and 1 lb operating load.",
+        "Machine grind the specimens on 1200 grit paper for 15 min at 150 rpm, 60 rpm head speed, and 1 lb operating load.",
+        "Polish the specimens using 3 \u00b5m diamond suspension solution on a hard, perforated, non-woven cloth for 90 min at room temperature with 1 lb load, 300 rpm base speed, and 60 rpm head speed.",
+        "Polish the specimens using 1 \u00b5m diamond suspension solution on a hard, perforated, non-woven cloth for 90 min at room temperature with 1 lb load, 300 rpm base speed, and 60 rpm head speed.",
+        "Polish the specimens using 0.25 \u00b5m diamond suspension solution on a hard, perforated, non-woven cloth for 90 min at room temperature with 1 lb load, 300 rpm base speed, and 60 rpm head speed.",
+        "Polish the specimens using 0.05 \u00b5m alumina suspension solution on a soft, synthetic rayon cloth for 90 min at 1 lb load, 100 rpm base speed, and 60 rpm head speed.",
+        "Clean residue from specimens with de-ionized water in an ultrasonic bath for 2 min after each grinding and polishing step.",
+        "Calibrate the Rockwell indenter tip using polycarbonate as reference material.",
+        "Place the cortical bone specimen on the stage.",
+        "Choose the site of scratch test using the optical microscope set up integrated to the micro scratch tester module.",
+        "Apply a linear progressive load with a start load of 30 mN and end load of 30 N.",
+        "Set the loading rate to 60 N/min.",
+        "Set the scratch length to 3 mm.",
+        "Perform series of scratch tests on short longitudinal bovine cortical bone specimens.",
+        "Wet the specimen surface with HBSS after every three to four scratch tests."
+    ]
+}

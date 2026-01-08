@@ -1,0 +1,20 @@
+{
+    "id": 1284,
+    "origin_website": "Nature",
+    "title": "<p>A research protocol of foot posture evaluation in traffic policeman</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Health Humanities"
+    ],
+    "protocol": [
+        "Instruct the patient to stand in their relaxed stance position with double limb support.",
+        "Ensure the patient stands still, with arms by their side and looking straight ahead.",
+        "Palpate the talar head for assessment.",
+        "Assess supra and infra lateral malleolar curvature.",
+        "Evaluate calcaneal frontal plane position.",
+        "Inspect prominence in the region of talonavicular joint.",
+        "Determine congruence of the medial longitudinal arch.",
+        "Observe abduction/adduction of the forefoot on the rear foot.",
+        "Grade each component from zero to neutral, assigning a minimum score of -2 for clear signs of supination and +2 for positive signs of pronation."
+    ]
+}

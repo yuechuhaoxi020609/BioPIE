@@ -1,0 +1,31 @@
+{
+    "id": 1340,
+    "origin_website": "Nature",
+    "title": "<p>Autofluorescence imaging for human pluripotent stem cell differentiation into cardiomyocytes</p>",
+    "subjectAreas": [
+        "Biotechnology",
+        "Stem Cells"
+    ],
+    "protocol": [
+        "Maintain human H9 embryonic stem cells on Matrigel-coated surfaces in mTeSR1.",
+        "Maintain human IMR90-4 induced pluripotent stem cells on Matrigel-coated surfaces in mTeSR1.",
+        "Maintain NKX2.5 EGFP/+ hPSCs on Matrigel-coated surfaces in mTeSR1.",
+        "Singularize hPSCs with Accutase.",
+        "Plate singularized hPSCs onto Matrigel-coated plates at a density ranging from 2.9 \u00d7 10^4 cells/cm\u00b2 to 5.7 \u00d7 10^5 cells/cm\u00b2.",
+        "Supplement mTeSR1 with 10 \u00b5M Rho-associated protein kinase (ROCK) inhibitor Y-27632 for two days before initiating differentiation.",
+        "Initiate differentiation by activating Wnt signaling with 8 \u00b5M to 12 \u00b5M CHIR99021 on day 0.",
+        "Inhibit Wnt signaling with 5 \u00b5M IPW2 on day 3.",
+        "Enable sequential excitation of NAD(P)H and FAD using an ultrafast tunable laser source.",
+        "Isolate NAD(P)H emission using a 440/80 nm bandpass filter.",
+        "Isolate FAD emission using a 550/100 nm bandpass filter.",
+        "Acquire fluorescence lifetime decays with 256 time bins across 256 \u00d7 256 pixel images.",
+        "Set the laser power at the sample to approximately 2.3 mW for NAD(P)H excitation and 7.9 mW for FAD excitation.",
+        "Perform imaging through a 40\u00d7/1.15 NA objective (Nikon).",
+        "Conduct FLIM on differentiation day 0, day 1, day 3, and day 5.",
+        "Collect day 8 NAD(P)H lifetime variables for NKX2.5<sup>EGFP/+</sup>&nbsp;hPSCs.",
+        "Perform two-photon excitation of NKX2.5-EGFP at 890 nm.",
+        "Use a 500LP dichroic mirror during imaging.",
+        "Collect images from H9 embryonic stem cells before and after 10 mM 2DG treatment for the 2DG experiment.",
+        "Collect images from H9 embryonic stem cells before and after 10 \u03bcM rotenone treatment for the rotenone experiment."
+    ]
+}
