@@ -12,7 +12,7 @@ The **Protocols** folder contains the cleaned biomedical experiment protocols. T
 
 The **IE** (Information Extraction) folder contains the BioPIE dataset. Each document in the dataset follows the structure below:
 
-```json
+```
 {
   # document ID
   "doc_key": "CNN_ENG_20030306_083604.6",
