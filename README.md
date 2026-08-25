@@ -2,7 +2,7 @@
 # BioPIE Dataset
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-This repository contains the **BioPIE** dataset, as presented in the paper "[BioPIE: A Biomedical Protocol Information Extraction Dataset for High-Reasoning-Complexity Experiment Question Answer](https://arxiv.org/abs/2601.04524v1)". 
+This repository contains the **BioPIE** dataset, as presented in the paper "[BioPIE: A Biomedical Protocol Information Extraction Dataset for Experiment Understanding](https://arxiv.org/abs/2601.04524)". 
 
 ## Protocol
 
@@ -71,7 +71,7 @@ If you use this dataset in your research, please cite the following paper:
 
 ```
 @misc{hou2026biopiebiomedicalprotocolinformation,
-      title={BioPIE: A Biomedical Protocol Information Extraction Dataset for High-Reasoning-Complexity Experiment Question Answer}, 
+      title={BioPIE: A Biomedical Protocol Information Extraction Dataset for Experiment Understanding}, 
       author={Haofei Hou and Shunyi Zhao and Fanxu Meng and Kairui Yang and Lecheng Ruan and Qining Wang},
       year={2026},
       eprint={2601.04524},
